@@ -1,6 +1,9 @@
 extends: default
 
 page:
-    font-size: 10pt
-    size: [4.25in,11in]
+    size: [3.67in,8.5in]
     margin: [.5in,.5in]
+heading:
+    h1-font-size: 15pt
+base:
+    font-size: 10pt

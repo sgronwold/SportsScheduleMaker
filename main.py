@@ -5,9 +5,13 @@ import threading
 import json
 
 URL = "http://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard"
+#URL = "http://site.api.espn.com/apis/site/v2/sports/hockey/nhl/scoreboard"
+#URL = "http://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard"
+
+#FIRST_DAY = dt(2024, 3, 28)
 
 FIRST_DAY = dt(2024, 3, 28)
-LAST_DAY = dt(2024, 9, 29)
+LAST_DAY = dt(2024, 10, 1)
 
 ONE_DAY = td(days=1)
 
@@ -52,7 +56,8 @@ def main():
         for game in todaysGames:
             outfile.write("|%s \n" % game["date"])
             outfile.write("|%s \n" % game["time"])
-            outfile.write("|image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] \n" % (game["away"]["icon"], game['away']['tricode'], game["home"]["icon"], game["home"]["tricode"]))
+            #outfile.write("|image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] \n" % (game["away"]["icon"], game['away']['tricode'], game["home"]["icon"], game["home"]["tricode"]))
+            outfile.write("|%s @ %s \n" % (game["away"]["tricode"].replace("CHC", "CUBS").replace("CHW", "SOX"), game["home"]["tricode"].replace("CHC", "CUBS").replace("CHW", "SOX")))
             outfile.write("|%s \n" % ", ".join(game["networks"]))
 
         outfile.write("\n")
@@ -74,7 +79,7 @@ def getScoreboard(YYYYMMDD:str):
     todaysGamesList = req_json["events"]
 
     for game in todaysGamesList:
-        if game["competitions"][0]["competitors"][0]["team"]["abbreviation"] in ["CHC", "CHW"] or game["competitions"][0]["competitors"][1]["team"]["abbreviation"] in ["CHC", "CHW"]:
+        if game["competitions"][0]["competitors"][0]["team"]["abbreviation"] in ["CHC", "CHW", "CHI"] or game["competitions"][0]["competitors"][1]["team"]["abbreviation"] in ["CHC", "CHW", "CHI"]:
             # then this is a cubs/sox game so we add it
             newGame = {}
             
@@ -91,10 +96,10 @@ def getScoreboard(YYYYMMDD:str):
             newGame["networks"] = []
             for broadcast in game["competitions"][0]["broadcasts"]:
                 # sometimes things are streamed in multiple places
-                for bannedNetwork in ["ESPN+", "NESN"]:
+                for bannedNetwork in ["ESPN+", "NESN", "NHLPP|ESPN+"]:
                     if bannedNetwork in broadcast["names"]:
                         broadcast["names"].remove(bannedNetwork)
-                
+
                 newGame["networks"].append(", ".join(broadcast["names"]))
 
             # in utc, i.e. "2024-03-29T17:40Z"
