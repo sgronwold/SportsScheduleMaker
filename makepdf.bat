@@ -1,0 +1,1 @@
+call asciidoctor-pdf -a allow-uri-read template.adoc

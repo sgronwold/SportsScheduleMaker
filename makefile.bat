@@ -1,0 +1,1 @@
+call asciidoctor template.adoc

@@ -1,0 +1,6 @@
+extends: default
+
+page:
+    font-size: 10pt
+    size: [4.25in,11in]
+    margin: [.5in,.5in]
