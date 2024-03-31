@@ -54,11 +54,11 @@ def main():
         outfile.write("//%s\n"%YYYYMMDD)
 
         for game in todaysGames:
-            outfile.write("|%s \n" % game["date"])
-            outfile.write("|%s \n" % game["time"])
-            #outfile.write("|image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] \n" % (game["away"]["icon"], game['away']['tricode'], game["home"]["icon"], game["home"]["tricode"]))
-            outfile.write("|%s @ %s \n" % (game["away"]["tricode"].replace("CHC", "CUBS").replace("CHW", "SOX"), game["home"]["tricode"].replace("CHC", "CUBS").replace("CHW", "SOX")))
-            outfile.write("|%s \n" % ", ".join(game["networks"]))
+            outfile.write("|*%s* \n" % game["date"])
+            outfile.write("|*%s* \n" % game["time"])
+            #outfile.write("|image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] \n" % (game["away"]["icon"], game['away']['tricode'], game["home"]["icon"], game["home"]["tricode"]))
+            outfile.write("|*%s @ %s* \n" % (game["away"]["tricode"].replace("CHC", "CUBS").replace("CHW", "SOX"), game["home"]["tricode"].replace("CHC", "CUBS").replace("CHW", "SOX")))
+            outfile.write("|*%s* \n" % ", ".join(game["networks"]))
 
         outfile.write("\n")
 
@@ -101,6 +101,10 @@ def getScoreboard(YYYYMMDD:str):
                         broadcast["names"].remove(bannedNetwork)
 
                 newGame["networks"].append(", ".join(broadcast["names"]))
+
+            
+            if len(newGame["networks"]) == 0 or newGame["networks"] == [""]:
+                newGame["networks"] = ["\0"]
 
             # in utc, i.e. "2024-03-29T17:40Z"
             startDate = game["competitions"][0]["startDate"]
