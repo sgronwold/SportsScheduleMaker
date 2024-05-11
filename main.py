@@ -10,7 +10,7 @@ URL = "http://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard"
 
 #FIRST_DAY = dt(2024, 3, 28)
 
-FIRST_DAY = dt(2024, 4, 3)
+FIRST_DAY = dt(2024, 6, 22)
 LAST_DAY = dt(2024, 10, 1)
 
 ONE_DAY = td(days=1)

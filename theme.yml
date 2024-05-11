@@ -1,8 +1,8 @@
-extends: default
+extends: default-for-print
 
 page:
     size: [3.67in,8.5in]
-    margin: [.5in,.5in]
+    margin: [0in,0in]
 heading:
     h1-font-size: 15pt
 base:
