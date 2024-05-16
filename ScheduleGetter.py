@@ -62,6 +62,8 @@ def loadSchedule(league:int, tricode:str, seasontype:str="2", season:str=""):
         
         newGame["id"] = game["id"]
 
+        newGame["zulu"] = game["date"]
+
         newGame["networks"] = [network["media"]["shortName"].replace("|", ", ") for network in game["competitions"][0]["broadcasts"]]
 
         games.append(newGame)

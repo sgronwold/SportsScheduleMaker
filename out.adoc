@@ -14,21 +14,6 @@
 |Fri 09-06 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/gb.png[GB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |Peacock
 
-|Sun 09-08 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/den.png[DEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 09-08 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 09-08 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/cle.png[CLE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 09-08 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png[WSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 09-08 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |NBC
-
 |Sun 09-08 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |CBS
 
@@ -50,6 +35,21 @@
 |Sun 09-08 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/min.png[MIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png[NYG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |FOX
 
+|Sun 09-08 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/den.png[DEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 09-08 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 09-08 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/cle.png[CLE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 09-08 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png[WSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 09-08 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |NBC
+
 |Mon 09-09 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png[NYJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |ESPN, ABC
 
@@ -67,15 +67,6 @@
 
 |Thu 09-12 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/mia.png[MIA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |PRIME VIDEO
-
-|Sun 09-15 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 09-15 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/cin.png[CIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/kc.png[KC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 09-15 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/den.png[DEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
 
 |Sun 09-15 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/bal.png[BAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |CBS
@@ -107,6 +98,15 @@
 |Sun 09-15 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png[NYJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ten.png[TEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |CBS
 
+|Sun 09-15 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 09-15 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/cin.png[CIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/kc.png[KC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 09-15 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/den.png[DEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
 |Mon 09-16 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/atl.png[ATL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |ESPN
 
@@ -125,24 +125,6 @@
 |Thu 09-19 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/ne.png[NE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png[NYJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |PRIME VIDEO
 
-|Sun 09-22 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/car.png[CAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 09-22 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/mia.png[MIA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 09-22 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 09-22 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/bal.png[BAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 09-22 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 09-22 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/kc.png[KC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/atl.png[ATL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |NBC
-
 |Sun 09-22 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png[NYG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/cle.png[CLE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |FOX
 
@@ -160,6 +142,24 @@
 
 |Sun 09-22 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/no.png[NO,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |FOX
+
+|Sun 09-22 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/car.png[CAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 09-22 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/mia.png[MIA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 09-22 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 09-22 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/bal.png[BAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 09-22 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 09-22 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/kc.png[KC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/atl.png[ATL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |NBC
 
 |Mon 09-23 |06:30 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/jax.png[JAX,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |ESPN
@@ -182,21 +182,6 @@
 |Thu 09-26 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png[NYG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |PRIME VIDEO
 
-|Sun 09-29 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png[WSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 09-29 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/ne.png[NE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 09-29 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/cle.png[CLE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 09-29 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/kc.png[KC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 09-29 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/bal.png[BAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |NBC
-
 |Sun 09-29 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/no.png[NO,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/atl.png[ATL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |FOX
 
@@ -217,6 +202,21 @@
 
 |Sun 09-29 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |FOX
+
+|Sun 09-29 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png[WSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 09-29 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/ne.png[NE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 09-29 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/cle.png[CLE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 09-29 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/kc.png[KC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 09-29 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/bal.png[BAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |NBC
 
 |Mon 09-30 |06:30 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/ten.png[TEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/mia.png[MIA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |ESPN
@@ -242,21 +242,6 @@
 |Sun 10-06 |08:30 AM |image:https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png[NYJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/min.png[MIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |NFL NET
 
-|Sun 10-06 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 10-06 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/den.png[DEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 10-06 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/gb.png[GB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 10-06 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png[NYG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 10-06 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |NBC
-
 |Sun 10-06 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/bal.png[BAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/cin.png[CIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |CBS
 
@@ -271,6 +256,21 @@
 
 |Sun 10-06 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/mia.png[MIA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ne.png[NE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |FOX
+
+|Sun 10-06 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 10-06 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/den.png[DEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 10-06 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/gb.png[GB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 10-06 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png[NYG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 10-06 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |NBC
 
 |Mon 10-07 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/no.png[NO,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/kc.png[KC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |ESPN
@@ -290,21 +290,6 @@
 |Thu 10-10 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |PRIME VIDEO
 
-|Sun 10-13 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/den.png[DEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 10-13 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 10-13 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/atl.png[ATL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/car.png[CAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 10-13 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 10-13 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/cin.png[CIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png[NYG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |NBC
-
 |Sun 10-13 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/gb.png[GB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |FOX
 
@@ -323,6 +308,21 @@
 |Sun 10-13 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/no.png[NO,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |FOX
 
+|Sun 10-13 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/den.png[DEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 10-13 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 10-13 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/atl.png[ATL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/car.png[CAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 10-13 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 10-13 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/cin.png[CIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png[NYG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |NBC
+
 |Mon 10-14 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png[NYJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |ESPN
 
@@ -340,18 +340,6 @@
 
 |Sun 10-20 |08:30 AM |image:https://a.espncdn.com/i/teamlogos/nfl/500/ne.png[NE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/jax.png[JAX,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |NFL NET
-
-|Sun 10-20 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/car.png[CAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png[WSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 10-20 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 10-20 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/kc.png[KC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 10-20 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png[NYJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |NBC
 
 |Sun 10-20 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/atl.png[ATL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |FOX
@@ -374,6 +362,18 @@
 |Sun 10-20 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png[NYG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |FOX
 
+|Sun 10-20 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/car.png[CAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png[WSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 10-20 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 10-20 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/kc.png[KC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 10-20 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png[NYJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |NBC
+
 |Mon 10-21 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/bal.png[BAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |ESPN
 
@@ -394,24 +394,6 @@
 
 |Thu 10-24 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/min.png[MIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |PRIME VIDEO
-
-|Sun 10-27 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 10-27 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/no.png[NO,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 10-27 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/car.png[CAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/den.png[DEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 10-27 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/cin.png[CIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 10-27 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/kc.png[KC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 10-27 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |NBC
 
 |Sun 10-27 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/mia.png[MIA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |FOX
@@ -434,6 +416,24 @@
 |Sun 10-27 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png[NYJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ne.png[NE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |CBS
 
+|Sun 10-27 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 10-27 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/no.png[NO,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 10-27 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/car.png[CAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/den.png[DEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 10-27 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/cin.png[CIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 10-27 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/kc.png[KC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 10-27 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |NBC
+
 |Mon 10-28 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png[NYG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |ESPN, ABC
 
@@ -451,15 +451,6 @@
 
 |Thu 10-31 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/hou.png[HOU,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png[NYJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |PRIME VIDEO
-
-|Sun 11-03 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/gb.png[GB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 11-03 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 11-03 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/jax.png[JAX,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |NBC
 
 |Sun 11-03 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/atl.png[ATL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |FOX
@@ -488,6 +479,15 @@
 |Sun 11-03 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png[WSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png[NYG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |FOX
 
+|Sun 11-03 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/gb.png[GB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 11-03 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 11-03 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/jax.png[JAX,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |NBC
+
 |Mon 11-04 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/kc.png[KC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |ESPN
 
@@ -509,18 +509,6 @@
 |Sun 11-10 |08:30 AM |image:https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png[NYG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/car.png[CAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |NFL NET
 
-|Sun 11-10 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/ten.png[TEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 11-10 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png[NYJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 11-10 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 11-10 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/hou.png[HOU,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |NBC
-
 |Sun 11-10 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/atl.png[ATL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/no.png[NO,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |FOX
 
@@ -538,6 +526,18 @@
 
 |Sun 11-10 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |FOX
+
+|Sun 11-10 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/ten.png[TEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 11-10 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png[NYJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 11-10 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 11-10 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/hou.png[HOU,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |NBC
 
 |Mon 11-11 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/mia.png[MIA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |ESPN
@@ -557,21 +557,6 @@
 |Thu 11-14 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png[WSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |PRIME VIDEO
 
-|Sun 11-17 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/atl.png[ATL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/den.png[DEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 11-17 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 11-17 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/kc.png[KC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 11-17 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/cin.png[CIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 11-17 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/ind.png[IND,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png[NYJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |NBC
-
 |Sun 11-17 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/bal.png[BAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |CBS
 
@@ -589,6 +574,21 @@
 
 |Sun 11-17 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/min.png[MIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ten.png[TEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |CBS
+
+|Sun 11-17 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/atl.png[ATL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/den.png[DEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 11-17 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 11-17 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/kc.png[KC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 11-17 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/cin.png[CIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 11-17 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/ind.png[IND,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png[NYJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |NBC
 
 |Mon 11-18 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/hou.png[HOU,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |ESPN
@@ -608,18 +608,6 @@
 |Thu 11-21 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/cle.png[CLE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |PRIME VIDEO
 
-|Sun 11-24 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/den.png[DEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 11-24 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 11-24 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/gb.png[GB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 11-24 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |NBC
-
 |Sun 11-24 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/kc.png[KC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/car.png[CAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |CBS
 
@@ -637,6 +625,18 @@
 
 |Sun 11-24 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png[NYG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |CBS
+
+|Sun 11-24 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/den.png[DEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 11-24 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 11-24 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/gb.png[GB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 11-24 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |NBC
 
 |Mon 11-25 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/bal.png[BAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |ESPN
@@ -662,18 +662,6 @@
 |Fri 11-29 |02:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/kc.png[KC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |PRIME VIDEO
 
-|Sun 12-01 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/car.png[CAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 12-01 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/no.png[NO,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 12-01 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/bal.png[BAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 12-01 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |NBC
-
 |Sun 12-01 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/min.png[MIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |FOX
 
@@ -695,6 +683,18 @@
 |Sun 12-01 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/ten.png[TEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png[WSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |FOX
 
+|Sun 12-01 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/car.png[CAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 12-01 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/no.png[NO,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 12-01 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/bal.png[BAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 12-01 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |NBC
+
 |Mon 12-02 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/cle.png[CLE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/den.png[DEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |ESPN
 
@@ -712,15 +712,6 @@
 
 |Thu 12-05 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/gb.png[GB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |PRIME VIDEO
-
-|Sun 12-08 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 12-08 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 12-08 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/kc.png[KC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |NBC
 
 |Sun 12-08 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/atl.png[ATL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/min.png[MIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |FOX
@@ -743,6 +734,15 @@
 |Sun 12-08 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/no.png[NO,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png[NYG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |FOX
 
+|Sun 12-08 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 12-08 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 12-08 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/kc.png[KC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |NBC
+
 |Mon 12-09 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/cin.png[CIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |ESPN, ABC
 
@@ -760,24 +760,6 @@
 
 |Thu 12-12 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |PRIME VIDEO
-
-|Sun 12-15 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/ne.png[NE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 12-15 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 12-15 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/ind.png[IND,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/den.png[DEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 12-15 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 12-15 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 12-15 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/gb.png[GB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |NBC
 
 |Sun 12-15 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/bal.png[BAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png[NYG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |CBS
@@ -800,6 +782,24 @@
 |Sun 12-15 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png[WSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/no.png[NO,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |FOX
 
+|Sun 12-15 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/ne.png[NE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 12-15 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 12-15 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/ind.png[IND,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/den.png[DEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 12-15 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 12-15 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 12-15 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/gb.png[GB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |NBC
+
 |Mon 12-16 |07:30 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/atl.png[ATL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |ESPN
 
@@ -818,26 +818,11 @@
 |Thu 12-19 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/cle.png[CLE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/cin.png[CIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |PRIME VIDEO
 
-|Sat 12-21 |03:30 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/bal.png[BAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
 |Sat 12-21 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/hou.png[HOU,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/kc.png[KC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |NBC
 
-|Sun 12-22 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/den.png[DEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+|Sat 12-21 |03:30 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/bal.png[BAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |FOX
-
-|Sun 12-22 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/min.png[MIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 12-22 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/jax.png[JAX,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 12-22 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/mia.png[MIA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |CBS
-
-|Sun 12-22 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |NBC
 
 |Sun 12-22 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/car.png[CAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |FOX
@@ -857,6 +842,21 @@
 |Sun 12-22 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png[WSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |FOX
 
+|Sun 12-22 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/den.png[DEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 12-22 |03:05 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/min.png[MIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 12-22 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/jax.png[JAX,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 12-22 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/mia.png[MIA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |CBS
+
+|Sun 12-22 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |NBC
+
 |Mon 12-23 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/no.png[NO,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/gb.png[GB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |ESPN
 
@@ -871,6 +871,12 @@
 
 |Thu 12-26 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |PRIME VIDEO
+
+|Wed 12-25 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/kc.png[KC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |Netflix
+
+|Wed 12-25 |03:30 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/bal.png[BAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/hou.png[HOU,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |Netflix
 
 |                 |                 |image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |
@@ -887,18 +893,6 @@
 |                 |                 |image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ne.png[NE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |
 
-|Wed 12-25 |03:30 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/bal.png[BAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/hou.png[HOU,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |Netflix
-
-|Wed 12-25 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/kc.png[KC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |Netflix
-
-|Sun 12-29 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |FOX
-
-|Sun 12-29 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/mia.png[MIA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/cle.png[CLE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |NBC
-
 |Sun 12-29 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png[NYJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |CBS
 
@@ -913,6 +907,12 @@
 
 |Sun 12-29 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/no.png[NO,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |FOX
+
+|Sun 12-29 |03:25 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |FOX
+
+|Sun 12-29 |07:20 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/mia.png[MIA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/cle.png[CLE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |NBC
 
 |Mon 12-30 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |ESPN, ABC

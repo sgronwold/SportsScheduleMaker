@@ -60,7 +60,7 @@ for week in range(1,19):
             thisWeeksGames.append(game)
     
     # sort by the various criteria
-    thisWeeksGames = sorted(thisWeeksGames, key=lambda game: (game["home"]["tricode"] != "CHI", game["away"]["tricode"] != "CHI", game["date"][3:], game["time"][-2], game["time"]))
+    thisWeeksGames = sorted(thisWeeksGames, key=lambda game: (game["home"]["tricode"] != "CHI", game["away"]["tricode"] != "CHI", game["zulu"]))
 
     outfile.write("== Week %d\n\n"%week)
     outfile.write("[%autowidth.stretch]\n")
