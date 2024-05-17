@@ -1,6 +1,6 @@
 :pdf-theme: theme.yml
 :imgwidth: 30pt
-:pdfwidth: 32pt
+:pdfwidth: 28pt
 :!pagenums:
 :nofooter:
 

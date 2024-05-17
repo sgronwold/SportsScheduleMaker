@@ -67,7 +67,6 @@ print(dates)
 for date in dates:
     # collect game ids so we know if there's any duplicates
     ids = []
-
     games = []
     for tricode in gameData:
         for game in gameData[tricode]["games"]:
@@ -82,6 +81,7 @@ for date in dates:
                 # stop right there, if this is the incorrect date
                 if date != game["week"]:
                     continue
+
             else:
                 # stop right there, if this is the incorrect date
                 if date != game["date"]:
@@ -105,7 +105,11 @@ for date in dates:
         outfile.write("|===\n")
         outfile.write("|Date |Time |Game |Network\n\n\n")
 
+    byeHavers = set([tricode for tricode in gameData])
     for game in games:
+        byeHavers.remove(game["home"]["tricode"])
+        byeHavers.remove(game["away"]["tricode"])
+
         if USE_TEAM_IMAGES:
             gameName = "image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] \n" % (game["away"]["logo"], game['away']['tricode'], game["home"]["logo"], game["home"]["tricode"])
         else:
@@ -117,9 +121,17 @@ for date in dates:
         outfile.write("|===\n\n")
     
     # print byes
-    if league == NFL:
-        
-        pass
+    if DAILY_HEADINGS:
+        outfile.write("Byes: ")
+
+        for tricode in byeHavers:
+            if USE_TEAM_IMAGES:
+                outfile.write("image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]"%(gameData[tricode]["logo"],tricode))
+            else:
+                outfile.write("%s "%tricode)
+
+        outfile.write("\n\n")
+                
 
 if not DAILY_HEADINGS:
     outfile.write("|===\n\n")

@@ -81,6 +81,7 @@ def loadSchedule(league:int, tricode:str, seasontype:str="2", season:str=""):
 
     jsonSchedule[tricode] = {
         "bye": bye,
+        "logo": response["team"]["logo"],
         "games": games
     }
 
