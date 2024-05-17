@@ -57,8 +57,8 @@ def loadSchedule(league:int, tricode:str, seasontype:str="2", season:str=""):
             newGame["date"] = dt.strftime(theTime, "%a %m-%d")
             newGame["time"] = dt.strftime(theTime, "%I:%M %p")
         else:
-            newGame["date"] = "\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0"
-            newGame["time"] = "\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0"
+            newGame["date"] = dt.strftime(theTime, "%a %m-%d")
+            newGame["time"] = "TBD"
         
         newGame["id"] = game["id"]
 

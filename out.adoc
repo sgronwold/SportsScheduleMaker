@@ -1,6 +1,10 @@
+
+
+<<<
+
 == Week 1
 
-[%autowidth.stretch]
+[columns="~,~,~,~"]
 |===
 |Date |Time |Game |Network
 
@@ -55,9 +59,13 @@
 
 |===
 
+
+
+<<<
+
 == Week 2
 
-[%autowidth.stretch]
+[columns="~,~,~,~"]
 |===
 |Date |Time |Game |Network
 
@@ -112,9 +120,13 @@
 
 |===
 
+
+
+<<<
+
 == Week 3
 
-[%autowidth.stretch]
+[columns="~,~,~,~"]
 |===
 |Date |Time |Game |Network
 
@@ -169,9 +181,13 @@
 
 |===
 
+
+
+<<<
+
 == Week 4
 
-[%autowidth.stretch]
+[columns="~,~,~,~"]
 |===
 |Date |Time |Game |Network
 
@@ -226,9 +242,13 @@
 
 |===
 
+
+
+<<<
+
 == Week 5
 
-[%autowidth.stretch]
+[columns="~,~,~,~"]
 |===
 |Date |Time |Game |Network
 
@@ -277,9 +297,13 @@
 
 |===
 
+
+
+<<<
+
 == Week 6
 
-[%autowidth.stretch]
+[columns="~,~,~,~"]
 |===
 |Date |Time |Game |Network
 
@@ -328,9 +352,13 @@
 
 |===
 
+
+
+<<<
+
 == Week 7
 
-[%autowidth.stretch]
+[columns="~,~,~,~"]
 |===
 |Date |Time |Game |Network
 
@@ -382,9 +410,13 @@
 
 |===
 
+
+
+<<<
+
 == Week 8
 
-[%autowidth.stretch]
+[columns="~,~,~,~"]
 |===
 |Date |Time |Game |Network
 
@@ -439,9 +471,13 @@
 
 |===
 
+
+
+<<<
+
 == Week 9
 
-[%autowidth.stretch]
+[columns="~,~,~,~"]
 |===
 |Date |Time |Game |Network
 
@@ -493,9 +529,13 @@
 
 |===
 
+
+
+<<<
+
 == Week 10
 
-[%autowidth.stretch]
+[columns="~,~,~,~"]
 |===
 |Date |Time |Game |Network
 
@@ -544,9 +584,13 @@
 
 |===
 
+
+
+<<<
+
 == Week 11
 
-[%autowidth.stretch]
+[columns="~,~,~,~"]
 |===
 |Date |Time |Game |Network
 
@@ -595,9 +639,13 @@
 
 |===
 
+
+
+<<<
+
 == Week 12
 
-[%autowidth.stretch]
+[columns="~,~,~,~"]
 |===
 |Date |Time |Game |Network
 
@@ -643,9 +691,13 @@
 
 |===
 
+
+
+<<<
+
 == Week 13
 
-[%autowidth.stretch]
+[columns="~,~,~,~"]
 |===
 |Date |Time |Game |Network
 
@@ -700,9 +752,13 @@
 
 |===
 
+
+
+<<<
+
 == Week 14
 
-[%autowidth.stretch]
+[columns="~,~,~,~"]
 |===
 |Date |Time |Game |Network
 
@@ -748,9 +804,13 @@
 
 |===
 
+
+
+<<<
+
 == Week 15
 
-[%autowidth.stretch]
+[columns="~,~,~,~"]
 |===
 |Date |Time |Game |Network
 
@@ -805,9 +865,13 @@
 
 |===
 
+
+
+<<<
+
 == Week 16
 
-[%autowidth.stretch]
+[columns="~,~,~,~"]
 |===
 |Date |Time |Game |Network
 
@@ -862,9 +926,13 @@
 
 |===
 
+
+
+<<<
+
 == Week 17
 
-[%autowidth.stretch]
+[columns="~,~,~,~"]
 |===
 |Date |Time |Game |Network
 
@@ -878,19 +946,19 @@
 |Wed 12-25 |03:30 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/bal.png[BAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/hou.png[HOU,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |Netflix
 
-|                 |                 |image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+|Sun 12-29 |TBD |image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |
 
-|                 |                 |image:https://a.espncdn.com/i/teamlogos/nfl/500/atl.png[ATL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png[WSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+|Sun 12-29 |TBD |image:https://a.espncdn.com/i/teamlogos/nfl/500/atl.png[ATL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png[WSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |
 
-|                 |                 |image:https://a.espncdn.com/i/teamlogos/nfl/500/den.png[DEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/cin.png[CIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+|Sun 12-29 |TBD |image:https://a.espncdn.com/i/teamlogos/nfl/500/den.png[DEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/cin.png[CIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |
 
-|                 |                 |image:https://a.espncdn.com/i/teamlogos/nfl/500/ind.png[IND,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png[NYG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+|Sun 12-29 |TBD |image:https://a.espncdn.com/i/teamlogos/nfl/500/ind.png[IND,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png[NYG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |
 
-|                 |                 |image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ne.png[NE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+|Sun 12-29 |TBD |image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ne.png[NE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |
 
 |Sun 12-29 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png[NYJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
@@ -919,59 +987,63 @@
 
 |===
 
+
+
+<<<
+
 == Week 18
 
-[%autowidth.stretch]
+[columns="~,~,~,~"]
 |===
 |Date |Time |Game |Network
 
 
-|                 |                 |image:https://a.espncdn.com/i/teamlogos/nfl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/gb.png[GB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+|Sun 01-05 |TBD |image:https://a.espncdn.com/i/teamlogos/nfl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/gb.png[GB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |
 
-|                 |                 |image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+|Sun 01-05 |TBD |image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |
 
-|                 |                 |image:https://a.espncdn.com/i/teamlogos/nfl/500/car.png[CAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/atl.png[ATL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+|Sun 01-05 |TBD |image:https://a.espncdn.com/i/teamlogos/nfl/500/car.png[CAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/atl.png[ATL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |
 
-|                 |                 |image:https://a.espncdn.com/i/teamlogos/nfl/500/cle.png[CLE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/bal.png[BAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+|Sun 01-05 |TBD |image:https://a.espncdn.com/i/teamlogos/nfl/500/cle.png[CLE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/bal.png[BAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |
 
-|                 |                 |image:https://a.espncdn.com/i/teamlogos/nfl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ne.png[NE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+|Sun 01-05 |TBD |image:https://a.espncdn.com/i/teamlogos/nfl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ne.png[NE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |
 
-|                 |                 |image:https://a.espncdn.com/i/teamlogos/nfl/500/cin.png[CIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+|Sun 01-05 |TBD |image:https://a.espncdn.com/i/teamlogos/nfl/500/cin.png[CIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |
 
-|                 |                 |image:https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png[WSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+|Sun 01-05 |TBD |image:https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png[WSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |
 
-|                 |                 |image:https://a.espncdn.com/i/teamlogos/nfl/500/kc.png[KC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/den.png[DEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+|Sun 01-05 |TBD |image:https://a.espncdn.com/i/teamlogos/nfl/500/kc.png[KC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/den.png[DEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |
 
-|                 |                 |image:https://a.espncdn.com/i/teamlogos/nfl/500/min.png[MIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+|Sun 01-05 |TBD |image:https://a.espncdn.com/i/teamlogos/nfl/500/min.png[MIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |
 
-|                 |                 |image:https://a.espncdn.com/i/teamlogos/nfl/500/hou.png[HOU,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ten.png[TEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+|Sun 01-05 |TBD |image:https://a.espncdn.com/i/teamlogos/nfl/500/hou.png[HOU,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ten.png[TEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |
 
-|                 |                 |image:https://a.espncdn.com/i/teamlogos/nfl/500/jax.png[JAX,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ind.png[IND,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+|Sun 01-05 |TBD |image:https://a.espncdn.com/i/teamlogos/nfl/500/jax.png[JAX,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/ind.png[IND,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |
 
-|                 |                 |image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+|Sun 01-05 |TBD |image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |
 
-|                 |                 |image:https://a.espncdn.com/i/teamlogos/nfl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+|Sun 01-05 |TBD |image:https://a.espncdn.com/i/teamlogos/nfl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |
 
-|                 |                 |image:https://a.espncdn.com/i/teamlogos/nfl/500/mia.png[MIA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png[NYJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+|Sun 01-05 |TBD |image:https://a.espncdn.com/i/teamlogos/nfl/500/mia.png[MIA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png[NYJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |
 
-|                 |                 |image:https://a.espncdn.com/i/teamlogos/nfl/500/no.png[NO,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+|Sun 01-05 |TBD |image:https://a.espncdn.com/i/teamlogos/nfl/500/no.png[NO,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |
 
-|                 |                 |image:https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png[NYG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+|Sun 01-05 |TBD |image:https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png[NYG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nfl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |
 
 |===
