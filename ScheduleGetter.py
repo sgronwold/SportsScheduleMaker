@@ -54,10 +54,10 @@ def loadSchedule(league:int, tricode:str, seasontype:str="2", season:str=""):
 
         if(game["timeValid"]):
             theTime = theTime.astimezone(tz = tz("America/Chicago"))
-            newGame["date"] = dt.strftime(theTime, "%a %m-%d")
-            newGame["time"] = dt.strftime(theTime, "%I:%M %p")
+            newGame["date"] = zuluToDate(theTime)
+            newGame["time"] = zuluToTime(theTime)
         else:
-            newGame["date"] = dt.strftime(theTime, "%a %m-%d")
+            newGame["date"] = zuluToDate(theTime)
             newGame["time"] = "TBD"
         
         newGame["id"] = game["id"]
@@ -88,3 +88,14 @@ def loadSchedule(league:int, tricode:str, seasontype:str="2", season:str=""):
     outfile = open("./games.json", "w")
     json.dump(jsonSchedule, outfile)
     outfile.close()
+
+
+# helper function
+# zulu to nice+readable
+def zuluToDate(theZulu:zulu.Zulu) -> str:
+    return dt.strftime(theZulu, "%a %m-%d")
+
+# helper function
+# zulu to time
+def zuluToTime(theZulu:zulu.Zulu) -> str:
+    return dt.strftime(theZulu, "%I:%M %p")

@@ -1,10 +1,13 @@
 from ScheduleGetter import *
 import requests
+import pytz
 
-GET_NEW_DATA = False
-DAILY_HEADINGS = True
+GET_NEW_DATA = True
+PRINT_ENTIRE_LEAGUE = True
+DAILY_HEADERS = True
 USE_TEAM_IMAGES = True
 PAGE_BREAKS = True
+GET_ENTIRE_LEAGUE = True
 league = NFL
 NETWORK_COLUMN_WIDTH = "~"
 
@@ -27,12 +30,12 @@ if GET_NEW_DATA:
 
     tricodes = [team["team"]["abbreviation"] for team in response["sports"][0]["leagues"][0]["teams"]]
 
-    if DAILY_HEADINGS:
+    if PRINT_ENTIRE_LEAGUE:
         for tricode in tricodes:
             print(tricode)
             loadSchedule(league, tricode)
     else:
-        loadSchedule(league, "CHI")
+        loadSchedule(league, "CHC")
 
 
 
@@ -55,10 +58,25 @@ if league == NFL:
     dates = sorted(dates)
     pass
 else:
-    dates = list(set([game["date"] for tricode in gameData for game in gameData[tricode]["games"]]))
-    dates = sorted(dates, key=lambda date : date[4:])
+    dates = list(set([game["zulu"] for tricode in gameData for game in gameData[tricode]["games"]]))
+    dates = sorted(dates)
 
-if not DAILY_HEADINGS:
+    # parse the zulu as a date
+    for i in range(len(dates)):
+        zuluAsLocalTime = zulu.parse(dates[i]).astimezone(pytz.timezone("America/Chicago"))
+
+        dates[i] = zuluToDate(zuluAsLocalTime)
+
+    # remove duplicate dates
+    i = 1
+    while i < len(dates):
+        if dates[i] == dates[i-1]:
+            dates.pop(i)
+        else:
+            i+=1
+    
+
+if not DAILY_HEADERS:
     outfile.write("[columns=\"~,~,~,%s\"]\n"%NETWORK_COLUMN_WIDTH)
     outfile.write("|===\n")
     outfile.write("|Date |Time |Game |Network\n\n\n")
@@ -93,7 +111,7 @@ for date in dates:
     # sort by the various criteria
     games = sorted(games, key=lambda game: (game["home"]["tricode"] not in ["CHI", "CHC"], game["away"]["tricode"] not in ["CHI", "CHC"], game["zulu"]))
 
-    if DAILY_HEADINGS:
+    if DAILY_HEADERS:
         if PAGE_BREAKS:
             outfile.write("\n\n<<<\n\n")
 
@@ -107,8 +125,14 @@ for date in dates:
 
     byeHavers = set([tricode for tricode in gameData])
     for game in games:
-        byeHavers.remove(game["home"]["tricode"])
-        byeHavers.remove(game["away"]["tricode"])
+        try:
+            byeHavers.remove(game["home"]["tricode"])
+        except KeyError:
+            pass
+        try:
+            byeHavers.remove(game["away"]["tricode"])
+        except KeyError:
+            pass
 
         if USE_TEAM_IMAGES:
             gameName = "image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] \n" % (game["away"]["logo"], game['away']['tricode'], game["home"]["logo"], game["home"]["tricode"])
@@ -117,11 +141,11 @@ for date in dates:
 
         outfile.write("|%s |%s |%s |%s\n\n"%(game["date"], game["time"], gameName, ", ".join(game["networks"])))
 
-    if DAILY_HEADINGS:
+    if DAILY_HEADERS:
         outfile.write("|===\n\n")
     
     # print byes
-    if DAILY_HEADINGS:
+    if DAILY_HEADERS:
         outfile.write("Byes: ")
 
         for tricode in byeHavers:
@@ -133,7 +157,7 @@ for date in dates:
         outfile.write("\n\n")
                 
 
-if not DAILY_HEADINGS:
+if not DAILY_HEADERS:
     outfile.write("|===\n\n")
 
 
