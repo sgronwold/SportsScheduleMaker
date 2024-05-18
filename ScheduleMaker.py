@@ -1,15 +1,24 @@
 from ScheduleGetter import *
 import requests
 import pytz
+from datetime import datetime as dt
+
+
 
 GET_NEW_DATA = True
 PRINT_ENTIRE_LEAGUE = True
 DAILY_HEADERS = True
 USE_TEAM_IMAGES = True
-PAGE_BREAKS = True
+PAGE_BREAKS = False
 GET_ENTIRE_LEAGUE = True
-league = NFL
+league = NHL
+PRINT_BYES = False
 NETWORK_COLUMN_WIDTH = "~"
+START_DATE = dt(2000,1,1)
+
+
+
+START_DATE = START_DATE.astimezone(pytz.timezone("America/Chicago"))
 
 if league == NFL:
     sport = 'football'
@@ -36,6 +45,7 @@ if GET_NEW_DATA:
             loadSchedule(league, tricode)
     else:
         loadSchedule(league, "CHC")
+        loadSchedule(league, "CHW")
 
 
 
@@ -56,16 +66,20 @@ if league == NFL:
     # then "dates" are actually "weeks"
     dates = list(set([game["week"] for tricode in gameData for game in gameData[tricode]["games"]]))
     dates = sorted(dates)
-    pass
 else:
     dates = list(set([game["zulu"] for tricode in gameData for game in gameData[tricode]["games"]]))
     dates = sorted(dates)
 
     # parse the zulu as a date
-    for i in range(len(dates)):
+    i = 0
+    while i < len(dates):
         zuluAsLocalTime = zulu.parse(dates[i]).astimezone(pytz.timezone("America/Chicago"))
 
-        dates[i] = zuluToDate(zuluAsLocalTime)
+        if zuluAsLocalTime >= START_DATE:
+            dates[i] = zuluToDate(zuluAsLocalTime)
+            i += 1
+        else:
+            dates.pop(i)
 
     # remove duplicate dates
     i = 1
@@ -145,7 +159,7 @@ for date in dates:
         outfile.write("|===\n\n")
     
     # print byes
-    if DAILY_HEADERS:
+    if PRINT_BYES:
         outfile.write("Byes: ")
 
         for tricode in byeHavers:
