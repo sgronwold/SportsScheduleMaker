@@ -4,17 +4,16 @@ import pytz
 from datetime import datetime as dt
 
 
-
 GET_NEW_DATA = True
-PRINT_ENTIRE_LEAGUE = True
-DAILY_HEADERS = True
-USE_TEAM_IMAGES = True
+PRINT_ENTIRE_LEAGUE = False
+DAILY_HEADERS = False
+USE_TEAM_IMAGES = False
 PAGE_BREAKS = False
-GET_ENTIRE_LEAGUE = True
-league = NHL
+league = MLB
 PRINT_BYES = False
-NETWORK_COLUMN_WIDTH = "~"
-START_DATE = dt(2000,1,1)
+TABLE_HEADER = r'%autowidth.stretch'
+START_DATE = dt(2024,6,22)
+BANNED_NETWORKS = ["ESPN+", "ESPNRM"]
 
 
 
@@ -91,9 +90,9 @@ else:
     
 
 if not DAILY_HEADERS:
-    outfile.write("[columns=\"~,~,~,%s\"]\n"%NETWORK_COLUMN_WIDTH)
+    outfile.write("[%s]\n"%TABLE_HEADER)
     outfile.write("|===\n")
-    outfile.write("|Date |Time |Game |Network\n\n\n")
+    outfile.write("|Date |Time |Game |TV\n\n\n")
 
 print(dates)
 for date in dates:
@@ -133,9 +132,9 @@ for date in dates:
             outfile.write("== Week %s\n\n"%(date))
         else:
             outfile.write("== %s\n\n"%(date))
-        outfile.write("[columns=\"~,~,~,%s\"]\n"%NETWORK_COLUMN_WIDTH)
+        outfile.write("[%s]\n"%TABLE_HEADER)
         outfile.write("|===\n")
-        outfile.write("|Date |Time |Game |Network\n\n\n")
+        outfile.write("|Date |Time |Game |TV\n\n\n")
 
     byeHavers = set([tricode for tricode in gameData])
     for game in games:
@@ -151,7 +150,12 @@ for date in dates:
         if USE_TEAM_IMAGES:
             gameName = "image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] \n" % (game["away"]["logo"], game['away']['tricode'], game["home"]["logo"], game["home"]["tricode"])
         else:
-            gameName = "*%s @ %s* \n" % (game["away"]["tricode"].replace("CHC", "CUBS"), game["home"]["tricode"].replace("CHC", "CUBS"))
+            gameName = "%s @ %s \n" % (game["away"]["tricode"].replace("CHC", "CUBS").replace("CHW", "SOX"), game["home"]["tricode"].replace("CHC", "CUBS").replace("CHW", "SOX"))
+
+        # remove banned networks
+        for network in BANNED_NETWORKS:
+            while network in game["networks"]:
+                game["networks"].remove(network)
 
         outfile.write("|%s |%s |%s |%s\n\n"%(game["date"], game["time"], gameName, ", ".join(game["networks"])))
 
