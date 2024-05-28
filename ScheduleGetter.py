@@ -110,7 +110,7 @@ def exportGamesToJson(response:dict):
             newGame["time"] = zuluToTime(theTime)
         else:
             newGame["date"] = zuluToDate(theTime)
-            newGame["time"] = "TBD"
+            newGame["time"] = ""
         
         newGame["id"] = game["id"]
 
