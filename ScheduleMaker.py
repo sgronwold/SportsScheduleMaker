@@ -1,19 +1,19 @@
 from ScheduleGetter import *
 import requests
 import pytz
-from datetime import datetime as dt
+from datetime import datetime as dt, timedelta as td
 
 
 GET_NEW_DATA = True
 PRINT_ENTIRE_LEAGUE = False
 DAILY_HEADERS = False
-USE_TEAM_IMAGES = False
+USE_TEAM_IMAGES = True
 PAGE_BREAKS = False
-league = MLB
+league = NHL
 PRINT_BYES = False
 TABLE_HEADER = r'%autowidth.stretch'
-START_DATE = dt(2024,6,22)
-BANNED_NETWORKS = ["ESPN+", "ESPNRM"]
+START_DATE = dt(2000,1,1)
+BANNED_NETWORKS = []
 
 
 
@@ -41,10 +41,12 @@ if GET_NEW_DATA:
     if PRINT_ENTIRE_LEAGUE:
         for tricode in tricodes:
             print(tricode)
-            loadSchedule(league, tricode)
+            loadScheduleByTricode(league, tricode)
     else:
-        loadSchedule(league, "CHC")
-        loadSchedule(league, "CHW")
+        d = dt.now()
+        for i in range(14):
+            loadScheduleByDate(league, d)
+            d += td(days=1)
 
 
 
@@ -66,16 +68,20 @@ if league == NFL:
     dates = list(set([game["week"] for tricode in gameData for game in gameData[tricode]["games"]]))
     dates = sorted(dates)
 else:
-    dates = list(set([game["zulu"] for tricode in gameData for game in gameData[tricode]["games"]]))
+    dates = []
+    for tricode in gameData:
+        for game in gameData[tricode]["games"]:
+            if game["timeValid"]:
+                dates.append(zulu.parse(game["zulu"]).astimezone(tz=tz("America/Chicago")))
+            else:
+                dates.append(zulu.parse(game["zulu"]))
     dates = sorted(dates)
 
     # parse the zulu as a date
     i = 0
     while i < len(dates):
-        zuluAsLocalTime = zulu.parse(dates[i]).astimezone(pytz.timezone("America/Chicago"))
-
-        if zuluAsLocalTime >= START_DATE:
-            dates[i] = zuluToDate(zuluAsLocalTime)
+        if dates[i] >= START_DATE:
+            dates[i] = zuluToDate(dates[i])
             i += 1
         else:
             dates.pop(i)
