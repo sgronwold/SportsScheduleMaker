@@ -3,31 +3,25 @@
 |Date |Time |Game |TV
 
 
-|Mon 05-27 |07:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png[EDM,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |TNT
-
-|Tue 05-28 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyr.png[NYR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/fla.png[FLA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |ESPN
-
 |Wed 05-29 |07:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png[EDM,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |TNT
 
 |Thu 05-30 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/fla.png[FLA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyr.png[NYR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |ESPN
 
-|Fri 05-31 | |image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png[EDM,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+|Fri 05-31 |07:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png[EDM,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |TNT
 
 |Sat 06-01 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyr.png[NYR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/fla.png[FLA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |ABC
 
-|Sun 06-02 | |image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png[EDM,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+|Sun 06-02 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png[EDM,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |TNT
 
 |Mon 06-03 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/fla.png[FLA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyr.png[NYR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |ESPN
 
-|Tue 06-04 | |image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png[EDM,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+|Tue 06-04 |07:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png[EDM,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |TNT
 
 |===
