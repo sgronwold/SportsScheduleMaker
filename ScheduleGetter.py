@@ -80,7 +80,10 @@ def exportGamesToJson(response:dict):
         try:
             newGame["home"]["logo"] = game["competitions"][0]["competitors"][0]["team"]["logos"][0]["href"]
         except KeyError:
-            newGame["home"]["logo"] = game["competitions"][0]["competitors"][0]["team"]["logo"]
+            try:
+                newGame["home"]["logo"] = game["competitions"][0]["competitors"][0]["team"]["logo"]
+            except KeyError:
+                newGame["home"]["logo"] = "./tbd.jpg"
 
             
         newGame["away"] = {
@@ -89,7 +92,10 @@ def exportGamesToJson(response:dict):
         try:
             newGame["away"]["logo"] = game["competitions"][0]["competitors"][1]["team"]["logos"][0]["href"]
         except KeyError:
-            newGame["away"]["logo"] = game["competitions"][0]["competitors"][1]["team"]["logo"]
+            try:
+                newGame["away"]["logo"] = game["competitions"][0]["competitors"][1]["team"]["logo"]
+            except KeyError:
+                newGame["away"]["logo"] = "./tbd.jpg"
 
         theTime = zulu.parse(game["date"])
 
