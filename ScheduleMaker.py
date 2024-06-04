@@ -44,7 +44,7 @@ if GET_NEW_DATA:
             loadScheduleByTricode(league, tricode)
     else:
         d = dt.now()
-        for i in range(14):
+        for i in range(21):
             loadScheduleByDate(league, d)
             d += td(days=1)
 
