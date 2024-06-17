@@ -3,32 +3,41 @@
 |Date |Time |Game |TV
 
 
-|Mon 05-27 |07:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png[EDM,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |TNT
+|Sat 08-31 |04:00 PM |image:https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png[VAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/ncaa/500/2460.png[UNI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |
 
-|Tue 05-28 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyr.png[NYR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/fla.png[FLA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |ESPN
+|Sat 09-07 |01:00 PM |image:https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png[VAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/ncaa/500/2754.png[YSU,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |
 
-|Wed 05-29 |07:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png[EDM,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |TNT
+|Sat 09-14 |06:30 PM |image:./tbd.jpg[INWS,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png[VAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |
 
-|Thu 05-30 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/fla.png[FLA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyr.png[NYR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |ESPN
+|Sat 09-21 |01:00 PM |image:./tbd.jpg[ROOSE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png[VAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |
 
-|Fri 05-31 |TBD |image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png[EDM,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |TNT
+|Sat 09-28 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png[VAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/ncaa/500/2413.png[MORE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |
 
-|Sat 06-01 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyr.png[NYR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/fla.png[FLA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |ABC
+|Sat 10-05 | |image:https://a.espncdn.com/i/teamlogos/ncaa/500/2181.png[DRKE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png[VAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |
 
-|Sun 06-02 |TBD |image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png[EDM,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |TNT
+|Sat 10-12 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png[VAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/ncaa/500/56.png[STET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |
 
-|Mon 06-03 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/fla.png[FLA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyr.png[NYR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |ESPN
+|Sat 10-19 | |image:https://a.espncdn.com/i/teamlogos/ncaa/500/2900.png[STMN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png[VAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |
 
-|Tue 06-04 |TBD |image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/edm.png[EDM,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |TNT
+|Sat 10-26 |11:00 AM |image:https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png[VAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/ncaa/500/2368.png[MRST,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |
+
+|Sat 11-09 | |image:https://a.espncdn.com/i/teamlogos/ncaa/500/2086.png[BUT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png[VAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |
+
+|Sat 11-16 |11:00 AM |image:https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png[VAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/ncaa/500/2168.png[DAY,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |
+
+|Sat 11-23 | |image:https://a.espncdn.com/i/teamlogos/ncaa/500/2166.png[DAV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png[VAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
+ |
 
 |===
 

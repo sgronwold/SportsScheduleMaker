@@ -9,7 +9,7 @@ PRINT_ENTIRE_LEAGUE = False
 DAILY_HEADERS = False
 USE_TEAM_IMAGES = True
 PAGE_BREAKS = False
-league = NHL
+league = NCAAF
 PRINT_BYES = False
 TABLE_HEADER = r'%autowidth.stretch'
 START_DATE = dt(2000,1,1)
@@ -28,6 +28,9 @@ if league == MLB:
 if league == NHL:
     sport = 'hockey'
     league_name = 'nhl'
+if league == NCAAF:
+    sport = 'football'
+    league_name = 'college-football'
 
 if GET_NEW_DATA:
     outfile = open("./games.json", "w")
@@ -43,10 +46,7 @@ if GET_NEW_DATA:
             print(tricode)
             loadScheduleByTricode(league, tricode)
     else:
-        d = dt.now()
-        for i in range(14):
-            loadScheduleByDate(league, d)
-            d += td(days=1)
+        loadScheduleByTricode(league, "valpo")
 
 
 

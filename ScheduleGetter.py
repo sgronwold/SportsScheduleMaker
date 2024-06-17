@@ -10,6 +10,9 @@ NHL = 0
 NFL = 1
 MLB = 2
 NBA = 3
+NCAAF = 4
+NCAAMBB = 5
+NCAAWBB = 6
 
 PRESEASON = 1
 REG_SEASON = 2
@@ -28,6 +31,12 @@ def loadScheduleByDate(league, date:dt):
         response = requests.get("http://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates=%s"%(dt.strftime(date, "%Y%m%d"))).json()
     if league == NBA:
         response = requests.get("http://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=%s"%(dt.strftime(date, "%Y%m%d"))).json()
+    if league == NCAAF:
+        response = requests.get("http://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=%s"%(dt.strftime(date, "%Y%m%d"))).json()
+    if league == NCAAMBB:
+        response = requests.get("http://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard?dates=%s"%(dt.strftime(date, "%Y%m%d"))).json()
+    if league == NCAAWBB:
+        response = requests.get("http://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/scoreboard?dates=%s"%(dt.strftime(date, "%Y%m%d"))).json()
 
     exportGamesToJson(response)
 
@@ -44,6 +53,12 @@ def loadScheduleByTricode(league:int, tricode:str, seasontype:str="2", season:st
         response = requests.get("http://site.api.espn.com/apis/site/v2/sports/baseball/mlb/teams/%s/schedule?season=%s&seasontype=%s"%(tricode,season,seasontype)).json()
     if league == NBA:
         response = requests.get("http://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/%s/schedule?season=%s&seasontype=%s"%(tricode,season,seasontype)).json()
+    if league == NCAAF:
+        response = requests.get("http://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/%s/schedule?season=%s&seasontype=%s"%(tricode,season,seasontype)).json()
+    if league == NCAAMBB:
+        response = requests.get("http://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/teams/%s/schedule?season=%s&seasontype=%s"%(tricode,season,seasontype)).json()
+    if league == NCAAWBB:
+        response = requests.get("http://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/teams/%s/schedule?season=%s&seasontype=%s"%(tricode,season,seasontype)).json()
 
     exportGamesToJson(response)
 
