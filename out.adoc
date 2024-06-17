@@ -3,14 +3,35 @@
 |Date |Time |Game |TV
 
 
+|Tue 06-18 |07:05 PM |SF @ CUBS 
+ |
+
+|Tue 06-18 |07:10 PM |HOU @ SOX 
+ |
+
+|Wed 06-19 |01:20 PM |SF @ CUBS 
+ |
+
+|Wed 06-19 |07:10 PM |HOU @ SOX 
+ |
+
+|Thu 06-20 |01:10 PM |HOU @ SOX 
+ |
+
+|Fri 06-21 |01:20 PM |NYM @ CUBS 
+ |
+
+|Fri 06-21 |05:40 PM |SOX @ DET 
+ |
+
 |Sat 06-22 |01:20 PM |NYM @ CUBS 
  |FS1
 
 |Sat 06-22 |12:10 PM |SOX @ DET 
  |
 
-|Sun 06-23 |01:20 PM |NYM @ CUBS 
- |
+|Sun 06-23 |06:00 PM |NYM @ CUBS 
+ |ESPN
 
 |Sun 06-23 |12:40 PM |SOX @ DET 
  |
