@@ -7,7 +7,8 @@ from datetime import datetime as dt, timedelta as td
 GET_NEW_DATA = True
 PRINT_ENTIRE_LEAGUE = False
 DAILY_HEADERS = False
-USE_TEAM_IMAGES = True
+USE_TEAM_IMAGES = False
+USE_SHORT_NAME = False
 PAGE_BREAKS = False
 league = NCAAF
 PRINT_BYES = False
@@ -31,6 +32,12 @@ if league == NHL:
 if league == NCAAF:
     sport = 'football'
     league_name = 'college-football'
+if league == NCAAMBB:
+    sport = 'basketball'
+    league_name = 'mens-college-basketball'
+if league == NCAAWBB:
+    sport = 'basketball'
+    league_name = 'womens-college-basketball'
 
 if GET_NEW_DATA:
     outfile = open("./games.json", "w")
@@ -46,7 +53,11 @@ if GET_NEW_DATA:
             print(tricode)
             loadScheduleByTricode(league, tricode)
     else:
-        loadScheduleByTricode(league, "valpo")
+        # valpo
+        loadScheduleByTricode(league, "2674")
+
+        # isu
+        loadScheduleByTricode(league, "2287")
 
 
 
@@ -153,10 +164,26 @@ for date in dates:
         except KeyError:
             pass
 
-        if USE_TEAM_IMAGES:
-            gameName = "image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] \n" % (game["away"]["logo"], game['away']['tricode'], game["home"]["logo"], game["home"]["tricode"])
+
+        gameName = ""
+
+        ## add the away team
+        if USE_TEAM_IMAGES and game["away"]["logo"] != None:
+            gameName += "image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]" % (game["away"]["logo"], game['away']['tricode'])
+        elif USE_SHORT_NAME:
+            gameName += game["away"]["tricode"]
         else:
-            gameName = "%s @ %s \n" % (game["away"]["tricode"].replace("CHC", "CUBS").replace("CHW", "SOX"), game["home"]["tricode"].replace("CHC", "CUBS").replace("CHW", "SOX"))
+            gameName += game["away"]["shortDisplayName"]
+
+        gameName += " @ "
+
+        ## add the home team
+        if USE_TEAM_IMAGES and game["home"]["logo"] != None:
+            gameName += "image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]" % (game["home"]["logo"], game['home']['tricode'])
+        elif USE_SHORT_NAME:
+            gameName += game["home"]["tricode"]
+        else:
+            gameName += game["home"]["shortDisplayName"]
 
         # remove banned networks
         for network in BANNED_NETWORKS:

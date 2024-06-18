@@ -65,6 +65,7 @@ def loadScheduleByTricode(league:int, tricode:str, seasontype:str="2", season:st
 
 
 def exportGamesToJson(response:dict):
+
     ## read the schedule
     jsonSchedule = {}
     try:
@@ -91,6 +92,7 @@ def exportGamesToJson(response:dict):
 
         newGame["home"] = {
             "tricode": game["competitions"][0]["competitors"][0]["team"]["abbreviation"],
+            "shortDisplayName": game["competitions"][0]["competitors"][0]["team"]["shortDisplayName"]
         }
         try:
             newGame["home"]["logo"] = game["competitions"][0]["competitors"][0]["team"]["logos"][0]["href"]
@@ -98,11 +100,12 @@ def exportGamesToJson(response:dict):
             try:
                 newGame["home"]["logo"] = game["competitions"][0]["competitors"][0]["team"]["logo"]
             except KeyError:
-                newGame["home"]["logo"] = "./tbd.jpg"
+                newGame["home"]["logo"] = None
 
             
         newGame["away"] = {
             "tricode": game["competitions"][0]["competitors"][1]["team"]["abbreviation"],
+            "shortDisplayName": game["competitions"][0]["competitors"][1]["team"]["shortDisplayName"]
         }
         try:
             newGame["away"]["logo"] = game["competitions"][0]["competitors"][1]["team"]["logos"][0]["href"]
@@ -110,7 +113,7 @@ def exportGamesToJson(response:dict):
             try:
                 newGame["away"]["logo"] = game["competitions"][0]["competitors"][1]["team"]["logo"]
             except KeyError:
-                newGame["away"]["logo"] = "./tbd.jpg"
+                newGame["away"]["logo"] = None
 
         theTime = zulu.parse(game["date"])
 

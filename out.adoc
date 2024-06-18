@@ -3,41 +3,53 @@
 |Date |Time |Game |TV
 
 
-|Sat 08-31 |04:00 PM |image:https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png[VAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/ncaa/500/2460.png[UNI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |
+|Sat 08-31 |11:00 AM |Illinois St @ Iowa |BTN
 
-|Sat 09-07 |01:00 PM |image:https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png[VAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/ncaa/500/2754.png[YSU,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |
+|Sat 08-31 |04:00 PM |Valparaiso @ Northern Iowa |
 
-|Sat 09-14 |06:30 PM |image:./tbd.jpg[INWS,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png[VAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |
+|Sat 09-07 |01:00 PM |Valparaiso @ Youngstown St |
 
-|Sat 09-21 |01:00 PM |image:./tbd.jpg[ROOSE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png[VAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |
+|Sat 09-07 |06:00 PM |Illinois St @ North Alabama |
 
-|Sat 09-28 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png[VAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/ncaa/500/2413.png[MORE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |
+|Sat 09-14 |12:00 PM |W Illinois @ Illinois St |
 
-|Sat 10-05 | |image:https://a.espncdn.com/i/teamlogos/ncaa/500/2181.png[DRKE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png[VAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |
+|Sat 09-14 |06:30 PM |INDWESLYAN @ Valparaiso |
 
-|Sat 10-12 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png[VAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/ncaa/500/56.png[STET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |
+|Sat 09-21 |01:00 PM |Roosevelt @ Valparaiso |
 
-|Sat 10-19 | |image:https://a.espncdn.com/i/teamlogos/ncaa/500/2900.png[STMN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png[VAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |
+|Sat 09-21 |06:00 PM |E Illinois @ Illinois St |
 
-|Sat 10-26 |11:00 AM |image:https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png[VAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/ncaa/500/2368.png[MRST,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |
+|Sat 09-28 |12:00 PM |Valparaiso @ Morehead St |
 
-|Sat 11-09 | |image:https://a.espncdn.com/i/teamlogos/ncaa/500/2086.png[BUT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png[VAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |
+|Sat 09-28 |02:00 PM |N Dakota St @ Illinois St |
 
-|Sat 11-16 |11:00 AM |image:https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png[VAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/ncaa/500/2168.png[DAY,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |
+|Sat 10-05 | |Drake @ Valparaiso |
 
-|Sat 11-23 | |image:https://a.espncdn.com/i/teamlogos/ncaa/500/2166.png[DAV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png[VAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |
+|Sat 10-05 |06:00 PM |Illinois St @ S Illinois |
+
+|Sat 10-12 |12:00 PM |Valparaiso @ Stetson |
+
+|Sat 10-12 |12:00 PM |Missouri St @ Illinois St |
+
+|Sat 10-19 | |St Thomas (MN) @ Valparaiso |
+
+|Sat 10-19 |02:00 PM |Illinois St @ Murray St |
+
+|Sat 10-26 |11:00 AM |Valparaiso @ Marist |
+
+|Sat 11-02 |02:00 PM |Youngstown St @ Illinois St |
+
+|Sat 11-09 | |Butler @ Valparaiso |
+
+|Sat 11-09 |01:00 PM |Illinois St @ Northern Iowa |
+
+|Sat 11-16 | |Illinois St @ Indiana St |
+
+|Sat 11-16 |11:00 AM |Valparaiso @ Dayton |
+
+|Sat 11-23 | |Davidson @ Valparaiso |
+
+|Sat 11-23 |12:00 PM |North Dakota @ Illinois St |
 
 |===
 
