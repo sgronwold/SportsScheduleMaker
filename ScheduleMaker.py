@@ -7,12 +7,12 @@ from datetime import datetime as dt
 GET_NEW_DATA = True
 PRINT_ENTIRE_LEAGUE = False
 DAILY_HEADERS = False
-USE_TEAM_IMAGES = True
+USE_TEAM_IMAGES = False
 PAGE_BREAKS = False
 league = MLB
 PRINT_BYES = False
 TABLE_HEADER = r'%autowidth.stretch'
-START_DATE = dt(2024,6,22)
+START_DATE = dt(2024,6,23)
 BANNED_NETWORKS = ["ESPN+", "ESPNRM", "NESN"]
 
 
@@ -44,7 +44,7 @@ if GET_NEW_DATA:
             loadSchedule(league, tricode)
     else:
         loadSchedule(league, "CHC")
-        #loadSchedule(league, "CHW")
+        loadSchedule(league, "CHW")
 
 
 
