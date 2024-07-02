@@ -15,6 +15,7 @@ PRINT_BYES = False
 TABLE_HEADER = r'%autowidth.stretch'
 START_DATE = dt(2000,1,1)
 BANNED_NETWORKS = []
+FAVORITE_TEAMS = ["CHI", "CHC"]
 
 
 
@@ -139,7 +140,7 @@ for date in dates:
             games.append(game)
 
     # sort by the various criteria
-    games = sorted(games, key=lambda game: (game["home"]["tricode"] not in ["CHI", "CHC"], game["away"]["tricode"] not in ["CHI", "CHC"], game["zulu"]))
+    games = sorted(games, key=lambda game: (game["home"]["tricode"] not in FAVORITE_TEAMS, game["away"]["tricode"] not in FAVORITE_TEAMS, game["zulu"]))
 
     if DAILY_HEADERS:
         if PAGE_BREAKS:
