@@ -3,12 +3,6 @@
 |Date |Time |Game |TV
 
 
-|Sat 07-06 |01:20 PM |image:https://a.espncdn.com/i/teamlogos/mlb/500/laa.png[LAA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/mlb/500/chc.png[CHC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |
-
-|Sun 07-07 |01:20 PM |image:https://a.espncdn.com/i/teamlogos/mlb/500/laa.png[LAA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/mlb/500/chc.png[CHC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
- |
-
 |Tue 07-09 |05:35 PM |image:https://a.espncdn.com/i/teamlogos/mlb/500/chc.png[CHC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] *@* image:https://a.espncdn.com/i/teamlogos/mlb/500/bal.png[BAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] 
  |
 

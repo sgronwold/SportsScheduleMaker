@@ -12,7 +12,7 @@ PAGE_BREAKS = False
 league = MLB
 PRINT_BYES = False
 TABLE_HEADER = r'%autowidth.stretch'
-START_DATE = dt.today()
+START_DATE = dt.now()
 BANNED_NETWORKS = ["ESPN+", "ESPNRM", "NESN"]
 
 
