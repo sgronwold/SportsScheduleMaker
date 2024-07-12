@@ -23,7 +23,7 @@
 
 |Sat 09-28 |02:00 PM |N Dakota St @ Illinois St |
 
-|Sat 10-05 | |Drake @ Valparaiso |
+| | |Drake @ Valparaiso |
 
 |Sat 10-05 |06:00 PM |Illinois St @ S Illinois |
 
@@ -31,7 +31,7 @@
 
 |Sat 10-12 |12:00 PM |Missouri St @ Illinois St |
 
-|Sat 10-19 | |St Thomas (MN) @ Valparaiso |
+| | |St Thomas (MN) @ Valparaiso |
 
 |Sat 10-19 |02:00 PM |Illinois St @ Murray St |
 
@@ -39,15 +39,15 @@
 
 |Sat 11-02 |02:00 PM |Youngstown St @ Illinois St |
 
-|Sat 11-09 | |Butler @ Valparaiso |
+| | |Butler @ Valparaiso |
 
 |Sat 11-09 |01:00 PM |Illinois St @ Northern Iowa |
 
-|Sat 11-16 | |Illinois St @ Indiana St |
+| | |Illinois St @ Indiana St |
 
 |Sat 11-16 |11:00 AM |Valparaiso @ Dayton |
 
-|Sat 11-23 | |Davidson @ Valparaiso |
+| | |Davidson @ Valparaiso |
 
 |Sat 11-23 |12:00 PM |North Dakota @ Illinois St |
 

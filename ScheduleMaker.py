@@ -127,7 +127,7 @@ for date in dates:
             ids.append(id)
 
             if league == NFL:
-                # stop right there, if this is the incorrect date
+                # stop right there, if this is the incorrect week
                 if date != game["week"]:
                     continue
 
@@ -154,13 +154,31 @@ for date in dates:
         outfile.write("|===\n")
         outfile.write("|Date |Time |Game |TV\n\n\n")
 
+    # list of all teams in the game data, we will thin the herd as we find teams that actually don't have a bye 
     byeHavers = set([tricode for tricode in gameData])
+
     for game in games:
+        date:str
+        time:str
+
+        if game["timeValid"]:
+            date = game["date"]
+            time = game["time"]
+        else:
+            if league in [NFL, NCAAF]:
+                date = ""
+            else:
+                date = game["date"]
+            
+            time = ""
+
         try:
+            # remove teams that actually have a game today
             byeHavers.remove(game["home"]["tricode"])
         except KeyError:
             pass
         try:
+            # remove teams that actually have a game today
             byeHavers.remove(game["away"]["tricode"])
         except KeyError:
             pass
@@ -191,7 +209,7 @@ for date in dates:
             while network in game["networks"]:
                 game["networks"].remove(network)
 
-        outfile.write("|%s |%s |%s |%s\n\n"%(game["date"], game["time"], gameName, ", ".join(game["networks"])))
+        outfile.write("|%s |%s |%s |%s\n\n"%(date, time, gameName, ", ".join(game["networks"])))
 
     if DAILY_HEADERS:
         outfile.write("|===\n\n")
