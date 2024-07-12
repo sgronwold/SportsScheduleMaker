@@ -7,12 +7,12 @@ from datetime import datetime as dt
 GET_NEW_DATA = True
 PRINT_ENTIRE_LEAGUE = False
 DAILY_HEADERS = False
-USE_TEAM_IMAGES = True
+USE_TEAM_IMAGES = False
 PAGE_BREAKS = False
 league = MLB
 PRINT_BYES = False
 TABLE_HEADER = r'%autowidth.stretch'
-START_DATE = dt.now()
+START_DATE = dt(2024,7,14)
 BANNED_NETWORKS = ["ESPN+", "ESPNRM", "NESN"]
 
 
