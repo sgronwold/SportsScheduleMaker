@@ -198,7 +198,7 @@ for date in dates:
     
     # print byes
     if PRINT_BYES:
-        outfile.write("Byes: ")
+        outfile.write("Byes:")
 
         for tricode in byeHavers:
             if USE_TEAM_IMAGES:
