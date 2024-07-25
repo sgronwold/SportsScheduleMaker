@@ -13,8 +13,8 @@ league = MLB
 PRINT_BYES = False
 TABLE_HEADER = r'%autowidth.stretch'
 START_DATE = dt(2024,7,14)
-BANNED_NETWORKS = ["ESPN+", "ESPNRM", "NESN"]
-
+NETWORK_BLACKLIST = []
+NETWORK_WHITELIST = ["ESPN", "FOX", "Apple TV+"]
 
 
 START_DATE = START_DATE.astimezone(pytz.timezone("America/Chicago"))
@@ -152,10 +152,25 @@ for date in dates:
         else:
             gameName = "%s @ %s \n" % (game["away"]["tricode"].replace("CHC", "CUBS").replace("CHW", "SOX"), game["home"]["tricode"].replace("CHC", "CUBS").replace("CHW", "SOX"))
 
-        # remove banned networks
-        for network in BANNED_NETWORKS:
-            while network in game["networks"]:
-                game["networks"].remove(network)
+        # filter the networks
+        # if there's a whitelist
+        if len(NETWORK_BLACKLIST) == 0 and len(NETWORK_WHITELIST) != 0:
+            # old school for loop
+            i = 0
+            while i < len(game["networks"]):
+                if game["networks"][i] not in NETWORK_WHITELIST:
+                    game["networks"].remove(game["networks"][i])
+                    i-=1
+                i+=1
+        # if there's a blacklist
+        elif len(NETWORK_BLACKLIST) != 0 and len(NETWORK_WHITELIST) == 0:
+            print("blacklist mode")
+            for network in NETWORK_BLACKLIST:
+                while network in game["networks"]:
+                    game["networks"].remove(network)
+        # otherwise throw an error
+        else:
+            raise ValueError("ERROR: Whitelist and blacklist are both nonempty.\nEither the whitelist or blacklist must be empty.")
 
         outfile.write("|%s |%s |%s |%s\n\n"%(game["date"], game["time"], gameName, ", ".join(game["networks"])))
 
