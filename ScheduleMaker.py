@@ -14,7 +14,8 @@ league = NCAAF
 PRINT_BYES = False
 TABLE_HEADER = r'%autowidth.stretch'
 START_DATE = dt(2000,1,1)
-BANNED_NETWORKS = []
+NETWORK_BLACKLIST = []
+NETWORK_WHITELIST = ["CTESPN"]
 FAVORITE_TEAMS = ["CHI", "CHC"]
 
 
@@ -204,10 +205,23 @@ for date in dates:
         else:
             gameName += game["home"]["shortDisplayName"]
 
-        # remove banned networks
-        for network in BANNED_NETWORKS:
-            while network in game["networks"]:
-                game["networks"].remove(network)
+        if len(NETWORK_BLACKLIST) != 0 and len(NETWORK_WHITELIST) == 0:
+            # remove banned networks
+            for network in NETWORK_BLACKLIST:
+                while network in game["networks"]:
+                    game["networks"].remove(network)
+        elif len(NETWORK_BLACKLIST) == 0 and len(NETWORK_WHITELIST) != 0:
+            # remove all but allowed networks
+            # old fashioned for loop
+            i=0
+            while i < len(game["networks"]):
+                network = game["networks"][i]
+                if network not in NETWORK_WHITELIST:
+                    game["networks"].remove(network)
+                    i-=1
+                i+=1
+        else:
+            raise ValueError("ERROR: Either the NETWORK_BLACKLIST or NETWORK_WHITELIST must be empty.")
 
         outfile.write("|%s |%s |%s |%s\n\n"%(date, time, gameName, ", ".join(game["networks"])))
 
