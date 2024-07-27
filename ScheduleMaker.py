@@ -5,21 +5,21 @@ from datetime import datetime as dt, timedelta as td
 
 
 GET_NEW_DATA = True
-PRINT_ENTIRE_LEAGUE = False
+PRINT_ENTIRE_LEAGUE = True
 DAILY_HEADERS = False
 USE_TEAM_IMAGES = False
 USE_SHORT_NAME = True
-PAGE_BREAKS = False
-league = MLB
+PAGE_BREAKS = True
+league = NHL
 PRINT_BYES = False
 TABLE_HEADER = r'%autowidth.stretch'
-START_DATE = dt(2024,8,4)
+START_DATE = dt.now()
 NETWORK_BLACKLIST = {
     "local": [],
-    "national": ["ESPN+", "PRIME VIDEO"]
+    "national": ["ESPN+", "HBO Max"]
 }
 NETWORK_WHITELIST = {
-    "local": [""],
+    "local": [],
     "national": []
 }
 FAVORITE_TEAMS = ["CHI", "CHC"]
@@ -27,8 +27,7 @@ NAME_SUBS = {
     "CHC": "CUBS",
     "CHW": "SOX",
     "Marquee Sports Net": "MARQ",
-    "NBC Sports Chi": "NBC-CHI",
-    "Apple TV+": "Apple"
+    "NBC Sports Chi": "NBC-CHI"
 }
 
 
@@ -68,7 +67,7 @@ if GET_NEW_DATA:
             print(tricode)
             loadScheduleByTricode(league, tricode)
     else:
-        #loadScheduleByTricode(league, "CHC")
+        loadScheduleByTricode(league, "CHC")
         loadScheduleByTricode(league, "CHW")
         # valpo
         #loadScheduleByTricode(league, "2674")
@@ -122,7 +121,7 @@ else:
             i+=1
     
 
-if not DAILY_HEADERS:
+if not (DAILY_HEADERS or PAGE_BREAKS):
     outfile.write("[%s]\n"%TABLE_HEADER)
     outfile.write("|===\n")
     outfile.write("|Date |Time |Game |TV\n\n\n")
@@ -155,16 +154,15 @@ for date in dates:
             games.append(game)
 
     # sort by the various criteria
-    games = sorted(games, key=lambda game: (game["home"]["tricode"] not in FAVORITE_TEAMS, game["away"]["tricode"] not in FAVORITE_TEAMS, game["zulu"]))
+    games = sorted(games, key=lambda game: (game["home"]["tricode"] not in FAVORITE_TEAMS, game["away"]["tricode"] not in FAVORITE_TEAMS, game["zulu"]))      
 
     if DAILY_HEADERS:
-        if PAGE_BREAKS:
-            outfile.write("\n\n<<<\n\n")
-
         if league == NFL:
             outfile.write("== Week %s\n\n"%(date))
         else:
             outfile.write("== %s\n\n"%(date))
+
+    if PAGE_BREAKS or DAILY_HEADERS:
         outfile.write("[%s]\n"%TABLE_HEADER)
         outfile.write("|===\n")
         outfile.write("|Date |Time |Game |TV\n\n\n")
@@ -257,7 +255,7 @@ for date in dates:
 
         outfile.write("|%s |%s |%s |%s\n\n"%(date, time, gameName, ", ".join(networksList)))
 
-    if DAILY_HEADERS:
+    if DAILY_HEADERS or PAGE_BREAKS:
         outfile.write("|===\n\n")
     
     # print byes
@@ -271,9 +269,12 @@ for date in dates:
                 outfile.write("%s "%tricode)
 
         outfile.write("\n\n")
+
+    if PAGE_BREAKS:
+        outfile.write("\n\n<<<\n\n")  
                 
 
-if not DAILY_HEADERS:
+if not (DAILY_HEADERS or PAGE_BREAKS):
     outfile.write("|===\n\n")
 
 
