@@ -9,7 +9,7 @@ PRINT_ENTIRE_LEAGUE = False
 DAILY_HEADERS = False
 USE_TEAM_IMAGES = False
 USE_SHORT_NAME = True
-PAGE_BREAKS = False
+PAGE_BREAKS = True
 league = MLB
 PRINT_BYES = False
 TABLE_HEADER = r'%autowidth.stretch'
@@ -121,7 +121,7 @@ else:
             i+=1
     
 
-if not DAILY_HEADERS:
+if not (DAILY_HEADERS or PAGE_BREAKS):
     outfile.write("[%s]\n"%TABLE_HEADER)
     outfile.write("|===\n")
     outfile.write("|Date |Time |Game |TV\n\n\n")
@@ -154,16 +154,15 @@ for date in dates:
             games.append(game)
 
     # sort by the various criteria
-    games = sorted(games, key=lambda game: (game["home"]["tricode"] not in FAVORITE_TEAMS, game["away"]["tricode"] not in FAVORITE_TEAMS, game["zulu"]))
+    games = sorted(games, key=lambda game: (game["home"]["tricode"] not in FAVORITE_TEAMS, game["away"]["tricode"] not in FAVORITE_TEAMS, game["zulu"]))      
 
-    if PAGE_BREAKS:
-        outfile.write("\n\n<<<\n\n")
-    
     if DAILY_HEADERS:
         if league == NFL:
             outfile.write("== Week %s\n\n"%(date))
         else:
             outfile.write("== %s\n\n"%(date))
+
+    if PAGE_BREAKS or DAILY_HEADERS:
         outfile.write("[%s]\n"%TABLE_HEADER)
         outfile.write("|===\n")
         outfile.write("|Date |Time |Game |TV\n\n\n")
@@ -242,12 +241,7 @@ for date in dates:
                     # just add everything
                     for network in game["networks"][market]:
                         networksList.append(network)
-
-
-        # remove duplicates from networksList
-        networksList = list(set(networksList))
-        
-        
+    
         # make necessary substitutions in networks list
         for name in NAME_SUBS.keys():
             if name in networksList:
@@ -261,7 +255,7 @@ for date in dates:
 
         outfile.write("|%s |%s |%s |%s\n\n"%(date, time, gameName, ", ".join(networksList)))
 
-    if DAILY_HEADERS:
+    if DAILY_HEADERS or PAGE_BREAKS:
         outfile.write("|===\n\n")
     
     # print byes
@@ -275,6 +269,9 @@ for date in dates:
                 outfile.write("%s "%tricode)
 
         outfile.write("\n\n")
+
+    if PAGE_BREAKS:
+        outfile.write("\n\n<<<\n\n")  
                 
 
 if not DAILY_HEADERS:
