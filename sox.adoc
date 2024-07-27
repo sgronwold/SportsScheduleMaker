@@ -1,0 +1,39 @@
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Sun 08-04 |01:10 PM |SOX @ MIN |
+
+|Mon 08-05 |08:40 PM |SOX @ OAK |
+
+|Tue 08-06 |08:40 PM |SOX @ OAK |
+
+|Wed 08-07 |02:37 PM |SOX @ OAK |
+
+|Fri 08-09 |07:10 PM |CUBS @ SOX |
+
+|Sat 08-10 |06:15 PM |CUBS @ SOX |FOX
+
+|Mon 08-12 |07:10 PM |NYY @ SOX |
+
+|Tue 08-13 |07:10 PM |NYY @ SOX |
+
+|Wed 08-14 |07:10 PM |NYY @ SOX |
+
+|Fri 08-16 |07:10 PM |SOX @ HOU |
+
+|Sat 08-17 |06:10 PM |SOX @ HOU |
+
+|Sun 08-18 |01:10 PM |SOX @ HOU |
+
+|Mon 08-19 |08:45 PM |SOX @ SF |
+
+|Tue 08-20 |08:45 PM |SOX @ SF |
+
+|Wed 08-21 |02:45 PM |SOX @ SF |
+
+|Fri 08-23 |07:10 PM |DET @ SOX |
+
+|===
+

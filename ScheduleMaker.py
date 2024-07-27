@@ -5,29 +5,28 @@ from datetime import datetime as dt, timedelta as td
 
 
 GET_NEW_DATA = True
-PRINT_ENTIRE_LEAGUE = True
+PRINT_ENTIRE_LEAGUE = False
 DAILY_HEADERS = False
 USE_TEAM_IMAGES = False
 USE_SHORT_NAME = True
-PAGE_BREAKS = True
-league = NHL
+PAGE_BREAKS = False
+league = MLB
 PRINT_BYES = False
 TABLE_HEADER = r'%autowidth.stretch'
-START_DATE = dt.now()
+START_DATE = dt(2024,8,4)
 NETWORK_BLACKLIST = {
     "local": [],
-    "national": ["ESPN+", "HBO Max"]
+    "national": ["ESPN+", "PRIME VIDEO"]
 }
 NETWORK_WHITELIST = {
-    "local": [],
+    "local": [""],
     "national": []
 }
 FAVORITE_TEAMS = ["CHI", "CHC"]
 NAME_SUBS = {
     "CHC": "CUBS",
     "CHW": "SOX",
-    "Marquee Sports Net": "MARQ",
-    "NBC Sports Chi": "NBC-CHI"
+    "Apple TV+": "Apple"
 }
 
 
@@ -68,7 +67,7 @@ if GET_NEW_DATA:
             loadScheduleByTricode(league, tricode)
     else:
         loadScheduleByTricode(league, "CHC")
-        loadScheduleByTricode(league, "CHW")
+        #loadScheduleByTricode(league, "CHW")
         # valpo
         #loadScheduleByTricode(league, "2674")
         # ill. state
