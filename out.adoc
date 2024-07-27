@@ -3,335 +3,227 @@
 |Date |Time |Game |TV
 
 
-|Sat 07-27 |06:10 PM |Cubs @ Royals |Marquee Sports Net
+|Sat 07-27 |06:10 PM |CHC @ KC |Marquee Sports Net
 
-|Sat 07-27 |06:10 PM |Dodgers @ Astros |
+|Sat 07-27 |06:15 PM |SEA @ CHW |FOX
 
-|Sat 07-27 |06:15 PM |Mariners @ White Sox |FOX
+|Sun 07-28 |01:10 PM |CHC @ KC |Marquee Sports Net
 
-|Sun 07-28 |01:10 PM |Cubs @ Royals |Marquee Sports Net
+|Sun 07-28 |01:10 PM |SEA @ CHW |NBC Sports Chi
 
-|Sun 07-28 |01:10 PM |Dodgers @ Astros |ESPN+
+|Mon 07-29 |06:10 PM |CHC @ CIN |Marquee Sports Net
 
-|Sun 07-28 |01:10 PM |Mariners @ White Sox |NBC Sports Chi
+|Mon 07-29 |07:10 PM |KC @ CHW |NBC Sports Chi
 
-|Mon 07-29 |06:10 PM |Cubs @ Reds |Marquee Sports Net
+|Tue 07-30 |06:10 PM |CHC @ CIN |Marquee Sports Net
 
-|Mon 07-29 |07:10 PM |Royals @ White Sox |NBC Sports Chi
+|Tue 07-30 |07:10 PM |KC @ CHW |NBC Sports Chi
 
-|Tue 07-30 |06:10 PM |Cubs @ Reds |Marquee Sports Net
+|Wed 07-31 |06:10 PM |CHC @ CIN |Marquee Sports Net
 
-|Tue 07-30 |07:10 PM |Royals @ White Sox |NBC Sports Chi
+|Wed 07-31 |01:10 PM |KC @ CHW |NBC Sports Chi
 
-|Tue 07-30 |08:40 PM |Dodgers @ Padres |MLBN
+|Thu 08-01 |07:05 PM |STL @ CHC |Marquee Sports Net
 
-|Wed 07-31 |06:10 PM |Cubs @ Reds |Marquee Sports Net
+|Fri 08-02 |01:20 PM |STL @ CHC |Marquee Sports Net
 
-|Wed 07-31 |01:10 PM |Royals @ White Sox |NBC Sports Chi
+|Fri 08-02 |07:10 PM |CHW @ MIN |NBC Sports Chi
 
-|Wed 07-31 |07:40 PM |Dodgers @ Padres |
+|Sat 08-03 |01:20 PM |STL @ CHC |Marquee Sports Net
 
-|Thu 08-01 |07:05 PM |Cardinals @ Cubs |Marquee Sports Net
+|Sat 08-03 |06:10 PM |CHW @ MIN |NBC Sports Chi
 
-|Fri 08-02 |01:20 PM |Cardinals @ Cubs |Marquee Sports Net
+|Sun 08-04 |06:00 PM |STL @ CHC |ESPN
 
-|Fri 08-02 |07:10 PM |White Sox @ Twins |NBC Sports Chi
+|Sun 08-04 |01:10 PM |CHW @ MIN |NBC Sports Chi
 
-|Fri 08-02 |08:40 PM |Dodgers @ Athletics |
+|Mon 08-05 |07:05 PM |MIN @ CHC |Marquee Sports Net
 
-|Sat 08-03 |01:20 PM |Cardinals @ Cubs |Marquee Sports Net
+|Mon 08-05 |08:40 PM |CHW @ OAK |NBC Sports Chi
 
-|Sat 08-03 |06:10 PM |White Sox @ Twins |NBC Sports Chi
+|Tue 08-06 |07:05 PM |MIN @ CHC |Marquee Sports Net
 
-|Sat 08-03 |08:07 PM |Dodgers @ Athletics |
+|Tue 08-06 |08:40 PM |CHW @ OAK |NBC Sports Chi
 
-|Sun 08-04 |06:00 PM |Cardinals @ Cubs |ESPN
+|Wed 08-07 |01:20 PM |MIN @ CHC |Marquee Sports Net
 
-|Sun 08-04 |01:10 PM |White Sox @ Twins |NBC Sports Chi
+|Wed 08-07 |02:37 PM |CHW @ OAK |NBC Sports Chi
 
-|Sun 08-04 |03:07 PM |Dodgers @ Athletics |
+|Fri 08-09 |07:10 PM |CHC @ CHW |Marquee Sports Net, NBC Sports Chi
 
-|Mon 08-05 |07:05 PM |Twins @ Cubs |Marquee Sports Net
+|Sat 08-10 |06:15 PM |CHC @ CHW |FOX
 
-|Mon 08-05 |08:40 PM |White Sox @ Athletics |NBC Sports Chi
+|Mon 08-12 |05:40 PM |CHC @ CLE |Marquee Sports Net
 
-|Mon 08-05 |09:10 PM |Phillies @ Dodgers |MLBN
+|Mon 08-12 |07:10 PM |NYY @ CHW |NBC Sports Chi
 
-|Tue 08-06 |07:05 PM |Twins @ Cubs |Marquee Sports Net
+|Tue 08-13 |05:40 PM |CHC @ CLE |Marquee Sports Net
 
-|Tue 08-06 |08:40 PM |White Sox @ Athletics |NBC Sports Chi
+|Tue 08-13 |07:10 PM |NYY @ CHW |NBC Sports Chi
 
-|Tue 08-06 |09:10 PM |Phillies @ Dodgers |
+|Wed 08-14 |05:40 PM |CHC @ CLE |Marquee Sports Net
 
-|Wed 08-07 |01:20 PM |Twins @ Cubs |Marquee Sports Net
+|Wed 08-14 |07:10 PM |NYY @ CHW |NBC Sports Chi
 
-|Wed 08-07 |02:37 PM |White Sox @ Athletics |NBC Sports Chi
+|Fri 08-16 |01:20 PM |TOR @ CHC |Apple TV+
 
-|Wed 08-07 |09:10 PM |Phillies @ Dodgers |
+|Fri 08-16 |07:10 PM |CHW @ HOU |NBC Sports Chi
 
-|Fri 08-09 |07:10 PM |Cubs @ White Sox |Marquee Sports Net, NBC Sports Chi
+|Sat 08-17 |01:20 PM |TOR @ CHC |Marquee Sports Net
 
-|Fri 08-09 |09:10 PM |Pirates @ Dodgers |
+|Sat 08-17 |06:10 PM |CHW @ HOU |NBC Sports Chi
 
-|Sat 08-10 |06:15 PM |Cubs @ White Sox |FOX
+|Sun 08-18 |01:20 PM |TOR @ CHC |Marquee Sports Net
 
-|Sat 08-10 |08:10 PM |Pirates @ Dodgers |
+|Sun 08-18 |01:10 PM |CHW @ HOU |NBC Sports Chi
 
-|Sun 08-11 |03:10 PM |Pirates @ Dodgers |
+|Mon 08-19 |08:45 PM |CHW @ SF |NBC Sports Chi
 
-|Mon 08-12 |05:40 PM |Cubs @ Guardians |Marquee Sports Net
+|Tue 08-20 |07:05 PM |DET @ CHC |Marquee Sports Net
 
-|Mon 08-12 |07:10 PM |Dodgers @ Brewers |
+|Tue 08-20 |08:45 PM |CHW @ SF |NBC Sports Chi
 
-|Mon 08-12 |07:10 PM |Yankees @ White Sox |NBC Sports Chi
+|Wed 08-21 |07:05 PM |DET @ CHC |Marquee Sports Net
 
-|Tue 08-13 |05:40 PM |Cubs @ Guardians |Marquee Sports Net
+|Wed 08-21 |02:45 PM |CHW @ SF |NBC Sports Chi
 
-|Tue 08-13 |07:10 PM |Dodgers @ Brewers |TBS
+|Thu 08-22 |01:20 PM |DET @ CHC |Marquee Sports Net
 
-|Tue 08-13 |07:10 PM |Yankees @ White Sox |NBC Sports Chi
+|Fri 08-23 |06:10 PM |CHC @ MIA |Marquee Sports Net
 
-|Wed 08-14 |05:40 PM |Cubs @ Guardians |Marquee Sports Net
+|Fri 08-23 |07:10 PM |DET @ CHW |NBC Sports Chi
 
-|Wed 08-14 |07:10 PM |Dodgers @ Brewers |MLBN
+|Sat 08-24 |03:10 PM |CHC @ MIA |Marquee Sports Net
 
-|Wed 08-14 |07:10 PM |Yankees @ White Sox |PRIME VIDEO, NBC Sports Chi
+|Sat 08-24 |06:10 PM |DET @ CHW |NBC Sports Chi
 
-|Thu 08-15 |01:10 PM |Dodgers @ Brewers |
+|Sun 08-25 |12:40 PM |CHC @ MIA |Marquee Sports Net
 
-|Fri 08-16 |01:20 PM |Blue Jays @ Cubs |Apple TV+
+|Sun 08-25 |01:10 PM |DET @ CHW |NBC Sports Chi
 
-|Fri 08-16 |07:10 PM |White Sox @ Astros |NBC Sports Chi
+|Mon 08-26 |05:40 PM |CHC @ PIT |Marquee Sports Net
 
-|Fri 08-16 |07:15 PM |Dodgers @ Cardinals |
+|Mon 08-26 |07:10 PM |DET @ CHW |NBC Sports Chi
 
-|Sat 08-17 |01:20 PM |Blue Jays @ Cubs |Marquee Sports Net
+|Tue 08-27 |05:40 PM |CHC @ PIT |Marquee Sports Net
 
-|Sat 08-17 |06:10 PM |White Sox @ Astros |NBC Sports Chi
+|Tue 08-27 |07:10 PM |TEX @ CHW |NBC Sports Chi
 
-|Sat 08-17 |06:15 PM |Dodgers @ Cardinals |FOX
+|Wed 08-28 |11:35 AM |CHC @ PIT |Marquee Sports Net
 
-|Sun 08-18 |01:20 PM |Blue Jays @ Cubs |Marquee Sports Net
+|Wed 08-28 |07:10 PM |TEX @ CHW |NBC Sports Chi
 
-|Sun 08-18 |01:10 PM |White Sox @ Astros |NBC Sports Chi
+|Thu 08-29 |01:10 PM |TEX @ CHW |NBC Sports Chi
 
-|Sun 08-18 |01:15 PM |Dodgers @ Cardinals |
+|Fri 08-30 |05:45 PM |CHC @ WSH |Marquee Sports Net
 
-|Mon 08-19 |08:45 PM |White Sox @ Giants |NBC Sports Chi
+|Fri 08-30 |07:10 PM |NYM @ CHW |NBC Sports Chi
 
-|Mon 08-19 |09:10 PM |Mariners @ Dodgers |
+|Sat 08-31 |03:05 PM |CHC @ WSH |Marquee Sports Net
 
-|Tue 08-20 |07:05 PM |Tigers @ Cubs |Marquee Sports Net
+|Sat 08-31 |06:10 PM |NYM @ CHW |NBC Sports Chi
 
-|Tue 08-20 |08:45 PM |White Sox @ Giants |NBC Sports Chi
+|Sun 09-01 |12:35 PM |CHC @ WSH |Marquee Sports Net
 
-|Tue 08-20 |09:10 PM |Mariners @ Dodgers |
+|Sun 09-01 |01:10 PM |NYM @ CHW |NBC Sports Chi
 
-|Wed 08-21 |07:05 PM |Tigers @ Cubs |Marquee Sports Net
+|Mon 09-02 |06:40 PM |PIT @ CHC |Marquee Sports Net
 
-|Wed 08-21 |02:45 PM |White Sox @ Giants |NBC Sports Chi
+|Mon 09-02 |02:05 PM |CHW @ BAL |NBC Sports Chi
 
-|Wed 08-21 |09:10 PM |Mariners @ Dodgers |
+|Tue 09-03 |06:40 PM |PIT @ CHC |Marquee Sports Net
 
-|Thu 08-22 |01:20 PM |Tigers @ Cubs |Marquee Sports Net
+|Tue 09-03 |05:35 PM |CHW @ BAL |NBC Sports Chi
 
-|Fri 08-23 |06:10 PM |Cubs @ Marlins |Marquee Sports Net
+|Wed 09-04 |06:40 PM |PIT @ CHC |Marquee Sports Net
 
-|Fri 08-23 |07:10 PM |Tigers @ White Sox |NBC Sports Chi
+|Wed 09-04 |05:35 PM |CHW @ BAL |NBC Sports Chi
 
-|Fri 08-23 |09:10 PM |Rays @ Dodgers |
+|Fri 09-06 |01:20 PM |NYY @ CHC |Marquee Sports Net
 
-|Sat 08-24 |03:10 PM |Cubs @ Marlins |Marquee Sports Net
+|Fri 09-06 |06:10 PM |CHW @ BOS |NBC Sports Chi
 
-|Sat 08-24 |06:10 PM |Tigers @ White Sox |NBC Sports Chi
+|Sat 09-07 |01:20 PM |NYY @ CHC |Marquee Sports Net
 
-|Sat 08-24 |08:10 PM |Rays @ Dodgers |
+|Sat 09-07 |06:15 PM |CHW @ BOS |FOX
 
-|Sun 08-25 |12:40 PM |Cubs @ Marlins |Marquee Sports Net
+|Sun 09-08 |01:20 PM |NYY @ CHC |Marquee Sports Net
 
-|Sun 08-25 |01:10 PM |Tigers @ White Sox |NBC Sports Chi
+|Sun 09-08 |12:35 PM |CHW @ BOS |NBC Sports Chi
 
-|Sun 08-25 |03:10 PM |Rays @ Dodgers |
+|Mon 09-09 |09:10 PM |CHC @ LAD |Marquee Sports Net
 
-|Mon 08-26 |05:40 PM |Cubs @ Pirates |Marquee Sports Net
+|Mon 09-09 |06:40 PM |CLE @ CHW |NBC Sports Chi
 
-|Mon 08-26 |07:10 PM |Tigers @ White Sox |NBC Sports Chi
+|Tue 09-10 |09:10 PM |CHC @ LAD |Marquee Sports Net
 
-|Tue 08-27 |05:40 PM |Cubs @ Pirates |Marquee Sports Net
+|Tue 09-10 |06:40 PM |CLE @ CHW |NBC Sports Chi
 
-|Tue 08-27 |07:10 PM |Rangers @ White Sox |NBC Sports Chi
+|Wed 09-11 |09:10 PM |CHC @ LAD |Marquee Sports Net
 
-|Tue 08-27 |09:10 PM |Orioles @ Dodgers |
+|Wed 09-11 |01:10 PM |CLE @ CHW |NBC Sports Chi
 
-|Wed 08-28 |11:35 AM |Cubs @ Pirates |Marquee Sports Net
+|Fri 09-13 |07:40 PM |CHC @ COL |Marquee Sports Net
 
-|Wed 08-28 |07:10 PM |Rangers @ White Sox |NBC Sports Chi
+|Fri 09-13 |06:40 PM |OAK @ CHW |NBC Sports Chi
 
-|Wed 08-28 |09:10 PM |Orioles @ Dodgers |
+|Sat 09-14 |07:10 PM |CHC @ COL |Marquee Sports Net
 
-|Thu 08-29 |01:10 PM |Rangers @ White Sox |NBC Sports Chi
+|Sat 09-14 |06:10 PM |OAK @ CHW |NBC Sports Chi
 
-|Thu 08-29 |09:10 PM |Orioles @ Dodgers |
+|Sun 09-15 |02:10 PM |CHC @ COL |Marquee Sports Net
 
-|Fri 08-30 |05:45 PM |Cubs @ Nationals |Marquee Sports Net
+|Sun 09-15 |01:10 PM |OAK @ CHW |NBC Sports Chi
 
-|Fri 08-30 |07:10 PM |Mets @ White Sox |NBC Sports Chi
+|Mon 09-16 |06:40 PM |OAK @ CHC |Marquee Sports Net
 
-|Fri 08-30 |08:40 PM |Dodgers @ Diamondbacks |
+|Mon 09-16 |08:38 PM |CHW @ LAA |NBC Sports Chi
 
-|Sat 08-31 |03:05 PM |Cubs @ Nationals |Marquee Sports Net
+|Tue 09-17 |06:40 PM |OAK @ CHC |Marquee Sports Net
 
-|Sat 08-31 |06:10 PM |Mets @ White Sox |NBC Sports Chi
+|Tue 09-17 |08:38 PM |CHW @ LAA |NBC Sports Chi
 
-|Sat 08-31 |07:10 PM |Dodgers @ Diamondbacks |
+|Wed 09-18 |01:20 PM |OAK @ CHC |Marquee Sports Net
 
-|Sun 09-01 |12:35 PM |Cubs @ Nationals |Marquee Sports Net
+|Wed 09-18 |03:07 PM |CHW @ LAA |NBC Sports Chi
 
-|Sun 09-01 |01:10 PM |Mets @ White Sox |NBC Sports Chi
+|Thu 09-19 |06:40 PM |WSH @ CHC |Marquee Sports Net
 
-|Sun 09-01 |03:10 PM |Dodgers @ Diamondbacks |Roku
+|Fri 09-20 |01:20 PM |WSH @ CHC |Marquee Sports Net
 
-|Mon 09-02 |06:40 PM |Pirates @ Cubs |Marquee Sports Net
+|Fri 09-20 |08:40 PM |CHW @ SD |NBC Sports Chi
 
-|Mon 09-02 |02:05 PM |White Sox @ Orioles |NBC Sports Chi
+|Sat 09-21 |01:20 PM |WSH @ CHC |Marquee Sports Net
 
-|Mon 09-02 |03:10 PM |Dodgers @ Diamondbacks |
+|Sat 09-21 |07:40 PM |CHW @ SD |NBC Sports Chi
 
-|Tue 09-03 |06:40 PM |Pirates @ Cubs |Marquee Sports Net
+|Sun 09-22 |01:20 PM |WSH @ CHC |Marquee Sports Net
 
-|Tue 09-03 |05:35 PM |White Sox @ Orioles |NBC Sports Chi
+|Sun 09-22 |03:10 PM |CHW @ SD |NBC Sports Chi
 
-|Tue 09-03 |08:38 PM |Dodgers @ Angels |
+|Mon 09-23 |05:40 PM |CHC @ PHI |Marquee Sports Net
 
-|Wed 09-04 |06:40 PM |Pirates @ Cubs |Marquee Sports Net
+|Tue 09-24 |05:40 PM |CHC @ PHI |Marquee Sports Net
 
-|Wed 09-04 |05:35 PM |White Sox @ Orioles |NBC Sports Chi
+|Tue 09-24 |06:40 PM |LAA @ CHW |NBC Sports Chi
 
-|Wed 09-04 |08:38 PM |Dodgers @ Angels |
+|Wed 09-25 |05:05 PM |CHC @ PHI |Marquee Sports Net
 
-|Fri 09-06 |01:20 PM |Yankees @ Cubs |Marquee Sports Net
+|Wed 09-25 |06:40 PM |LAA @ CHW |NBC Sports Chi
 
-|Fri 09-06 |06:10 PM |White Sox @ Red Sox |NBC Sports Chi
+|Thu 09-26 |01:10 PM |LAA @ CHW |NBC Sports Chi
 
-|Fri 09-06 |09:10 PM |Guardians @ Dodgers |
+|Fri 09-27 |01:20 PM |CIN @ CHC |Marquee Sports Net
 
-|Sat 09-07 |01:20 PM |Yankees @ Cubs |Marquee Sports Net
+|Fri 09-27 |05:40 PM |CHW @ DET |NBC Sports Chi
 
-|Sat 09-07 |06:15 PM |White Sox @ Red Sox |FOX
+|Sat 09-28 |01:20 PM |CIN @ CHC |Marquee Sports Net
 
-|Sat 09-07 |08:10 PM |Guardians @ Dodgers |
+|Sat 09-28 |12:10 PM |CHW @ DET |NBC Sports Chi
 
-|Sun 09-08 |01:20 PM |Yankees @ Cubs |Marquee Sports Net
+|Sun 09-29 |02:20 PM |CIN @ CHC |Marquee Sports Net
 
-|Sun 09-08 |12:35 PM |White Sox @ Red Sox |NBC Sports Chi
-
-|Sun 09-08 |03:10 PM |Guardians @ Dodgers |
-
-|Mon 09-09 |09:10 PM |Cubs @ Dodgers |Marquee Sports Net
-
-|Mon 09-09 |06:40 PM |Guardians @ White Sox |NBC Sports Chi
-
-|Tue 09-10 |09:10 PM |Cubs @ Dodgers |Marquee Sports Net
-
-|Tue 09-10 |06:40 PM |Guardians @ White Sox |NBC Sports Chi
-
-|Wed 09-11 |09:10 PM |Cubs @ Dodgers |Marquee Sports Net
-
-|Wed 09-11 |01:10 PM |Guardians @ White Sox |NBC Sports Chi
-
-|Fri 09-13 |07:40 PM |Cubs @ Rockies |Marquee Sports Net
-
-|Fri 09-13 |06:20 PM |Dodgers @ Braves |
-
-|Fri 09-13 |06:40 PM |Athletics @ White Sox |NBC Sports Chi
-
-|Sat 09-14 |07:10 PM |Cubs @ Rockies |Marquee Sports Net
-
-|Sat 09-14 |06:10 PM |Athletics @ White Sox |NBC Sports Chi
-
-|Sat 09-14 |06:20 PM |Dodgers @ Braves |
-
-|Sun 09-15 |02:10 PM |Cubs @ Rockies |Marquee Sports Net
-
-|Sun 09-15 |12:35 PM |Dodgers @ Braves |
-
-|Sun 09-15 |01:10 PM |Athletics @ White Sox |NBC Sports Chi
-
-|Mon 09-16 |06:40 PM |Athletics @ Cubs |Marquee Sports Net
-
-|Mon 09-16 |06:20 PM |Dodgers @ Braves |
-
-|Mon 09-16 |08:38 PM |White Sox @ Angels |NBC Sports Chi
-
-|Tue 09-17 |06:40 PM |Athletics @ Cubs |Marquee Sports Net
-
-|Tue 09-17 |05:40 PM |Dodgers @ Marlins |
-
-|Tue 09-17 |08:38 PM |White Sox @ Angels |NBC Sports Chi
-
-|Wed 09-18 |01:20 PM |Athletics @ Cubs |Marquee Sports Net
-
-|Wed 09-18 |03:07 PM |White Sox @ Angels |NBC Sports Chi
-
-|Wed 09-18 |05:40 PM |Dodgers @ Marlins |
-
-|Thu 09-19 |06:40 PM |Nationals @ Cubs |Marquee Sports Net
-
-|Thu 09-19 |03:40 PM |Dodgers @ Marlins |
-
-|Fri 09-20 |01:20 PM |Nationals @ Cubs |Marquee Sports Net
-
-|Fri 09-20 |08:40 PM |White Sox @ Padres |NBC Sports Chi
-
-|Fri 09-20 |09:10 PM |Rockies @ Dodgers |
-
-|Sat 09-21 |01:20 PM |Nationals @ Cubs |Marquee Sports Net
-
-|Sat 09-21 |07:40 PM |White Sox @ Padres |NBC Sports Chi
-
-|Sat 09-21 |08:10 PM |Rockies @ Dodgers |
-
-|Sun 09-22 |01:20 PM |Nationals @ Cubs |Marquee Sports Net
-
-|Sun 09-22 |03:10 PM |Rockies @ Dodgers |
-
-|Sun 09-22 |03:10 PM |White Sox @ Padres |NBC Sports Chi
-
-|Mon 09-23 |05:40 PM |Cubs @ Phillies |Marquee Sports Net
-
-|Tue 09-24 |05:40 PM |Cubs @ Phillies |Marquee Sports Net
-
-|Tue 09-24 |06:40 PM |Angels @ White Sox |NBC Sports Chi
-
-|Tue 09-24 |09:10 PM |Padres @ Dodgers |
-
-|Wed 09-25 |05:05 PM |Cubs @ Phillies |Marquee Sports Net
-
-|Wed 09-25 |06:40 PM |Angels @ White Sox |NBC Sports Chi
-
-|Wed 09-25 |09:10 PM |Padres @ Dodgers |
-
-|Thu 09-26 |01:10 PM |Angels @ White Sox |NBC Sports Chi
-
-|Thu 09-26 |09:10 PM |Padres @ Dodgers |
-
-|Fri 09-27 |01:20 PM |Reds @ Cubs |Marquee Sports Net
-
-|Fri 09-27 |05:40 PM |White Sox @ Tigers |NBC Sports Chi
-
-|Fri 09-27 |07:10 PM |Dodgers @ Rockies |
-
-|Sat 09-28 |01:20 PM |Reds @ Cubs |Marquee Sports Net
-
-|Sat 09-28 |12:10 PM |White Sox @ Tigers |NBC Sports Chi
-
-|Sat 09-28 |07:10 PM |Dodgers @ Rockies |
-
-|Sun 09-29 |02:20 PM |Reds @ Cubs |Marquee Sports Net
-
-|Sun 09-29 |02:10 PM |Dodgers @ Rockies |
-
-|Sun 09-29 |02:10 PM |White Sox @ Tigers |NBC Sports Chi
+|Sun 09-29 |02:10 PM |CHW @ DET |NBC Sports Chi
 
 |===
 

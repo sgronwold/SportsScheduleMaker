@@ -8,7 +8,7 @@ GET_NEW_DATA = True
 PRINT_ENTIRE_LEAGUE = False
 DAILY_HEADERS = False
 USE_TEAM_IMAGES = False
-USE_SHORT_NAME = False
+USE_SHORT_NAME = True
 PAGE_BREAKS = False
 league = MLB
 PRINT_BYES = False
@@ -16,7 +16,7 @@ TABLE_HEADER = r'%autowidth.stretch'
 START_DATE = dt.now()
 NETWORK_BLACKLIST = {
     "local": [],
-    "national": []
+    "national": ["PRIME VIDEO"]
 }
 NETWORK_WHITELIST = {
     "local": ["Marquee Sports Net", "NBC Sports Chi"],
@@ -63,7 +63,6 @@ if GET_NEW_DATA:
     else:
         loadScheduleByTricode(league, "CHC")
         loadScheduleByTricode(league, "CHW")
-        loadScheduleByTricode(league, "LAD")
         # valpo
         #loadScheduleByTricode(league, "2674")
         # ill. state
@@ -237,7 +236,6 @@ for date in dates:
                     # just add everything
                     for network in game["networks"][market]:
                         networksList.append(network)
-    
 
         outfile.write("|%s |%s |%s |%s\n\n"%(date, time, gameName, ", ".join(networksList)))
 
