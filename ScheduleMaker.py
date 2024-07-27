@@ -156,10 +156,10 @@ for date in dates:
     # sort by the various criteria
     games = sorted(games, key=lambda game: (game["home"]["tricode"] not in FAVORITE_TEAMS, game["away"]["tricode"] not in FAVORITE_TEAMS, game["zulu"]))
 
+    if PAGE_BREAKS:
+        outfile.write("\n\n<<<\n\n")
+    
     if DAILY_HEADERS:
-        if PAGE_BREAKS:
-            outfile.write("\n\n<<<\n\n")
-
         if league == NFL:
             outfile.write("== Week %s\n\n"%(date))
         else:
