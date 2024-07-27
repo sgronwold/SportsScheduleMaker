@@ -5,16 +5,16 @@ from datetime import datetime as dt
 
 
 GET_NEW_DATA = True
-PRINT_ENTIRE_LEAGUE = False
+PRINT_ENTIRE_LEAGUE = True
 DAILY_HEADERS = False
 USE_TEAM_IMAGES = False
 PAGE_BREAKS = False
 league = MLB
 PRINT_BYES = False
 TABLE_HEADER = r'%autowidth.stretch'
-START_DATE = dt(2024,7,14)
-NETWORK_BLACKLIST = []
-NETWORK_WHITELIST = ["ESPN", "FOX", "Apple TV+"]
+START_DATE = dt(2024,8,4)
+NETWORK_BLACKLIST = [""]
+NETWORK_WHITELIST = []#["ESPN", "FOX", "FS1", "Apple TV+"]
 
 
 START_DATE = START_DATE.astimezone(pytz.timezone("America/Chicago"))
@@ -164,7 +164,6 @@ for date in dates:
                 i+=1
         # if there's a blacklist
         elif len(NETWORK_BLACKLIST) != 0 and len(NETWORK_WHITELIST) == 0:
-            print("blacklist mode")
             for network in NETWORK_BLACKLIST:
                 while network in game["networks"]:
                     game["networks"].remove(network)

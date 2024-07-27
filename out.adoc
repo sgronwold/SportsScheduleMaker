@@ -3,200 +3,2297 @@
 |Date |Time |Game |TV
 
 
-|Sun 07-14 |01:15 PM |CUBS @ STL 
- |
-
-|Fri 07-19 |01:20 PM |ARI @ CUBS 
- |
-
-|Sat 07-20 |06:15 PM |ARI @ CUBS 
- |FOX
-
-|Sun 07-21 |01:20 PM |ARI @ CUBS 
- |
-
-|Mon 07-22 |07:05 PM |MIL @ CUBS 
- |
-
-|Tue 07-23 |07:05 PM |MIL @ CUBS 
- |
-
-|Wed 07-24 |01:20 PM |MIL @ CUBS 
- |
-
-|Fri 07-26 |07:10 PM |CUBS @ KC 
- |
-
-|Sat 07-27 |06:10 PM |CUBS @ KC 
- |
-
-|Sun 07-28 |01:10 PM |CUBS @ KC 
- |
-
-|Mon 07-29 |06:10 PM |CUBS @ CIN 
- |
-
-|Tue 07-30 |06:10 PM |CUBS @ CIN 
- |
-
-|Wed 07-31 |06:10 PM |CUBS @ CIN 
- |
-
-|Thu 08-01 |07:05 PM |STL @ CUBS 
- |
-
-|Fri 08-02 |01:20 PM |STL @ CUBS 
- |
-
-|Sat 08-03 |01:20 PM |STL @ CUBS 
- |
-
 |Sun 08-04 |06:00 PM |STL @ CUBS 
  |ESPN
 
+|Sun 08-04 |11:05 AM |SF @ CIN 
+ |Roku
+
+|Sun 08-04 |12:35 PM |ARI @ PIT 
+ |Sportsnet PIT, DBACKS.TV
+
+|Sun 08-04 |12:35 PM |MIA @ ATL 
+ |Bally Sports SE, Bally Sports FL
+
+|Sun 08-04 |12:35 PM |MIL @ WSH 
+ |Bally Sports WI, MASN2
+
+|Sun 08-04 |12:35 PM |TOR @ NYY 
+ |YES, Sportsnet, TVA, Sportsnet+
+
+|Sun 08-04 |12:40 PM |BAL @ CLE 
+ |MASN, Bally Sports GL
+
+|Sun 08-04 |12:40 PM |KC @ DET 
+ |Bally Sports DET, Bally Sports KC
+
+|Sun 08-04 |01:10 PM |SOX @ MIN 
+ |Bally Sports North, NBC Sports Chi
+
+|Sun 08-04 |01:10 PM |TB @ HOU 
+ |Space City Home Network, Bally Sports Sun
+
+|Sun 08-04 |01:35 PM |BOS @ TEX 
+ |NESN, Bally Sports SW
+
+|Sun 08-04 |03:07 PM |NYM @ LAA 
+ |SNNY, Bally Sports West
+
+|Sun 08-04 |03:07 PM |LAD @ OAK 
+ |NBC Sports CA, Sportsnet LA
+
+|Sun 08-04 |03:10 PM |COL @ SD 
+ |Rockies.TV, Padres.TV
+
+|Sun 08-04 |03:10 PM |PHI @ SEA 
+ |Root Sports NW, NBC Sports Phil
+
 |Mon 08-05 |07:05 PM |MIN @ CUBS 
+ |Bally Sports North, Marquee Sports Net
+
+|Mon 08-05 |04:15 PM |NYM @ STL 
  |
+
+|Mon 08-05 |05:40 PM |ARI @ CLE 
+ |Bally Sports GL, DBACKS.TV
+
+|Mon 08-05 |05:40 PM |CIN @ MIA 
+ |Bally Sports OH, Bally Sports FL
+
+|Mon 08-05 |05:45 PM |SF @ WSH 
+ |MASN, NBC Sports BA
+
+|Mon 08-05 |07:05 PM |HOU @ TEX 
+ |Space City Home Network, Bally Sports SW
+
+|Mon 08-05 |07:10 PM |BOS @ KC 
+ |NESN, Bally Sports KC
+
+|Mon 08-05 |08:40 PM |SOX @ OAK 
+ |NBC Sports CA, NBC Sports Chi
+
+|Mon 08-05 |09:10 PM |PHI @ LAD 
+ |MLBN, Sportsnet LA, NBC Sports Phil
 
 |Tue 08-06 |07:05 PM |MIN @ CUBS 
- |
+ |Bally Sports North, Marquee Sports Net
+
+|Tue 08-06 |05:40 PM |ARI @ CLE 
+ |Bally Sports GL, DBACKS.TV
+
+|Tue 08-06 |05:40 PM |CIN @ MIA 
+ |Bally Sports OH, Bally Sports FL
+
+|Tue 08-06 |05:40 PM |SD @ PIT 
+ |Sportsnet PIT, Padres.TV
+
+|Tue 08-06 |05:45 PM |SF @ WSH 
+ |MASN, NBC Sports BA
+
+|Tue 08-06 |06:05 PM |LAA @ NYY 
+ |YES, Bally Sports West
+
+|Tue 08-06 |06:07 PM |BAL @ TOR 
+ |Sportsnet, MASN2, Sportsnet+
+
+|Tue 08-06 |06:20 PM |MIL @ ATL 
+ |TBS, Bally Sports WI, Bally Sports South
+
+|Tue 08-06 |06:45 PM |TB @ STL 
+ |Bally Sports MW, Bally Sports Sun
+
+|Tue 08-06 |07:05 PM |HOU @ TEX 
+ |Space City Home Network, Bally Sports SW
+
+|Tue 08-06 |07:10 PM |BOS @ KC 
+ |NESN, Bally Sports KC
+
+|Tue 08-06 |07:40 PM |NYM @ COL 
+ |SNNY, Rockies.TV
+
+|Tue 08-06 |08:40 PM |SOX @ OAK 
+ |NBC Sports CA, NBC Sports Chi
+
+|Tue 08-06 |08:40 PM |DET @ SEA 
+ |Root Sports NW, Bally Sports DET
+
+|Tue 08-06 |09:10 PM |PHI @ LAD 
+ |Sportsnet LA, NBC Sports Phil
 
 |Wed 08-07 |01:20 PM |MIN @ CUBS 
- |
+ |Bally Sports North, Marquee Sports Net
+
+|Wed 08-07 |12:10 PM |ARI @ CLE 
+ |Bally Sports GL, DBACKS.TV
+
+|Wed 08-07 |01:35 PM |HOU @ TEX 
+ |Space City Home Network, Bally Sports SW
+
+|Wed 08-07 |02:37 PM |SOX @ OAK 
+ |NBC Sports CA, NBC Sports Chi
+
+|Wed 08-07 |05:40 PM |CIN @ MIA 
+ |Bally Sports OH, Bally Sports FL
+
+|Wed 08-07 |05:40 PM |SD @ PIT 
+ |FS1, Sportsnet PIT, Padres.TV
+
+|Wed 08-07 |05:45 PM |SF @ WSH 
+ |MASN, NBC Sports BA
+
+|Wed 08-07 |06:05 PM |LAA @ NYY 
+ |PRIME VIDEO, Bally Sports West
+
+|Wed 08-07 |06:07 PM |BAL @ TOR 
+ |Sportnet One, MASN2, Sportsnet+
+
+|Wed 08-07 |06:20 PM |MIL @ ATL 
+ |Bally Sports WI, Bally Sports South
+
+|Wed 08-07 |06:45 PM |TB @ STL 
+ |Bally Sports MW, Bally Sports Sun
+
+|Wed 08-07 |07:10 PM |BOS @ KC 
+ |NESN, Bally Sports KC
+
+|Wed 08-07 |07:40 PM |NYM @ COL 
+ |SNNY, Rockies.TV
+
+|Wed 08-07 |08:40 PM |DET @ SEA 
+ |Root Sports NW, Bally Sports DET
+
+|Wed 08-07 |09:10 PM |PHI @ LAD 
+ |Sportsnet LA, NBC Sports Phil
+
+|Thu 08-08 |11:20 AM |MIL @ ATL 
+ |Bally Sports WI, Bally Sports South
+
+|Thu 08-08 |11:35 AM |SD @ PIT 
+ |Sportsnet PIT, Padres.TV
+
+|Thu 08-08 |02:10 PM |NYM @ COL 
+ |SNNY, Rockies.TV
+
+|Thu 08-08 |03:05 PM |SF @ WSH 
+ |MASN, NBC Sports BA
+
+|Thu 08-08 |05:10 PM |CIN @ MIA 
+ |Bally Sports OH, Bally Sports FL
+
+|Thu 08-08 |06:05 PM |LAA @ NYY 
+ |YES, Bally Sports West
+
+|Thu 08-08 |06:07 PM |BAL @ TOR 
+ |Sportsnet, MASN2, Sportsnet+
+
+|Thu 08-08 |06:15 PM |TB @ STL 
+ |Bally Sports MW, Bally Sports Sun
+
+|Thu 08-08 |08:40 PM |PHI @ ARI 
+ |NBC Sports Phil, DBACKS.TV
+
+|Thu 08-08 |08:40 PM |DET @ SEA 
+ |Root Sports NW, Bally Sports DET
 
 |Fri 08-09 |07:10 PM |CUBS @ SOX 
- |
+ |Marquee Sports Net, NBC Sports Chi
+
+|Fri 08-09 |01:10 PM |CLE @ MIN 
+ |Bally Sports North, Bally Sports GL
+
+|Fri 08-09 |05:45 PM |LAA @ WSH 
+ |MASN, Bally Sports West
+
+|Fri 08-09 |05:50 PM |BAL @ TB 
+ |Bally Sports Sun, MASN2
+
+|Fri 08-09 |06:05 PM |TEX @ NYY 
+ |YES, Bally Sports SW
+
+|Fri 08-09 |06:07 PM |OAK @ TOR 
+ |Sportsnet, NBC Sports CA, Sportsnet+
+
+|Fri 08-09 |06:10 PM |HOU @ BOS 
+ |NESN, Space City Home Network
+
+|Fri 08-09 |06:10 PM |SD @ MIA 
+ |Bally Sports FL, Padres.TV
+
+|Fri 08-09 |07:10 PM |CIN @ MIL 
+ |Apple TV+
+
+|Fri 08-09 |07:10 PM |CLE @ MIN 
+ |Apple TV+
+
+|Fri 08-09 |07:10 PM |STL @ KC 
+ |Bally Sports MW, Bally Sports KC
+
+|Fri 08-09 |07:40 PM |ATL @ COL 
+ |Bally Sports SE, Rockies.TV
+
+|Fri 08-09 |08:40 PM |PHI @ ARI 
+ |NBC Sports Phil, DBACKS.TV
+
+|Fri 08-09 |09:10 PM |PIT @ LAD 
+ |Sportsnet PIT, Sportsnet LA
+
+|Fri 08-09 |09:10 PM |NYM @ SEA 
+ |SNNY, Root Sports NW
+
+|Fri 08-09 |09:15 PM |DET @ SF 
+ |Bally Sports DET, NBC Sports BA
 
 |Sat 08-10 |06:15 PM |CUBS @ SOX 
  |FOX
 
+|Sat 08-10 |12:05 PM |TEX @ NYY 
+ |YES, Bally Sports SW
+
+|Sat 08-10 |02:07 PM |OAK @ TOR 
+ |Sportsnet, NBC Sports CA, Sportsnet+
+
+|Sat 08-10 |03:05 PM |DET @ SF 
+ |Bally Sports DET, NBC Sports BA
+
+|Sat 08-10 |03:10 PM |HOU @ BOS 
+ |FS1, NESN, Space City Home Network
+
+|Sat 08-10 |03:10 PM |SD @ MIA 
+ |Bally Sports FL, Padres.TV
+
+|Sat 08-10 |05:45 PM |LAA @ WSH 
+ |MASN, Bally Sports West
+
+|Sat 08-10 |06:10 PM |CIN @ MIL 
+ |Bally Sports OH, Bally Sports WI
+
+|Sat 08-10 |06:10 PM |CLE @ MIN 
+ |Bally Sports North, Bally Sports GL
+
+|Sat 08-10 |06:10 PM |STL @ KC 
+ |Bally Sports MW, Bally Sports KC
+
+|Sat 08-10 |06:15 PM |BAL @ TB 
+ |FOX
+
+|Sat 08-10 |07:10 PM |PHI @ ARI 
+ |NBC Sports Phil, DBACKS.TV
+
+|Sat 08-10 |07:10 PM |ATL @ COL 
+ |Bally Sports SE, Rockies.TV
+
+|Sat 08-10 |08:10 PM |PIT @ LAD 
+ |Sportsnet PIT, Sportsnet LA
+
+|Sat 08-10 |08:40 PM |NYM @ SEA 
+ |WPIX, Root Sports NW
+
+|Sun 08-11 |10:35 AM |LAA @ WSH 
+ |Roku
+
+|Sun 08-11 |12:35 PM |HOU @ BOS 
+ |NESN, Space City Home Network
+
+|Sun 08-11 |12:35 PM |TEX @ NYY 
+ |YES, Bally Sports SW
+
+|Sun 08-11 |12:37 PM |OAK @ TOR 
+ |Sportsnet, NBC Sports CA, Sportsnet+
+
+|Sun 08-11 |12:40 PM |BAL @ TB 
+ |MASN, Bally Sports Sun
+
+|Sun 08-11 |12:40 PM |SD @ MIA 
+ |Bally Sports FL, Padres.TV
+
+|Sun 08-11 |01:10 PM |CIN @ MIL 
+ |Bally Sports OH, Bally Sports WI
+
+|Sun 08-11 |01:10 PM |CLE @ MIN 
+ |Bally Sports North, Bally Sports GL
+
+|Sun 08-11 |02:10 PM |ATL @ COL 
+ |Bally Sports SE, Rockies.TV
+
+|Sun 08-11 |03:05 PM |DET @ SF 
+ |Bally Sports DET, NBC Sports BA
+
+|Sun 08-11 |03:10 PM |PHI @ ARI 
+ |NBC Sports Phil, DBACKS.TV
+
+|Sun 08-11 |03:10 PM |PIT @ LAD 
+ |Sportsnet PIT, Sportsnet LA
+
+|Sun 08-11 |06:00 PM |NYM @ SEA 
+ |ESPN
+
 |Mon 08-12 |05:40 PM |CUBS @ CLE 
- |
+ |Marquee Sports Net, Bally Sports GL
+
+|Mon 08-12 |05:40 PM |STL @ CIN 
+ |Bally Sports MW, Bally Sports OH
+
+|Mon 08-12 |05:50 PM |HOU @ TB 
+ |Space City Home Network, Bally Sports Sun
+
+|Mon 08-12 |06:10 PM |TEX @ BOS 
+ |NESN
+
+|Mon 08-12 |06:40 PM |KC @ MIN 
+ |Bally Sports North, Bally Sports KC
+
+|Mon 08-12 |07:10 PM |NYY @ SOX 
+ |YES, NBC Sports Chi
+
+|Mon 08-12 |07:10 PM |LAD @ MIL 
+ |Bally Sports WI, Sportsnet LA
+
+|Mon 08-12 |08:38 PM |TOR @ LAA 
+ |Sportsnet, Bally Sports West, Sportsnet+
+
+|Mon 08-12 |08:40 PM |COL @ ARI 
+ |Rockies.TV, DBACKS.TV
+
+|Mon 08-12 |08:40 PM |PIT @ SD 
+ |Sportsnet PIT, Padres.TV
+
+|Mon 08-12 |08:45 PM |ATL @ SF 
+ |Bally Sports South, NBC Sports BA
 
 |Tue 08-13 |05:40 PM |CUBS @ CLE 
- |
+ |Marquee Sports Net, Bally Sports GL
+
+|Tue 08-13 |05:35 PM |WSH @ BAL 
+ |MASN, MASN2
+
+|Tue 08-13 |05:40 PM |STL @ CIN 
+ |Bally Sports MW, Bally Sports OH
+
+|Tue 08-13 |05:40 PM |SEA @ DET 
+ |Root Sports NW, Bally Sports DET
+
+|Tue 08-13 |05:40 PM |MIA @ PHI 
+ |Bally Sports FL, NBC Sports Phil
+
+|Tue 08-13 |05:50 PM |HOU @ TB 
+ |Space City Home Network, Bally Sports Sun
+
+|Tue 08-13 |06:10 PM |TEX @ BOS 
+ |NESN, Bally Sports SW
+
+|Tue 08-13 |06:10 PM |OAK @ NYM 
+ |SNNY, NBC Sports CA
+
+|Tue 08-13 |06:40 PM |KC @ MIN 
+ |Bally Sports North, Bally Sports KC
+
+|Tue 08-13 |07:10 PM |NYY @ SOX 
+ |YES, NBC Sports Chi
+
+|Tue 08-13 |07:10 PM |LAD @ MIL 
+ |TBS, Bally Sports WI, Sportsnet LA
+
+|Tue 08-13 |08:38 PM |TOR @ LAA 
+ |Sportsnet, Bally Sports West, TVA, Sportsnet+
+
+|Tue 08-13 |08:40 PM |COL @ ARI 
+ |Rockies.TV, DBACKS.TV
+
+|Tue 08-13 |08:40 PM |PIT @ SD 
+ |Sportsnet PIT, Padres.TV
+
+|Tue 08-13 |08:45 PM |ATL @ SF 
+ |Bally Sports South, NBC Sports BA
 
 |Wed 08-14 |05:40 PM |CUBS @ CLE 
- |
+ |Marquee Sports Net, Bally Sports GL
+
+|Wed 08-14 |12:10 PM |KC @ MIN 
+ |Bally Sports North, Bally Sports KC
+
+|Wed 08-14 |02:40 PM |COL @ ARI 
+ |Rockies.TV, DBACKS.TV
+
+|Wed 08-14 |03:10 PM |PIT @ SD 
+ |Sportsnet PIT, Padres.TV
+
+|Wed 08-14 |05:10 PM |TEX @ BOS 
+ |NESN, Bally Sports SW
+
+|Wed 08-14 |05:35 PM |WSH @ BAL 
+ |MASN, MASN2
+
+|Wed 08-14 |05:40 PM |STL @ CIN 
+ |Bally Sports MW, Bally Sports OH
+
+|Wed 08-14 |05:40 PM |SEA @ DET 
+ |Root Sports NW, Bally Sports DET
+
+|Wed 08-14 |05:40 PM |MIA @ PHI 
+ |Bally Sports FL, NBC Sports Phil
+
+|Wed 08-14 |05:50 PM |HOU @ TB 
+ |Space City Home Network, Bally Sports Sun
+
+|Wed 08-14 |06:10 PM |OAK @ NYM 
+ |SNNY, NBC Sports CA
+
+|Wed 08-14 |07:10 PM |NYY @ SOX 
+ |PRIME VIDEO, NBC Sports Chi
+
+|Wed 08-14 |07:10 PM |LAD @ MIL 
+ |MLBN, Bally Sports WI, Sportsnet LA
+
+|Wed 08-14 |08:38 PM |TOR @ LAA 
+ |Sportsnet, Bally Sports West, TVA, Sportsnet+
+
+|Wed 08-14 |08:45 PM |ATL @ SF 
+ |Bally Sports South, NBC Sports BA
+
+|Thu 08-15 |12:10 PM |SEA @ DET 
+ |Root Sports NW, Bally Sports DET
+
+|Thu 08-15 |12:10 PM |OAK @ NYM 
+ |SNNY, NBC Sports CA
+
+|Thu 08-15 |01:10 PM |LAD @ MIL 
+ |Bally Sports WI, Sportsnet LA
+
+|Thu 08-15 |02:45 PM |ATL @ SF 
+ |Bally Sports South, NBC Sports BA
+
+|Thu 08-15 |05:35 PM |BOS @ BAL 
+ |NESN, MASN
+
+|Thu 08-15 |05:40 PM |WSH @ PHI 
+ |NBC Sports Phil, MASN2
+
+|Thu 08-15 |07:05 PM |MIN @ TEX 
+ |FS1, Bally Sports SW, Bally Sports North
 
 |Fri 08-16 |01:20 PM |TOR @ CUBS 
  |Apple TV+
 
+|Fri 08-16 |05:40 PM |KC @ CIN 
+ |Bally Sports OH, Bally Sports KC
+
+|Fri 08-16 |05:40 PM |NYY @ DET 
+ |YES, Bally Sports DET
+
+|Fri 08-16 |05:40 PM |WSH @ PHI 
+ |NBC Sports Phil, MASN2
+
+|Fri 08-16 |05:40 PM |SEA @ PIT 
+ |Apple TV+
+
+|Fri 08-16 |05:50 PM |ARI @ TB 
+ |Bally Sports Sun, DBACKS.TV
+
+|Fri 08-16 |06:05 PM |BOS @ BAL 
+ |NESN, MASN
+
+|Fri 08-16 |06:10 PM |MIA @ NYM 
+ |SNNY, Bally Sports FL
+
+|Fri 08-16 |07:05 PM |MIN @ TEX 
+ |Bally Sports SW, Bally Sports North
+
+|Fri 08-16 |07:10 PM |SOX @ HOU 
+ |Space City Home Network, NBC Sports Chi
+
+|Fri 08-16 |07:10 PM |CLE @ MIL 
+ |Bally Sports WI, Bally Sports GL
+
+|Fri 08-16 |07:15 PM |LAD @ STL 
+ |Bally Sports MW, Sportsnet LA
+
+|Fri 08-16 |07:40 PM |SD @ COL 
+ |Rockies.TV, Padres.TV
+
+|Fri 08-16 |08:38 PM |ATL @ LAA 
+ |Bally Sports SE, Bally Sports West
+
 |Sat 08-17 |01:20 PM |TOR @ CUBS 
- |
+ |Marquee Sports Net, Sportsnet, TVA, Sportsnet+
+
+|Sat 08-17 |12:05 PM |SEA @ PIT 
+ |Root Sports NW, Sportsnet PIT
+
+|Sat 08-17 |12:10 PM |NYY @ DET 
+ |YES, Bally Sports DET
+
+|Sat 08-17 |03:10 PM |ARI @ TB 
+ |Bally Sports Sun, DBACKS.TV
+
+|Sat 08-17 |03:10 PM |MIA @ NYM 
+ |SNNY, Bally Sports FL
+
+|Sat 08-17 |05:05 PM |WSH @ PHI 
+ |NBC Sports Phil, MASN2
+
+|Sat 08-17 |05:40 PM |KC @ CIN 
+ |Bally Sports OH, Bally Sports KC
+
+|Sat 08-17 |06:05 PM |BOS @ BAL 
+ |NESN, MASN
+
+|Sat 08-17 |06:05 PM |MIN @ TEX 
+ |Bally Sports SW, Bally Sports North
+
+|Sat 08-17 |06:07 PM |SF @ OAK 
+ |NBC Sports CA, NBC Sports BA
+
+|Sat 08-17 |06:10 PM |SOX @ HOU 
+ |Space City Home Network, NBC Sports Chi
+
+|Sat 08-17 |06:15 PM |CLE @ MIL 
+ |FOX, Bally Sports WI
+
+|Sat 08-17 |06:15 PM |LAD @ STL 
+ |FOX
+
+|Sat 08-17 |07:10 PM |SD @ COL 
+ |Rockies.TV, Padres.TV
+
+|Sat 08-17 |08:38 PM |ATL @ LAA 
+ |Bally Sports SE, Bally Sports West
 
 |Sun 08-18 |01:20 PM |TOR @ CUBS 
- |
+ |Marquee Sports Net, Sportsnet, TVA, Sportsnet+
+
+|Sun 08-18 |11:05 AM |MIA @ NYM 
+ |Roku
+
+|Sun 08-18 |12:35 PM |BOS @ BAL 
+ |NESN, MASN
+
+|Sun 08-18 |12:35 PM |WSH @ PHI 
+ |NBC Sports Phil, MASN2
+
+|Sun 08-18 |12:35 PM |SEA @ PIT 
+ |Root Sports NW, Sportsnet PIT
+
+|Sun 08-18 |12:40 PM |ARI @ TB 
+ |Bally Sports Sun, DBACKS.TV
+
+|Sun 08-18 |12:40 PM |KC @ CIN 
+ |Bally Sports OH, Bally Sports KC
+
+|Sun 08-18 |01:10 PM |SOX @ HOU 
+ |Space City Home Network, NBC Sports Chi
+
+|Sun 08-18 |01:10 PM |CLE @ MIL 
+ |Bally Sports WI, Bally Sports GL
+
+|Sun 08-18 |01:15 PM |LAD @ STL 
+ |Bally Sports MW, Sportsnet LA
+
+|Sun 08-18 |01:35 PM |MIN @ TEX 
+ |Bally Sports SW, Bally Sports North
+
+|Sun 08-18 |02:10 PM |SD @ COL 
+ |Rockies.TV, Padres.TV
+
+|Sun 08-18 |03:07 PM |ATL @ LAA 
+ |Bally Sports SE, Bally Sports West
+
+|Sun 08-18 |03:07 PM |SF @ OAK 
+ |NBC Sports CA, NBC Sports BA
+
+|Sun 08-18 |06:00 PM |NYY @ DET 
+ |ESPN
+
+|Mon 08-19 |05:40 PM |ARI @ MIA 
+ |Bally Sports FL, DBACKS.TV
+
+|Mon 08-19 |06:07 PM |CIN @ TOR 
+ |Bally Sports OH, Sportsnet, TVA, Sportsnet+
+
+|Mon 08-19 |06:10 PM |BAL @ NYM 
+ |MASN, SNNY
+
+|Mon 08-19 |07:05 PM |PIT @ TEX 
+ |Sportsnet PIT, Bally Sports SW
+
+|Mon 08-19 |07:10 PM |BOS @ HOU 
+ |NESN, Space City Home Network
+
+|Mon 08-19 |07:10 PM |LAA @ KC 
+ |Bally Sports West, Bally Sports KC
+
+|Mon 08-19 |08:40 PM |MIN @ SD 
+ |FS1, Bally Sports North, Padres.TV
+
+|Mon 08-19 |08:40 PM |TB @ OAK 
+ |NBC Sports CA, Bally Sports Sun
+
+|Mon 08-19 |08:45 PM |SOX @ SF 
+ |NBC Sports Chi, NBC Sports BA
+
+|Mon 08-19 |09:10 PM |SEA @ LAD 
+ |Root Sports NW, Sportsnet LA
 
 |Tue 08-20 |07:05 PM |DET @ CUBS 
- |
+ |Bally Sports DET, Marquee Sports Net
+
+|Tue 08-20 |05:40 PM |ARI @ MIA 
+ |Bally Sports FL, DBACKS.TV
+
+|Tue 08-20 |05:45 PM |COL @ WSH 
+ |MASN, Rockies.TV
+
+|Tue 08-20 |06:05 PM |CLE @ NYY 
+ |YES, Bally Sports GL
+
+|Tue 08-20 |06:07 PM |CIN @ TOR 
+ |Bally Sports OH, Sportsnet, TVA, Sportsnet+
+
+|Tue 08-20 |06:10 PM |BAL @ NYM 
+ |MASN, SNNY
+
+|Tue 08-20 |06:20 PM |PHI @ ATL 
+ |TBS, Bally Sports South, NBC Sports Phil
+
+|Tue 08-20 |06:45 PM |MIL @ STL 
+ |Bally Sports MW, Bally Sports WI
+
+|Tue 08-20 |07:05 PM |PIT @ TEX 
+ |Sportsnet PIT, Bally Sports SW
+
+|Tue 08-20 |07:10 PM |BOS @ HOU 
+ |NESN, Space City Home Network
+
+|Tue 08-20 |07:10 PM |LAA @ KC 
+ |Bally Sports West, Bally Sports KC
+
+|Tue 08-20 |08:40 PM |MIN @ SD 
+ |Bally Sports North, Padres.TV
+
+|Tue 08-20 |08:40 PM |TB @ OAK 
+ |NBC Sports CA, Bally Sports Sun
+
+|Tue 08-20 |08:45 PM |SOX @ SF 
+ |NBC Sports Chi, NBC Sports BA
+
+|Tue 08-20 |09:10 PM |SEA @ LAD 
+ |Root Sports NW, Sportsnet LA
 
 |Wed 08-21 |07:05 PM |DET @ CUBS 
- |
+ |Bally Sports DET, Marquee Sports Net
+
+|Wed 08-21 |12:10 PM |BAL @ NYM 
+ |MASN, SNNY
+
+|Wed 08-21 |01:10 PM |BOS @ HOU 
+ |NESN, Space City Home Network
+
+|Wed 08-21 |01:35 PM |PIT @ TEX 
+ |Sportsnet PIT, Bally Sports SW
+
+|Wed 08-21 |02:45 PM |SOX @ SF 
+ |NBC Sports Chi, NBC Sports BA
+
+|Wed 08-21 |05:40 PM |ARI @ MIA 
+ |Bally Sports FL, DBACKS.TV
+
+|Wed 08-21 |05:40 PM |MIN @ SD 
+ |Bally Sports North, Padres.TV
+
+|Wed 08-21 |05:45 PM |COL @ WSH 
+ |MASN, Rockies.TV
+
+|Wed 08-21 |06:05 PM |CLE @ NYY 
+ |PRIME VIDEO, Bally Sports GL
+
+|Wed 08-21 |06:07 PM |CIN @ TOR 
+ |Bally Sports OH, Sportsnet, TVA, Sportsnet+
+
+|Wed 08-21 |06:20 PM |PHI @ ATL 
+ |Bally Sports South, NBC Sports Phil
+
+|Wed 08-21 |06:45 PM |MIL @ STL 
+ |FS1, Bally Sports MW, Bally Sports WI
+
+|Wed 08-21 |07:10 PM |LAA @ KC 
+ |Bally Sports West, Bally Sports KC
+
+|Wed 08-21 |08:40 PM |TB @ OAK 
+ |NBC Sports CA, Bally Sports Sun
+
+|Wed 08-21 |09:10 PM |SEA @ LAD 
+ |Root Sports NW, Sportsnet LA
 
 |Thu 08-22 |01:20 PM |DET @ CUBS 
- |
+ |Bally Sports DET, Marquee Sports Net
+
+|Thu 08-22 |12:05 PM |CLE @ NYY 
+ |YES, Bally Sports GL
+
+|Thu 08-22 |12:05 PM |COL @ WSH 
+ |MASN, Rockies.TV
+
+|Thu 08-22 |01:15 PM |MIL @ STL 
+ |Bally Sports MW, Bally Sports WI
+
+|Thu 08-22 |02:37 PM |TB @ OAK 
+ |NBC Sports CA, Bally Sports Sun
+
+|Thu 08-22 |05:40 PM |CIN @ PIT 
+ |Sportsnet PIT, Bally Sports OH
+
+|Thu 08-22 |06:07 PM |LAA @ TOR 
+ |Sportsnet, Bally Sports West, TVA, Sportsnet+
+
+|Thu 08-22 |06:15 PM |PHI @ ATL 
+ |FOX
+
+|Thu 08-22 |06:15 PM |HOU @ BAL 
+ |FOX
+
+|Thu 08-22 |08:40 PM |NYM @ SD 
+ |SNNY, Padres.TV
 
 |Fri 08-23 |06:10 PM |CUBS @ MIA 
- |
+ |Bally Sports FL, Marquee Sports Net
+
+|Fri 08-23 |05:40 PM |CIN @ PIT 
+ |Apple TV+
+
+|Fri 08-23 |06:05 PM |HOU @ BAL 
+ |Space City Home Network, MASN2
+
+|Fri 08-23 |06:05 PM |COL @ NYY 
+ |YES, Rockies.TV
+
+|Fri 08-23 |06:07 PM |LAA @ TOR 
+ |Sportsnet, Bally Sports West, Sportsnet+
+
+|Fri 08-23 |06:10 PM |ARI @ BOS 
+ |NESN, DBACKS.TV
+
+|Fri 08-23 |06:10 PM |TEX @ CLE 
+ |Bally Sports SW, Bally Sports GL
+
+|Fri 08-23 |06:20 PM |WSH @ ATL 
+ |MASN, Bally Sports SE
+
+|Fri 08-23 |07:10 PM |DET @ SOX 
+ |Bally Sports DET, NBC Sports Chi
+
+|Fri 08-23 |07:10 PM |PHI @ KC 
+ |Bally Sports KC, NBC 10
+
+|Fri 08-23 |07:10 PM |STL @ MIN 
+ |Apple TV+
+
+|Fri 08-23 |08:40 PM |MIL @ OAK 
+ |Bally Sports WI, NBC Sports CA
+
+|Fri 08-23 |08:40 PM |NYM @ SD 
+ |SNNY, Padres.TV
+
+|Fri 08-23 |09:10 PM |TB @ LAD 
+ |Sportsnet LA, Bally Sports Sun
+
+|Fri 08-23 |09:10 PM |SF @ SEA 
+ |Root Sports NW, NBC Sports BA
 
 |Sat 08-24 |03:10 PM |CUBS @ MIA 
- |
+ |Bally Sports FL, Marquee Sports Net
+
+|Sat 08-24 |01:05 PM |COL @ NYY 
+ |YES, Rockies.TV
+
+|Sat 08-24 |02:07 PM |LAA @ TOR 
+ |Sportsnet, Bally Sports West, TVA, Sportsnet+
+
+|Sat 08-24 |03:05 PM |HOU @ BAL 
+ |Space City Home Network, MASN2
+
+|Sat 08-24 |03:07 PM |MIL @ OAK 
+ |Bally Sports WI, NBC Sports CA
+
+|Sat 08-24 |03:10 PM |ARI @ BOS 
+ |NESN, DBACKS.TV
+
+|Sat 08-24 |03:10 PM |SF @ SEA 
+ |Root Sports NW, NBC Sports BA
+
+|Sat 08-24 |05:40 PM |CIN @ PIT 
+ |Sportsnet PIT, Bally Sports OH
+
+|Sat 08-24 |06:10 PM |DET @ SOX 
+ |Bally Sports DET, NBC Sports Chi
+
+|Sat 08-24 |06:10 PM |TEX @ CLE 
+ |Bally Sports SW, Bally Sports GL
+
+|Sat 08-24 |06:10 PM |PHI @ KC 
+ |MLBN, Bally Sports KC, NBC Sports Phil
+
+|Sat 08-24 |06:10 PM |STL @ MIN 
+ |Bally Sports MW, Bally Sports North
+
+|Sat 08-24 |06:20 PM |WSH @ ATL 
+ |MASN, Bally Sports SE
+
+|Sat 08-24 |07:40 PM |NYM @ SD 
+ |WPIX, Padres.TV
+
+|Sat 08-24 |08:10 PM |TB @ LAD 
+ |Sportsnet LA, Bally Sports Sun
 
 |Sun 08-25 |12:40 PM |CUBS @ MIA 
- |
+ |Bally Sports FL, Marquee Sports Net
+
+|Sun 08-25 |11:05 AM |WSH @ ATL 
+ |Roku
+
+|Sun 08-25 |12:35 PM |ARI @ BOS 
+ |NESN, DBACKS.TV
+
+|Sun 08-25 |12:35 PM |HOU @ BAL 
+ |MASN, Space City Home Network
+
+|Sun 08-25 |12:35 PM |CIN @ PIT 
+ |Sportsnet PIT, Bally Sports OH
+
+|Sun 08-25 |12:35 PM |COL @ NYY 
+ |YES, Rockies.TV
+
+|Sun 08-25 |12:37 PM |LAA @ TOR 
+ |Sportsnet, Bally Sports West, TVA, Sportsnet+
+
+|Sun 08-25 |12:40 PM |TEX @ CLE 
+ |Bally Sports SW, Bally Sports GL
+
+|Sun 08-25 |01:10 PM |DET @ SOX 
+ |Bally Sports DET, NBC Sports Chi
+
+|Sun 08-25 |01:10 PM |PHI @ KC 
+ |Bally Sports KC, NBC Sports Phil
+
+|Sun 08-25 |01:10 PM |STL @ MIN 
+ |Bally Sports MW, Bally Sports North
+
+|Sun 08-25 |03:07 PM |MIL @ OAK 
+ |Bally Sports WI, NBC Sports CA
+
+|Sun 08-25 |03:10 PM |TB @ LAD 
+ |Sportsnet LA, Bally Sports Sun
+
+|Sun 08-25 |03:10 PM |NYM @ SD 
+ |WPIX, Padres.TV
+
+|Sun 08-25 |03:10 PM |SF @ SEA 
+ |Root Sports NW, NBC Sports BA
 
 |Mon 08-26 |05:40 PM |CUBS @ PIT 
- |
+ |Sportsnet PIT, Marquee Sports Net
+
+|Mon 08-26 |12:10 PM |KC @ CLE 
+ |Bally Sports GL, Bally Sports KC
+
+|Mon 08-26 |05:40 PM |KC @ CLE 
+ |Bally Sports GL, Bally Sports KC
+
+|Mon 08-26 |05:40 PM |HOU @ PHI 
+ |FS1, Space City Home Network, NBC Sports Phil
+
+|Mon 08-26 |05:45 PM |NYY @ WSH 
+ |YES, MASN
+
+|Mon 08-26 |06:10 PM |TOR @ BOS 
+ |NESN, Sportsnet, TVA, Sportsnet+
+
+|Mon 08-26 |06:40 PM |ATL @ MIN 
+ |Bally Sports North, Bally Sports South
+
+|Mon 08-26 |06:45 PM |SD @ STL 
+ |Bally Sports MW, Padres.TV
+
+|Mon 08-26 |07:10 PM |DET @ SOX 
+ |Bally Sports DET, NBC Sports Chi
+
+|Mon 08-26 |07:40 PM |MIA @ COL 
+ |Bally Sports FL, Rockies.TV
+
+|Mon 08-26 |08:40 PM |TB @ SEA 
+ |FS1, Root Sports NW, Bally Sports Sun
 
 |Tue 08-27 |05:40 PM |CUBS @ PIT 
- |
+ |Sportsnet PIT, Marquee Sports Net
+
+|Tue 08-27 |05:40 PM |OAK @ CIN 
+ |Bally Sports OH, NBC Sports CA
+
+|Tue 08-27 |05:40 PM |KC @ CLE 
+ |Bally Sports GL, Bally Sports KC
+
+|Tue 08-27 |05:40 PM |LAA @ DET 
+ |Bally Sports DET, Bally Sports West
+
+|Tue 08-27 |05:40 PM |HOU @ PHI 
+ |Space City Home Network, NBC Sports Phil
+
+|Tue 08-27 |05:45 PM |NYY @ WSH 
+ |YES, MASN
+
+|Tue 08-27 |06:10 PM |TOR @ BOS 
+ |NESN, Sportsnet, TVA, Sportsnet+
+
+|Tue 08-27 |06:40 PM |ATL @ MIN 
+ |Bally Sports North, Bally Sports South
+
+|Tue 08-27 |06:45 PM |SD @ STL 
+ |Bally Sports MW, Padres.TV
+
+|Tue 08-27 |07:10 PM |TEX @ SOX 
+ |Bally Sports SW, NBC Sports Chi
+
+|Tue 08-27 |07:10 PM |SF @ MIL 
+ |Bally Sports WI, NBC Sports BA
+
+|Tue 08-27 |07:40 PM |MIA @ COL 
+ |Bally Sports FL, Rockies.TV
+
+|Tue 08-27 |08:40 PM |NYM @ ARI 
+ |SNNY, DBACKS.TV
+
+|Tue 08-27 |08:40 PM |TB @ SEA 
+ |Root Sports NW, Bally Sports Sun
+
+|Tue 08-27 |09:10 PM |BAL @ LAD 
+ |Sportsnet LA, MASN2
 
 |Wed 08-28 |11:35 AM |CUBS @ PIT 
- |
+ |Sportsnet PIT, Marquee Sports Net
+
+|Wed 08-28 |12:10 PM |KC @ CLE 
+ |Bally Sports GL, Bally Sports KC
+
+|Wed 08-28 |03:05 PM |HOU @ PHI 
+ |Space City Home Network, NBC Sports Phil
+
+|Wed 08-28 |03:10 PM |TB @ SEA 
+ |Root Sports NW, Bally Sports Sun
+
+|Wed 08-28 |05:40 PM |OAK @ CIN 
+ |Bally Sports OH, NBC Sports CA
+
+|Wed 08-28 |05:40 PM |LAA @ DET 
+ |Bally Sports DET, Bally Sports West
+
+|Wed 08-28 |05:45 PM |NYY @ WSH 
+ |PRIME VIDEO, MASN
+
+|Wed 08-28 |06:10 PM |TOR @ BOS 
+ |NESN, Sportsnet, TVA, Sportsnet+
+
+|Wed 08-28 |06:40 PM |ATL @ MIN 
+ |Bally Sports North, Bally Sports South
+
+|Wed 08-28 |06:45 PM |SD @ STL 
+ |Bally Sports MW, Padres.TV
+
+|Wed 08-28 |07:10 PM |TEX @ SOX 
+ |Bally Sports SW, NBC Sports Chi
+
+|Wed 08-28 |07:10 PM |SF @ MIL 
+ |Bally Sports WI, NBC Sports BA
+
+|Wed 08-28 |07:40 PM |MIA @ COL 
+ |FS1, Bally Sports FL, Rockies.TV
+
+|Wed 08-28 |08:40 PM |NYM @ ARI 
+ |SNNY, DBACKS.TV
+
+|Wed 08-28 |09:10 PM |BAL @ LAD 
+ |Sportsnet LA, MASN2
+
+|Thu 08-29 |12:10 PM |LAA @ DET 
+ |Bally Sports DET, Bally Sports West
+
+|Thu 08-29 |01:10 PM |TEX @ SOX 
+ |Bally Sports SW, NBC Sports Chi
+
+|Thu 08-29 |01:10 PM |SF @ MIL 
+ |Bally Sports WI, NBC Sports BA
+
+|Thu 08-29 |01:15 PM |SD @ STL 
+ |Bally Sports MW, Padres.TV
+
+|Thu 08-29 |02:10 PM |MIA @ COL 
+ |Bally Sports FL, Rockies.TV
+
+|Thu 08-29 |02:40 PM |NYM @ ARI 
+ |SNNY, DBACKS.TV
+
+|Thu 08-29 |04:10 PM |OAK @ CIN 
+ |Bally Sports OH, NBC Sports CA
+
+|Thu 08-29 |05:40 PM |ATL @ PHI 
+ |MLBN, Bally Sports SE, NBC Sports Phil
+
+|Thu 08-29 |06:10 PM |TOR @ BOS 
+ |NESN, Sportsnet, TVA, Sportsnet+
+
+|Thu 08-29 |07:10 PM |KC @ HOU 
+ |Space City Home Network, Bally Sports KC
+
+|Thu 08-29 |09:10 PM |BAL @ LAD 
+ |MASN, Sportsnet LA
 
 |Fri 08-30 |05:45 PM |CUBS @ WSH 
- |
+ |MASN, Marquee Sports Net
+
+|Fri 08-30 |11:40 AM |MIL @ CIN 
+ |Bally Sports OH, Bally Sports WI
+
+|Fri 08-30 |05:40 PM |ATL @ PHI 
+ |Bally Sports SE, NBC Sports Phil
+
+|Fri 08-30 |05:40 PM |BOS @ DET 
+ |NESN, Bally Sports DET
+
+|Fri 08-30 |05:40 PM |MIL @ CIN 
+ |Bally Sports OH, Bally Sports WI
+
+|Fri 08-30 |05:50 PM |SD @ TB 
+ |Apple TV+
+
+|Fri 08-30 |06:05 PM |STL @ NYY 
+ |YES, Bally Sports MW
+
+|Fri 08-30 |06:10 PM |PIT @ CLE 
+ |Sportsnet PIT, Bally Sports GL
+
+|Fri 08-30 |07:05 PM |OAK @ TEX 
+ |Bally Sports SW, NBC Sports CA
+
+|Fri 08-30 |07:10 PM |NYM @ SOX 
+ |WPIX, NBC Sports Chi
+
+|Fri 08-30 |07:10 PM |KC @ HOU 
+ |Space City Home Network, Bally Sports KC
+
+|Fri 08-30 |07:10 PM |TOR @ MIN 
+ |Bally Sports North, Sportsnet, Sportsnet+
+
+|Fri 08-30 |07:40 PM |BAL @ COL 
+ |MASN2, Rockies.TV
+
+|Fri 08-30 |08:38 PM |SEA @ LAA 
+ |Apple TV+
+
+|Fri 08-30 |08:40 PM |LAD @ ARI 
+ |Sportsnet LA, DBACKS.TV
+
+|Fri 08-30 |09:15 PM |MIA @ SF 
+ |Bally Sports FL, NBC Sports BA
 
 |Sat 08-31 |03:05 PM |CUBS @ WSH 
- |
+ |MASN, Marquee Sports Net
+
+|Sat 08-31 |12:05 PM |STL @ NYY 
+ |YES, Bally Sports MW
+
+|Sat 08-31 |03:10 PM |SD @ TB 
+ |Bally Sports Sun, Padres.TV
+
+|Sat 08-31 |05:10 PM |BOS @ DET 
+ |NESN, Bally Sports DET
+
+|Sat 08-31 |05:10 PM |PIT @ CLE 
+ |Sportsnet PIT, Bally Sports GL
+
+|Sat 08-31 |06:05 PM |OAK @ TEX 
+ |Bally Sports SW, NBC Sports CA
+
+|Sat 08-31 |06:10 PM |NYM @ SOX 
+ |WPIX, NBC Sports Chi
+
+|Sat 08-31 |06:10 PM |KC @ HOU 
+ |Space City Home Network, Bally Sports KC
+
+|Sat 08-31 |06:10 PM |TOR @ MIN 
+ |Bally Sports North, Sportsnet, TVA, Sportsnet+
+
+|Sat 08-31 |06:15 PM |ATL @ PHI 
+ |FOX
+
+|Sat 08-31 |06:15 PM |MIL @ CIN 
+ |FOX
+
+|Sat 08-31 |07:10 PM |LAD @ ARI 
+ |Sportsnet LA, DBACKS.TV
+
+|Sat 08-31 |07:10 PM |BAL @ COL 
+ |MASN2, Rockies.TV
+
+|Sat 08-31 |08:05 PM |MIA @ SF 
+ |Bally Sports FL, NBC Sports BA
+
+|Sat 08-31 |08:38 PM |SEA @ LAA 
+ |Root Sports NW, Bally Sports West
 
 |Sun 09-01 |12:35 PM |CUBS @ WSH 
- |
+ |MASN, Marquee Sports Net
+
+|Sun 09-01 |11:10 AM |MIL @ CIN 
+ |Bally Sports OH, Bally Sports WI
+
+|Sun 09-01 |12:35 PM |STL @ NYY 
+ |YES, Bally Sports MW
+
+|Sun 09-01 |12:40 PM |BOS @ DET 
+ |NESN, Bally Sports DET
+
+|Sun 09-01 |12:40 PM |SD @ TB 
+ |Bally Sports Sun, Padres.TV
+
+|Sun 09-01 |01:10 PM |NYM @ SOX 
+ |SNNY, NBC Sports Chi
+
+|Sun 09-01 |01:10 PM |KC @ HOU 
+ |Space City Home Network, Bally Sports KC
+
+|Sun 09-01 |01:10 PM |TOR @ MIN 
+ |Bally Sports North, Sportsnet, TVA, Sportsnet+
+
+|Sun 09-01 |01:35 PM |OAK @ TEX 
+ |Bally Sports SW, NBC Sports CA
+
+|Sun 09-01 |01:40 PM |PIT @ CLE 
+ |Sportsnet PIT, Bally Sports GL
+
+|Sun 09-01 |02:10 PM |BAL @ COL 
+ |MASN2, Rockies.TV
+
+|Sun 09-01 |03:05 PM |MIA @ SF 
+ |Bally Sports FL, NBC Sports BA
+
+|Sun 09-01 |03:07 PM |SEA @ LAA 
+ |Root Sports NW, Bally Sports West
+
+|Sun 09-01 |03:10 PM |LAD @ ARI 
+ |Roku
+
+|Sun 09-01 |06:00 PM |ATL @ PHI 
+ |ESPN
 
 |Mon 09-02 |06:40 PM |PIT @ CUBS 
- |
+ |Sportsnet PIT, Marquee Sports Net
+
+|Mon 09-02 |01:10 PM |STL @ MIL 
+ |Bally Sports MW, Bally Sports WI
+
+|Mon 09-02 |02:05 PM |SOX @ BAL 
+ |MASN, NBC Sports Chi
+
+|Mon 09-02 |03:10 PM |LAD @ ARI 
+ |Sportsnet LA, DBACKS.TV
+
+|Mon 09-02 |03:10 PM |HOU @ CIN 
+ |Space City Home Network, Bally Sports OH
+
+|Mon 09-02 |03:10 PM |CLE @ KC 
+ |Bally Sports GL, Bally Sports KC
+
+|Mon 09-02 |05:40 PM |DET @ SD 
+ |Bally Sports DET, Padres.TV
+
+|Mon 09-02 |05:50 PM |MIN @ TB 
+ |Bally Sports North, Bally Sports Sun
+
+|Mon 09-02 |06:07 PM |SEA @ OAK 
+ |Root Sports NW, NBC Sports CA
+
+|Mon 09-02 |06:10 PM |BOS @ NYM 
+ |NESN, SNNY
+
+|Mon 09-02 |07:05 PM |NYY @ TEX 
+ |YES, Bally Sports SW
 
 |Tue 09-03 |06:40 PM |PIT @ CUBS 
- |
+ |Sportsnet PIT, Marquee Sports Net
+
+|Tue 09-03 |05:35 PM |SOX @ BAL 
+ |NBC Sports Chi, MASN2
+
+|Tue 09-03 |05:40 PM |WSH @ MIA 
+ |MASN, Bally Sports FL
+
+|Tue 09-03 |05:50 PM |MIN @ TB 
+ |Bally Sports North, Bally Sports Sun
+
+|Tue 09-03 |06:07 PM |PHI @ TOR 
+ |Sportsnet, TVA, NBC Sports Phil, Sportsnet+
+
+|Tue 09-03 |06:10 PM |BOS @ NYM 
+ |NESN, SNNY
+
+|Tue 09-03 |06:20 PM |COL @ ATL 
+ |Bally Sports South, Rockies.TV
+
+|Tue 09-03 |06:40 PM |CLE @ KC 
+ |Bally Sports GL, Bally Sports KC
+
+|Tue 09-03 |06:40 PM |STL @ MIL 
+ |Bally Sports MW, Bally Sports WI
+
+|Tue 09-03 |07:05 PM |NYY @ TEX 
+ |YES, Bally Sports SW
+
+|Tue 09-03 |08:38 PM |LAD @ LAA 
+ |Bally Sports West, Sportsnet LA
+
+|Tue 09-03 |08:40 PM |SEA @ OAK 
+ |Root Sports NW, NBC Sports CA
+
+|Tue 09-03 |08:45 PM |ARI @ SF 
+ |NBC Sports BA, DBACKS.TV
 
 |Wed 09-04 |06:40 PM |PIT @ CUBS 
- |
+ |Sportsnet PIT, Marquee Sports Net
+
+|Wed 09-04 |02:07 PM |PHI @ TOR 
+ |Sportsnet, NBC 10, Sportsnet+
+
+|Wed 09-04 |05:35 PM |SOX @ BAL 
+ |NBC Sports Chi, MASN2
+
+|Wed 09-04 |05:40 PM |HOU @ CIN 
+ |Space City Home Network, Bally Sports OH
+
+|Wed 09-04 |05:40 PM |WSH @ MIA 
+ |MASN, Bally Sports FL
+
+|Wed 09-04 |05:50 PM |MIN @ TB 
+ |Bally Sports North, Bally Sports Sun
+
+|Wed 09-04 |06:10 PM |BOS @ NYM 
+ |NESN, SNNY
+
+|Wed 09-04 |06:20 PM |COL @ ATL 
+ |Bally Sports South, Rockies.TV
+
+|Wed 09-04 |06:40 PM |CLE @ KC 
+ |FS1, Bally Sports GL, Bally Sports KC
+
+|Wed 09-04 |06:40 PM |STL @ MIL 
+ |Bally Sports MW, Bally Sports WI
+
+|Wed 09-04 |07:05 PM |NYY @ TEX 
+ |PRIME VIDEO, Bally Sports SW
+
+|Wed 09-04 |08:38 PM |LAD @ LAA 
+ |Bally Sports West, Sportsnet LA
+
+|Wed 09-04 |08:40 PM |DET @ SD 
+ |Bally Sports DET, Padres.TV
+
+|Wed 09-04 |08:40 PM |SEA @ OAK 
+ |Root Sports NW, NBC Sports CA
+
+|Wed 09-04 |08:45 PM |ARI @ SF 
+ |NBC Sports BA, DBACKS.TV
+
+|Thu 09-05 |12:10 PM |HOU @ CIN 
+ |Space City Home Network, Bally Sports OH
+
+|Thu 09-05 |12:10 PM |MIN @ TB 
+ |Bally Sports North, Bally Sports Sun
+
+|Thu 09-05 |02:37 PM |SEA @ OAK 
+ |Root Sports NW, NBC Sports CA
+
+|Thu 09-05 |02:45 PM |ARI @ SF 
+ |NBC Sports BA, DBACKS.TV
+
+|Thu 09-05 |05:40 PM |PHI @ MIA 
+ |Bally Sports FL, NBC Sports Phil
+
+|Thu 09-05 |05:40 PM |WSH @ PIT 
+ |MASN, Sportsnet PIT
+
+|Thu 09-05 |06:20 PM |COL @ ATL 
+ |Bally Sports South, Rockies.TV
+
+|Thu 09-05 |07:05 PM |LAA @ TEX 
+ |Bally Sports SW, Bally Sports West
+
+|Thu 09-05 |07:40 PM |DET @ SD 
+ |Bally Sports DET, Padres.TV
 
 |Fri 09-06 |01:20 PM |NYY @ CUBS 
- |
+ |YES, Marquee Sports Net
+
+|Fri 09-06 |05:10 PM |COL @ MIL 
+ |Bally Sports WI, Rockies.TV
+
+|Fri 09-06 |05:40 PM |WSH @ PIT 
+ |Sportsnet PIT, MASN2
+
+|Fri 09-06 |06:05 PM |TB @ BAL 
+ |MASN, Bally Sports Sun
+
+|Fri 09-06 |06:10 PM |SOX @ BOS 
+ |NESN, NBC Sports Chi
+
+|Fri 09-06 |06:10 PM |CIN @ NYM 
+ |SNNY, Bally Sports OH
+
+|Fri 09-06 |06:10 PM |PHI @ MIA 
+ |Bally Sports FL, NBC Sports Phil
+
+|Fri 09-06 |06:20 PM |TOR @ ATL 
+ |Bally Sports SE, Sportsnet, TVA, Sportsnet+
+
+|Fri 09-06 |07:05 PM |LAA @ TEX 
+ |Bally Sports SW, Bally Sports West
+
+|Fri 09-06 |07:10 PM |ARI @ HOU 
+ |Space City Home Network, DBACKS.TV
+
+|Fri 09-06 |07:10 PM |MIN @ KC 
+ |Bally Sports North, Bally Sports KC
+
+|Fri 09-06 |07:15 PM |SEA @ STL 
+ |Root Sports NW, Bally Sports MW
+
+|Fri 09-06 |08:40 PM |DET @ OAK 
+ |Bally Sports DET, NBC Sports CA
+
+|Fri 09-06 |08:40 PM |SF @ SD 
+ |NBC Sports BA, Padres.TV
+
+|Fri 09-06 |09:10 PM |CLE @ LAD 
+ |Bally Sports GL, Sportsnet LA
 
 |Sat 09-07 |01:20 PM |NYY @ CUBS 
- |
+ |YES, Marquee Sports Net
+
+|Sat 09-07 |03:05 PM |TB @ BAL 
+ |MASN, Bally Sports Sun
+
+|Sat 09-07 |03:07 PM |DET @ OAK 
+ |Bally Sports DET, NBC Sports CA
+
+|Sat 09-07 |03:10 PM |ARI @ HOU 
+ |Space City Home Network, DBACKS.TV
+
+|Sat 09-07 |03:10 PM |CIN @ NYM 
+ |SNNY, Bally Sports OH
+
+|Sat 09-07 |03:10 PM |PHI @ MIA 
+ |Bally Sports FL, NBC Sports Phil
+
+|Sat 09-07 |05:40 PM |WSH @ PIT 
+ |Sportsnet PIT, MASN2
+
+|Sat 09-07 |06:05 PM |LAA @ TEX 
+ |FOX
+
+|Sat 09-07 |06:10 PM |COL @ MIL 
+ |Bally Sports WI, Rockies.TV
+
+|Sat 09-07 |06:15 PM |SOX @ BOS 
+ |FOX
+
+|Sat 09-07 |06:15 PM |MIN @ KC 
+ |FOX
+
+|Sat 09-07 |06:15 PM |SEA @ STL 
+ |Root Sports NW, Bally Sports MW
+
+|Sat 09-07 |06:20 PM |TOR @ ATL 
+ |Bally Sports SE, Sportsnet, Sportsnet+
+
+|Sat 09-07 |07:40 PM |SF @ SD 
+ |NBC Sports BA, Padres.TV
+
+|Sat 09-07 |08:10 PM |CLE @ LAD 
+ |Bally Sports GL, Sportsnet LA
 
 |Sun 09-08 |01:20 PM |NYY @ CUBS 
- |
+ |YES, Marquee Sports Net
+
+|Sun 09-08 |11:05 AM |TB @ BAL 
+ |Roku
+
+|Sun 09-08 |12:35 PM |TOR @ ATL 
+ |Bally Sports SE, Sportsnet, TVA, Sportsnet+
+
+|Sun 09-08 |12:35 PM |SOX @ BOS 
+ |NESN, NBC Sports Chi
+
+|Sun 09-08 |12:35 PM |WSH @ PIT 
+ |MASN, Sportsnet PIT
+
+|Sun 09-08 |12:40 PM |CIN @ NYM 
+ |SNNY, Bally Sports OH
+
+|Sun 09-08 |12:40 PM |PHI @ MIA 
+ |Bally Sports FL, NBC Sports Phil
+
+|Sun 09-08 |01:10 PM |ARI @ HOU 
+ |Space City Home Network, DBACKS.TV
+
+|Sun 09-08 |01:10 PM |COL @ MIL 
+ |Bally Sports WI, Rockies.TV
+
+|Sun 09-08 |01:10 PM |MIN @ KC 
+ |Bally Sports North, Bally Sports KC
+
+|Sun 09-08 |01:15 PM |SEA @ STL 
+ |Root Sports NW, Bally Sports MW
+
+|Sun 09-08 |01:35 PM |LAA @ TEX 
+ |Bally Sports SW, Bally Sports West
+
+|Sun 09-08 |03:07 PM |DET @ OAK 
+ |Bally Sports DET, NBC Sports CA
+
+|Sun 09-08 |03:10 PM |CLE @ LAD 
+ |Bally Sports GL, Sportsnet LA
+
+|Sun 09-08 |03:10 PM |SF @ SD 
+ |NBC Sports BA, Padres.TV
 
 |Mon 09-09 |09:10 PM |CUBS @ LAD 
- |
+ |Marquee Sports Net, Sportsnet LA
+
+|Mon 09-09 |05:40 PM |CIN @ ATL 
+ |Bally Sports OH, Bally Sports South
+
+|Mon 09-09 |05:40 PM |MIA @ PIT 
+ |Sportsnet PIT, Bally Sports FL
+
+|Mon 09-09 |05:40 PM |TB @ PHI 
+ |Bally Sports Sun, NBC Sports Phil
+
+|Mon 09-09 |06:05 PM |KC @ NYY 
+ |YES, Bally Sports KC
+
+|Mon 09-09 |06:07 PM |NYM @ TOR 
+ |SNNY, Sportsnet, TVA, Sportsnet+
+
+|Mon 09-09 |06:10 PM |BAL @ BOS 
+ |NESN, MASN
+
+|Mon 09-09 |06:40 PM |CLE @ SOX 
+ |Bally Sports GL, NBC Sports Chi
+
+|Mon 09-09 |06:40 PM |LAA @ MIN 
+ |Bally Sports North, Bally Sports West
 
 |Tue 09-10 |09:10 PM |CUBS @ LAD 
- |
+ |Marquee Sports Net, Sportsnet LA
+
+|Tue 09-10 |05:40 PM |COL @ DET 
+ |Bally Sports DET, Rockies.TV
+
+|Tue 09-10 |05:40 PM |MIA @ PIT 
+ |Sportsnet PIT, Bally Sports FL
+
+|Tue 09-10 |05:40 PM |TB @ PHI 
+ |Bally Sports Sun, NBC Sports Phil
+
+|Tue 09-10 |05:45 PM |ATL @ WSH 
+ |Bally Sports South, MASN2
+
+|Tue 09-10 |06:05 PM |KC @ NYY 
+ |YES, Bally Sports KC
+
+|Tue 09-10 |06:07 PM |NYM @ TOR 
+ |SNNY, Sportsnet, Sportsnet+
+
+|Tue 09-10 |06:10 PM |BAL @ BOS 
+ |NESN, MASN
+
+|Tue 09-10 |06:40 PM |CLE @ SOX 
+ |Bally Sports GL, NBC Sports Chi
+
+|Tue 09-10 |06:40 PM |LAA @ MIN 
+ |Bally Sports North, Bally Sports West
+
+|Tue 09-10 |06:45 PM |CIN @ STL 
+ |Bally Sports MW, Bally Sports OH
+
+|Tue 09-10 |07:10 PM |OAK @ HOU 
+ |Space City Home Network, NBC Sports CA
+
+|Tue 09-10 |08:40 PM |TEX @ ARI 
+ |Bally Sports SW, DBACKS.TV
+
+|Tue 09-10 |08:40 PM |SD @ SEA 
+ |Root Sports NW, Padres.TV
+
+|Tue 09-10 |08:45 PM |MIL @ SF 
+ |Bally Sports WI, NBC Sports BA
 
 |Wed 09-11 |09:10 PM |CUBS @ LAD 
- |
+ |Marquee Sports Net, Sportsnet LA
+
+|Wed 09-11 |11:35 AM |MIA @ PIT 
+ |Sportsnet PIT, Bally Sports FL
+
+|Wed 09-11 |01:10 PM |CLE @ SOX 
+ |Bally Sports GL, NBC Sports Chi
+
+|Wed 09-11 |02:07 PM |NYM @ TOR 
+ |SNNY, Sportsnet, Sportsnet+
+
+|Wed 09-11 |02:40 PM |TEX @ ARI 
+ |Bally Sports SW, DBACKS.TV
+
+|Wed 09-11 |05:40 PM |COL @ DET 
+ |Bally Sports DET, Rockies.TV
+
+|Wed 09-11 |05:40 PM |TB @ PHI 
+ |Bally Sports Sun, NBC Sports Phil
+
+|Wed 09-11 |05:45 PM |ATL @ WSH 
+ |Bally Sports South, MASN2
+
+|Wed 09-11 |06:05 PM |KC @ NYY 
+ |PRIME VIDEO, Bally Sports KC
+
+|Wed 09-11 |06:10 PM |BAL @ BOS 
+ |NESN, MASN
+
+|Wed 09-11 |06:10 PM |LAA @ MIN 
+ |Bally Sports North, Bally Sports West
+
+|Wed 09-11 |06:45 PM |CIN @ STL 
+ |Bally Sports MW, Bally Sports OH
+
+|Wed 09-11 |07:10 PM |OAK @ HOU 
+ |Space City Home Network, NBC Sports CA
+
+|Wed 09-11 |08:40 PM |SD @ SEA 
+ |Root Sports NW, Padres.TV
+
+|Wed 09-11 |08:45 PM |MIL @ SF 
+ |Bally Sports WI, NBC Sports BA
+
+|Thu 09-12 |12:10 PM |COL @ DET 
+ |Bally Sports DET, Rockies.TV
+
+|Thu 09-12 |12:15 PM |CIN @ STL 
+ |Bally Sports MW, Bally Sports OH
+
+|Thu 09-12 |01:10 PM |OAK @ HOU 
+ |Space City Home Network, NBC Sports CA
+
+|Thu 09-12 |05:40 PM |TB @ CLE 
+ |Bally Sports GL, Bally Sports Sun
+
+|Thu 09-12 |05:45 PM |MIA @ WSH 
+ |MASN, Bally Sports FL
+
+|Thu 09-12 |06:05 PM |BOS @ NYY 
+ |NESN, YES
+
+|Thu 09-12 |08:40 PM |TEX @ SEA 
+ |Root Sports NW, Bally Sports SW
+
+|Thu 09-12 |08:45 PM |MIL @ SF 
+ |Bally Sports WI, NBC Sports BA
 
 |Fri 09-13 |07:40 PM |CUBS @ COL 
- |
+ |Marquee Sports Net, Rockies.TV
+
+|Fri 09-13 |05:40 PM |BAL @ DET 
+ |Bally Sports DET, MASN2
+
+|Fri 09-13 |05:40 PM |KC @ PIT 
+ |Sportsnet PIT, Bally Sports KC
+
+|Fri 09-13 |05:40 PM |NYM @ PHI 
+ |WPIX, NBC Sports Phil
+
+|Fri 09-13 |05:45 PM |MIA @ WSH 
+ |MASN, Bally Sports FL
+
+|Fri 09-13 |06:05 PM |BOS @ NYY 
+ |NESN, YES
+
+|Fri 09-13 |06:07 PM |STL @ TOR 
+ |Bally Sports MW, Sportsnet, TVA, Sportsnet+
+
+|Fri 09-13 |06:10 PM |TB @ CLE 
+ |Bally Sports GL, Bally Sports Sun
+
+|Fri 09-13 |06:20 PM |LAD @ ATL 
+ |Bally Sports SE, Sportsnet LA
+
+|Fri 09-13 |06:40 PM |OAK @ SOX 
+ |NBC Sports CA, NBC Sports Chi
+
+|Fri 09-13 |07:10 PM |CIN @ MIN 
+ |Bally Sports OH, Bally Sports North
+
+|Fri 09-13 |08:38 PM |HOU @ LAA 
+ |Space City Home Network, Bally Sports West
+
+|Fri 09-13 |08:40 PM |MIL @ ARI 
+ |Bally Sports WI, DBACKS.TV
+
+|Fri 09-13 |09:10 PM |TEX @ SEA 
+ |Root Sports NW, Bally Sports SW
+
+|Fri 09-13 |09:15 PM |SD @ SF 
+ |NBC Sports BA, Padres.TV
 
 |Sat 09-14 |07:10 PM |CUBS @ COL 
- |
+ |Marquee Sports Net, Rockies.TV
+
+|Sat 09-14 |12:05 PM |BOS @ NYY 
+ |NESN, YES
+
+|Sat 09-14 |12:05 PM |KC @ PIT 
+ |Sportsnet PIT, Bally Sports KC
+
+|Sat 09-14 |02:07 PM |STL @ TOR 
+ |Bally Sports MW, Sportsnet, Sportsnet+
+
+|Sat 09-14 |03:05 PM |MIA @ WSH 
+ |MASN, Bally Sports FL
+
+|Sat 09-14 |03:05 PM |NYM @ PHI 
+ |SNNY, NBC Sports Phil
+
+|Sat 09-14 |05:10 PM |BAL @ DET 
+ |Bally Sports DET, MASN2
+
+|Sat 09-14 |05:10 PM |TB @ CLE 
+ |Bally Sports GL, Bally Sports Sun
+
+|Sat 09-14 |06:10 PM |OAK @ SOX 
+ |NBC Sports CA, NBC Sports Chi
+
+|Sat 09-14 |06:10 PM |CIN @ MIN 
+ |Bally Sports OH, Bally Sports North
+
+|Sat 09-14 |06:20 PM |LAD @ ATL 
+ |Bally Sports SE, Sportsnet LA
+
+|Sat 09-14 |07:10 PM |MIL @ ARI 
+ |Bally Sports WI, DBACKS.TV
+
+|Sat 09-14 |08:05 PM |SD @ SF 
+ |NBC Sports BA, Padres.TV
+
+|Sat 09-14 |08:38 PM |HOU @ LAA 
+ |Space City Home Network, Bally Sports West
+
+|Sat 09-14 |08:40 PM |TEX @ SEA 
+ |Root Sports NW, Bally Sports SW
 
 |Sun 09-15 |02:10 PM |CUBS @ COL 
- |
+ |Marquee Sports Net, Rockies.TV
+
+|Sun 09-15 |11:10 AM |BAL @ DET 
+ |Bally Sports DET, MASN2
+
+|Sun 09-15 |12:05 PM |CIN @ MIN 
+ |Roku
+
+|Sun 09-15 |12:35 PM |LAD @ ATL 
+ |Bally Sports SE, Sportsnet LA
+
+|Sun 09-15 |12:35 PM |BOS @ NYY 
+ |NESN, YES
+
+|Sun 09-15 |12:35 PM |KC @ PIT 
+ |Sportsnet PIT, Bally Sports KC
+
+|Sun 09-15 |12:35 PM |MIA @ WSH 
+ |MASN, Bally Sports FL
+
+|Sun 09-15 |12:35 PM |NYM @ PHI 
+ |WPIX, NBC Sports Phil
+
+|Sun 09-15 |12:37 PM |STL @ TOR 
+ |Bally Sports MW, Sportsnet, Sportsnet+
+
+|Sun 09-15 |12:40 PM |TB @ CLE 
+ |Bally Sports GL, Bally Sports Sun
+
+|Sun 09-15 |01:10 PM |OAK @ SOX 
+ |NBC Sports CA, NBC Sports Chi
+
+|Sun 09-15 |03:05 PM |SD @ SF 
+ |NBC Sports BA, Padres.TV
+
+|Sun 09-15 |03:07 PM |HOU @ LAA 
+ |Space City Home Network, Bally Sports West
+
+|Sun 09-15 |03:10 PM |MIL @ ARI 
+ |Bally Sports WI, DBACKS.TV
+
+|Sun 09-15 |03:10 PM |TEX @ SEA 
+ |Root Sports NW, Bally Sports SW
 
 |Mon 09-16 |06:40 PM |OAK @ CUBS 
- |
+ |Marquee Sports Net, NBC Sports CA
+
+|Mon 09-16 |05:40 PM |MIN @ CLE 
+ |Bally Sports North, Bally Sports GL
+
+|Mon 09-16 |06:10 PM |WSH @ NYM 
+ |MASN, SNNY
+
+|Mon 09-16 |06:20 PM |LAD @ ATL 
+ |Bally Sports SE, Sportsnet LA
+
+|Mon 09-16 |06:40 PM |DET @ KC 
+ |Bally Sports DET, Bally Sports KC
+
+|Mon 09-16 |06:40 PM |PHI @ MIL 
+ |Bally Sports WI, NBC Sports Phil
+
+|Mon 09-16 |06:45 PM |PIT @ STL 
+ |Bally Sports MW, Sportsnet PIT
+
+|Mon 09-16 |07:40 PM |ARI @ COL 
+ |Rockies.TV, DBACKS.TV
+
+|Mon 09-16 |08:38 PM |SOX @ LAA 
+ |Bally Sports West, NBC Sports Chi
+
+|Mon 09-16 |08:40 PM |HOU @ SD 
+ |Space City Home Network, Padres.TV
 
 |Tue 09-17 |06:40 PM |OAK @ CUBS 
- |
+ |Marquee Sports Net, NBC Sports CA
+
+|Tue 09-17 |05:35 PM |SF @ BAL 
+ |NBC Sports BA, MASN2
+
+|Tue 09-17 |05:40 PM |ATL @ CIN 
+ |Bally Sports OH, Bally Sports South
+
+|Tue 09-17 |05:40 PM |MIN @ CLE 
+ |Bally Sports North, Bally Sports GL
+
+|Tue 09-17 |05:40 PM |LAD @ MIA 
+ |Bally Sports FL, Sportsnet LA
+
+|Tue 09-17 |05:50 PM |BOS @ TB 
+ |NESN, Bally Sports Sun
+
+|Tue 09-17 |06:10 PM |WSH @ NYM 
+ |MASN, SNNY
+
+|Tue 09-17 |06:40 PM |DET @ KC 
+ |Bally Sports DET, Bally Sports KC
+
+|Tue 09-17 |06:40 PM |PHI @ MIL 
+ |Bally Sports WI, NBC Sports Phil
+
+|Tue 09-17 |06:45 PM |PIT @ STL 
+ |Bally Sports MW, Sportsnet PIT
+
+|Tue 09-17 |07:05 PM |TOR @ TEX 
+ |Bally Sports SW, Sportsnet, Sportsnet+
+
+|Tue 09-17 |07:40 PM |ARI @ COL 
+ |Rockies.TV, DBACKS.TV
+
+|Tue 09-17 |08:38 PM |SOX @ LAA 
+ |Bally Sports West, NBC Sports Chi
+
+|Tue 09-17 |08:40 PM |HOU @ SD 
+ |Space City Home Network, Padres.TV
+
+|Tue 09-17 |08:40 PM |NYY @ SEA 
+ |YES, Root Sports NW
 
 |Wed 09-18 |01:20 PM |OAK @ CUBS 
- |
+ |Marquee Sports Net, NBC Sports CA
+
+|Wed 09-18 |02:10 PM |ARI @ COL 
+ |Rockies.TV, DBACKS.TV
+
+|Wed 09-18 |03:07 PM |SOX @ LAA 
+ |Bally Sports West, NBC Sports Chi
+
+|Wed 09-18 |05:35 PM |SF @ BAL 
+ |NBC Sports BA, MASN2
+
+|Wed 09-18 |05:40 PM |ATL @ CIN 
+ |Bally Sports OH, Bally Sports South
+
+|Wed 09-18 |05:40 PM |MIN @ CLE 
+ |Bally Sports North, Bally Sports GL
+
+|Wed 09-18 |05:40 PM |HOU @ SD 
+ |Space City Home Network, Padres.TV
+
+|Wed 09-18 |05:40 PM |LAD @ MIA 
+ |Bally Sports FL, Sportsnet LA
+
+|Wed 09-18 |05:50 PM |BOS @ TB 
+ |NESN, Bally Sports Sun
+
+|Wed 09-18 |06:10 PM |WSH @ NYM 
+ |MASN, SNNY
+
+|Wed 09-18 |06:40 PM |DET @ KC 
+ |Bally Sports DET, Bally Sports KC
+
+|Wed 09-18 |06:40 PM |PHI @ MIL 
+ |Bally Sports WI, NBC Sports Phil
+
+|Wed 09-18 |06:45 PM |PIT @ STL 
+ |Bally Sports MW, Sportsnet PIT
+
+|Wed 09-18 |07:05 PM |TOR @ TEX 
+ |Bally Sports SW, Sportsnet, TVA, Sportsnet+
+
+|Wed 09-18 |08:40 PM |NYY @ SEA 
+ |PRIME VIDEO, Root Sports NW
 
 |Thu 09-19 |06:40 PM |WSH @ CUBS 
- |
+ |MASN, Marquee Sports Net
+
+|Thu 09-19 |12:05 PM |SF @ BAL 
+ |MASN, NBC Sports BA
+
+|Thu 09-19 |12:10 PM |ATL @ CIN 
+ |Bally Sports OH, Bally Sports South
+
+|Thu 09-19 |12:10 PM |MIN @ CLE 
+ |Bally Sports North, Bally Sports GL
+
+|Thu 09-19 |01:35 PM |TOR @ TEX 
+ |Bally Sports SW, Sportsnet, Sportsnet+
+
+|Thu 09-19 |03:10 PM |NYY @ SEA 
+ |YES, Root Sports NW
+
+|Thu 09-19 |03:40 PM |LAD @ MIA 
+ |Bally Sports FL, Sportsnet LA
+
+|Thu 09-19 |05:50 PM |BOS @ TB 
+ |NESN, Bally Sports Sun
+
+|Thu 09-19 |06:10 PM |PHI @ NYM 
+ |SNNY, NBC Sports Phil
+
+|Thu 09-19 |06:15 PM |PIT @ STL 
+ |Bally Sports MW, Sportsnet PIT
+
+|Thu 09-19 |06:40 PM |ARI @ MIL 
+ |Bally Sports WI, DBACKS.TV
+
+|Thu 09-19 |07:10 PM |LAA @ HOU 
+ |Space City Home Network, Bally Sports West
 
 |Fri 09-20 |01:20 PM |WSH @ CUBS 
- |
+ |Marquee Sports Net, MASN2
+
+|Fri 09-20 |05:40 PM |PIT @ CIN 
+ |Sportsnet PIT, Bally Sports OH
+
+|Fri 09-20 |05:50 PM |TOR @ TB 
+ |Sportsnet, Bally Sports Sun, TVA, Sportsnet+
+
+|Fri 09-20 |06:05 PM |DET @ BAL 
+ |MASN, Bally Sports DET
+
+|Fri 09-20 |06:10 PM |ATL @ MIA 
+ |Bally Sports SE, Bally Sports FL
+
+|Fri 09-20 |06:10 PM |MIN @ BOS 
+ |NESN, Bally Sports North
+
+|Fri 09-20 |06:10 PM |PHI @ NYM 
+ |SNNY, NBC Sports Phil
+
+|Fri 09-20 |07:05 PM |SEA @ TEX 
+ |Root Sports NW, Bally Sports SW
+
+|Fri 09-20 |07:10 PM |ARI @ MIL 
+ |Bally Sports WI, DBACKS.TV
+
+|Fri 09-20 |07:10 PM |LAA @ HOU 
+ |Space City Home Network, Bally Sports West
+
+|Fri 09-20 |07:10 PM |SF @ KC 
+ |Bally Sports KC, NBC Sports BA
+
+|Fri 09-20 |07:15 PM |CLE @ STL 
+ |Bally Sports MW, Bally Sports GL
+
+|Fri 09-20 |08:40 PM |SOX @ SD 
+ |NBC Sports Chi, Padres.TV
+
+|Fri 09-20 |08:40 PM |NYY @ OAK 
+ |YES, NBC Sports CA
+
+|Fri 09-20 |09:10 PM |COL @ LAD 
+ |Sportsnet LA, Rockies.TV
 
 |Sat 09-21 |01:20 PM |WSH @ CUBS 
- |
+ |Marquee Sports Net, MASN2
+
+|Sat 09-21 |12:10 PM |PIT @ CIN 
+ |Sportsnet PIT, Bally Sports OH
+
+|Sat 09-21 |03:05 PM |DET @ BAL 
+ |MASN, Bally Sports DET
+
+|Sat 09-21 |03:10 PM |ATL @ MIA 
+ |Bally Sports SE, Bally Sports FL
+
+|Sat 09-21 |03:10 PM |MIN @ BOS 
+ |NESN, Bally Sports North
+
+|Sat 09-21 |03:10 PM |PHI @ NYM 
+ |SNNY, NBC Sports Phil
+
+|Sat 09-21 |03:10 PM |TOR @ TB 
+ |Sportsnet, Bally Sports Sun, Sportsnet+
+
+|Sat 09-21 |06:05 PM |SEA @ TEX 
+ |Root Sports NW, Bally Sports SW
+
+|Sat 09-21 |06:10 PM |ARI @ MIL 
+ |Bally Sports WI, DBACKS.TV
+
+|Sat 09-21 |06:10 PM |LAA @ HOU 
+ |Space City Home Network, Bally Sports West
+
+|Sat 09-21 |06:10 PM |SF @ KC 
+ |Bally Sports KC, NBC Sports BA
+
+|Sat 09-21 |06:15 PM |CLE @ STL 
+ |Bally Sports MW, Bally Sports GL
+
+|Sat 09-21 |07:40 PM |SOX @ SD 
+ |NBC Sports Chi, Padres.TV
+
+|Sat 09-21 |08:07 PM |NYY @ OAK 
+ |YES, NBC Sports CA
+
+|Sat 09-21 |08:10 PM |COL @ LAD 
+ |Sportsnet LA, Rockies.TV
 
 |Sun 09-22 |01:20 PM |WSH @ CUBS 
- |
+ |Marquee Sports Net, MASN2
+
+|Sun 09-22 |12:10 PM |PIT @ CIN 
+ |Sportsnet PIT, Bally Sports OH
+
+|Sun 09-22 |12:35 PM |DET @ BAL 
+ |MASN, Bally Sports DET
+
+|Sun 09-22 |12:35 PM |MIN @ BOS 
+ |NESN, Bally Sports North
+
+|Sun 09-22 |12:40 PM |ATL @ MIA 
+ |Bally Sports SE, Bally Sports FL
+
+|Sun 09-22 |12:40 PM |PHI @ NYM 
+ |SNNY, NBC Sports Phil
+
+|Sun 09-22 |12:40 PM |TOR @ TB 
+ |Sportsnet, Bally Sports Sun, TVA, Sportsnet+
+
+|Sun 09-22 |01:10 PM |ARI @ MIL 
+ |Bally Sports WI, DBACKS.TV
+
+|Sun 09-22 |01:10 PM |LAA @ HOU 
+ |Space City Home Network, Bally Sports West
+
+|Sun 09-22 |01:10 PM |SF @ KC 
+ |Bally Sports KC, NBC Sports BA
+
+|Sun 09-22 |01:15 PM |CLE @ STL 
+ |Bally Sports MW, Bally Sports GL
+
+|Sun 09-22 |01:35 PM |SEA @ TEX 
+ |Root Sports NW, Bally Sports SW
+
+|Sun 09-22 |03:07 PM |NYY @ OAK 
+ |YES, NBC Sports CA
+
+|Sun 09-22 |03:10 PM |SOX @ SD 
+ |NBC Sports Chi, Padres.TV
+
+|Sun 09-22 |03:10 PM |COL @ LAD 
+ |Sportsnet LA, Rockies.TV
 
 |Mon 09-23 |05:40 PM |CUBS @ PHI 
- |
+ |Marquee Sports Net, NBC Sports Phil
+
+|Mon 09-23 |06:07 PM |BOS @ TOR 
+ |NESN, Sportsnet, TVA, Sportsnet+
+
+|Mon 09-23 |07:10 PM |SEA @ HOU 
+ |Root Sports NW, Space City Home Network
+
+|Mon 09-23 |08:40 PM |SF @ ARI 
+ |NBC Sports BA, DBACKS.TV
 
 |Tue 09-24 |05:40 PM |CUBS @ PHI 
- |
+ |Marquee Sports Net, NBC Sports Phil
+
+|Tue 09-24 |05:40 PM |CIN @ CLE 
+ |Bally Sports OH, Bally Sports GL
+
+|Tue 09-24 |05:40 PM |TB @ DET 
+ |Bally Sports DET, Bally Sports Sun
+
+|Tue 09-24 |05:40 PM |MIL @ PIT 
+ |Sportsnet PIT, Bally Sports WI
+
+|Tue 09-24 |05:45 PM |KC @ WSH 
+ |Bally Sports KC, MASN2
+
+|Tue 09-24 |06:05 PM |BAL @ NYY 
+ |YES, MASN
+
+|Tue 09-24 |06:07 PM |BOS @ TOR 
+ |NESN, Sportsnet, TVA, Sportsnet+
+
+|Tue 09-24 |06:20 PM |NYM @ ATL 
+ |SNNY, Bally Sports South
+
+|Tue 09-24 |06:40 PM |LAA @ SOX 
+ |Bally Sports West, NBC Sports Chi
+
+|Tue 09-24 |06:40 PM |MIA @ MIN 
+ |Bally Sports North, Bally Sports FL
+
+|Tue 09-24 |07:10 PM |SEA @ HOU 
+ |Root Sports NW, Space City Home Network
+
+|Tue 09-24 |07:40 PM |STL @ COL 
+ |Bally Sports MW, Rockies.TV
+
+|Tue 09-24 |08:40 PM |SF @ ARI 
+ |NBC Sports BA, DBACKS.TV
+
+|Tue 09-24 |08:40 PM |TEX @ OAK 
+ |Bally Sports SW, NBC Sports CA
+
+|Tue 09-24 |09:10 PM |SD @ LAD 
+ |Sportsnet LA, Padres.TV
 
 |Wed 09-25 |05:05 PM |CUBS @ PHI 
- |
+ |Marquee Sports Net, NBC Sports Phil
+
+|Wed 09-25 |01:10 PM |SEA @ HOU 
+ |Root Sports NW, Space City Home Network
+
+|Wed 09-25 |05:40 PM |CIN @ CLE 
+ |Bally Sports OH, Bally Sports GL
+
+|Wed 09-25 |05:40 PM |TB @ DET 
+ |Bally Sports DET, Bally Sports Sun
+
+|Wed 09-25 |05:40 PM |MIL @ PIT 
+ |Sportsnet PIT, Bally Sports WI
+
+|Wed 09-25 |05:45 PM |KC @ WSH 
+ |Bally Sports KC, MASN2
+
+|Wed 09-25 |06:05 PM |BAL @ NYY 
+ |YES, MASN
+
+|Wed 09-25 |06:07 PM |BOS @ TOR 
+ |NESN, Sportsnet, TVA, Sportsnet+
+
+|Wed 09-25 |06:20 PM |NYM @ ATL 
+ |SNNY, Bally Sports South
+
+|Wed 09-25 |06:40 PM |LAA @ SOX 
+ |Bally Sports West, NBC Sports Chi
+
+|Wed 09-25 |06:40 PM |MIA @ MIN 
+ |Bally Sports North, Bally Sports FL
+
+|Wed 09-25 |07:40 PM |STL @ COL 
+ |Bally Sports MW, Rockies.TV
+
+|Wed 09-25 |08:40 PM |SF @ ARI 
+ |NBC Sports BA, DBACKS.TV
+
+|Wed 09-25 |08:40 PM |TEX @ OAK 
+ |Bally Sports SW, NBC Sports CA
+
+|Wed 09-25 |09:10 PM |SD @ LAD 
+ |Sportsnet LA, Padres.TV
+
+|Thu 09-26 |11:35 AM |MIL @ PIT 
+ |Sportsnet PIT, Bally Sports WI
+
+|Thu 09-26 |12:05 PM |KC @ WSH 
+ |Bally Sports KC, MASN2
+
+|Thu 09-26 |12:10 PM |TB @ DET 
+ |Bally Sports DET, Bally Sports Sun
+
+|Thu 09-26 |01:10 PM |LAA @ SOX 
+ |Bally Sports West, NBC Sports Chi
+
+|Thu 09-26 |02:10 PM |STL @ COL 
+ |Bally Sports MW, Rockies.TV
+
+|Thu 09-26 |02:37 PM |TEX @ OAK 
+ |Bally Sports SW, NBC Sports CA
+
+|Thu 09-26 |06:05 PM |BAL @ NYY 
+ |YES, MASN
+
+|Thu 09-26 |06:20 PM |NYM @ ATL 
+ |SNNY, Bally Sports South
+
+|Thu 09-26 |06:40 PM |MIA @ MIN 
+ |Bally Sports North, Bally Sports FL
+
+|Thu 09-26 |09:10 PM |SD @ LAD 
+ |Sportsnet LA, Padres.TV
 
 |Fri 09-27 |01:20 PM |CIN @ CUBS 
- |
+ |Bally Sports OH, Marquee Sports Net
+
+|Fri 09-27 |05:40 PM |SOX @ DET 
+ |Bally Sports DET, NBC Sports Chi
+
+|Fri 09-27 |05:45 PM |PHI @ WSH 
+ |MASN, NBC Sports Phil
+
+|Fri 09-27 |06:05 PM |PIT @ NYY 
+ |YES, Sportsnet PIT
+
+|Fri 09-27 |06:07 PM |MIA @ TOR 
+ |Bally Sports FL, Sportsnet, TVA, Sportsnet+
+
+|Fri 09-27 |06:10 PM |TB @ BOS 
+ |NESN, Bally Sports Sun
+
+|Fri 09-27 |06:10 PM |HOU @ CLE 
+ |Space City Home Network, Bally Sports GL
+
+|Fri 09-27 |06:20 PM |KC @ ATL 
+ |Bally Sports SE, Bally Sports KC
+
+|Fri 09-27 |07:10 PM |BAL @ MIN 
+ |Bally Sports North, MASN2
+
+|Fri 09-27 |07:10 PM |LAD @ COL 
+ |Sportsnet LA, Rockies.TV
+
+|Fri 09-27 |07:10 PM |NYM @ MIL 
+ |SNNY, Bally Sports WI
+
+|Fri 09-27 |08:38 PM |TEX @ LAA 
+ |Bally Sports SW, Bally Sports West
+
+|Fri 09-27 |08:40 PM |SD @ ARI 
+ |DBACKS.TV, Padres.TV
+
+|Fri 09-27 |09:10 PM |OAK @ SEA 
+ |Root Sports NW, NBC Sports CA
+
+|Fri 09-27 |09:15 PM |STL @ SF 
+ |Bally Sports MW, NBC Sports BA
 
 |Sat 09-28 |01:20 PM |CIN @ CUBS 
- |
+ |Bally Sports OH, Marquee Sports Net
+
+|Sat 09-28 |12:05 PM |PIT @ NYY 
+ |YES, Sportsnet PIT
+
+|Sat 09-28 |12:10 PM |SOX @ DET 
+ |Bally Sports DET, NBC Sports Chi
+
+|Sat 09-28 |01:10 PM |BAL @ MIN 
+ |Bally Sports North, MASN2
+
+|Sat 09-28 |02:07 PM |MIA @ TOR 
+ |Bally Sports FL, Sportsnet, TVA, Sportsnet+
+
+|Sat 09-28 |03:05 PM |PHI @ WSH 
+ |MASN, NBC Sports Phil
+
+|Sat 09-28 |03:05 PM |STL @ SF 
+ |Bally Sports MW, NBC Sports BA
+
+|Sat 09-28 |03:10 PM |TB @ BOS 
+ |NESN, Bally Sports Sun
+
+|Sat 09-28 |05:10 PM |HOU @ CLE 
+ |Space City Home Network, Bally Sports GL
+
+|Sat 09-28 |06:10 PM |NYM @ MIL 
+ |WPIX, Bally Sports WI
+
+|Sat 09-28 |06:20 PM |KC @ ATL 
+ |Bally Sports SE, Bally Sports KC
+
+|Sat 09-28 |07:10 PM |SD @ ARI 
+ |DBACKS.TV, Padres.TV
+
+|Sat 09-28 |07:10 PM |LAD @ COL 
+ |Sportsnet LA, Rockies.TV
+
+|Sat 09-28 |08:38 PM |TEX @ LAA 
+ |Bally Sports SW, Bally Sports West
+
+|Sat 09-28 |08:40 PM |OAK @ SEA 
+ |Root Sports NW, NBC Sports CA
 
 |Sun 09-29 |02:20 PM |CIN @ CUBS 
- |
+ |Bally Sports OH, Marquee Sports Net
+
+|Sun 09-29 |02:05 PM |TB @ BOS 
+ |NESN, Bally Sports Sun
+
+|Sun 09-29 |02:05 PM |PIT @ NYY 
+ |YES, Sportsnet PIT
+
+|Sun 09-29 |02:05 PM |PHI @ WSH 
+ |MASN, NBC Sports Phil
+
+|Sun 09-29 |02:05 PM |STL @ SF 
+ |Bally Sports MW, NBC Sports BA
+
+|Sun 09-29 |02:07 PM |TEX @ LAA 
+ |Bally Sports SW, Bally Sports West
+
+|Sun 09-29 |02:07 PM |MIA @ TOR 
+ |Bally Sports FL, Sportsnet, TVA, Sportsnet+
+
+|Sun 09-29 |02:10 PM |SD @ ARI 
+ |DBACKS.TV, Padres.TV
+
+|Sun 09-29 |02:10 PM |BAL @ MIN 
+ |Bally Sports North, MASN2
+
+|Sun 09-29 |02:10 PM |SOX @ DET 
+ |Bally Sports DET, NBC Sports Chi
+
+|Sun 09-29 |02:10 PM |HOU @ CLE 
+ |Space City Home Network, Bally Sports GL
+
+|Sun 09-29 |02:10 PM |LAD @ COL 
+ |Sportsnet LA, Rockies.TV
+
+|Sun 09-29 |02:10 PM |NYM @ MIL 
+ |SNNY, Bally Sports WI
+
+|Sun 09-29 |02:10 PM |OAK @ SEA 
+ |Root Sports NW, NBC Sports CA
+
+|Sun 09-29 |02:20 PM |KC @ ATL 
+ |Bally Sports SE, Bally Sports KC
 
 |===
 
