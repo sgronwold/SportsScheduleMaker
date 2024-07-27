@@ -5,21 +5,21 @@ from datetime import datetime as dt, timedelta as td
 
 
 GET_NEW_DATA = True
-PRINT_ENTIRE_LEAGUE = False
+PRINT_ENTIRE_LEAGUE = True
 DAILY_HEADERS = False
 USE_TEAM_IMAGES = False
 USE_SHORT_NAME = True
 PAGE_BREAKS = True
-league = MLB
+league = NHL
 PRINT_BYES = False
 TABLE_HEADER = r'%autowidth.stretch'
 START_DATE = dt.now()
 NETWORK_BLACKLIST = {
     "local": [],
-    "national": ["ESPN+", "PRIME VIDEO"]
+    "national": ["ESPN+", "HBO Max"]
 }
 NETWORK_WHITELIST = {
-    "local": ["Marquee Sports Net", "NBC Sports Chi"],
+    "local": [],
     "national": []
 }
 FAVORITE_TEAMS = ["CHI", "CHC"]
@@ -274,7 +274,7 @@ for date in dates:
         outfile.write("\n\n<<<\n\n")  
                 
 
-if not DAILY_HEADERS:
+if not (DAILY_HEADERS or PAGE_BREAKS):
     outfile.write("|===\n\n")
 
 
