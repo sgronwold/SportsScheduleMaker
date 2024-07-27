@@ -8,7 +8,7 @@ GET_NEW_DATA = True
 PRINT_ENTIRE_LEAGUE = False
 DAILY_HEADERS = False
 USE_TEAM_IMAGES = False
-USE_SHORT_NAME = False
+USE_SHORT_NAME = True
 PAGE_BREAKS = False
 league = MLB
 PRINT_BYES = False
@@ -16,13 +16,19 @@ TABLE_HEADER = r'%autowidth.stretch'
 START_DATE = dt.now()
 NETWORK_BLACKLIST = {
     "local": [],
-    "national": []
+    "national": ["ESPN+", "PRIME VIDEO"]
 }
 NETWORK_WHITELIST = {
     "local": ["Marquee Sports Net", "NBC Sports Chi"],
     "national": []
 }
 FAVORITE_TEAMS = ["CHI", "CHC"]
+NAME_SUBS = {
+    "CHC": "CUBS",
+    "CHW": "SOX",
+    "Marquee Sports Net": "MARQ",
+    "NBC Sports Chi": "NBC-CHI"
+}
 
 
 
@@ -63,7 +69,6 @@ if GET_NEW_DATA:
     else:
         loadScheduleByTricode(league, "CHC")
         loadScheduleByTricode(league, "CHW")
-        loadScheduleByTricode(league, "LAD")
         # valpo
         #loadScheduleByTricode(league, "2674")
         # ill. state
@@ -238,6 +243,16 @@ for date in dates:
                     for network in game["networks"][market]:
                         networksList.append(network)
     
+        # make necessary substitutions in networks list
+        for name in NAME_SUBS.keys():
+            if name in networksList:
+                i = networksList.index(name)
+                networksList[i] = NAME_SUBS[name]
+
+        
+        # make necessary substitutions for the game name
+        for name in NAME_SUBS.keys():
+            gameName = gameName.replace(name, NAME_SUBS[name])
 
         outfile.write("|%s |%s |%s |%s\n\n"%(date, time, gameName, ", ".join(networksList)))
 
