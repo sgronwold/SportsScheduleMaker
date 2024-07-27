@@ -242,7 +242,12 @@ for date in dates:
                     # just add everything
                     for network in game["networks"][market]:
                         networksList.append(network)
-    
+
+
+        # remove duplicates from networksList
+        networksList = list(set(networksList))
+        
+        
         # make necessary substitutions in networks list
         for name in NAME_SUBS.keys():
             if name in networksList:
