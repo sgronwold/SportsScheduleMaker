@@ -10,12 +10,18 @@ DAILY_HEADERS = False
 USE_TEAM_IMAGES = False
 USE_SHORT_NAME = False
 PAGE_BREAKS = False
-league = NCAAF
+league = MLB
 PRINT_BYES = False
 TABLE_HEADER = r'%autowidth.stretch'
-START_DATE = dt(2000,1,1)
-NETWORK_BLACKLIST = []
-NETWORK_WHITELIST = ["CTESPN"]
+START_DATE = dt.now()
+NETWORK_BLACKLIST = {
+    "local": [],
+    "national": []
+}
+NETWORK_WHITELIST = {
+    "local": ["Marquee Sports Net", "NBC Sports Chi"],
+    "national": []
+}
 FAVORITE_TEAMS = ["CHI", "CHC"]
 
 
@@ -55,11 +61,13 @@ if GET_NEW_DATA:
             print(tricode)
             loadScheduleByTricode(league, tricode)
     else:
+        loadScheduleByTricode(league, "CHC")
+        loadScheduleByTricode(league, "CHW")
+        loadScheduleByTricode(league, "LAD")
         # valpo
-        loadScheduleByTricode(league, "2674")
-
-        # isu
-        loadScheduleByTricode(league, "2287")
+        #loadScheduleByTricode(league, "2674")
+        # ill. state
+        #loadScheduleByTricode(league, "2287")
 
 
 
@@ -205,25 +213,33 @@ for date in dates:
         else:
             gameName += game["home"]["shortDisplayName"]
 
-        if len(NETWORK_BLACKLIST) != 0 and len(NETWORK_WHITELIST) == 0:
-            # remove banned networks
-            for network in NETWORK_BLACKLIST:
-                while network in game["networks"]:
-                    game["networks"].remove(network)
-        elif len(NETWORK_BLACKLIST) == 0 and len(NETWORK_WHITELIST) != 0:
-            # remove all but allowed networks
-            # old fashioned for loop
-            i=0
-            while i < len(game["networks"]):
-                network = game["networks"][i]
-                if network not in NETWORK_WHITELIST:
-                    game["networks"].remove(network)
-                    i-=1
-                i+=1
-        else:
-            raise ValueError("ERROR: Either the NETWORK_BLACKLIST or NETWORK_WHITELIST must be empty.")
 
-        outfile.write("|%s |%s |%s |%s\n\n"%(date, time, gameName, ", ".join(game["networks"])))
+
+        # the actual network list that we'll use in our document
+        networksList = []
+
+        # add networks by type (local or national)
+        # adding local broadcasts
+        for market in game["networks"]:
+            for network in game["networks"][market]:
+            # apply the local blacklist/whitelist
+                if len(NETWORK_BLACKLIST[market]) != 0 and len(NETWORK_WHITELIST[market]) == 0:
+                # add all but banned networks
+                    if network not in NETWORK_BLACKLIST[market]:
+                        networksList.append(network)
+                elif len(NETWORK_BLACKLIST[market]) == 0 and len(NETWORK_WHITELIST[market]) != 0:
+                # add all allowed networks
+                    if network in NETWORK_WHITELIST[market]:
+                        networksList.append(network)
+                elif len(NETWORK_BLACKLIST[market]) != 0 and len(NETWORK_WHITELIST[market]) != 0:
+                    raise ValueError("ERROR: Either the LOCAL_BLACKLIST or LOCAL_WHITELIST must be empty.")
+                else:
+                    # just add everything
+                    for network in game["networks"][market]:
+                        networksList.append(network)
+    
+
+        outfile.write("|%s |%s |%s |%s\n\n"%(date, time, gameName, ", ".join(networksList)))
 
     if DAILY_HEADERS:
         outfile.write("|===\n\n")

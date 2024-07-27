@@ -140,11 +140,25 @@ def exportGamesToJson(response:dict):
 
         newGame["zulu"] = game["date"]
 
-        try:
-            newGame["networks"] = [network["media"]["shortName"].replace("|", ", ") for network in game["competitions"][0]["broadcasts"]]
-        except KeyError:
-            newGame["networks"] = [network["names"][0].replace("|", ", ") for network in game["competitions"][0]["broadcasts"]]
-            
+        # add the networks
+        newGame["networks"] = {
+            "national": [],
+            "local": []
+        }
+
+        for network in game["competitions"][0]["broadcasts"]:
+            if network["market"] == "national" or network["market"]["type"] == "National":
+                try:
+                    newGame["networks"]["national"].append(network["media"]["shortName"].replace("|", "/"))
+                except KeyError:
+                    for shortName in network["names"]:
+                        newGame["networks"]["national"].append(shortName)
+            if network["market"] == "home" or network["market"]["type"] == "Home":
+                try:
+                    newGame["networks"]["local"].append(network["media"]["shortName"].replace("|", "/"))
+                except KeyError:
+                    for shortName in network["names"]:
+                        newGame["networks"]["local"].append(shortName)
 
 
         tricode = newGame["home"]["tricode"]
