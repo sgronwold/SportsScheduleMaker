@@ -247,6 +247,8 @@ for date in dates:
                 i = networksList.index(name)
                 networksList[i] = NAME_SUBS[name]
 
+        networksList = list(set(networksList))
+
         
         # make necessary substitutions for the game name
         for name in NAME_SUBS.keys():
