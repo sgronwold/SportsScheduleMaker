@@ -6,17 +6,17 @@ from datetime import datetime as dt, timedelta as td
 
 GET_NEW_DATA = True
 PRINT_ENTIRE_LEAGUE = True
-DAILY_HEADERS = False
-USE_TEAM_IMAGES = False
+DAILY_HEADERS = True
+USE_TEAM_IMAGES = True
 USE_SHORT_NAME = True
 PAGE_BREAKS = True
-league = NHL
+league = NFL
 PRINT_BYES = False
 TABLE_HEADER = r'%autowidth.stretch'
 START_DATE = dt.now()
 NETWORK_BLACKLIST = {
     "local": [],
-    "national": ["ESPN+", "HBO Max"]
+    "national": []
 }
 NETWORK_WHITELIST = {
     "local": [],
@@ -65,7 +65,7 @@ if GET_NEW_DATA:
     if PRINT_ENTIRE_LEAGUE:
         for tricode in tricodes:
             print(tricode)
-            loadScheduleByTricode(league, tricode)
+            loadScheduleByTricode(league, tricode, seasontype="1")
     else:
         loadScheduleByTricode(league, "CHC")
         loadScheduleByTricode(league, "CHW")
@@ -242,6 +242,8 @@ for date in dates:
                     for network in game["networks"][market]:
                         networksList.append(network)
     
+        networksList = list(set(networksList))
+
         # make necessary substitutions in networks list
         for name in NAME_SUBS.keys():
             if name in networksList:
