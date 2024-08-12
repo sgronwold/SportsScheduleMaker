@@ -13,10 +13,10 @@ PAGE_BREAKS = False
 league = MLB
 PRINT_BYES = False
 TABLE_HEADER = r'%autowidth.stretch'
-START_DATE = dt(2024,8,4)
+START_DATE = dt(2024,8,24)
 NETWORK_BLACKLIST = {
     "local": [],
-    "national": ["ESPN+", "PRIME VIDEO"]
+    "national": ["ESPN+", "PRIME VIDEO", "MLBN"]
 }
 NETWORK_WHITELIST = {
     "local": [""],
@@ -26,7 +26,7 @@ FAVORITE_TEAMS = ["CHI", "CHC"]
 NAME_SUBS = {
     "CHC": "CUBS",
     "CHW": "SOX",
-    "Apple TV+": "Apple"
+    "Apple TV+": "ATV+"
 }
 
 

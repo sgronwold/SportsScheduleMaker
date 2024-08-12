@@ -3,37 +3,71 @@
 |Date |Time |Game |TV
 
 
-|Sun 08-04 |06:00 PM |STL @ CUBS |ESPN
+|Sat 08-24 |03:10 PM |CUBS @ MIA |
 
-|Mon 08-05 |07:05 PM |MIN @ CUBS |
+|Sun 08-25 |12:40 PM |CUBS @ MIA |
 
-|Tue 08-06 |07:05 PM |MIN @ CUBS |
+|Mon 08-26 |05:40 PM |CUBS @ PIT |
 
-|Wed 08-07 |01:20 PM |MIN @ CUBS |
+|Tue 08-27 |05:40 PM |CUBS @ PIT |
 
-|Fri 08-09 |07:10 PM |CUBS @ SOX |
+|Wed 08-28 |11:35 AM |CUBS @ PIT |
 
-|Sat 08-10 |06:15 PM |CUBS @ SOX |FOX
+|Fri 08-30 |05:45 PM |CUBS @ WSH |
 
-|Mon 08-12 |05:40 PM |CUBS @ CLE |
+|Sat 08-31 |03:05 PM |CUBS @ WSH |
 
-|Tue 08-13 |05:40 PM |CUBS @ CLE |
+|Sun 09-01 |12:35 PM |CUBS @ WSH |
 
-|Wed 08-14 |05:40 PM |CUBS @ CLE |
+|Mon 09-02 |06:40 PM |PIT @ CUBS |
 
-|Fri 08-16 |01:20 PM |TOR @ CUBS |Apple
+|Tue 09-03 |06:40 PM |PIT @ CUBS |
 
-|Sat 08-17 |01:20 PM |TOR @ CUBS |
+|Wed 09-04 |06:40 PM |PIT @ CUBS |
 
-|Sun 08-18 |01:20 PM |TOR @ CUBS |
+|Fri 09-06 |01:20 PM |NYY @ CUBS |
 
-|Tue 08-20 |07:05 PM |DET @ CUBS |
+|Sat 09-07 |01:20 PM |NYY @ CUBS |
 
-|Wed 08-21 |07:05 PM |DET @ CUBS |
+|Sun 09-08 |01:20 PM |NYY @ CUBS |
 
-|Thu 08-22 |01:20 PM |DET @ CUBS |
+|Mon 09-09 |09:10 PM |CUBS @ LAD |
 
-|Fri 08-23 |06:10 PM |CUBS @ MIA |
+|Tue 09-10 |09:10 PM |CUBS @ LAD |
+
+|Wed 09-11 |09:10 PM |CUBS @ LAD |
+
+|Fri 09-13 |07:40 PM |CUBS @ COL |
+
+|Sat 09-14 |07:10 PM |CUBS @ COL |
+
+|Sun 09-15 |02:10 PM |CUBS @ COL |
+
+|Mon 09-16 |06:40 PM |OAK @ CUBS |
+
+|Tue 09-17 |06:40 PM |OAK @ CUBS |
+
+|Wed 09-18 |01:20 PM |OAK @ CUBS |
+
+|Thu 09-19 |06:40 PM |WSH @ CUBS |
+
+|Fri 09-20 |01:20 PM |WSH @ CUBS |
+
+|Sat 09-21 |01:20 PM |WSH @ CUBS |
+
+|Sun 09-22 |01:20 PM |WSH @ CUBS |
+
+|Mon 09-23 |05:40 PM |CUBS @ PHI |
+
+|Tue 09-24 |05:40 PM |CUBS @ PHI |
+
+|Wed 09-25 |05:05 PM |CUBS @ PHI |
+
+|Fri 09-27 |01:20 PM |CIN @ CUBS |
+
+|Sat 09-28 |01:20 PM |CIN @ CUBS |
+
+|Sun 09-29 |02:20 PM |CIN @ CUBS |
 
 |===
 

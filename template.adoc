@@ -8,6 +8,6 @@
 
 //Games are on Marquee/NBC Sports Chicago unless otherwise noted.
 
-//include::./out.adoc[]
-include::./cubs.adoc[]
-include::./sox.adoc[]
+include::./out.adoc[]
+//include::./cubs.adoc[]
+//include::./sox.adoc[]
