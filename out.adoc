@@ -1,15 +1,19 @@
-== Sat 09-21
+== Week 1
 
 [%autowidth.stretch]
 |===
 |Date |Time |Game |TV
 
 
-|Sat 09-21 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Thu 08-29 |07:00 PM |N Dakota St @ Colorado |ESPN
 
-|Sat 09-21 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/stl.png[STL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Thu 08-29 |08:00 PM |E Illinois @ Illinois |BIG10
 
-|Sat 09-21 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/min.png[MIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/wpg.png[WPG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 08-31 |11:00 AM |Indiana St @ Purdue |BIG10
+
+|Sat 08-31 |11:00 AM |Illinois St @ Iowa |BIG10
+
+|Sat 08-31 |04:00 PM |Valparaiso @ Northern Iowa |PSN TV
 
 |===
 
@@ -17,32 +21,20 @@
 
 <<<
 
-== Sun 09-22
+== Week 2
 
 [%autowidth.stretch]
 |===
 |Date |Time |Game |TV
 
 
-|Sun 09-22 |01:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/nsh.png[NSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/fla.png[FLA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 09-07 |01:00 PM |Valparaiso @ Youngstown St |
 
-|Sun 09-22 |02:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/wsh.png[WSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 09-07 |02:30 PM |Tennessee St @ N Dakota St |
 
-|Sun 09-22 |04:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/nyr.png[NYR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/bos.png[BOS,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 09-07 |06:00 PM |Kansas @ Illinois |FS1
 
-|Sun 09-22 |05:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/nsh.png[NSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/fla.png[FLA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Sun 09-22 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/stl.png[STL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/utah.png[UTAH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Sun 09-22 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/ott.png[OTT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/tor.png[TOR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Sun 09-22 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/wpg.png[WPG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/edm.png[EDM,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Sun 09-22 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/nyi.png[NYI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/nj.png[NJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Sun 09-22 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/vgk.png[VGK,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/sj.png[SJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Sun 09-22 |09:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/cgy.png[CGY,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 09-07 |06:00 PM |Illinois St @ North Alabama |
 
 |===
 
@@ -50,24 +42,22 @@
 
 <<<
 
-== Mon 09-23
+== Week 3
 
 [%autowidth.stretch]
 |===
 |Date |Time |Game |TV
 
 
-|Mon 09-23 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/mtl.png[MTL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 09-14 |11:00 AM |C Michigan @ Illinois |Peacock
 
-|Mon 09-23 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/cbj.png[CBJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 09-14 |12:00 PM |W Illinois @ Illinois St |
 
-|Mon 09-23 |08:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/la.png[LA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/utah.png[UTAH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 09-14 |02:30 PM |Notre Dame @ Purdue |CBS
 
-|Mon 09-23 |08:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/edm.png[EDM,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/cgy.png[CGY,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 09-14 |04:30 PM |N Dakota St @ ETSU |
 
-|Mon 09-23 |08:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/cgy.png[CGY,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/edm.png[EDM,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Mon 09-23 |08:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/col.png[COL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 09-14 |06:30 PM |INDWESLYAN @ Valparaiso |
 
 |===
 
@@ -75,28 +65,22 @@
 
 <<<
 
-== Tue 09-24
+== Week 4
 
 [%autowidth.stretch]
 |===
 |Date |Time |Game |TV
 
 
-|Tue 09-24 | |image:https://a.espncdn.com/i/teamlogos/nhl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/van.png[VAN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Fri 09-20 |07:00 PM |Illinois @ Nebraska |FOX
 
-|Tue 09-24 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/wsh.png[WSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/bos.png[BOS,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 09-21 |01:00 PM |Towson @ N Dakota St |
 
-|Tue 09-24 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/nyi.png[NYI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/nyr.png[NYR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 09-21 |01:00 PM |Roosevelt @ Valparaiso |
 
-|Tue 09-24 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 09-21 |06:00 PM |E Illinois @ Illinois St |
 
-|Tue 09-24 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/tor.png[TOR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/ott.png[OTT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Tue 09-24 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/car.png[CAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Tue 09-24 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/nj.png[NJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/mtl.png[MTL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Tue 09-24 |09:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/ana.png[ANA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/sj.png[SJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 09-21 |07:30 PM |Purdue @ Oregon St |The CW Network
 
 |===
 
@@ -104,28 +88,20 @@
 
 <<<
 
-== Wed 09-25
+== Week 5
 
 [%autowidth.stretch]
 |===
 |Date |Time |Game |TV
 
 
-|Wed 09-25 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+| | |Illinois @ Penn State |
 
-|Wed 09-25 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/wsh.png[WSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/nj.png[NJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 09-28 |11:00 AM |Nebraska @ Purdue |
 
-|Wed 09-25 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/stl.png[STL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/cbj.png[CBJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 09-28 |12:00 PM |Valparaiso @ Morehead St |
 
-|Wed 09-25 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/fla.png[FLA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Wed 09-25 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/min.png[MIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Wed 09-25 |08:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/edm.png[EDM,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/wpg.png[WPG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Wed 09-25 |09:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/la.png[LA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/vgk.png[VGK,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Wed 09-25 |09:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/cgy.png[CGY,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/van.png[VAN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 09-28 |02:00 PM |N Dakota St @ Illinois St |
 
 |===
 
@@ -133,22 +109,20 @@
 
 <<<
 
-== Thu 09-26
+== Week 6
 
 [%autowidth.stretch]
 |===
 |Date |Time |Game |TV
 
 
-|Thu 09-26 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/bos.png[BOS,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/nyr.png[NYR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+| | |Purdue @ Wisconsin |
 
-|Thu 09-26 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/nyi.png[NYI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 10-05 |12:00 PM |Drake @ Valparaiso |
 
-|Thu 09-26 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/ott.png[OTT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 10-05 |02:30 PM |North Dakota @ N Dakota St |
 
-|Thu 09-26 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/mtl.png[MTL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/tor.png[TOR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Thu 09-26 |09:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/sj.png[SJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/ana.png[ANA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 10-05 |06:00 PM |Illinois St @ S Illinois |
 
 |===
 
@@ -156,30 +130,20 @@
 
 <<<
 
-== Fri 09-27
+== Week 7
 
 [%autowidth.stretch]
 |===
 |Date |Time |Game |TV
 
 
-|Fri 09-27 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+| | |Purdue @ Illinois |
 
-|Fri 09-27 | |image:https://a.espncdn.com/i/teamlogos/nhl/500/van.png[VAN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 10-12 |12:00 PM |Missouri St @ Illinois St |
 
-|Fri 09-27 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/cbj.png[CBJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/wsh.png[WSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 10-12 |12:00 PM |Valparaiso @ Stetson |
 
-|Fri 09-27 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/nsh.png[NSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Fri 09-27 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/fla.png[FLA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/car.png[CAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Fri 09-27 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/nj.png[NJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/nyi.png[NYI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Fri 09-27 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/wpg.png[WPG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/min.png[MIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Fri 09-27 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/col.png[COL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Fri 09-27 |09:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/utah.png[UTAH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/vgk.png[VGK,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 10-12 |02:00 PM |N Dakota St @ S Illinois |
 
 |===
 
@@ -187,32 +151,22 @@
 
 <<<
 
-== Sat 09-28
+== Week 8
 
 [%autowidth.stretch]
 |===
 |Date |Time |Game |TV
 
 
-|Sat 09-28 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/stl.png[STL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Fri 10-18 |07:00 PM |Oregon @ Purdue |FOX
 
-|Sat 09-28 | |image:https://a.espncdn.com/i/teamlogos/nhl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/edm.png[EDM,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+| | |Michigan @ Illinois |
 
-|Sat 09-28 |05:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/ana.png[ANA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/la.png[LA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+| | |S Dakota St @ N Dakota St |
 
-|Sat 09-28 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/bos.png[BOS,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 10-19 |01:00 PM |St Thomas (MN) @ Valparaiso |
 
-|Sat 09-28 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/cbj.png[CBJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Sat 09-28 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Sat 09-28 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/car.png[CAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/fla.png[FLA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Sat 09-28 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/tor.png[TOR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/mtl.png[MTL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Sat 09-28 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/nsh.png[NSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Sat 09-28 |08:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/van.png[VAN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/cgy.png[CGY,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 10-19 |02:00 PM |Illinois St @ Murray St |
 
 |===
 
@@ -220,16 +174,18 @@
 
 <<<
 
-== Sun 09-29
+== Week 9
 
 [%autowidth.stretch]
 |===
 |Date |Time |Game |TV
 
 
-|Sun 09-29 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/utah.png[UTAH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/col.png[COL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+| | |Illinois @ Oregon |
 
-|Sun 09-29 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/ott.png[OTT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 10-26 |11:00 AM |Valparaiso @ Marist |
+
+|Sat 10-26 |01:00 PM |N Dakota St @ Murray St |
 
 |===
 
@@ -237,30 +193,20 @@
 
 <<<
 
-== Mon 09-30
+== Week 10
 
 [%autowidth.stretch]
 |===
 |Date |Time |Game |TV
 
 
-|Mon 09-30 | |image:https://a.espncdn.com/i/teamlogos/nhl/500/van.png[VAN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/edm.png[EDM,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+| | |Northwestern @ Purdue |
 
-|Mon 09-30 |05:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/min.png[MIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+| | |Minnesota @ Illinois |
 
-|Mon 09-30 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/nyr.png[NYR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/nj.png[NJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 11-02 |02:00 PM |Youngstown St @ Illinois St |
 
-|Mon 09-30 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/wsh.png[WSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/cbj.png[CBJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Mon 09-30 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/nyi.png[NYI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Mon 09-30 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Mon 09-30 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/fla.png[FLA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Mon 09-30 |08:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/cgy.png[CGY,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Mon 09-30 |09:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/la.png[LA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/ana.png[ANA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 11-02 |02:30 PM |Northern Iowa @ N Dakota St |
 
 |===
 
@@ -268,28 +214,18 @@
 
 <<<
 
-== Tue 10-01
+== Week 11
 
 [%autowidth.stretch]
 |===
 |Date |Time |Game |TV
 
 
-|Tue 10-01 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/min.png[MIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+| | |Purdue @ Ohio State |
 
-|Tue 10-01 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/bos.png[BOS,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 11-09 |01:00 PM |Illinois St @ Northern Iowa |
 
-|Tue 10-01 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/nj.png[NJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/nyr.png[NYR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Tue 10-01 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Tue 10-01 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/cbj.png[CBJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/stl.png[STL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Tue 10-01 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/ott.png[OTT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/mtl.png[MTL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Tue 10-01 |08:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/vgk.png[VGK,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/col.png[COL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Tue 10-01 |09:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/utah.png[UTAH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/sj.png[SJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 11-09 |01:00 PM |Butler @ Valparaiso |
 
 |===
 
@@ -297,22 +233,22 @@
 
 <<<
 
-== Wed 10-02
+== Week 12
 
 [%autowidth.stretch]
 |===
 |Date |Time |Game |TV
 
 
-|Wed 10-02 | |image:https://a.espncdn.com/i/teamlogos/nhl/500/edm.png[EDM,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+| | |Penn State @ Purdue |
 
-|Wed 10-02 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/fla.png[FLA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+| | |Michigan St @ Illinois |
 
-|Wed 10-02 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/nsh.png[NSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/car.png[CAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 11-16 |11:00 AM |Valparaiso @ Dayton |
 
-|Wed 10-02 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/cgy.png[CGY,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/wpg.png[WPG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 11-16 |12:00 PM |Illinois St @ Indiana St |
 
-|Wed 10-02 |09:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/utah.png[UTAH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/ana.png[ANA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 11-16 |02:30 PM |Missouri St @ N Dakota St |
 
 |===
 
@@ -320,24 +256,22 @@
 
 <<<
 
-== Thu 10-03
+== Week 13
 
 [%autowidth.stretch]
 |===
 |Date |Time |Game |TV
 
 
-|Thu 10-03 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/bos.png[BOS,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/la.png[LA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Fri 11-22 |07:00 PM |Purdue @ Michigan St |FOX
 
-|Thu 10-03 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/nj.png[NJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+| | |Illinois @ Rutgers |
 
-|Thu 10-03 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/cbj.png[CBJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 11-23 |12:00 PM |North Dakota @ Illinois St |
 
-|Thu 10-03 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/tor.png[TOR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 11-23 |01:00 PM |N Dakota St @ South Dakota |
 
-|Thu 10-03 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/stl.png[STL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Thu 10-03 |09:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/col.png[COL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/vgk.png[VGK,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+|Sat 11-23 |01:00 PM |Davidson @ Valparaiso |
 
 |===
 
@@ -345,57 +279,16 @@
 
 <<<
 
-== Fri 10-04
+== Week 14
 
 [%autowidth.stretch]
 |===
 |Date |Time |Game |TV
 
 
-|Fri 10-04 |07:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/min.png[MIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+| | |Purdue @ Indiana |
 
-|Fri 10-04 | |image:https://a.espncdn.com/i/teamlogos/nhl/500/edm.png[EDM,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/van.png[VAN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Fri 10-04 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/nyr.png[NYR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/nyi.png[NYI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Fri 10-04 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/cbj.png[CBJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Fri 10-04 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/ott.png[OTT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Fri 10-04 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/car.png[CAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Fri 10-04 |08:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/wpg.png[WPG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/cgy.png[CGY,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Fri 10-04 |09:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/ana.png[ANA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/sj.png[SJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|===
-
-
-
-<<<
-
-== Sat 10-05
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-|Sat 10-05 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/stl.png[STL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Sat 10-05 |04:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/bos.png[BOS,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/wsh.png[WSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Sat 10-05 |04:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/car.png[CAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/nsh.png[NSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Sat 10-05 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/la.png[LA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/fla.png[FLA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Sat 10-05 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/col.png[COL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/utah.png[UTAH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Sat 10-05 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/mtl.png[MTL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/ott.png[OTT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Sat 10-05 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/tor.png[TOR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
-
-|Sat 10-05 |09:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/sj.png[SJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/vgk.png[VGK,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |
+| | |Illinois @ Northwestern |
 
 |===
 

@@ -5,12 +5,12 @@ from datetime import datetime as dt, timedelta as td
 
 
 GET_NEW_DATA = True
-PRINT_ENTIRE_LEAGUE = True
+PRINT_ENTIRE_LEAGUE = False
 DAILY_HEADERS = True
-USE_TEAM_IMAGES = True
-USE_SHORT_NAME = True
+USE_TEAM_IMAGES = False
+USE_SHORT_NAME = False
 PAGE_BREAKS = True
-league = NHL
+league = NCAAF
 PRINT_BYES = False
 TABLE_HEADER = r'%autowidth.stretch'
 START_DATE = dt.now()
@@ -24,10 +24,6 @@ NETWORK_WHITELIST = {
 }
 FAVORITE_TEAMS = ["CHI", "CHC"]
 NAME_SUBS = {
-    "CHC": "CUBS",
-    "CHW": "SOX",
-    "Marquee Sports Net": "MARQ",
-    "NBC Sports Chi": "NBC-CHI"
 }
 
 
@@ -67,12 +63,17 @@ if GET_NEW_DATA:
             print(tricode)
             loadScheduleByTricode(league, tricode, seasontype="1")
     else:
-        loadScheduleByTricode(league, "CHC")
-        loadScheduleByTricode(league, "CHW")
+        #loadScheduleByTricode(league, "CHC")
+        #loadScheduleByTricode(league, "CHW")
+        loadScheduleByTricode(league, "pur")
+        loadScheduleByTricode(league, "ndsu")
+        loadScheduleByTricode(league, "ill")
+
+
         # valpo
-        #loadScheduleByTricode(league, "2674")
+        loadScheduleByTricode(league, "2674")
         # ill. state
-        #loadScheduleByTricode(league, "2287")
+        loadScheduleByTricode(league, "2287")
 
 
 
@@ -89,7 +90,7 @@ datafile = open("./games.json")
 gameData:dict = json.load(datafile)
 datafile.close()
 
-if league == NFL:
+if league in [NFL, NCAAF]:
     # then "dates" are actually "weeks"
     dates = list(set([game["week"] for tricode in gameData for game in gameData[tricode]["games"]]))
     dates = sorted(dates)
@@ -140,7 +141,7 @@ for date in dates:
                 continue
             ids.append(id)
 
-            if league == NFL:
+            if league in [NFL, NCAAF]:
                 # stop right there, if this is the incorrect week
                 if date != game["week"]:
                     continue
@@ -157,7 +158,7 @@ for date in dates:
     games = sorted(games, key=lambda game: (game["home"]["tricode"] not in FAVORITE_TEAMS, game["away"]["tricode"] not in FAVORITE_TEAMS, game["zulu"]))      
 
     if DAILY_HEADERS:
-        if league == NFL:
+        if league in [NFL, NCAAF]:
             outfile.write("== Week %s\n\n"%(date))
         else:
             outfile.write("== %s\n\n"%(date))
