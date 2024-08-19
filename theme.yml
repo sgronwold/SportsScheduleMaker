@@ -2,9 +2,11 @@ extends: default-for-print
 
 page:
     #size: [3.67in,8.5in]
-    size: [5.5in,8.5in]
-    margin: [0in,0in]
+    #size: [5.5in,8.5in]
+    size: [8.5in, 11in]
+    margin: [0.5in, 0.5in]
+    #margin: [0in,0in]
 heading:
     h2-font-size: 16pt
 base:
-    font-size: 16pt
+    font-size: 22pt

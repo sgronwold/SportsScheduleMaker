@@ -1,298 +1,41 @@
-== Week 1
-
 [%autowidth.stretch]
 |===
 |Date |Time |Game |TV
 
 
-|Thu 08-29 |07:00 PM |N Dakota St @ Colorado |ESPN
+|Sun 09-08 |12:00 PM |TEN @ CHI |FOX
 
-|Thu 08-29 |08:00 PM |E Illinois @ Illinois |BIG10
+|Sun 09-15 |07:20 PM |CHI @ HOU |NBC
 
-|Sat 08-31 |11:00 AM |Indiana St @ Purdue |BIG10
+|Sun 09-22 |12:00 PM |CHI @ IND |CBS
 
-|Sat 08-31 |11:00 AM |Illinois St @ Iowa |BIG10
+|Sun 09-29 |12:00 PM |LAR @ CHI |FOX
 
-|Sat 08-31 |04:00 PM |Valparaiso @ Northern Iowa |PSN TV
+|Sun 10-06 |12:00 PM |CAR @ CHI |FOX
 
-|===
+|Sun 10-13 |08:30 AM |JAX @ CHI |NFLN
 
+|Sun 10-27 |12:00 PM |CHI @ WSH |CBS
 
+|Sun 11-03 |03:05 PM |CHI @ ARI |CBS
 
-<<<
+|Sun 11-10 |12:00 PM |NE @ CHI |FOX
 
-== Week 2
+|Sun 11-17 |12:00 PM |GB @ CHI |FOX
 
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
+|Sun 11-24 |12:00 PM |MIN @ CHI |FOX
 
+|Thu 11-28 |11:30 AM |CHI @ DET |CBS
 
-|Sat 09-07 |01:00 PM |Valparaiso @ Youngstown St |
+|Sun 12-08 |03:25 PM |CHI @ SF |FOX
 
-|Sat 09-07 |02:30 PM |Tennessee St @ N Dakota St |
+|Mon 12-16 |07:00 PM |CHI @ MIN |ABC
 
-|Sat 09-07 |06:00 PM |Kansas @ Illinois |FS1
+|Sun 12-22 |12:00 PM |DET @ CHI |FOX
 
-|Sat 09-07 |06:00 PM |Illinois St @ North Alabama |
+|Thu 12-26 |07:15 PM |SEA @ CHI |
 
-|===
-
-
-
-<<<
-
-== Week 3
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-|Sat 09-14 |11:00 AM |C Michigan @ Illinois |Peacock
-
-|Sat 09-14 |12:00 PM |W Illinois @ Illinois St |
-
-|Sat 09-14 |02:30 PM |Notre Dame @ Purdue |CBS
-
-|Sat 09-14 |04:30 PM |N Dakota St @ ETSU |
-
-|Sat 09-14 |06:30 PM |INDWESLYAN @ Valparaiso |
+| | |CHI @ GB |
 
 |===
-
-
-
-<<<
-
-== Week 4
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-|Fri 09-20 |07:00 PM |Illinois @ Nebraska |FOX
-
-|Sat 09-21 |01:00 PM |Towson @ N Dakota St |
-
-|Sat 09-21 |01:00 PM |Roosevelt @ Valparaiso |
-
-|Sat 09-21 |06:00 PM |E Illinois @ Illinois St |
-
-|Sat 09-21 |07:30 PM |Purdue @ Oregon St |The CW Network
-
-|===
-
-
-
-<<<
-
-== Week 5
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-| | |Illinois @ Penn State |
-
-|Sat 09-28 |11:00 AM |Nebraska @ Purdue |
-
-|Sat 09-28 |12:00 PM |Valparaiso @ Morehead St |
-
-|Sat 09-28 |02:00 PM |N Dakota St @ Illinois St |
-
-|===
-
-
-
-<<<
-
-== Week 6
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-| | |Purdue @ Wisconsin |
-
-|Sat 10-05 |12:00 PM |Drake @ Valparaiso |
-
-|Sat 10-05 |02:30 PM |North Dakota @ N Dakota St |
-
-|Sat 10-05 |06:00 PM |Illinois St @ S Illinois |
-
-|===
-
-
-
-<<<
-
-== Week 7
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-| | |Purdue @ Illinois |
-
-|Sat 10-12 |12:00 PM |Missouri St @ Illinois St |
-
-|Sat 10-12 |12:00 PM |Valparaiso @ Stetson |
-
-|Sat 10-12 |02:00 PM |N Dakota St @ S Illinois |
-
-|===
-
-
-
-<<<
-
-== Week 8
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-|Fri 10-18 |07:00 PM |Oregon @ Purdue |FOX
-
-| | |Michigan @ Illinois |
-
-| | |S Dakota St @ N Dakota St |
-
-|Sat 10-19 |01:00 PM |St Thomas (MN) @ Valparaiso |
-
-|Sat 10-19 |02:00 PM |Illinois St @ Murray St |
-
-|===
-
-
-
-<<<
-
-== Week 9
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-| | |Illinois @ Oregon |
-
-|Sat 10-26 |11:00 AM |Valparaiso @ Marist |
-
-|Sat 10-26 |01:00 PM |N Dakota St @ Murray St |
-
-|===
-
-
-
-<<<
-
-== Week 10
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-| | |Northwestern @ Purdue |
-
-| | |Minnesota @ Illinois |
-
-|Sat 11-02 |02:00 PM |Youngstown St @ Illinois St |
-
-|Sat 11-02 |02:30 PM |Northern Iowa @ N Dakota St |
-
-|===
-
-
-
-<<<
-
-== Week 11
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-| | |Purdue @ Ohio State |
-
-|Sat 11-09 |01:00 PM |Illinois St @ Northern Iowa |
-
-|Sat 11-09 |01:00 PM |Butler @ Valparaiso |
-
-|===
-
-
-
-<<<
-
-== Week 12
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-| | |Penn State @ Purdue |
-
-| | |Michigan St @ Illinois |
-
-|Sat 11-16 |11:00 AM |Valparaiso @ Dayton |
-
-|Sat 11-16 |12:00 PM |Illinois St @ Indiana St |
-
-|Sat 11-16 |02:30 PM |Missouri St @ N Dakota St |
-
-|===
-
-
-
-<<<
-
-== Week 13
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-|Fri 11-22 |07:00 PM |Purdue @ Michigan St |FOX
-
-| | |Illinois @ Rutgers |
-
-|Sat 11-23 |12:00 PM |North Dakota @ Illinois St |
-
-|Sat 11-23 |01:00 PM |N Dakota St @ South Dakota |
-
-|Sat 11-23 |01:00 PM |Davidson @ Valparaiso |
-
-|===
-
-
-
-<<<
-
-== Week 14
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-| | |Purdue @ Indiana |
-
-| | |Illinois @ Northwestern |
-
-|===
-
-
-
-<<<
 
