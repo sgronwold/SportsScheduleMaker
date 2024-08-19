@@ -66,8 +66,8 @@ if GET_NEW_DATA:
             print(tricode)
             loadScheduleByTricode(league, tricode)
     else:
-        loadScheduleByTricode(league, "CHC")
-        #loadScheduleByTricode(league, "CHW")
+        #loadScheduleByTricode(league, "CHC")
+        loadScheduleByTricode(league, "CHW")
         # valpo
         #loadScheduleByTricode(league, "2674")
         # ill. state
