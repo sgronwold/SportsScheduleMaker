@@ -5,18 +5,18 @@ from datetime import datetime as dt, timedelta as td
 
 
 GET_NEW_DATA = True
-PRINT_ENTIRE_LEAGUE = False
-DAILY_HEADERS = False
-USE_TEAM_IMAGES = False
+PRINT_ENTIRE_LEAGUE = True
+DAILY_HEADERS = True
+USE_TEAM_IMAGES = True
 USE_SHORT_NAME = True
-PAGE_BREAKS = False
+PAGE_BREAKS = True
 league = NFL
-PRINT_BYES = False
+PRINT_BYES = True
 TABLE_HEADER = r'%autowidth.stretch'
 START_DATE = dt.now()
 NETWORK_BLACKLIST = {
     "local": [],
-    "national": ["Prime Video", "ESPN+", "Peacock"]
+    "national": []
 }
 NETWORK_WHITELIST = {
     "local": [],
@@ -62,7 +62,7 @@ if GET_NEW_DATA:
     if PRINT_ENTIRE_LEAGUE:
         for tricode in tricodes:
             print(tricode)
-            loadScheduleByTricode(league, tricode, seasontype="1")
+            loadScheduleByTricode(league, tricode, seasontype="2")
     else:
         #loadScheduleByTricode(league, "CHC")
         #loadScheduleByTricode(league, "CHW")
