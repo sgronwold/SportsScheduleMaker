@@ -3,38 +3,39 @@
 |Date |Time |Game |TV
 
 
-|Sat 08-24 |06:10 PM |DET @ SOX |
+|Tue 09-10 |06:40 PM |CLE @ SOX |
 
-|Sun 08-25 |01:10 PM |DET @ SOX |
+|Wed 09-11 |01:10 PM |CLE @ SOX |
 
-|Mon 08-26 |07:10 PM |DET @ SOX |
+|Fri 09-13 |06:40 PM |OAK @ SOX |
 
-|Tue 08-27 |07:10 PM |TEX @ SOX |
+|Sat 09-14 |06:10 PM |OAK @ SOX |
 
-|Wed 08-28 |07:10 PM |TEX @ SOX |
+|Sun 09-15 |01:10 PM |OAK @ SOX |
 
-|Thu 08-29 |01:10 PM |TEX @ SOX |
+|Mon 09-16 |08:38 PM |SOX @ LAA |
 
-|Fri 08-30 |07:10 PM |NYM @ SOX |
+|Tue 09-17 |08:38 PM |SOX @ LAA |
 
-|Sat 08-31 |06:10 PM |NYM @ SOX |
+|Wed 09-18 |03:07 PM |SOX @ LAA |
 
-|Sun 09-01 |01:10 PM |NYM @ SOX |
+|Fri 09-20 |08:40 PM |SOX @ SD |
 
-|Mon 09-02 |02:05 PM |SOX @ BAL |
+|Sat 09-21 |07:40 PM |SOX @ SD |
 
-|Tue 09-03 |05:35 PM |SOX @ BAL |
+|Sun 09-22 |03:10 PM |SOX @ SD |
 
-|Wed 09-04 |05:35 PM |SOX @ BAL |
+|Tue 09-24 |06:40 PM |LAA @ SOX |
 
-|Fri 09-06 |06:10 PM |SOX @ BOS |
+|Wed 09-25 |06:40 PM |LAA @ SOX |
 
-|Sat 09-07 |06:15 PM |SOX @ BOS |FOX
+|Thu 09-26 |01:10 PM |LAA @ SOX |
 
-|Sun 09-08 |12:35 PM |SOX @ BOS |
+|Fri 09-27 |05:40 PM |SOX @ DET |
 
-|Mon 09-09 |06:40 PM |CLE @ SOX |
+|Sat 09-28 |12:10 PM |SOX @ DET |
 
+|Sun 09-29 |02:10 PM |SOX @ DET |
 
 |===
 

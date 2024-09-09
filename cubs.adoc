@@ -3,34 +3,41 @@
 |Date |Time |Game |TV
 
 
-|Sat 08-24 |03:10 PM |CUBS @ MIA |
+|Tue 09-10 |09:10 PM |CUBS @ LAD |TBS
 
-|Sun 08-25 |12:40 PM |CUBS @ MIA |
+|Wed 09-11 |09:10 PM |CUBS @ LAD |
 
-|Mon 08-26 |05:40 PM |CUBS @ PIT |
+|Fri 09-13 |07:40 PM |CUBS @ COL |
 
-|Tue 08-27 |05:40 PM |CUBS @ PIT |
+|Sat 09-14 |07:10 PM |CUBS @ COL |
 
-|Wed 08-28 |11:35 AM |CUBS @ PIT |
+|Sun 09-15 |02:10 PM |CUBS @ COL |
 
-|Fri 08-30 |05:45 PM |CUBS @ WSH |
+|Mon 09-16 |06:40 PM |OAK @ CUBS |
 
-|Sat 08-31 |03:05 PM |CUBS @ WSH |
+|Tue 09-17 |06:40 PM |OAK @ CUBS |
 
-|Sun 09-01 |12:35 PM |CUBS @ WSH |
+|Wed 09-18 |01:20 PM |OAK @ CUBS |
 
-|Mon 09-02 |06:40 PM |PIT @ CUBS |
+|Thu 09-19 |06:40 PM |WSH @ CUBS |
 
-|Tue 09-03 |06:40 PM |PIT @ CUBS |
+|Fri 09-20 |01:20 PM |WSH @ CUBS |
 
-|Wed 09-04 |06:40 PM |PIT @ CUBS |
+|Sat 09-21 |01:20 PM |WSH @ CUBS |
 
-|Fri 09-06 |01:20 PM |NYY @ CUBS |
+|Sun 09-22 |01:20 PM |WSH @ CUBS |
 
-|Sat 09-07 |01:20 PM |NYY @ CUBS |
+|Mon 09-23 |05:40 PM |CUBS @ PHI |
 
-|Sun 09-08 |01:20 PM |NYY @ CUBS |
+|Tue 09-24 |05:40 PM |CUBS @ PHI |
 
-|Mon 09-09 |09:10 PM |CUBS @ LAD |
+|Wed 09-25 |05:05 PM |CUBS @ PHI |
+
+|Fri 09-27 |01:20 PM |CIN @ CUBS |
+
+|Sat 09-28 |01:20 PM |CIN @ CUBS |
+
+|Sun 09-29 |02:20 PM |CIN @ CUBS |
 
 |===
+

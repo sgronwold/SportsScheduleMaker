@@ -13,7 +13,7 @@ PAGE_BREAKS = False
 league = MLB
 PRINT_BYES = False
 TABLE_HEADER = r'%autowidth.stretch'
-START_DATE = dt(2024,8,24)
+START_DATE = dt(2024,9,10)
 NETWORK_BLACKLIST = {
     "local": [],
     "national": ["ESPN+", "PRIME VIDEO", "MLBN"]
@@ -66,8 +66,8 @@ if GET_NEW_DATA:
             print(tricode)
             loadScheduleByTricode(league, tricode)
     else:
-        #loadScheduleByTricode(league, "CHC")
-        loadScheduleByTricode(league, "CHW")
+        loadScheduleByTricode(league, "CHC")
+        #loadScheduleByTricode(league, "CHW")
         # valpo
         #loadScheduleByTricode(league, "2674")
         # ill. state
