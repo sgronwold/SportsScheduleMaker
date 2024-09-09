@@ -7,6 +7,6 @@ page:
     margin: [0.5in, 0.5in]
     #margin: [0in,0in]
 heading:
-    h2-font-size: 16pt
+    h2-font-size: 24pt
 base:
-    font-size: 22pt
+    font-size: 20pt

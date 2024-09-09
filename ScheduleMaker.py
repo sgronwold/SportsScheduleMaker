@@ -16,7 +16,7 @@ TABLE_HEADER = r'%autowidth.stretch'
 START_DATE = dt.now()
 NETWORK_BLACKLIST = {
     "local": [],
-    "national": []
+    "national": ["Universo"]
 }
 NETWORK_WHITELIST = {
     "local": [],
@@ -24,7 +24,6 @@ NETWORK_WHITELIST = {
 }
 FAVORITE_TEAMS = ["CHI", "CHC"]
 NAME_SUBS = {
-    "NFL Net": "NFLN"
 }
 
 
