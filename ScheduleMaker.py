@@ -7,16 +7,16 @@ from datetime import datetime as dt, timedelta as td
 GET_NEW_DATA = True
 PRINT_ENTIRE_LEAGUE = False
 DAILY_HEADERS = False
-USE_TEAM_IMAGES = False
+USE_TEAM_IMAGES = True
 USE_SHORT_NAME = True
 PAGE_BREAKS = False
 league = NHL
 PRINT_BYES = False
 TABLE_HEADER = r'%autowidth.stretch'
-START_DATE = dt.now()
+START_DATE = dt(2024, 8, 1)
 NETWORK_BLACKLIST = {
     "local": [],
-    "national": ["Hulu", "Max"]
+    "national": ["Max", "MNMT", "truTV", "ESPN+"]
 }
 NETWORK_WHITELIST = {
     "local": ["CHSN"],
@@ -24,6 +24,7 @@ NETWORK_WHITELIST = {
 }
 FAVORITE_TEAMS = ["CHI", "CHC"]
 NAME_SUBS = {
+    "Hulu": "ESPN+"
 }
 
 

@@ -3,163 +3,169 @@
 |Date |Time |Game |TV
 
 
-|Tue 10-15 |08:00 PM |CHI @ CGY |CHSN, ESPN+
+|Tue 10-08 |09:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/utah.png[UTAH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |ESPN
 
-|Thu 10-17 |07:30 PM |SJ @ CHI |CHSN, ESPN+
+|Fri 10-11 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/wpg.png[WPG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Sat 10-19 |07:00 PM |BUF @ CHI |CHSN, ESPN+
+|Sat 10-12 |09:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/edm.png[EDM,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Tue 10-22 |07:15 PM |VAN @ CHI |CHSN, ESPN+
+|Tue 10-15 |08:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/cgy.png[CGY,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Fri 10-25 |07:30 PM |NSH @ CHI |ESPN+
+|Thu 10-17 |07:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/sj.png[SJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Sat 10-26 |07:00 PM |CHI @ DAL |CHSN, ESPN+
+|Sat 10-19 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Mon 10-28 |08:00 PM |CHI @ COL |CHSN, ESPN+
+|Tue 10-22 |07:15 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/van.png[VAN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Thu 10-31 |09:30 PM |CHI @ SJ |CHSN, ESPN+
+|Fri 10-25 |07:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/nsh.png[NSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |ESPN+
 
-|Sat 11-02 |03:00 PM |CHI @ LA |CHSN
+|Sat 10-26 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Sun 11-03 |07:00 PM |CHI @ ANA |CHSN
+|Mon 10-28 |08:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/col.png[COL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Wed 11-06 |07:00 PM |DET @ CHI |TNT, truTV
+|Thu 10-31 |09:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/sj.png[SJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Thu 11-07 |07:00 PM |CHI @ DAL |CHSN
+|Sat 11-02 |03:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/la.png[LA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Sun 11-10 |06:00 PM |MIN @ CHI |CHSN
+|Sun 11-03 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/ana.png[ANA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Thu 11-14 |09:00 PM |CHI @ SEA |CHSN
+|Wed 11-06 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |TNT
 
-|Sat 11-16 |09:00 PM |CHI @ VAN |CHSN
+|Thu 11-07 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Tue 11-19 |07:30 PM |ANA @ CHI |CHSN
+|Sun 11-10 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/min.png[MIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Thu 11-21 |07:30 PM |FLA @ CHI |ESPN+
+|Thu 11-14 |09:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Sat 11-23 |12:00 PM |CHI @ PHI |CHSN
+|Sat 11-16 |09:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/van.png[VAN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Wed 11-27 |07:30 PM |DAL @ CHI |CHSN
+|Tue 11-19 |07:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/ana.png[ANA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Fri 11-29 |01:00 PM |CHI @ MIN |CHSN
+|Thu 11-21 |07:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/fla.png[FLA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |ESPN+
 
-|Sun 12-01 |02:00 PM |CBJ @ CHI |CHSN
+|Sat 11-23 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Mon 12-02 |06:30 PM |CHI @ TOR |CHSN
+|Wed 11-27 |07:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Wed 12-04 |06:30 PM |BOS @ CHI |TNT, CHSN
+|Fri 11-29 |01:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/min.png[MIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Sat 12-07 |03:00 PM |WPG @ CHI |CHSN
+|Sun 12-01 |02:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/cbj.png[CBJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Mon 12-09 |06:00 PM |CHI @ NYR |CHSN
+|Mon 12-02 |06:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/tor.png[TOR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Thu 12-12 |06:30 PM |CHI @ NYI |CHSN
+|Wed 12-04 |06:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/bos.png[BOS,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN, TNT
 
-|Sat 12-14 |12:00 PM |CHI @ NJ |CHSN
+|Sat 12-07 |03:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/wpg.png[WPG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Sun 12-15 |02:00 PM |NYI @ CHI |CHSN
+|Mon 12-09 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/nyr.png[NYR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Tue 12-17 |07:30 PM |WSH @ CHI |CHSN, MNMT
+|Thu 12-12 |06:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/nyi.png[NYI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Thu 12-19 |07:30 PM |SEA @ CHI |CHSN
+|Sat 12-14 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/nj.png[NJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Sat 12-21 |03:00 PM |CHI @ CGY |CHSN
+|Sun 12-15 |02:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/nyi.png[NYI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Mon 12-23 |07:00 PM |CHI @ MIN |CHSN
+|Tue 12-17 |07:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/wsh.png[WSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Fri 12-27 |06:00 PM |CHI @ BUF |ESPN2
+|Thu 12-19 |07:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Sun 12-29 |07:30 PM |DAL @ CHI |ESPN
+|Sat 12-21 |03:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/cgy.png[CGY,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Tue 12-31 |04:00 PM |STL @ CHI |TNT, truTV
+|Mon 12-23 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/min.png[MIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Fri 01-03 |07:00 PM |MTL @ CHI |CHSN
+|Fri 12-27 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |ESPN2
 
-|Sun 01-05 |02:00 PM |NYR @ CHI |ABC, ESPN+
+|Sun 12-29 |07:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/dal.png[DAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |ESPN
 
-|Wed 01-08 |06:30 PM |COL @ CHI |TNT, truTV
+|Tue 12-31 |04:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/stl.png[STL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |TNT
 
-|Fri 01-10 |06:00 PM |CHI @ DET |CHSN
+|Fri 01-03 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/mtl.png[MTL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Sat 01-11 |06:00 PM |EDM @ CHI |CHSN
+|Sun 01-05 |02:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/nyr.png[NYR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |ABC
 
-|Mon 01-13 |06:30 PM |CGY @ CHI |CHSN
+|Wed 01-08 |06:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/col.png[COL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |TNT
 
-|Thu 01-16 |07:00 PM |CHI @ NSH |CHSN
+|Fri 01-10 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Sat 01-18 |07:00 PM |VGK @ CHI |CHSN
+|Sat 01-11 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/edm.png[EDM,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Mon 01-20 |07:30 PM |CAR @ CHI |CHSN
+|Mon 01-13 |06:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/cgy.png[CGY,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Fri 01-24 |07:00 PM |TB @ CHI |CHSN
+|Thu 01-16 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/nsh.png[NSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Sun 01-26 |06:00 PM |MIN @ CHI |CHSN
+|Sat 01-18 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/vgk.png[VGK,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Tue 01-28 |06:00 PM |CHI @ TB |CHSN
+|Mon 01-20 |07:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/car.png[CAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Thu 01-30 |06:00 PM |CHI @ CAR |CHSN
+|Fri 01-24 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Sat 02-01 |12:00 PM |CHI @ FLA |ABC, ESPN+
+|Sun 01-26 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/min.png[MIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Wed 02-05 |08:30 PM |EDM @ CHI |TNT, truTV
+|Tue 01-28 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Fri 02-07 |07:30 PM |NSH @ CHI |CHSN
+|Thu 01-30 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/car.png[CAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Sat 02-08 |06:00 PM |CHI @ STL |CHSN
+|Sat 02-01 |12:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/fla.png[FLA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |ABC
 
-|Sat 02-22 |06:00 PM |CHI @ CBJ |CHSN
+|Wed 02-05 |08:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/edm.png[EDM,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |TNT
 
-|Sun 02-23 |06:00 PM |TOR @ CHI |CHSN
+|Fri 02-07 |07:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/nsh.png[NSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Tue 02-25 |08:00 PM |CHI @ UTAH |CHSN
+|Sat 02-08 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/stl.png[STL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Thu 02-27 |09:00 PM |CHI @ VGK |CHSN
+|Sat 02-22 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/cbj.png[CBJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Sat 03-01 |09:00 PM |CHI @ ANA |CHSN
+|Sun 02-23 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/tor.png[TOR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Mon 03-03 |07:30 PM |LA @ CHI |CHSN
+|Tue 02-25 |08:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/utah.png[UTAH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Wed 03-05 |06:30 PM |OTT @ CHI |CHSN
+|Thu 02-27 |09:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/vgk.png[VGK,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Fri 03-07 |07:30 PM |UTAH @ CHI |CHSN
+|Sat 03-01 |09:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/ana.png[ANA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Sat 03-08 |07:00 PM |CHI @ NSH |CHSN
+|Mon 03-03 |07:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/la.png[LA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Mon 03-10 |08:00 PM |CHI @ COL |CHSN
+|Wed 03-05 |06:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/ott.png[OTT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Thu 03-13 |09:30 PM |CHI @ SJ |CHSN
+|Fri 03-07 |07:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/utah.png[UTAH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Sat 03-15 |09:00 PM |CHI @ VAN |CHSN
+|Sat 03-08 |07:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/nsh.png[NSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Tue 03-18 |07:30 PM |SEA @ CHI |CHSN
+|Mon 03-10 |08:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/col.png[COL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Thu 03-20 |07:30 PM |LA @ CHI |CHSN
+|Thu 03-13 |09:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/sj.png[SJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Sat 03-22 |02:00 PM |CHI @ STL |CHSN
+|Sat 03-15 |09:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/van.png[VAN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Sun 03-23 |02:00 PM |PHI @ CHI |CHSN
+|Tue 03-18 |07:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/sea.png[SEA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Wed 03-26 |06:30 PM |NJ @ CHI |TNT, CHSN, truTV
+|Thu 03-20 |07:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/la.png[LA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Fri 03-28 |07:30 PM |VGK @ CHI |CHSN
+|Sat 03-22 |02:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/stl.png[STL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Sun 03-30 |03:00 PM |UTAH @ CHI |CHSN
+|Sun 03-23 |02:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/phi.png[PHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Wed 04-02 |08:30 PM |COL @ CHI |TNT, truTV
+|Wed 03-26 |06:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/nj.png[NJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN, TNT
 
-|Fri 04-04 |06:00 PM |CHI @ WSH |CHSN, MNMT
+|Fri 03-28 |07:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/vgk.png[VGK,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Sun 04-06 |05:00 PM |PIT @ CHI |CHSN
+|Sun 03-30 |03:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/utah.png[UTAH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Tue 04-08 |06:00 PM |CHI @ PIT |ESPN
+|Wed 04-02 |08:30 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/col.png[COL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |TNT
 
-|Thu 04-10 |06:00 PM |CHI @ BOS |CHSN
+|Fri 04-04 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/wsh.png[WSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Sat 04-12 |06:00 PM |WPG @ CHI |CHSN
+|Sun 04-06 |05:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
-|Mon 04-14 |06:00 PM |CHI @ MTL |CHSN
+|Tue 04-08 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |ESPN
 
-|Tue 04-15 |06:00 PM |CHI @ OTT |CHSN
+|Thu 04-10 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/bos.png[BOS,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
+
+|Sat 04-12 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/wpg.png[WPG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
+
+|Mon 04-14 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/mtl.png[MTL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
+
+|Tue 04-15 |06:00 PM |image:https://a.espncdn.com/i/teamlogos/nhl/500/chi.png[CHI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nhl/500/ott.png[OTT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] |CHSN
 
 |===
 
