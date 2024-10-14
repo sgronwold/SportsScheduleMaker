@@ -1,298 +1,165 @@
-== Week 1
-
 [%autowidth.stretch]
 |===
 |Date |Time |Game |TV
 
 
-|Thu 08-29 |07:00 PM |N Dakota St @ Colorado |ESPN
+|Tue 10-15 |08:00 PM |CHI @ CGY |CHSN, ESPN+
 
-|Thu 08-29 |08:00 PM |E Illinois @ Illinois |BIG10
+|Thu 10-17 |07:30 PM |SJ @ CHI |CHSN, ESPN+
 
-|Sat 08-31 |11:00 AM |Indiana St @ Purdue |BIG10
+|Sat 10-19 |07:00 PM |BUF @ CHI |CHSN, ESPN+
 
-|Sat 08-31 |11:00 AM |Illinois St @ Iowa |BIG10
+|Tue 10-22 |07:15 PM |VAN @ CHI |CHSN, ESPN+
 
-|Sat 08-31 |04:00 PM |Valparaiso @ Northern Iowa |PSN TV
+|Fri 10-25 |07:30 PM |NSH @ CHI |ESPN+
+
+|Sat 10-26 |07:00 PM |CHI @ DAL |CHSN, ESPN+
+
+|Mon 10-28 |08:00 PM |CHI @ COL |CHSN, ESPN+
+
+|Thu 10-31 |09:30 PM |CHI @ SJ |CHSN, ESPN+
+
+|Sat 11-02 |03:00 PM |CHI @ LA |CHSN
+
+|Sun 11-03 |07:00 PM |CHI @ ANA |CHSN
+
+|Wed 11-06 |07:00 PM |DET @ CHI |TNT, truTV
+
+|Thu 11-07 |07:00 PM |CHI @ DAL |CHSN
+
+|Sun 11-10 |06:00 PM |MIN @ CHI |CHSN
+
+|Thu 11-14 |09:00 PM |CHI @ SEA |CHSN
+
+|Sat 11-16 |09:00 PM |CHI @ VAN |CHSN
+
+|Tue 11-19 |07:30 PM |ANA @ CHI |CHSN
+
+|Thu 11-21 |07:30 PM |FLA @ CHI |ESPN+
+
+|Sat 11-23 |12:00 PM |CHI @ PHI |CHSN
+
+|Wed 11-27 |07:30 PM |DAL @ CHI |CHSN
+
+|Fri 11-29 |01:00 PM |CHI @ MIN |CHSN
+
+|Sun 12-01 |02:00 PM |CBJ @ CHI |CHSN
+
+|Mon 12-02 |06:30 PM |CHI @ TOR |CHSN
+
+|Wed 12-04 |06:30 PM |BOS @ CHI |TNT, CHSN
+
+|Sat 12-07 |03:00 PM |WPG @ CHI |CHSN
+
+|Mon 12-09 |06:00 PM |CHI @ NYR |CHSN
+
+|Thu 12-12 |06:30 PM |CHI @ NYI |CHSN
+
+|Sat 12-14 |12:00 PM |CHI @ NJ |CHSN
+
+|Sun 12-15 |02:00 PM |NYI @ CHI |CHSN
+
+|Tue 12-17 |07:30 PM |WSH @ CHI |CHSN, MNMT
+
+|Thu 12-19 |07:30 PM |SEA @ CHI |CHSN
+
+|Sat 12-21 |03:00 PM |CHI @ CGY |CHSN
+
+|Mon 12-23 |07:00 PM |CHI @ MIN |CHSN
+
+|Fri 12-27 |06:00 PM |CHI @ BUF |ESPN2
+
+|Sun 12-29 |07:30 PM |DAL @ CHI |ESPN
+
+|Tue 12-31 |04:00 PM |STL @ CHI |TNT, truTV
+
+|Fri 01-03 |07:00 PM |MTL @ CHI |CHSN
+
+|Sun 01-05 |02:00 PM |NYR @ CHI |ABC, ESPN+
+
+|Wed 01-08 |06:30 PM |COL @ CHI |TNT, truTV
+
+|Fri 01-10 |06:00 PM |CHI @ DET |CHSN
+
+|Sat 01-11 |06:00 PM |EDM @ CHI |CHSN
+
+|Mon 01-13 |06:30 PM |CGY @ CHI |CHSN
+
+|Thu 01-16 |07:00 PM |CHI @ NSH |CHSN
+
+|Sat 01-18 |07:00 PM |VGK @ CHI |CHSN
+
+|Mon 01-20 |07:30 PM |CAR @ CHI |CHSN
+
+|Fri 01-24 |07:00 PM |TB @ CHI |CHSN
+
+|Sun 01-26 |06:00 PM |MIN @ CHI |CHSN
+
+|Tue 01-28 |06:00 PM |CHI @ TB |CHSN
+
+|Thu 01-30 |06:00 PM |CHI @ CAR |CHSN
+
+|Sat 02-01 |12:00 PM |CHI @ FLA |ABC, ESPN+
+
+|Wed 02-05 |08:30 PM |EDM @ CHI |TNT, truTV
+
+|Fri 02-07 |07:30 PM |NSH @ CHI |CHSN
+
+|Sat 02-08 |06:00 PM |CHI @ STL |CHSN
+
+|Sat 02-22 |06:00 PM |CHI @ CBJ |CHSN
+
+|Sun 02-23 |06:00 PM |TOR @ CHI |CHSN
+
+|Tue 02-25 |08:00 PM |CHI @ UTAH |CHSN
+
+|Thu 02-27 |09:00 PM |CHI @ VGK |CHSN
+
+|Sat 03-01 |09:00 PM |CHI @ ANA |CHSN
+
+|Mon 03-03 |07:30 PM |LA @ CHI |CHSN
+
+|Wed 03-05 |06:30 PM |OTT @ CHI |CHSN
+
+|Fri 03-07 |07:30 PM |UTAH @ CHI |CHSN
+
+|Sat 03-08 |07:00 PM |CHI @ NSH |CHSN
+
+|Mon 03-10 |08:00 PM |CHI @ COL |CHSN
+
+|Thu 03-13 |09:30 PM |CHI @ SJ |CHSN
+
+|Sat 03-15 |09:00 PM |CHI @ VAN |CHSN
+
+|Tue 03-18 |07:30 PM |SEA @ CHI |CHSN
+
+|Thu 03-20 |07:30 PM |LA @ CHI |CHSN
+
+|Sat 03-22 |02:00 PM |CHI @ STL |CHSN
+
+|Sun 03-23 |02:00 PM |PHI @ CHI |CHSN
+
+|Wed 03-26 |06:30 PM |NJ @ CHI |TNT, CHSN, truTV
+
+|Fri 03-28 |07:30 PM |VGK @ CHI |CHSN
+
+|Sun 03-30 |03:00 PM |UTAH @ CHI |CHSN
+
+|Wed 04-02 |08:30 PM |COL @ CHI |TNT, truTV
+
+|Fri 04-04 |06:00 PM |CHI @ WSH |CHSN, MNMT
+
+|Sun 04-06 |05:00 PM |PIT @ CHI |CHSN
+
+|Tue 04-08 |06:00 PM |CHI @ PIT |ESPN
+
+|Thu 04-10 |06:00 PM |CHI @ BOS |CHSN
+
+|Sat 04-12 |06:00 PM |WPG @ CHI |CHSN
+
+|Mon 04-14 |06:00 PM |CHI @ MTL |CHSN
+
+|Tue 04-15 |06:00 PM |CHI @ OTT |CHSN
 
 |===
-
-
-
-<<<
-
-== Week 2
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-|Sat 09-07 |01:00 PM |Valparaiso @ Youngstown St |
-
-|Sat 09-07 |02:30 PM |Tennessee St @ N Dakota St |
-
-|Sat 09-07 |06:00 PM |Kansas @ Illinois |FS1
-
-|Sat 09-07 |06:00 PM |Illinois St @ North Alabama |
-
-|===
-
-
-
-<<<
-
-== Week 3
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-|Sat 09-14 |11:00 AM |C Michigan @ Illinois |Peacock
-
-|Sat 09-14 |12:00 PM |W Illinois @ Illinois St |
-
-|Sat 09-14 |02:30 PM |Notre Dame @ Purdue |CBS
-
-|Sat 09-14 |04:30 PM |N Dakota St @ ETSU |
-
-|Sat 09-14 |06:30 PM |INDWESLYAN @ Valparaiso |
-
-|===
-
-
-
-<<<
-
-== Week 4
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-|Fri 09-20 |07:00 PM |Illinois @ Nebraska |FOX
-
-|Sat 09-21 |01:00 PM |Towson @ N Dakota St |
-
-|Sat 09-21 |01:00 PM |Roosevelt @ Valparaiso |
-
-|Sat 09-21 |06:00 PM |E Illinois @ Illinois St |
-
-|Sat 09-21 |07:30 PM |Purdue @ Oregon St |The CW Network
-
-|===
-
-
-
-<<<
-
-== Week 5
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-| | |Illinois @ Penn State |
-
-|Sat 09-28 |11:00 AM |Nebraska @ Purdue |
-
-|Sat 09-28 |12:00 PM |Valparaiso @ Morehead St |
-
-|Sat 09-28 |02:00 PM |N Dakota St @ Illinois St |
-
-|===
-
-
-
-<<<
-
-== Week 6
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-| | |Purdue @ Wisconsin |
-
-|Sat 10-05 |12:00 PM |Drake @ Valparaiso |
-
-|Sat 10-05 |02:30 PM |North Dakota @ N Dakota St |
-
-|Sat 10-05 |06:00 PM |Illinois St @ S Illinois |
-
-|===
-
-
-
-<<<
-
-== Week 7
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-| | |Purdue @ Illinois |
-
-|Sat 10-12 |12:00 PM |Missouri St @ Illinois St |
-
-|Sat 10-12 |12:00 PM |Valparaiso @ Stetson |
-
-|Sat 10-12 |02:00 PM |N Dakota St @ S Illinois |
-
-|===
-
-
-
-<<<
-
-== Week 8
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-|Fri 10-18 |07:00 PM |Oregon @ Purdue |FOX
-
-| | |Michigan @ Illinois |
-
-| | |S Dakota St @ N Dakota St |
-
-|Sat 10-19 |01:00 PM |St Thomas (MN) @ Valparaiso |
-
-|Sat 10-19 |02:00 PM |Illinois St @ Murray St |
-
-|===
-
-
-
-<<<
-
-== Week 9
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-| | |Illinois @ Oregon |
-
-|Sat 10-26 |11:00 AM |Valparaiso @ Marist |
-
-|Sat 10-26 |01:00 PM |N Dakota St @ Murray St |
-
-|===
-
-
-
-<<<
-
-== Week 10
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-| | |Northwestern @ Purdue |
-
-| | |Minnesota @ Illinois |
-
-|Sat 11-02 |02:00 PM |Youngstown St @ Illinois St |
-
-|Sat 11-02 |02:30 PM |Northern Iowa @ N Dakota St |
-
-|===
-
-
-
-<<<
-
-== Week 11
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-| | |Purdue @ Ohio State |
-
-|Sat 11-09 |01:00 PM |Illinois St @ Northern Iowa |
-
-|Sat 11-09 |01:00 PM |Butler @ Valparaiso |
-
-|===
-
-
-
-<<<
-
-== Week 12
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-| | |Penn State @ Purdue |
-
-| | |Michigan St @ Illinois |
-
-|Sat 11-16 |11:00 AM |Valparaiso @ Dayton |
-
-|Sat 11-16 |12:00 PM |Illinois St @ Indiana St |
-
-|Sat 11-16 |02:30 PM |Missouri St @ N Dakota St |
-
-|===
-
-
-
-<<<
-
-== Week 13
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-|Fri 11-22 |07:00 PM |Purdue @ Michigan St |FOX
-
-| | |Illinois @ Rutgers |
-
-|Sat 11-23 |12:00 PM |North Dakota @ Illinois St |
-
-|Sat 11-23 |01:00 PM |N Dakota St @ South Dakota |
-
-|Sat 11-23 |01:00 PM |Davidson @ Valparaiso |
-
-|===
-
-
-
-<<<
-
-== Week 14
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-| | |Purdue @ Indiana |
-
-| | |Illinois @ Northwestern |
-
-|===
-
-
-
-<<<
 

@@ -6,20 +6,20 @@ from datetime import datetime as dt, timedelta as td
 
 GET_NEW_DATA = True
 PRINT_ENTIRE_LEAGUE = False
-DAILY_HEADERS = True
+DAILY_HEADERS = False
 USE_TEAM_IMAGES = False
-USE_SHORT_NAME = False
-PAGE_BREAKS = True
-league = NCAAF
+USE_SHORT_NAME = True
+PAGE_BREAKS = False
+league = NHL
 PRINT_BYES = False
 TABLE_HEADER = r'%autowidth.stretch'
 START_DATE = dt.now()
 NETWORK_BLACKLIST = {
     "local": [],
-    "national": []
+    "national": ["Hulu", "Max"]
 }
 NETWORK_WHITELIST = {
-    "local": [],
+    "local": ["CHSN"],
     "national": []
 }
 FAVORITE_TEAMS = ["CHI", "CHC"]
@@ -65,15 +65,16 @@ if GET_NEW_DATA:
     else:
         #loadScheduleByTricode(league, "CHC")
         #loadScheduleByTricode(league, "CHW")
-        loadScheduleByTricode(league, "pur")
-        loadScheduleByTricode(league, "ndsu")
-        loadScheduleByTricode(league, "ill")
+        loadScheduleByTricode(league, "CHI")
+        #loadScheduleByTricode(league, "pur")
+        #loadScheduleByTricode(league, "ndsu")
+        #loadScheduleByTricode(league, "ill")
 
 
         # valpo
-        loadScheduleByTricode(league, "2674")
+        #loadScheduleByTricode(league, "2674")
         # ill. state
-        loadScheduleByTricode(league, "2287")
+        #loadScheduleByTricode(league, "2287")
 
 
 
