@@ -13,10 +13,11 @@ PAGE_BREAKS = False
 league = NHL
 PRINT_BYES = False
 TABLE_HEADER = r'%autowidth.stretch'
-START_DATE = dt(2024, 8, 1)
+#START_DATE = dt(2024, 8, 1)
+START_DATE = dt.now()
 NETWORK_BLACKLIST = {
     "local": [],
-    "national": ["Max", "MNMT", "truTV", "ESPN+"]
+    "national": ["ESPN+", "Max", "truTV", "MNMT"]
 }
 NETWORK_WHITELIST = {
     "local": ["CHSN"],
@@ -24,7 +25,6 @@ NETWORK_WHITELIST = {
 }
 FAVORITE_TEAMS = ["CHI", "CHC"]
 NAME_SUBS = {
-    "Hulu": "ESPN+"
 }
 
 
