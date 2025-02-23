@@ -6,6 +6,6 @@
 
 //= Cubs, White Sox 2024 schedule
 
-//Games are on Marquee/NBC Sports Chicago unless otherwise noted.
+//Games are on Marquee/CHSN unless otherwise noted.
 
 include::./out.adoc[]

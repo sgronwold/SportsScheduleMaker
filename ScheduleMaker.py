@@ -6,11 +6,11 @@ from datetime import datetime as dt, timedelta as td
 
 GET_NEW_DATA = True
 PRINT_ENTIRE_LEAGUE = False
-DAILY_HEADERS = True
+DAILY_HEADERS = False
 USE_TEAM_IMAGES = False
-USE_SHORT_NAME = False
-PAGE_BREAKS = True
-league = NCAAF
+USE_SHORT_NAME = True
+PAGE_BREAKS = False
+league = MLB
 PRINT_BYES = False
 TABLE_HEADER = r'%autowidth.stretch'
 START_DATE = dt.now()
@@ -19,11 +19,14 @@ NETWORK_BLACKLIST = {
     "national": []
 }
 NETWORK_WHITELIST = {
-    "local": [],
+    "local": [""],
     "national": []
 }
-FAVORITE_TEAMS = ["CHI", "CHC"]
+FAVORITE_TEAMS = ["CHW", "CHC"]
 NAME_SUBS = {
+    "CHC": "CUBS",
+    "CHW": "SOX",
+    "ATH": "A's"
 }
 
 
@@ -63,17 +66,17 @@ if GET_NEW_DATA:
             print(tricode)
             loadScheduleByTricode(league, tricode, seasontype="1")
     else:
-        #loadScheduleByTricode(league, "CHC")
-        #loadScheduleByTricode(league, "CHW")
-        loadScheduleByTricode(league, "pur")
-        loadScheduleByTricode(league, "ndsu")
-        loadScheduleByTricode(league, "ill")
+        loadScheduleByTricode(league, "CHC")
+        loadScheduleByTricode(league, "CHW")
+        #loadScheduleByTricode(league, "pur")
+        #loadScheduleByTricode(league, "ndsu")
+        #loadScheduleByTricode(league, "ill")
 
 
         # valpo
-        loadScheduleByTricode(league, "2674")
+        #loadScheduleByTricode(league, "2674")
         # ill. state
-        loadScheduleByTricode(league, "2287")
+        #loadScheduleByTricode(league, "2287")
 
 
 

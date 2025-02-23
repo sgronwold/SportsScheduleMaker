@@ -1,298 +1,643 @@
-== Week 1
-
 [%autowidth.stretch]
 |===
 |Date |Time |Game |TV
 
 
-|Thu 08-29 |07:00 PM |N Dakota St @ Colorado |ESPN
+|Tue 03-18 |05:00 AM |LAD @ CUBS |
 
-|Thu 08-29 |08:00 PM |E Illinois @ Illinois |BIG10
+|Wed 03-19 |05:00 AM |LAD @ CUBS |
 
-|Sat 08-31 |11:00 AM |Indiana St @ Purdue |BIG10
+|Thu 03-27 |03:10 PM |LAA @ SOX |
 
-|Sat 08-31 |11:00 AM |Illinois St @ Iowa |BIG10
+|Thu 03-27 |09:10 PM |CUBS @ ARI |
 
-|Sat 08-31 |04:00 PM |Valparaiso @ Northern Iowa |PSN TV
+|Fri 03-28 |08:40 PM |CUBS @ ARI |
+
+|Sat 03-29 |01:10 PM |LAA @ SOX |
+
+|Sat 03-29 |07:10 PM |CUBS @ ARI |
+
+|Sun 03-30 |01:10 PM |LAA @ SOX |
+
+|Sun 03-30 |03:10 PM |CUBS @ ARI |
+
+|Mon 03-31 |01:10 PM |MIN @ SOX |
+
+|Mon 03-31 |09:05 PM |CUBS @ A's |
+
+|Tue 04-01 |06:40 PM |MIN @ SOX |
+
+|Tue 04-01 |09:05 PM |CUBS @ A's |
+
+|Wed 04-02 |01:10 PM |MIN @ SOX |
+
+|Wed 04-02 |02:35 PM |CUBS @ A's |
+
+|Fri 04-04 |01:20 PM |SD @ CUBS |
+
+|Fri 04-04 |12:10 PM |SOX @ DET |
+
+|Sat 04-05 |01:20 PM |SD @ CUBS |
+
+|Sat 04-05 |12:10 PM |SOX @ DET |
+
+|Sun 04-06 |01:20 PM |SD @ CUBS |
+
+|Sun 04-06 |12:40 PM |SOX @ DET |
+
+|Mon 04-07 |06:40 PM |TEX @ CUBS |
+
+|Tue 04-08 |06:40 PM |TEX @ CUBS |
+
+|Tue 04-08 |03:10 PM |SOX @ CLE |
+
+|Wed 04-09 |01:20 PM |TEX @ CUBS |
+
+|Wed 04-09 |05:10 PM |SOX @ CLE |
+
+|Thu 04-10 |12:10 PM |SOX @ CLE |
+
+|Fri 04-11 |06:40 PM |BOS @ SOX |
+
+|Fri 04-11 |09:10 PM |CUBS @ LAD |
+
+|Sat 04-12 |03:10 PM |BOS @ SOX |
+
+|Sat 04-12 |08:10 PM |CUBS @ LAD |
+
+|Sun 04-13 |01:10 PM |BOS @ SOX |
+
+|Sun 04-13 |06:00 PM |CUBS @ LAD |ESPN
+
+|Mon 04-14 |08:40 PM |CUBS @ SD |
+
+|Tue 04-15 |06:40 PM |A's @ SOX |
+
+|Tue 04-15 |08:40 PM |CUBS @ SD |
+
+|Wed 04-16 |06:40 PM |A's @ SOX |
+
+|Wed 04-16 |03:10 PM |CUBS @ SD |
+
+|Thu 04-17 |01:10 PM |A's @ SOX |
+
+|Fri 04-18 |01:20 PM |ARI @ CUBS |
+
+|Fri 04-18 |06:10 PM |SOX @ BOS |
+
+|Sat 04-19 |01:20 PM |ARI @ CUBS |
+
+|Sat 04-19 |03:10 PM |SOX @ BOS |
+
+|Sun 04-20 |01:20 PM |ARI @ CUBS |
+
+|Sun 04-20 |12:35 PM |SOX @ BOS |
+
+|Mon 04-21 |10:10 AM |SOX @ BOS |
+
+|Tue 04-22 |06:40 PM |LAD @ CUBS |
+
+|Tue 04-22 |06:40 PM |SOX @ MIN |
+
+|Wed 04-23 |06:00 PM |LAD @ CUBS |
+
+|Wed 04-23 |06:40 PM |SOX @ MIN |
+
+|Thu 04-24 |12:10 PM |SOX @ MIN |
+
+|Fri 04-25 |01:20 PM |PHI @ CUBS |
+
+|Fri 04-25 |09:05 PM |SOX @ A's |
+
+|Sat 04-26 |03:05 PM |PHI @ CUBS |
+
+|Sat 04-26 |03:05 PM |SOX @ A's |
+
+|Sun 04-27 |06:00 PM |PHI @ CUBS |ESPN
+
+|Sun 04-27 |03:05 PM |SOX @ A's |
+
+|Tue 04-29 |06:40 PM |MIL @ SOX |
+
+|Tue 04-29 |05:40 PM |CUBS @ PIT |
+
+|Wed 04-30 |06:40 PM |MIL @ SOX |
+
+|Wed 04-30 |05:40 PM |CUBS @ PIT |
+
+|Thu 05-01 |01:10 PM |MIL @ SOX |
+
+|Thu 05-01 |11:35 AM |CUBS @ PIT |
+
+|Fri 05-02 |06:40 PM |HOU @ SOX |
+
+|Fri 05-02 |07:10 PM |CUBS @ MIL |
+
+|Sat 05-03 |01:10 PM |HOU @ SOX |
+
+|Sat 05-03 |06:10 PM |CUBS @ MIL |
+
+|Sun 05-04 |01:10 PM |HOU @ SOX |
+
+|Sun 05-04 |01:10 PM |CUBS @ MIL |
+
+|Mon 05-05 |06:40 PM |SF @ CUBS |
+
+|Mon 05-05 |06:40 PM |SOX @ KC |
+
+|Tue 05-06 |06:40 PM |SF @ CUBS |
+
+|Tue 05-06 |06:40 PM |SOX @ KC |
+
+|Wed 05-07 |01:20 PM |SF @ CUBS |
+
+|Wed 05-07 |06:40 PM |SOX @ KC |
+
+|Thu 05-08 |01:10 PM |SOX @ KC |
+
+|Fri 05-09 |06:40 PM |MIA @ SOX |
+
+|Fri 05-09 |06:10 PM |CUBS @ NYM |
+
+|Sat 05-10 |06:10 PM |MIA @ SOX |
+
+|Sat 05-10 |06:15 PM |CUBS @ NYM |
+
+|Sun 05-11 |01:10 PM |MIA @ SOX |
+
+|Sun 05-11 |12:40 PM |CUBS @ NYM |
+
+|Mon 05-12 |06:40 PM |MIA @ CUBS |
+
+|Tue 05-13 |06:40 PM |MIA @ CUBS |
+
+|Tue 05-13 |05:40 PM |SOX @ CIN |
+
+|Wed 05-14 |06:40 PM |MIA @ CUBS |
+
+|Wed 05-14 |06:14 PM |SOX @ CIN |
+
+|Thu 05-15 |11:40 AM |SOX @ CIN |
+
+|Fri 05-16 |01:20 PM |SOX @ CUBS |
+
+|Sat 05-17 |01:20 PM |SOX @ CUBS |
+
+|Sun 05-18 |01:20 PM |SOX @ CUBS |
+
+|Mon 05-19 |06:40 PM |SEA @ SOX |
+
+|Mon 05-19 |05:40 PM |CUBS @ MIA |
+
+|Tue 05-20 |06:40 PM |SEA @ SOX |
+
+|Tue 05-20 |05:40 PM |CUBS @ MIA |
+
+|Wed 05-21 |01:10 PM |SEA @ SOX |
+
+|Wed 05-21 |12:10 PM |CUBS @ MIA |
+
+|Fri 05-23 |06:40 PM |TEX @ SOX |
+
+|Fri 05-23 |05:40 PM |CUBS @ CIN |
+
+|Sat 05-24 |03:10 PM |TEX @ SOX |
+
+|Sat 05-24 |03:10 PM |CUBS @ CIN |
+
+|Sun 05-25 |01:10 PM |TEX @ SOX |
+
+|Sun 05-25 |12:40 PM |CUBS @ CIN |
+
+|Mon 05-26 |01:20 PM |COL @ CUBS |
+
+|Mon 05-26 |03:10 PM |SOX @ NYM |
+
+|Tue 05-27 |07:05 PM |COL @ CUBS |
+
+|Tue 05-27 |06:10 PM |SOX @ NYM |
+
+|Wed 05-28 |07:05 PM |COL @ CUBS |
+
+|Wed 05-28 |06:10 PM |SOX @ NYM |
+
+|Fri 05-30 |01:20 PM |CIN @ CUBS |
+
+|Fri 05-30 |06:05 PM |SOX @ BAL |
+
+|Sat 05-31 |01:20 PM |CIN @ CUBS |
+
+|Sat 05-31 |03:05 PM |SOX @ BAL |
+
+|Sun 06-01 |01:20 PM |CIN @ CUBS |
+
+|Sun 06-01 |12:35 PM |SOX @ BAL |
+
+|Mon 06-02 |06:40 PM |DET @ SOX |
+
+|Tue 06-03 |06:40 PM |DET @ SOX |
+
+|Tue 06-03 |05:45 PM |CUBS @ WSH |
+
+|Wed 06-04 |06:40 PM |DET @ SOX |
+
+|Wed 06-04 |05:45 PM |CUBS @ WSH |
+
+|Thu 06-05 |01:10 PM |DET @ SOX |
+
+|Thu 06-05 |05:45 PM |CUBS @ WSH |
+
+|Fri 06-06 |06:40 PM |KC @ SOX |
+
+|Fri 06-06 |06:10 PM |CUBS @ DET |
+
+|Sat 06-07 |03:10 PM |KC @ SOX |
+
+|Sat 06-07 |12:10 PM |CUBS @ DET |
+
+|Sun 06-08 |01:10 PM |KC @ SOX |
+
+|Sun 06-08 |12:40 PM |CUBS @ DET |
+
+|Mon 06-09 |05:45 PM |CUBS @ PHI |
+
+|Tue 06-10 |05:45 PM |CUBS @ PHI |
+
+|Tue 06-10 |07:10 PM |SOX @ HOU |
+
+|Wed 06-11 |12:05 PM |CUBS @ PHI |
+
+|Wed 06-11 |07:10 PM |SOX @ HOU |
+
+|Thu 06-12 |07:05 PM |PIT @ CUBS |
+
+|Thu 06-12 |07:10 PM |SOX @ HOU |
+
+|Fri 06-13 |01:20 PM |PIT @ CUBS |
+
+|Fri 06-13 |07:05 PM |SOX @ TEX |
+
+|Sat 06-14 |01:20 PM |PIT @ CUBS |
+
+|Sat 06-14 |03:05 PM |SOX @ TEX |
+
+|Sun 06-15 |01:20 PM |PIT @ CUBS |
+
+|Sun 06-15 |01:35 PM |SOX @ TEX |
+
+|Tue 06-17 |06:40 PM |STL @ SOX |
+
+|Tue 06-17 |07:05 PM |MIL @ CUBS |
+
+|Wed 06-18 |06:40 PM |STL @ SOX |
+
+|Wed 06-18 |07:05 PM |MIL @ CUBS |
+
+|Thu 06-19 |01:10 PM |STL @ SOX |
+
+|Thu 06-19 |01:20 PM |MIL @ CUBS |
+
+|Fri 06-20 |01:20 PM |SEA @ CUBS |
+
+|Fri 06-20 |06:07 PM |SOX @ TOR |
+
+|Sat 06-21 |01:20 PM |SEA @ CUBS |
+
+|Sat 06-21 |02:07 PM |SOX @ TOR |
+
+|Sun 06-22 |01:20 PM |SEA @ CUBS |
+
+|Sun 06-22 |12:37 PM |SOX @ TOR |
+
+|Mon 06-23 |06:40 PM |ARI @ SOX |
+
+|Mon 06-23 |06:45 PM |CUBS @ STL |
+
+|Tue 06-24 |06:40 PM |ARI @ SOX |
+
+|Tue 06-24 |06:45 PM |CUBS @ STL |
+
+|Wed 06-25 |01:10 PM |ARI @ SOX |
+
+|Wed 06-25 |06:45 PM |CUBS @ STL |
+
+|Thu 06-26 |01:15 PM |CUBS @ STL |
+
+|Fri 06-27 |06:40 PM |SF @ SOX |
+
+|Fri 06-27 |07:10 PM |CUBS @ HOU |
+
+|Sat 06-28 |03:10 PM |SF @ SOX |
+
+|Sat 06-28 |06:15 PM |CUBS @ HOU |
+
+|Sun 06-29 |01:10 PM |SF @ SOX |
+
+|Sun 06-29 |01:10 PM |CUBS @ HOU |
+
+|Tue 07-01 |07:05 PM |CLE @ CUBS |
+
+|Tue 07-01 |09:10 PM |SOX @ LAD |
+
+|Wed 07-02 |07:05 PM |CLE @ CUBS |
+
+|Wed 07-02 |09:10 PM |SOX @ LAD |
+
+|Thu 07-03 |07:05 PM |CLE @ CUBS |
+
+|Thu 07-03 |09:10 PM |SOX @ LAD |
+
+|Fri 07-04 |01:20 PM |STL @ CUBS |
+
+|Fri 07-04 |07:10 PM |SOX @ COL |
+
+|Sat 07-05 |01:20 PM |STL @ CUBS |
+
+|Sat 07-05 |08:10 PM |SOX @ COL |
+
+|Sun 07-06 |01:20 PM |STL @ CUBS |
+
+|Sun 07-06 |02:10 PM |SOX @ COL |
+
+|Mon 07-07 |06:40 PM |TOR @ SOX |
+
+|Tue 07-08 |06:40 PM |TOR @ SOX |
+
+|Tue 07-08 |06:40 PM |CUBS @ MIN |
+
+|Wed 07-09 |01:10 PM |TOR @ SOX |
+
+|Wed 07-09 |06:40 PM |CUBS @ MIN |
+
+|Thu 07-10 |06:40 PM |CLE @ SOX |
+
+|Thu 07-10 |12:10 PM |CUBS @ MIN |
+
+|Fri 07-11 |07:10 PM |CLE @ SOX |
+
+|Fri 07-11 |06:05 PM |CUBS @ NYY |
+
+|Sat 07-12 |03:10 PM |CLE @ SOX |
+
+|Sat 07-12 |12:05 PM |CUBS @ NYY |
+
+|Sun 07-13 |01:10 PM |CLE @ SOX |
+
+|Sun 07-13 | |CUBS @ NYY |
+
+|Fri 07-18 |01:20 PM |BOS @ CUBS |
+
+|Fri 07-18 |05:40 PM |SOX @ PIT |
+
+|Sat 07-19 |06:15 PM |BOS @ CUBS |
+
+|Sat 07-19 |05:40 PM |SOX @ PIT |
+
+|Sun 07-20 |01:20 PM |BOS @ CUBS |
+
+|Sun 07-20 |12:35 PM |SOX @ PIT |
+
+|Mon 07-21 |07:05 PM |KC @ CUBS |
+
+|Mon 07-21 |06:35 PM |SOX @ TB |
+
+|Tue 07-22 |07:05 PM |KC @ CUBS |
+
+|Tue 07-22 |06:35 PM |SOX @ TB |
+
+|Wed 07-23 |01:20 PM |KC @ CUBS |
+
+|Wed 07-23 |06:35 PM |SOX @ TB |
+
+|Fri 07-25 |06:40 PM |CUBS @ SOX |
+
+|Sat 07-26 |06:10 PM |CUBS @ SOX |
+
+|Sun 07-27 |01:10 PM |CUBS @ SOX |
+
+|Mon 07-28 |06:40 PM |PHI @ SOX |
+
+|Mon 07-28 |06:40 PM |CUBS @ MIL |
+
+|Tue 07-29 |06:40 PM |PHI @ SOX |
+
+|Tue 07-29 |06:40 PM |CUBS @ MIL |
+
+|Wed 07-30 |01:10 PM |PHI @ SOX |
+
+|Wed 07-30 |01:10 PM |CUBS @ MIL |
+
+|Fri 08-01 |01:20 PM |BAL @ CUBS |
+
+|Fri 08-01 |08:38 PM |SOX @ LAA |
+
+|Sat 08-02 |01:20 PM |BAL @ CUBS |
+
+|Sat 08-02 |09:07 PM |SOX @ LAA |
+
+|Sun 08-03 |01:20 PM |BAL @ CUBS |
+
+|Sun 08-03 |03:07 PM |SOX @ LAA |
+
+|Mon 08-04 |07:05 PM |CIN @ CUBS |
+
+|Tue 08-05 |07:05 PM |CIN @ CUBS |
+
+|Tue 08-05 |08:40 PM |SOX @ SEA |
+
+|Wed 08-06 |01:20 PM |CIN @ CUBS |
+
+|Wed 08-06 |08:40 PM |SOX @ SEA |
+
+|Thu 08-07 |03:10 PM |SOX @ SEA |
+
+|Fri 08-08 |06:40 PM |CLE @ SOX |
+
+|Fri 08-08 |07:15 PM |CUBS @ STL |
+
+|Sat 08-09 |06:10 PM |CLE @ SOX |
+
+|Sat 08-09 |06:15 PM |CUBS @ STL |
+
+|Sun 08-10 |01:10 PM |CLE @ SOX |
+
+|Sun 08-10 |01:15 PM |CUBS @ STL |
+
+|Mon 08-11 |06:40 PM |DET @ SOX |
+
+|Tue 08-12 |06:40 PM |DET @ SOX |
+
+|Tue 08-12 |06:07 PM |CUBS @ TOR |
+
+|Wed 08-13 |12:10 PM |DET @ SOX |
+
+|Wed 08-13 |06:07 PM |CUBS @ TOR |
+
+|Thu 08-14 |02:07 PM |CUBS @ TOR |
+
+|Fri 08-15 |01:20 PM |PIT @ CUBS |
+
+|Fri 08-15 |07:10 PM |SOX @ KC |
+
+|Sat 08-16 |01:20 PM |PIT @ CUBS |
+
+|Sat 08-16 |06:10 PM |SOX @ KC |
+
+|Sun 08-17 |01:20 PM |PIT @ CUBS |
+
+|Sun 08-17 |01:10 PM |SOX @ KC |
+
+|Mon 08-18 |07:05 PM |MIL @ CUBS |
+
+|Mon 08-18 |06:15 PM |SOX @ ATL |
+
+|Tue 08-19 |07:05 PM |MIL @ CUBS |
+
+|Tue 08-19 |06:15 PM |SOX @ ATL |
+
+|Wed 08-20 |07:05 PM |MIL @ CUBS |
+
+|Wed 08-20 |06:15 PM |SOX @ ATL |
+
+|Thu 08-21 |01:20 PM |MIL @ CUBS |
+
+|Fri 08-22 |06:40 PM |MIN @ SOX |
+
+|Fri 08-22 |08:38 PM |CUBS @ LAA |
+
+|Sat 08-23 |06:10 PM |MIN @ SOX |
+
+|Sat 08-23 |08:38 PM |CUBS @ LAA |
+
+|Sun 08-24 |01:10 PM |MIN @ SOX |
+
+|Sun 08-24 |03:07 PM |CUBS @ LAA |
+
+|Mon 08-25 |06:40 PM |KC @ SOX |
+
+|Tue 08-26 |06:40 PM |KC @ SOX |
+
+|Tue 08-26 |08:45 PM |CUBS @ SF |
+
+|Wed 08-27 |06:40 PM |KC @ SOX |
+
+|Wed 08-27 |08:45 PM |CUBS @ SF |
+
+|Thu 08-28 |06:40 PM |NYY @ SOX |
+
+|Thu 08-28 |02:45 PM |CUBS @ SF |
+
+|Fri 08-29 |06:40 PM |NYY @ SOX |
+
+|Fri 08-29 |07:40 PM |CUBS @ COL |
+
+|Sat 08-30 |06:10 PM |NYY @ SOX |
+
+|Sat 08-30 |07:10 PM |CUBS @ COL |
+
+|Sun 08-31 |01:10 PM |NYY @ SOX |
+
+|Sun 08-31 |02:10 PM |CUBS @ COL |
+
+|Mon 09-01 |01:20 PM |ATL @ CUBS |
+
+|Mon 09-01 |01:10 PM |SOX @ MIN |
+
+|Tue 09-02 |06:40 PM |ATL @ CUBS |
+
+|Tue 09-02 |06:40 PM |SOX @ MIN |
+
+|Wed 09-03 |06:40 PM |ATL @ CUBS |
+
+|Wed 09-03 |06:40 PM |SOX @ MIN |
+
+|Thu 09-04 |06:40 PM |SOX @ MIN |
+
+|Fri 09-05 |01:20 PM |WSH @ CUBS |
+
+|Fri 09-05 |05:40 PM |SOX @ DET |
+
+|Sat 09-06 |01:20 PM |WSH @ CUBS |
+
+|Sat 09-06 |05:10 PM |SOX @ DET |
+
+|Sun 09-07 |01:20 PM |WSH @ CUBS |
+
+|Sun 09-07 |12:40 PM |SOX @ DET |
+
+|Mon 09-08 |06:15 PM |CUBS @ ATL |
+
+|Tue 09-09 |06:40 PM |TB @ SOX |
+
+|Tue 09-09 |06:15 PM |CUBS @ ATL |
+
+|Wed 09-10 |06:40 PM |TB @ SOX |
+
+|Wed 09-10 |06:15 PM |CUBS @ ATL |
+
+|Thu 09-11 |01:10 PM |TB @ SOX |
+
+|Fri 09-12 |01:20 PM |TB @ CUBS |
+
+|Fri 09-12 |06:10 PM |SOX @ CLE |
+
+|Sat 09-13 |01:20 PM |TB @ CUBS |
+
+|Sat 09-13 |05:10 PM |SOX @ CLE |
+
+|Sun 09-14 |01:20 PM |TB @ CUBS |
+
+|Sun 09-14 |12:40 PM |SOX @ CLE |
+
+|Mon 09-15 |06:40 PM |BAL @ SOX |
+
+|Mon 09-15 |05:40 PM |CUBS @ PIT |
+
+|Tue 09-16 |06:40 PM |BAL @ SOX |
+
+|Tue 09-16 |05:40 PM |CUBS @ PIT |
+
+|Wed 09-17 |01:10 PM |BAL @ SOX |
+
+|Wed 09-17 |11:35 AM |CUBS @ PIT |
+
+|Thu 09-18 |06:15 PM |CUBS @ CIN |
+
+|Fri 09-19 |06:40 PM |SD @ SOX |
+
+|Fri 09-19 |05:40 PM |CUBS @ CIN |
+
+|Sat 09-20 |06:10 PM |SD @ SOX |
+
+|Sat 09-20 |05:40 PM |CUBS @ CIN |
+
+|Sun 09-21 |01:10 PM |SD @ SOX |
+
+|Sun 09-21 |12:40 PM |CUBS @ CIN |
+
+|Tue 09-23 |06:40 PM |NYM @ CUBS |
+
+|Tue 09-23 |06:05 PM |SOX @ NYY |
+
+|Wed 09-24 |06:40 PM |NYM @ CUBS |
+
+|Wed 09-24 |06:05 PM |SOX @ NYY |
+
+|Thu 09-25 |06:40 PM |NYM @ CUBS |
+
+|Thu 09-25 |06:05 PM |SOX @ NYY |
+
+|Fri 09-26 |01:20 PM |STL @ CUBS |
+
+|Fri 09-26 |05:45 PM |SOX @ WSH |
+
+|Sat 09-27 |01:20 PM |STL @ CUBS |
+
+|Sat 09-27 |03:05 PM |SOX @ WSH |
+
+|Sun 09-28 |02:20 PM |STL @ CUBS |
+
+|Sun 09-28 |02:05 PM |SOX @ WSH |
 
 |===
-
-
-
-<<<
-
-== Week 2
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-|Sat 09-07 |01:00 PM |Valparaiso @ Youngstown St |
-
-|Sat 09-07 |02:30 PM |Tennessee St @ N Dakota St |
-
-|Sat 09-07 |06:00 PM |Kansas @ Illinois |FS1
-
-|Sat 09-07 |06:00 PM |Illinois St @ North Alabama |
-
-|===
-
-
-
-<<<
-
-== Week 3
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-|Sat 09-14 |11:00 AM |C Michigan @ Illinois |Peacock
-
-|Sat 09-14 |12:00 PM |W Illinois @ Illinois St |
-
-|Sat 09-14 |02:30 PM |Notre Dame @ Purdue |CBS
-
-|Sat 09-14 |04:30 PM |N Dakota St @ ETSU |
-
-|Sat 09-14 |06:30 PM |INDWESLYAN @ Valparaiso |
-
-|===
-
-
-
-<<<
-
-== Week 4
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-|Fri 09-20 |07:00 PM |Illinois @ Nebraska |FOX
-
-|Sat 09-21 |01:00 PM |Towson @ N Dakota St |
-
-|Sat 09-21 |01:00 PM |Roosevelt @ Valparaiso |
-
-|Sat 09-21 |06:00 PM |E Illinois @ Illinois St |
-
-|Sat 09-21 |07:30 PM |Purdue @ Oregon St |The CW Network
-
-|===
-
-
-
-<<<
-
-== Week 5
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-| | |Illinois @ Penn State |
-
-|Sat 09-28 |11:00 AM |Nebraska @ Purdue |
-
-|Sat 09-28 |12:00 PM |Valparaiso @ Morehead St |
-
-|Sat 09-28 |02:00 PM |N Dakota St @ Illinois St |
-
-|===
-
-
-
-<<<
-
-== Week 6
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-| | |Purdue @ Wisconsin |
-
-|Sat 10-05 |12:00 PM |Drake @ Valparaiso |
-
-|Sat 10-05 |02:30 PM |North Dakota @ N Dakota St |
-
-|Sat 10-05 |06:00 PM |Illinois St @ S Illinois |
-
-|===
-
-
-
-<<<
-
-== Week 7
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-| | |Purdue @ Illinois |
-
-|Sat 10-12 |12:00 PM |Missouri St @ Illinois St |
-
-|Sat 10-12 |12:00 PM |Valparaiso @ Stetson |
-
-|Sat 10-12 |02:00 PM |N Dakota St @ S Illinois |
-
-|===
-
-
-
-<<<
-
-== Week 8
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-|Fri 10-18 |07:00 PM |Oregon @ Purdue |FOX
-
-| | |Michigan @ Illinois |
-
-| | |S Dakota St @ N Dakota St |
-
-|Sat 10-19 |01:00 PM |St Thomas (MN) @ Valparaiso |
-
-|Sat 10-19 |02:00 PM |Illinois St @ Murray St |
-
-|===
-
-
-
-<<<
-
-== Week 9
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-| | |Illinois @ Oregon |
-
-|Sat 10-26 |11:00 AM |Valparaiso @ Marist |
-
-|Sat 10-26 |01:00 PM |N Dakota St @ Murray St |
-
-|===
-
-
-
-<<<
-
-== Week 10
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-| | |Northwestern @ Purdue |
-
-| | |Minnesota @ Illinois |
-
-|Sat 11-02 |02:00 PM |Youngstown St @ Illinois St |
-
-|Sat 11-02 |02:30 PM |Northern Iowa @ N Dakota St |
-
-|===
-
-
-
-<<<
-
-== Week 11
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-| | |Purdue @ Ohio State |
-
-|Sat 11-09 |01:00 PM |Illinois St @ Northern Iowa |
-
-|Sat 11-09 |01:00 PM |Butler @ Valparaiso |
-
-|===
-
-
-
-<<<
-
-== Week 12
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-| | |Penn State @ Purdue |
-
-| | |Michigan St @ Illinois |
-
-|Sat 11-16 |11:00 AM |Valparaiso @ Dayton |
-
-|Sat 11-16 |12:00 PM |Illinois St @ Indiana St |
-
-|Sat 11-16 |02:30 PM |Missouri St @ N Dakota St |
-
-|===
-
-
-
-<<<
-
-== Week 13
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-|Fri 11-22 |07:00 PM |Purdue @ Michigan St |FOX
-
-| | |Illinois @ Rutgers |
-
-|Sat 11-23 |12:00 PM |North Dakota @ Illinois St |
-
-|Sat 11-23 |01:00 PM |N Dakota St @ South Dakota |
-
-|Sat 11-23 |01:00 PM |Davidson @ Valparaiso |
-
-|===
-
-
-
-<<<
-
-== Week 14
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-| | |Purdue @ Indiana |
-
-| | |Illinois @ Northwestern |
-
-|===
-
-
-
-<<<
 
