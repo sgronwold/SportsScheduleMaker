@@ -20,7 +20,7 @@ NETWORK_BLACKLIST = {
     "national": ["ESPN+", "Max", "truTV", "MNMT"]
 }
 NETWORK_WHITELIST = {
-    "local": ["CHSN"],
+    "local": ["CHSN", "CHSN+"],
     "national": []
 }
 FAVORITE_TEAMS = ["CHI", "CHC"]
