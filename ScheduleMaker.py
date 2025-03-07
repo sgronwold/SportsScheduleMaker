@@ -19,7 +19,7 @@ NETWORK_BLACKLIST = {
     "national": []
 }
 NETWORK_WHITELIST = {
-    "local": ["Marquee Sports Net"],
+    "local": [""],#["Marquee Sports Net"],
     "national": []
 }
 FAVORITE_TEAMS = ["CHW", "CHC"]
