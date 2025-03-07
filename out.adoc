@@ -5,17 +5,17 @@
 
 |Fri 03-07 |02:05 PM |CUBS @ SOX |
 
-|Sat 03-08 |02:05 PM |SEA @ CUBS |
+|Sat 03-08 |02:05 PM |SEA @ CUBS |MSN
 
-|Sun 03-09 |03:05 PM |SF @ CUBS |
+|Sun 03-09 |03:05 PM |SF @ CUBS |MSN
 
 |Mon 03-10 |03:05 PM |CUBS @ CLE |
 
-|Tue 03-11 |03:05 PM |MIL @ CUBS |
+|Tue 03-11 |03:05 PM |MIL @ CUBS |MSN
 
-|Tue 03-18 |05:00 AM |LAD @ CUBS |FOX
+|Tue 03-18 |05:00 AM |LAD @ CUBS |MSN, FOX
 
-|Wed 03-19 |05:00 AM |LAD @ CUBS |FS1
+|Wed 03-19 |05:00 AM |LAD @ CUBS |FS1, MSN
 
 |Fri 03-21 |03:05 PM |SD @ CUBS |
 
@@ -23,17 +23,17 @@
 
 |Sun 03-23 |03:05 PM |A's @ CUBS |
 
-|Mon 03-24 |03:05 PM |ATL @ CUBS |
+|Mon 03-24 |03:05 PM |ATL @ CUBS |MSN
 
-|Tue 03-25 |03:05 PM |ATL @ CUBS |
+|Tue 03-25 |03:05 PM |ATL @ CUBS |MSN
 
-|Thu 03-27 |09:10 PM |CUBS @ ARI |
+|Thu 03-27 |09:10 PM |CUBS @ ARI |MSN
 
-|Fri 03-28 |08:40 PM |CUBS @ ARI |
+|Fri 03-28 |08:40 PM |CUBS @ ARI |MSN
 
-|Sat 03-29 |07:10 PM |CUBS @ ARI |
+|Sat 03-29 |07:10 PM |CUBS @ ARI |MSN
 
-|Sun 03-30 |03:10 PM |CUBS @ ARI |
+|Sun 03-30 |03:10 PM |CUBS @ ARI |MSN
 
 |Mon 03-31 |09:05 PM |CUBS @ A's |
 
@@ -41,75 +41,75 @@
 
 |Wed 04-02 |02:35 PM |CUBS @ A's |
 
-|Fri 04-04 |01:20 PM |SD @ CUBS |
+|Fri 04-04 |01:20 PM |SD @ CUBS |MSN
 
-|Sat 04-05 |01:20 PM |SD @ CUBS |
+|Sat 04-05 |01:20 PM |SD @ CUBS |MSN
 
-|Sun 04-06 |01:20 PM |SD @ CUBS |
+|Sun 04-06 |01:20 PM |SD @ CUBS |MSN
 
-|Mon 04-07 |06:40 PM |TEX @ CUBS |
+|Mon 04-07 |06:40 PM |TEX @ CUBS |MSN
 
-|Tue 04-08 |06:40 PM |TEX @ CUBS |
+|Tue 04-08 |06:40 PM |TEX @ CUBS |MSN
 
-|Wed 04-09 |01:20 PM |TEX @ CUBS |
+|Wed 04-09 |01:20 PM |TEX @ CUBS |MSN
 
-|Fri 04-11 |09:10 PM |CUBS @ LAD |
+|Fri 04-11 |09:10 PM |CUBS @ LAD |MSN
 
-|Sat 04-12 |08:10 PM |CUBS @ LAD |
+|Sat 04-12 |08:10 PM |CUBS @ LAD |MSN
 
 |Sun 04-13 |06:00 PM |CUBS @ LAD |ESPN
 
-|Mon 04-14 |08:40 PM |CUBS @ SD |
+|Mon 04-14 |08:40 PM |CUBS @ SD |MSN
 
-|Tue 04-15 |08:40 PM |CUBS @ SD |
+|Tue 04-15 |08:40 PM |CUBS @ SD |MSN
 
-|Wed 04-16 |03:10 PM |CUBS @ SD |
+|Wed 04-16 |03:10 PM |CUBS @ SD |MSN
 
-|Fri 04-18 |01:20 PM |ARI @ CUBS |
+|Fri 04-18 |01:20 PM |ARI @ CUBS |MSN
 
-|Sat 04-19 |01:20 PM |ARI @ CUBS |
+|Sat 04-19 |01:20 PM |ARI @ CUBS |MSN
 
-|Sun 04-20 |01:20 PM |ARI @ CUBS |
+|Sun 04-20 |01:20 PM |ARI @ CUBS |MSN
 
-|Tue 04-22 |06:40 PM |LAD @ CUBS |
+|Tue 04-22 |06:40 PM |LAD @ CUBS |MSN
 
-|Wed 04-23 |06:00 PM |LAD @ CUBS |
+|Wed 04-23 |06:00 PM |LAD @ CUBS |MSN
 
-|Fri 04-25 |01:20 PM |PHI @ CUBS |
+|Fri 04-25 |01:20 PM |PHI @ CUBS |MSN
 
 |Sat 04-26 |03:05 PM |PHI @ CUBS |FOX
 
 |Sun 04-27 |06:00 PM |PHI @ CUBS |ESPN
 
-|Tue 04-29 |05:40 PM |CUBS @ PIT |
+|Tue 04-29 |05:40 PM |CUBS @ PIT |MSN
 
-|Wed 04-30 |05:40 PM |CUBS @ PIT |
+|Wed 04-30 |05:40 PM |CUBS @ PIT |MSN
 
-|Thu 05-01 |11:35 AM |CUBS @ PIT |
+|Thu 05-01 |11:35 AM |CUBS @ PIT |MSN
 
 |Fri 05-02 |07:10 PM |CUBS @ MIL |ATV+
 
-|Sat 05-03 |06:10 PM |CUBS @ MIL |
+|Sat 05-03 |06:10 PM |CUBS @ MIL |MSN
 
-|Sun 05-04 |01:10 PM |CUBS @ MIL |
+|Sun 05-04 |01:10 PM |CUBS @ MIL |MSN
 
-|Mon 05-05 |06:40 PM |SF @ CUBS |
+|Mon 05-05 |06:40 PM |SF @ CUBS |MSN
 
-|Tue 05-06 |06:40 PM |SF @ CUBS |
+|Tue 05-06 |06:40 PM |SF @ CUBS |MSN
 
-|Wed 05-07 |01:20 PM |SF @ CUBS |
+|Wed 05-07 |01:20 PM |SF @ CUBS |MSN
 
-|Fri 05-09 |06:10 PM |CUBS @ NYM |
+|Fri 05-09 |06:10 PM |CUBS @ NYM |MSN
 
 |Sat 05-10 |06:15 PM |CUBS @ NYM |FOX
 
 |Sun 05-11 |12:40 PM |CUBS @ NYM |Roku
 
-|Mon 05-12 |06:40 PM |MIA @ CUBS |
+|Mon 05-12 |06:40 PM |MIA @ CUBS |MSN
 
-|Tue 05-13 |06:40 PM |MIA @ CUBS |
+|Tue 05-13 |06:40 PM |MIA @ CUBS |MSN
 
-|Wed 05-14 |06:40 PM |MIA @ CUBS |
+|Wed 05-14 |06:40 PM |MIA @ CUBS |MSN
 
 |Fri 05-16 |01:20 PM |SOX @ CUBS |
 

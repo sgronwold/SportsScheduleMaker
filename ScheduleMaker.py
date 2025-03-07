@@ -19,7 +19,7 @@ NETWORK_BLACKLIST = {
     "national": []
 }
 NETWORK_WHITELIST = {
-    "local": [""],
+    "local": ["Marquee Sports Net"],
     "national": []
 }
 FAVORITE_TEAMS = ["CHW", "CHC"]
@@ -27,7 +27,8 @@ NAME_SUBS = {
     "CHC": "CUBS",
     "CHW": "SOX",
     "ATH": "A's",
-    "Apple TV+": "ATV+"
+    "Apple TV+": "ATV+",
+    "Marquee Sports Net": "MSN"
 }
 
 
