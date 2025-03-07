@@ -26,7 +26,8 @@ FAVORITE_TEAMS = ["CHW", "CHC"]
 NAME_SUBS = {
     "CHC": "CUBS",
     "CHW": "SOX",
-    "ATH": "A's"
+    "ATH": "A's",
+    "Apple TV+": "ATV+"
 }
 
 
@@ -67,7 +68,8 @@ if GET_NEW_DATA:
             loadScheduleByTricode(league, tricode, seasontype="1")
     else:
         loadScheduleByTricode(league, "CHC")
-        loadScheduleByTricode(league, "CHW")
+        loadScheduleByTricode(league, "CHC", seasontype="1")
+        #loadScheduleByTricode(league, "CHW")
         #loadScheduleByTricode(league, "pur")
         #loadScheduleByTricode(league, "ndsu")
         #loadScheduleByTricode(league, "ill")
