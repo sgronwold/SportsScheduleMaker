@@ -28,7 +28,7 @@ NAME_SUBS = {
     "CHW": "SOX",
     "ATH": "A's",
     "Apple TV+": "ATV+",
-    "Marquee Sports Net": "MSN"
+    "Marquee Sports Net": "MARQ"
 }
 
 
