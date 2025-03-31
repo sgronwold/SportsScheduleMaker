@@ -3,58 +3,6 @@
 |Date |Time |Game |TV
 
 
-|Fri 03-07 |02:05 PM |CUBS @ SOX |
-
-|Sat 03-08 |02:05 PM |SEA @ CUBS |
-
-|Sun 03-09 |03:05 PM |SF @ CUBS |
-
-|Mon 03-10 |03:05 PM |CUBS @ CLE |
-
-|Tue 03-11 |03:05 PM |MIL @ CUBS |
-
-|Tue 03-18 |05:00 AM |LAD @ CUBS |FOX
-
-|Wed 03-19 |05:00 AM |LAD @ CUBS |FS1
-
-|Fri 03-21 |03:05 PM |SD @ CUBS |
-
-|Sat 03-22 |03:05 PM |COL @ CUBS |
-
-|Sun 03-23 |03:05 PM |A's @ CUBS |
-
-|Mon 03-24 |03:05 PM |ATL @ CUBS |
-
-|Tue 03-25 |03:05 PM |ATL @ CUBS |
-
-|Thu 03-27 |09:10 PM |CUBS @ ARI |
-
-|Fri 03-28 |08:40 PM |CUBS @ ARI |
-
-|Sat 03-29 |07:10 PM |CUBS @ ARI |
-
-|Sun 03-30 |03:10 PM |CUBS @ ARI |
-
-|Mon 03-31 |09:05 PM |CUBS @ A's |
-
-|Tue 04-01 |09:05 PM |CUBS @ A's |
-
-|Wed 04-02 |02:35 PM |CUBS @ A's |
-
-|Fri 04-04 |01:20 PM |SD @ CUBS |
-
-|Sat 04-05 |01:20 PM |SD @ CUBS |
-
-|Sun 04-06 |01:20 PM |SD @ CUBS |
-
-|Mon 04-07 |06:40 PM |TEX @ CUBS |
-
-|Tue 04-08 |06:40 PM |TEX @ CUBS |
-
-|Wed 04-09 |01:20 PM |TEX @ CUBS |
-
-|Fri 04-11 |09:10 PM |CUBS @ LAD |
-
 |Sat 04-12 |08:10 PM |CUBS @ LAD |
 
 |Sun 04-13 |06:00 PM |CUBS @ LAD |ESPN
@@ -103,7 +51,7 @@
 
 |Sat 05-10 |06:15 PM |CUBS @ NYM |FOX
 
-|Sun 05-11 |12:40 PM |CUBS @ NYM |Roku
+|Sun 05-11 |10:35 AM |CUBS @ NYM |Roku
 
 |Mon 05-12 |06:40 PM |MIA @ CUBS |
 
@@ -147,7 +95,7 @@
 
 |Thu 06-05 |05:45 PM |CUBS @ WSH |
 
-|Fri 06-06 |06:10 PM |CUBS @ DET |
+|Fri 06-06 |06:10 PM |CUBS @ DET |ATV+
 
 |Sat 06-07 |12:10 PM |CUBS @ DET |
 
@@ -215,7 +163,7 @@
 
 |Sat 07-12 |12:05 PM |CUBS @ NYY |
 
-|Sun 07-13 | |CUBS @ NYY |
+|Sun 07-13 |12:35 PM |CUBS @ NYY |
 
 |Fri 07-18 |01:20 PM |BOS @ CUBS |
 

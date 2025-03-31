@@ -1,5 +1,5 @@
 from ScheduleGetter import *
-import requests
+import httpx as requests
 import pytz
 from datetime import datetime as dt, timedelta as td
 
@@ -13,10 +13,10 @@ PAGE_BREAKS = False
 league = MLB
 PRINT_BYES = False
 TABLE_HEADER = r'%autowidth.stretch'
-START_DATE = dt.now()
+START_DATE = dt(2025, 4, 12)
 NETWORK_BLACKLIST = {
     "local": [],
-    "national": []
+    "national": ["MLB Net", "Tele"]
 }
 NETWORK_WHITELIST = {
     "local": [""],#["Marquee Sports Net"],
@@ -69,7 +69,6 @@ if GET_NEW_DATA:
             loadScheduleByTricode(league, tricode, seasontype="1")
     else:
         loadScheduleByTricode(league, "CHC")
-        loadScheduleByTricode(league, "CHC", seasontype="1")
         #loadScheduleByTricode(league, "CHW")
         #loadScheduleByTricode(league, "pur")
         #loadScheduleByTricode(league, "ndsu")

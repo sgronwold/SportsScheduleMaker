@@ -1,6 +1,6 @@
 from threading import Thread
 import json
-import requests
+import httpx as requests
 from datetime import datetime as dt
 import zulu
 from pytz import timezone as tz
@@ -153,7 +153,7 @@ def exportGamesToJson(response:dict):
                 except KeyError:
                     for shortName in network["names"]:
                         newGame["networks"]["national"].append(shortName)
-            if network["market"] == "home" or network["market"]["type"] == "Home":
+            if network["market"] in ["home", "away"] or network["market"]["type"] in ["Home", "Away"]:
                 try:
                     newGame["networks"]["local"].append(network["media"]["shortName"].replace("|", "/"))
                 except KeyError:
