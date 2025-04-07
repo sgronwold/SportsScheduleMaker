@@ -1,4 +1,4 @@
-[%autowidth.stretch]
+[%autowidth.stretch, grid=rows]
 |===
 |Date |Time |Game |TV
 
