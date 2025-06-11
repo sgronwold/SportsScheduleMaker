@@ -1,0 +1,207 @@
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Thu 06-05 |01:10 PM |DET @ SOX |
+
+|Fri 06-06 |06:40 PM |KC @ SOX |
+
+|Sat 06-07 |03:10 PM |KC @ SOX |
+
+|Sun 06-08 |01:10 PM |KC @ SOX |
+
+|Tue 06-10 |07:10 PM |SOX @ HOU |
+
+|Wed 06-11 |07:10 PM |SOX @ HOU |
+
+|Thu 06-12 |07:10 PM |SOX @ HOU |
+
+|Fri 06-13 |07:05 PM |SOX @ TEX |
+
+|Sat 06-14 |03:05 PM |SOX @ TEX |
+
+|Sun 06-15 |01:35 PM |SOX @ TEX |
+
+|Tue 06-17 |06:40 PM |STL @ SOX |
+
+|Wed 06-18 |06:40 PM |STL @ SOX |
+
+|Thu 06-19 |01:10 PM |STL @ SOX |
+
+|Fri 06-20 |06:07 PM |SOX @ TOR |
+
+|Sat 06-21 |02:07 PM |SOX @ TOR |
+
+|Sun 06-22 |12:37 PM |SOX @ TOR |
+
+|Mon 06-23 |06:40 PM |ARI @ SOX |
+
+|Tue 06-24 |06:40 PM |ARI @ SOX |
+
+|Wed 06-25 |01:10 PM |ARI @ SOX |
+
+|Fri 06-27 |06:40 PM |SF @ SOX |
+
+|Sat 06-28 |03:10 PM |SF @ SOX |
+
+|Sun 06-29 |01:10 PM |SF @ SOX |
+
+|Tue 07-01 |09:10 PM |SOX @ LAD |
+
+|Wed 07-02 |09:10 PM |SOX @ LAD |
+
+|Thu 07-03 |09:10 PM |SOX @ LAD |
+
+|Fri 07-04 |07:10 PM |SOX @ COL |
+
+|Sat 07-05 |08:10 PM |SOX @ COL |
+
+|Sun 07-06 |02:10 PM |SOX @ COL |
+
+|Mon 07-07 |06:40 PM |TOR @ SOX |
+
+|Tue 07-08 |06:40 PM |TOR @ SOX |
+
+|Wed 07-09 |01:10 PM |TOR @ SOX |
+
+|Thu 07-10 |06:40 PM |CLE @ SOX |
+
+|Fri 07-11 |07:10 PM |CLE @ SOX |
+
+|Sat 07-12 |03:10 PM |CLE @ SOX |
+
+|Sun 07-13 |01:10 PM |CLE @ SOX |
+
+|Fri 07-18 |05:40 PM |SOX @ PIT |
+
+|Sat 07-19 |05:40 PM |SOX @ PIT |
+
+|Sun 07-20 |12:35 PM |SOX @ PIT |
+
+|Mon 07-21 |06:35 PM |SOX @ TB |
+
+|Tue 07-22 |06:35 PM |SOX @ TB |
+
+|Wed 07-23 |06:35 PM |SOX @ TB |
+
+|Fri 07-25 |06:40 PM |CUBS @ SOX |
+
+|Sat 07-26 |06:10 PM |CUBS @ SOX |
+
+|Sun 07-27 |01:10 PM |CUBS @ SOX |
+
+|Mon 07-28 |06:40 PM |PHI @ SOX |
+
+|Tue 07-29 |06:40 PM |PHI @ SOX |
+
+|Wed 07-30 |01:10 PM |PHI @ SOX |
+
+|Fri 08-01 |08:38 PM |SOX @ LAA |
+
+|Sat 08-02 |09:07 PM |SOX @ LAA |
+
+|Sun 08-03 |03:07 PM |SOX @ LAA |
+
+|Tue 08-05 |08:40 PM |SOX @ SEA |
+
+|Wed 08-06 |08:40 PM |SOX @ SEA |
+
+|Thu 08-07 |03:10 PM |SOX @ SEA |
+
+|Fri 08-08 |06:40 PM |CLE @ SOX |
+
+|Sat 08-09 |06:10 PM |CLE @ SOX |
+
+|Sun 08-10 |01:10 PM |CLE @ SOX |
+
+|Mon 08-11 |06:40 PM |DET @ SOX |
+
+|Tue 08-12 |06:40 PM |DET @ SOX |
+
+|Wed 08-13 |01:10 PM |DET @ SOX |
+
+|Fri 08-15 |07:10 PM |SOX @ KC |
+
+|Sat 08-16 |06:10 PM |SOX @ KC |
+
+|Sun 08-17 |01:10 PM |SOX @ KC |
+
+|Mon 08-18 |06:15 PM |SOX @ ATL |
+
+|Tue 08-19 |06:15 PM |SOX @ ATL |
+
+|Wed 08-20 |06:15 PM |SOX @ ATL |
+
+|Fri 08-22 |06:40 PM |MIN @ SOX |
+
+|Sat 08-23 |06:10 PM |MIN @ SOX |
+
+|Sun 08-24 |01:10 PM |MIN @ SOX |
+
+|Mon 08-25 |06:40 PM |KC @ SOX |
+
+|Tue 08-26 |06:40 PM |KC @ SOX |
+
+|Wed 08-27 |06:40 PM |KC @ SOX |
+
+|Thu 08-28 |06:40 PM |NYY @ SOX |
+
+|Fri 08-29 |06:40 PM |NYY @ SOX |
+
+|Sat 08-30 |06:10 PM |NYY @ SOX |
+
+|Sun 08-31 |01:10 PM |NYY @ SOX |
+
+|Mon 09-01 |01:10 PM |SOX @ MIN |
+
+|Tue 09-02 |06:40 PM |SOX @ MIN |
+
+|Wed 09-03 |06:40 PM |SOX @ MIN |
+
+|Thu 09-04 |06:40 PM |SOX @ MIN |
+
+|Fri 09-05 |05:40 PM |SOX @ DET |
+
+|Sat 09-06 |05:10 PM |SOX @ DET |
+
+|Sun 09-07 |12:40 PM |SOX @ DET |
+
+|Tue 09-09 |06:40 PM |TB @ SOX |
+
+|Wed 09-10 |06:40 PM |TB @ SOX |
+
+|Thu 09-11 |01:10 PM |TB @ SOX |
+
+|Fri 09-12 |06:10 PM |SOX @ CLE |
+
+|Sat 09-13 |05:10 PM |SOX @ CLE |
+
+|Sun 09-14 |12:40 PM |SOX @ CLE |
+
+|Mon 09-15 |06:40 PM |BAL @ SOX |
+
+|Tue 09-16 |06:40 PM |BAL @ SOX |
+
+|Wed 09-17 |01:10 PM |BAL @ SOX |
+
+|Fri 09-19 |06:40 PM |SD @ SOX |
+
+|Sat 09-20 |06:10 PM |SD @ SOX |
+
+|Sun 09-21 |01:10 PM |SD @ SOX |
+
+|Tue 09-23 |06:05 PM |SOX @ NYY |
+
+|Wed 09-24 |06:05 PM |SOX @ NYY |
+
+|Thu 09-25 |06:05 PM |SOX @ NYY |
+
+|Fri 09-26 |05:45 PM |SOX @ WSH |
+
+|Sat 09-27 |03:05 PM |SOX @ WSH |
+
+|Sun 09-28 |02:05 PM |SOX @ WSH |
+
+|===
+
