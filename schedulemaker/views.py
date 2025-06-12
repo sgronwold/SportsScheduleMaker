@@ -101,6 +101,7 @@ def makeschedule(req:HttpRequest):
                     uuid4=my_uuid,
                     GET_NEW_DATA=data['getNewData'],
                     SEASON=data['season'],
+                    SEASONTYPE=data['seasontype'],
                     PRINT_ENTIRE_LEAGUE=data['allTeams'],
                     FAVORITE_TRICODES=[t.tricode for t in data['teams']],
                     DAILY_HEADERS = data['dailyHeaders'],

@@ -28,6 +28,9 @@ class Network(models.Model):
 
     def __str__(self):
         return "(%s) %s"%(self.market,self.name)
+    
+    class Meta:
+        ordering = ['-market']
 
 class Game(models.Model):
     espnid = models.BigIntegerField()

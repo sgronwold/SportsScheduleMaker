@@ -229,6 +229,7 @@ def main(league:League,
         uuid4:uuid = uuid.uuid4(),
         GET_NEW_DATA = False,
         SEASON="",
+        SEASONTYPE="",
         PRINT_ENTIRE_LEAGUE = False,
         FAVORITE_TRICODES = ["CHI", "CHC"],
         DAILY_HEADERS = True,
@@ -269,7 +270,7 @@ def main(league:League,
         # ask the api for the games
         for t in teams:
             print(dt.now(), "Getting %s's games:"%t.location)
-            loadScheduleByESPNID(league, str(t.espnid))
+            loadScheduleByESPNID(league, str(t.espnid), SEASONTYPE, SEASON)
 
 
     ADOC_PATH = "./schedulemaker/out/%s"%uuid4

@@ -18,6 +18,7 @@ class ScheduleMakingForm(forms.Form):
     season = forms.CharField(label="if you're getting espn data and you don't want the current season, " \
     "specify which season you want here", required=False)
 
+    seasontype = forms.IntegerField(label="preseason, regseason, postseason, offseason", required=False)
 
     allTeams = forms.BooleanField(
         label='all teams\' schedule?', initial=False, required=False)
@@ -75,10 +76,11 @@ class ScheduleMakingForm(forms.Form):
         label='Check to make the next item a whitelist instead of blacklist',
         required=False
     )
+
     blacklist = forms.ModelMultipleChoiceField(
-        models.Network.objects.order_by('-market').all(),
+        queryset = models.Network.objects.all(),
         label='Select networks to blacklist (or whitelist)',
-        required=False
+        required=False,
     )
 
     nameSubs = forms.JSONField(

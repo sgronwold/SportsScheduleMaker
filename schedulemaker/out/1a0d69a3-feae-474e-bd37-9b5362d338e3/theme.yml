@@ -1,0 +1,10 @@
+extends: default-for-print
+
+page:
+    size: [8.500000in,11.000000in]
+    margin: [0.500000in,0.500000in]
+heading:
+    h2-font-size: 24.000000pt
+base:
+    font-size: 20.000000pt
+
