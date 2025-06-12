@@ -27,4 +27,5 @@ urlpatterns = [
     path('preset', views.preset),
     path('loadpreset', views.loadpreset),
     path('schedules', views.schedules),
+    path('nuke', views.nuke_schedule_cache)
 ]

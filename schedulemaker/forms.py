@@ -67,7 +67,7 @@ class ScheduleMakingForm(forms.Form):
     }))
 
     endTimeEnabled = forms.BooleanField(
-        label='YES, I would like to not have an end time: ',
+        label='YES, I would like to use the below end time: ',
         required=False
     )
 
@@ -144,9 +144,9 @@ class ScheduleMakingForm(forms.Form):
     )
 
     # returns json formatted string to use as preset
-    def createPreset(self) -> str:
+    def createPreset(self) -> dict:
         if self.is_valid():
-            preset = self.cleaned_data
+            preset = self.cleaned_data.copy()
 
             preset['league'] = preset['league'].id
             preset['teams'] = [t.id for t in preset['teams']]
@@ -154,7 +154,7 @@ class ScheduleMakingForm(forms.Form):
             preset['endTime'] = preset['endTime'].isoformat()
             preset['blacklist'] = [n.id for n in preset['blacklist']]
 
-            return json.dumps(preset)
+            return preset
         
         return None
             
@@ -193,3 +193,6 @@ class ScheduleMakingForm(forms.Form):
 
 class PresetFileUploadForm(forms.Form):
     file = forms.FileField()
+
+class ScheduleRenameForm(forms.Form):
+    name = forms.CharField(label="Rename this schedule if you so desire")

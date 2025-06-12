@@ -16,14 +16,17 @@ from django.core import serializers
 
 from threading import Thread
 
+import os
+
 # Create your views here.
 def index(req:HttpRequest):
     return render(req, 'index.html')
 
+# Landing page for making a schedule.
 def makeschedule(req:HttpRequest):
     my_uuid = uuid.uuid4()
     if req.GET.get('uuid'):
-        my_uuid = uuid.UUID(req.GET.get(uuid))
+        my_uuid = req.GET.get('uuid')
 
     form = forms.ScheduleMakingForm()
     context = {}
@@ -40,7 +43,7 @@ def makeschedule(req:HttpRequest):
             # so that the json is copy/pastable. otherwise all the "" will be escaped with \
             sch.preset = json.loads(sch.preset)
 
-            # also why not apply the preset?
+            # port over any preferred settings
             form.applyPreset(sch.preset)
         
             context['schedule'] = sch
@@ -59,22 +62,6 @@ def makeschedule(req:HttpRequest):
             #this replaces all the below
             form.populateQuerySets()
 
-
-            ## populate the correct teams
-            #form.fields['teams'].queryset = Team.objects.filter(league=data['league']).all()
-
-            ## populate the correct networks
-            #networks = set()
-
-            #for team in Team.objects.filter(league=data['league']):
-            #    for game in Game.objects.filter(hometeam=team):
-            #        networks = networks.union(set(game.networks.all()))
-
-            #network_ids = [n.id for n in networks]
-
-            #form.fields["blacklist"].queryset = Network.objects.filter(id__in=network_ids)
-            #context['form'] = form
-
             # generate the preset
             preset = form.createPreset()
             if "save and quit" in req.POST:
@@ -84,33 +71,7 @@ def makeschedule(req:HttpRequest):
 
             # generate the schedule
             if bool(data['generateSchedule']):
-                helpers.main(
-                    data['league'],
-                    uuid4=my_uuid,
-                    GET_NEW_DATA=data['getNewData'],
-                    SEASON=data['season'],
-                    SEASONTYPE=data['seasontype'],
-                    PRINT_ENTIRE_LEAGUE=data['allTeams'],
-                    FAVORITE_TRICODES=[t.tricode for t in data['teams']],
-                    DAILY_HEADERS = data['dailyHeaders'],
-                    USE_TEAM_IMAGES = data['useImages'],
-                    USE_SHORT_NAME = data['useShortName'],
-                    PAGE_BREAKS = data['dailyPageBreaks'],
-                    PRINT_BYES = data['printByes'],
-                    TABLE_HEADER = data['tableHeader'],
-                    START_DATE = data['startTime'],
-                    END_DATE= (data['endTime'] if data['endTimeEnabled'] else dt(2100, 1, 1)),
-                    NETWORK_WHITELIST_MODE = data['whitelistMode'],
-                    PREFERRED_NETWORKS = data['blacklist'],
-                    NAME_SUBS = json.loads(data['nameSubs'].replace("'", '"')),
-                    TIMEZONE = data['timezone'],
-                    IMGWIDTH=data['imgwidth'],
-                    PDFWIDTH=data['pdfwidth'],
-                    MARGINS_IN=[data['horzmargin'], data['vertmargin']],
-                    PAPERSIZE_IN=[data['paperwidth'], data['paperheight']],
-                    HEADING_SIZE=data['headingsize'],
-                    FONT_SIZE=data['fontsize']
-                )
+                helpers.main_from_form_response(my_uuid, data)
 
                 # now that we have the asciidoc file we can compile it
                 for format in 'html', 'pdf':
@@ -119,17 +80,39 @@ def makeschedule(req:HttpRequest):
                 # and make a new schedule!
                 sch, exists = Schedule.objects.get_or_create(
                     uuid = my_uuid,
-                    preset=json.dumps(preset)
                 )
+                sch.preset = preset=json.dumps(preset)
+                sch.save()
 
-                return HttpResponseRedirect("?uuid=%s"%my_uuid)
+                return HttpResponseRedirect("../viewschedule?uuid=%s"%my_uuid)
 
     return render(req, 'schedulemaker/makeschedule.html', context)
 
 def viewschedule(req:HttpRequest):
+    uuid = req.GET.get('uuid')
+    schedule = None
     
+    try:
+        schedule = Schedule.objects.get(uuid=uuid)
+    except Exception:
+        pass
 
-    context = {}
+    if req.method == "GET":
+        form = forms.ScheduleRenameForm()
+    if req.method == "POST":
+        form = forms.ScheduleRenameForm(req.POST)
+        if form.is_valid():
+            data = form.cleaned_data
+            schedule.name = data['name']
+            schedule.save()
+    
+    if schedule != None:
+        form.fields['name'].initial = schedule.name
+
+    context = {
+        "schedule": schedule,
+        "form": form
+    }
     return render(req, "./schedulemaker/viewschedule.html", context)
 
 def schedules(req:HttpRequest):
@@ -147,9 +130,14 @@ def loadpreset(req:HttpRequest):
         if req.FILES['file'].size < 10e3:
             preset = json.dumps(json.loads(req.FILES['file'].read()))
 
-            return HttpResponseRedirect("../makeschedule?preset=%s"%preset)
-            
-            
+            # create a new schedule for this!!
+            schedule, exists = Schedule.objects.get_or_create(
+                uuid=uuid.uuid4()
+            )
+            schedule.preset = preset
+            schedule.save()
+
+            return HttpResponseRedirect("../makeschedule?uuid=%s"%schedule.uuid)
 
     context = {
         "form": form
@@ -181,11 +169,26 @@ def pdf(req:HttpRequest):
 
     return showschedule(theUUID, 'pdf')
 
+def nuke_schedule_cache(req:HttpRequest):
+    # delete all files
+    OUTFOLDER = "./schedulemaker/out/"
+    for dir in os.listdir(OUTFOLDER):
+        os.system("rm -r "+OUTFOLDER+dir)
+
+    # and reset pdf/html ready flags
+    for s in Schedule.objects.all():
+        s.pdfReady = False
+        s.htmlReady = False
+        s.save()
+
+    return HttpResponseRedirect("../schedules")
+
 # format must be webpage or pdf
 def showschedule(theUUID:str, format:str):
     if format not in ['html', 'pdf']:
         return HttpResponseBadRequest('must be html or pdf you are asking for something else')
     
+    # first check the cache
     try:
         infile = open("./schedulemaker/out/%s/out.%s"%(theUUID, format))
         payload = infile.read()
@@ -197,11 +200,16 @@ def showschedule(theUUID:str, format:str):
     except Exception as e:
         pass
 
-    if helpers.compile(theUUID, format, 0):
-        infile = open("./schedulemaker/out/%s/out.%s"%(theUUID, format), 'rb')
-        if format == 'html':
-            return HttpResponse(payload)
-        if format == 'pdf':
-            return FileResponse(infile, content_type='application/pdf')
-    else:
-        return HttpResponseNotFound('still workin on it')
+    # then try to make it on ur own
+    try:
+        if helpers.compile(theUUID, format, 0):
+            infile = open("./schedulemaker/out/%s/out.%s"%(theUUID, format), 'rb')
+            if format == 'html':
+                return HttpResponse(payload)
+            if format == 'pdf':
+                return FileResponse(infile, content_type='application/pdf')
+        else:
+            return HttpResponseNotFound('still workin on it')
+    except Exception as e:
+        # at this point, the adoc file probably doesn't exist
+        return HttpResponseRedirect("../makeschedule?uuid="+theUUID)

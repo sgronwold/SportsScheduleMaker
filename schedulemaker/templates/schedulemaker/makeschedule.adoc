@@ -16,3 +16,5 @@ For debug purposes: your uuid is `+{{ uuid }}+`
 </form>
 ++++
 {% endif %}
+
+link:../[Go back home]

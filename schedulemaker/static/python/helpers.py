@@ -35,6 +35,7 @@ def compile(theUUID:str, format:str, timeout=-1):
         compilationlocks[theUUID][format] = Lock()
     
     sch = Schedule.objects.get(uuid=theUUID)
+    print(sch.pdfReady, sch.htmlReady)
     if format == 'pdf' and sch.pdfReady:
         return True
     if format == 'html' and sch.htmlReady:
@@ -223,7 +224,37 @@ def saveGame(league:League, game:Game):
     newGame.save()
     networkChangeSemaphore.release()
 
-
+# overloading main
+# takes a uuid,
+# and a bunch of items from the schedule maker form response
+def main_from_form_response(my_uuid, data:dict):
+    main(
+        data['league'],
+        uuid4=my_uuid,
+        GET_NEW_DATA=data['getNewData'],
+        SEASON=data['season'],
+        SEASONTYPE=data['seasontype'],
+        PRINT_ENTIRE_LEAGUE=data['allTeams'],
+        FAVORITE_TRICODES=[t.tricode for t in data['teams']],
+        DAILY_HEADERS = data['dailyHeaders'],
+        USE_TEAM_IMAGES = data['useImages'],
+        USE_SHORT_NAME = data['useShortName'],
+        PAGE_BREAKS = data['dailyPageBreaks'],
+        PRINT_BYES = data['printByes'],
+        TABLE_HEADER = data['tableHeader'],
+        START_DATE = data['startTime'],
+        END_DATE= (data['endTime'] if data['endTimeEnabled'] else dt(2100, 1, 1)),
+        NETWORK_WHITELIST_MODE = data['whitelistMode'],
+        PREFERRED_NETWORKS = data['blacklist'],
+        NAME_SUBS = json.loads(data['nameSubs'].replace("'", '"')),
+        TIMEZONE = data['timezone'],
+        IMGWIDTH=data['imgwidth'],
+        PDFWIDTH=data['pdfwidth'],
+        MARGINS_IN=[data['horzmargin'], data['vertmargin']],
+        PAPERSIZE_IN=[data['paperwidth'], data['paperheight']],
+        HEADING_SIZE=data['headingsize'],
+        FONT_SIZE=data['fontsize']
+    )
 
 def main(league:League,
         uuid4:uuid = uuid.uuid4(),
@@ -274,7 +305,7 @@ def main(league:League,
 
 
     ADOC_PATH = "./schedulemaker/out/%s"%uuid4
-    os.makedirs(ADOC_PATH)
+    os.makedirs(ADOC_PATH, exist_ok=True)
 
     themefile = open(ADOC_PATH+"/theme.yml", 'w')
     themefile.write("""extends: default-for-print

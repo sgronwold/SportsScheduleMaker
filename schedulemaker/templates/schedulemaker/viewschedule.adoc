@@ -1,5 +1,13 @@
 {% if schedule %}
-Congratulations the schedule was made successfully.
+Congratulations the schedule {{ schedule.name }} was made successfully.
+
+++++
+<form action="" method="post">
+    {% csrf_token %}
+    {{ form }}
+    <input type="submit" value="Submit">
+</form>
+++++
 
 * link:./webpage?uuid={{schedule.uuid}}[View the webpage]
 * link:./pdf?uuid={{schedule.uuid}}[View the pdf]
@@ -14,5 +22,6 @@ link:./preset?uuid={{schedule.uuid}}[download the preset]
 ----
 {% else %}
 Sorry, you need a schedule to be here.
-Please link:../[return home.]
 {% endif %}
+
+link:../[Go back home]

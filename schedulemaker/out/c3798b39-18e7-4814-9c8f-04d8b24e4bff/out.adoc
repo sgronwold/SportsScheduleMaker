@@ -1,6 +1,0 @@
-:pdf-theme: ./schedulemaker/out/c3798b39-18e7-4814-9c8f-04d8b24e4bff/theme.yml
-:imgwidth: 35.000000pt
-:pdfwidth: 40.000000pt
-:!pagenums:
-:nofooter:
-

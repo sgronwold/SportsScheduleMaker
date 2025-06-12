@@ -21,4 +21,4 @@ class GameAdmin(admin.ModelAdmin):
 
 @admin.register(models.Schedule)
 class ScheduleAdmin(admin.ModelAdmin):
-    list_display = ['uuid', 'preset', 'htmlReady', 'pdfReady']
+    list_display = ['name', 'uuid', 'preset', 'htmlReady', 'pdfReady']

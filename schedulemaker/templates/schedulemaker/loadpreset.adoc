@@ -10,3 +10,5 @@
 </form>
 ++++
 {% endif %}
+
+link:../[Go back home]

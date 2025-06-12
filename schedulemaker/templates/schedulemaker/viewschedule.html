@@ -439,8 +439,13 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div id="content">
 <div class="paragraph">
 <p>{% if schedule %}
-Congratulations the schedule was made successfully.</p>
+Congratulations the schedule {{ schedule.name }} was made successfully.</p>
 </div>
+<form action="" method="post">
+    {% csrf_token %}
+    {{ form }}
+    <input type="submit" value="Submit">
+</form>
 <div class="ulist">
 <ul>
 <li>
@@ -466,13 +471,15 @@ Congratulations the schedule was made successfully.</p>
 <div class="paragraph">
 <p>{% else %}
 Sorry, you need a schedule to be here.
-Please <a href="../">return home.</a>
 {% endif %}</p>
+</div>
+<div class="paragraph">
+<p><a href="../">Go back home</a></p>
 </div>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2025-06-12 12:49:00 -0500
+Last updated 2025-06-12 14:19:51 -0500
 </div>
 </div>
 </body>

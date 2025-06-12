@@ -19,3 +19,7 @@
 
 </table>
 ++++
+
+link:./nuke[Nuke the schedule cache]
+
+link:../[Go back home]
