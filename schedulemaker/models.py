@@ -50,3 +50,4 @@ class Schedule(models.Model):
     preset = models.JSONField()
     htmlReady = models.BooleanField(default=False)
     pdfReady = models.BooleanField(default=False)
+    name = models.TextField(default="Untitled")

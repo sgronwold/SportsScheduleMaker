@@ -1,0 +1,18 @@
+{% if schedule %}
+Congratulations the schedule was made successfully.
+
+* link:./webpage?uuid={{schedule.uuid}}[View the webpage]
+* link:./pdf?uuid={{schedule.uuid}}[View the pdf]
+* link:./makeschedule?uuid={{schedule.uuid}}[Edit the schedule]
+
+If you want to use this preset again, please feel free to copy this or
+link:./preset?uuid={{schedule.uuid}}[download the preset]
+
+[source, json]
+----
+{{schedule.preset}}
+----
+{% else %}
+Sorry, you need a schedule to be here.
+Please link:../[return home.]
+{% endif %}

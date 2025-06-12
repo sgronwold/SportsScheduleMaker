@@ -7,6 +7,10 @@ from datetime import datetime as dt, timedelta as td
 import pytz
 from django.utils import timezone
 
+import json
+
+from schedulemaker.models import Network, Team, Game
+
 class ScheduleMakingForm(forms.Form):
     league = forms.ModelChoiceField(
         models.League.objects.all(), initial=[], required=True)
@@ -138,6 +142,54 @@ class ScheduleMakingForm(forms.Form):
         label="When you are ready to create the schedule, check this box. NOTE it may take a long time!",
         required=False
     )
+
+    # returns json formatted string to use as preset
+    def createPreset(self) -> str:
+        if self.is_valid():
+            preset = self.cleaned_data
+
+            preset['league'] = preset['league'].id
+            preset['teams'] = [t.id for t in preset['teams']]
+            preset['startTime'] = preset['startTime'].isoformat()
+            preset['endTime'] = preset['endTime'].isoformat()
+            preset['blacklist'] = [n.id for n in preset['blacklist']]
+
+            return json.dumps(preset)
+        
+        return None
+            
+
+    def applyPreset(self, preset:dict):
+        preset['startTime'] = dt.fromisoformat(preset['startTime'])
+        preset['endTime'] = dt.fromisoformat(preset['endTime'])
+
+        for key in preset.keys():
+            try:
+                self.fields[key].initial = preset[key]#League.objects.get(id=preset['league'])
+            except KeyError as e:
+                print("ERROR APPLYING THE " + key + " PRESET")
+                pass
+        
+        self.populateQuerySets()
+
+    # populates the network blacklist and the teams list
+    def populateQuerySets(self):
+        if self.is_valid():
+            data = self.cleaned_data
+
+            # first populate the network blacklist
+            network_ids = set()
+            for team in data['league'].teams.all():
+                for game in team.gamesashome.all():
+                    for network in game.networks.all():
+                        network_ids.add(network.id)
+            self.fields['blacklist'].queryset = Network.objects.filter(id__in=network_ids)
+            
+            # then populate the team list
+            self.fields['teams'].queryset = Team.objects.filter(league=data['league'])
+
+        else:
+            print(dt.now(), "ERROR: Invalid form")
 
 class PresetFileUploadForm(forms.Form):
     file = forms.FileField()

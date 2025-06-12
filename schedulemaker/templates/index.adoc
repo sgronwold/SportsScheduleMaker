@@ -1,1 +1,4 @@
 = The sports schedule maker.
+
+* link:./makeschedule[Make a new schedule]
+* link:./schedules[View existing schedules]

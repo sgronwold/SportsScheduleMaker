@@ -21,81 +21,69 @@ def index(req:HttpRequest):
     return render(req, 'index.html')
 
 def makeschedule(req:HttpRequest):
-    form:forms.ScheduleMakingForm
+    my_uuid = uuid.uuid4()
+    if req.GET.get('uuid'):
+        my_uuid = uuid.UUID(req.GET.get(uuid))
+
+    form = forms.ScheduleMakingForm()
     context = {}
     preset:dict = None
     sch:Schedule = None
     if req.method == "GET":
+        context['form'] = form
+
+        # if we're editing a pre-existing schedule...
         if req.GET.get('uuid'):
-            context['schedule'] = Schedule.objects.get(uuid=req.GET.get('uuid'))
+            # then we need to load that particular preset
+            sch = Schedule.objects.get(uuid=my_uuid)
 
             # so that the json is copy/pastable. otherwise all the "" will be escaped with \
-            context['schedule'].preset = json.loads(context['schedule'].preset)
-        else:
-            context['form'] = forms.ScheduleMakingForm()
-            form = context['form']
+            sch.preset = json.loads(sch.preset)
 
-            if req.GET.get('preset'):
-                # then try to populate the form
-                print(req.GET.get('preset'))
-
-                preset = json.loads(req.GET.get('preset'))
-
-                preset['startTime'] = dt.fromisoformat(preset['startTime'])
-                preset['endTime'] = dt.fromisoformat(preset['endTime'])
-
-                for key in preset.keys():
-                    try:
-                        form.fields[key].initial = preset[key]#League.objects.get(id=preset['league'])
-                    except KeyError as e:
-                        print(key)
-                        pass
+            # also why not apply the preset?
+            form.applyPreset(sch.preset)
+        
+            context['schedule'] = sch
+            
     
     if req.method == "POST":
         form = forms.ScheduleMakingForm(req.POST)
 
-        context['form'] = form # we officially set the form in an if block, this is just a fail safe
-        
+        context['form'] = form
+
         if form.is_valid():
             data = form.cleaned_data
 
             helpers.loadTeams(data['league'])
 
-            # populate the correct teams
-            form.fields['teams'].queryset = Team.objects.filter(league=data['league']).all()
+            #this replaces all the below
+            form.populateQuerySets()
 
-            # populate the correct networks
-            networks = set()
 
-            for team in Team.objects.filter(league=data['league']):
-                for game in Game.objects.filter(hometeam=team):
-                    networks = networks.union(set(game.networks.all()))
+            ## populate the correct teams
+            #form.fields['teams'].queryset = Team.objects.filter(league=data['league']).all()
 
-            network_ids = [n.id for n in networks]
+            ## populate the correct networks
+            #networks = set()
 
-            form.fields["blacklist"].queryset = Network.objects.filter(id__in=network_ids)
-            context['form'] = form
+            #for team in Team.objects.filter(league=data['league']):
+            #    for game in Game.objects.filter(hometeam=team):
+            #        networks = networks.union(set(game.networks.all()))
+
+            #network_ids = [n.id for n in networks]
+
+            #form.fields["blacklist"].queryset = Network.objects.filter(id__in=network_ids)
+            #context['form'] = form
 
             # generate the preset
-            preset = data.copy()
-
-            preset['league'] = preset['league'].id
-            preset['teams'] = [t.id for t in preset['teams']]
-            preset['startTime'] = preset['startTime'].isoformat()
-            preset['endTime'] = preset['endTime'].isoformat()
-            preset['blacklist'] = [n.id for n in preset['blacklist']]
-
-            preset = json.dumps(preset)
-
+            preset = form.createPreset()
             if "save and quit" in req.POST:
-                print(json.loads(preset))
                 response = HttpResponse(preset, content_type='file/json')
                 response['Content-Disposition'] = "attachment; filename=\"preset.json\""
                 return response
 
             # generate the schedule
             if bool(data['generateSchedule']):
-                my_uuid = uuid.uuid4()
                 helpers.main(
                     data['league'],
                     uuid4=my_uuid,
@@ -123,9 +111,12 @@ def makeschedule(req:HttpRequest):
                     HEADING_SIZE=data['headingsize'],
                     FONT_SIZE=data['fontsize']
                 )
+
+                # now that we have the asciidoc file we can compile it
                 for format in 'html', 'pdf':
                     Thread(target=helpers.compile, args=(my_uuid, format)).start()
-
+                
+                # and make a new schedule!
                 sch, exists = Schedule.objects.get_or_create(
                     uuid = my_uuid,
                     preset=json.dumps(preset)
@@ -133,9 +124,20 @@ def makeschedule(req:HttpRequest):
 
                 return HttpResponseRedirect("?uuid=%s"%my_uuid)
 
-    context['presetform'] = forms.PresetFileUploadForm()
-
     return render(req, 'schedulemaker/makeschedule.html', context)
+
+def viewschedule(req:HttpRequest):
+    
+
+    context = {}
+    return render(req, "./schedulemaker/viewschedule.html", context)
+
+def schedules(req:HttpRequest):
+    schedules = Schedule.objects.all()
+    context = {
+        "schedules": schedules
+    }
+    return render(req, "./schedulemaker/schedules.html", context)
 
 def loadpreset(req:HttpRequest):
     form = forms.PresetFileUploadForm()

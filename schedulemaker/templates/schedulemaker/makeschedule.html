@@ -442,6 +442,11 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <p><a href="../loadpreset">Load your preset here</a></p>
 </div>
 <div class="paragraph">
+<p>{% if uuid %}
+For debug purposes: your uuid is <code>{{ uuid }}</code>
+{% endif %}</p>
+</div>
+<div class="paragraph">
 <p>{% if form %}</p>
 </div>
 <form action="" method="post">
@@ -453,36 +458,10 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="paragraph">
 <p>{% endif %}</p>
 </div>
-<div class="paragraph">
-<p>{% if schedule %}
-Congratulations the schedule was made successfully.</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><a href="./webpage?uuid={{schedule.uuid}}">View the webpage</a></p>
-</li>
-<li>
-<p><a href="./pdf?uuid={{schedule.uuid}}">View the pdf</a></p>
-</li>
-</ul>
-</div>
-<div class="paragraph">
-<p>If you want to use this preset again, please feel free to copy this or
-<a href="./preset?uuid={{schedule.uuid}}">download the preset</a></p>
-</div>
-<div class="listingblock">
-<div class="content">
-<pre class="highlight"><code class="language-json" data-lang="json">{{schedule.preset}}</code></pre>
-</div>
-</div>
-<div class="paragraph">
-<p>{% endif %}</p>
-</div>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2025-06-12 03:03:53 -0500
+Last updated 2025-06-12 12:46:54 -0500
 </div>
 </div>
 </body>

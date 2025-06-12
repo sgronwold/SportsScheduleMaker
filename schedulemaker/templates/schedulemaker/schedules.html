@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="Asciidoctor 2.0.20">
-<title>The sports schedule maker.</title>
+<title>The pre-existing schedules</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
 <style>
 /*! Asciidoctor default stylesheet | MIT License | https://asciidoctor.org */
@@ -435,23 +435,30 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </head>
 <body class="article">
 <div id="header">
-<h1>The sports schedule maker.</h1>
+<h1>The pre-existing schedules</h1>
 </div>
 <div id="content">
-<div class="ulist">
-<ul>
-<li>
-<p><a href="./makeschedule">Make a new schedule</a></p>
-</li>
-<li>
-<p><a href="./schedules">View existing schedules</a></p>
-</li>
-</ul>
-</div>
+<table>
+
+<tr>
+<th>Name</th>
+<th>Link</th>
+<th>Edit</th>
+</tr>
+
+{% for s in schedules %}
+<tr>
+<td>{{ s.name }}</td>
+<td><a href="../viewschedule?uuid={{s.uuid}}">View</a></td>
+<td><a href="../makeschedule?uuid={{s.uuid}}">Edit</a></td>
+</tr>
+{% endfor %}
+
+</table>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2025-06-12 12:34:04 -0500
+Last updated 2025-06-12 12:42:03 -0500
 </div>
 </div>
 </body>

@@ -21,8 +21,10 @@ from schedulemaker import views
 urlpatterns = [
     path('', views.index),
     path('makeschedule', views.makeschedule),
+    path('viewschedule', views.viewschedule),
     path('webpage', views.webpage),
     path('pdf', views.pdf),
     path('preset', views.preset),
     path('loadpreset', views.loadpreset),
+    path('schedules', views.schedules),
 ]
