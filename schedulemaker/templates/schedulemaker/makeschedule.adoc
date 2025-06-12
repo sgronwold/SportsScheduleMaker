@@ -1,0 +1,29 @@
+= Time to make the Schedule...
+
+link:../loadpreset[Load your preset here]
+
+{% if form %}
+++++
+<form action="" method="post">
+    {% csrf_token %}
+    {{ form }}
+    <input type="submit" name="save and quit" value="Save and Quit" />
+    <input type="submit" value="Submit">
+</form>
+++++
+{% endif %}
+
+{% if schedule %}
+Congratulations the schedule was made successfully.
+
+* link:./webpage?uuid={{schedule.uuid}}[View the webpage]
+* link:./pdf?uuid={{schedule.uuid}}[View the pdf]
+
+If you want to use this preset again, please feel free to copy this or
+link:./preset?uuid={{schedule.uuid}}[download the preset]
+
+[source, json]
+----
+{{schedule.preset}}
+----
+{% endif %}

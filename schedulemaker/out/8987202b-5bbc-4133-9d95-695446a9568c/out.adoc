@@ -1,0 +1,557 @@
+:pdf-theme: ./schedulemaker/out/8987202b-5bbc-4133-9d95-695446a9568c/theme.yml
+:imgwidth: 30.000000pt
+:pdfwidth: 30.000000pt
+:!pagenums:
+:nofooter:
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Thu 09-04 |07:20 PM |DAL @ PHI |NBC, Peacock
+
+|Fri 09-05 |07:00 PM |KC @ LAC |YouTube
+
+|Sun 09-07 |12:00 PM |ARI @ NO |CBS
+
+|Sun 09-07 |12:00 PM |TB @ ATL |FOX
+
+|Sun 09-07 |12:00 PM |CAR @ JAX |FOX
+
+|Sun 09-07 |12:00 PM |CIN @ CLE |FOX
+
+|Sun 09-07 |12:00 PM |MIA @ IND |CBS
+
+|Sun 09-07 |12:00 PM |LV @ NE |CBS
+
+|Sun 09-07 |12:00 PM |NYG @ WSH |FOX
+
+|Sun 09-07 |12:00 PM |PIT @ NYJ |CBS
+
+|Sun 09-07 |03:05 PM |TEN @ DEN |FOX
+
+|Sun 09-07 |03:05 PM |SF @ SEA |FOX
+
+|Sun 09-07 |03:25 PM |HOU @ LAR |CBS
+
+|Sun 09-07 |03:25 PM |DET @ GB |CBS
+
+|Sun 09-07 |07:20 PM |BAL @ BUF |NBC
+
+|Mon 09-08 |07:15 PM |MIN @ CHI |ESPN, ABC
+
+|Thu 09-11 |07:15 PM |WSH @ GB |Prime Video
+
+|Sun 09-14 |12:00 PM |CLE @ BAL |CBS
+
+|Sun 09-14 |12:00 PM |BUF @ NYJ |CBS
+
+|Sun 09-14 |12:00 PM |CHI @ DET |FOX
+
+|Sun 09-14 |12:00 PM |JAX @ CIN |CBS
+
+|Sun 09-14 |12:00 PM |NYG @ DAL |FOX
+
+|Sun 09-14 |12:00 PM |LAR @ TEN |CBS
+
+|Sun 09-14 |12:00 PM |NE @ MIA |CBS
+
+|Sun 09-14 |12:00 PM |SF @ NO |FOX
+
+|Sun 09-14 |12:00 PM |SEA @ PIT |FOX
+
+|Sun 09-14 |03:05 PM |CAR @ ARI |CBS
+
+|Sun 09-14 |03:05 PM |DEN @ IND |CBS
+
+|Sun 09-14 |03:25 PM |PHI @ KC |FOX
+
+|Sun 09-14 |07:20 PM |ATL @ MIN |NBC
+
+|Mon 09-15 |06:00 PM |TB @ HOU |ESPN, ABC
+
+|Mon 09-15 |09:00 PM |LAC @ LV |ESPN
+
+|Thu 09-18 |07:15 PM |MIA @ BUF |Prime Video
+
+|Sun 09-21 |12:00 PM |HOU @ JAX |CBS
+
+|Sun 09-21 |12:00 PM |ATL @ CAR |FOX
+
+|Sun 09-21 |12:00 PM |CIN @ MIN |CBS
+
+|Sun 09-21 |12:00 PM |GB @ CLE |FOX
+
+|Sun 09-21 |12:00 PM |IND @ TEN |CBS
+
+|Sun 09-21 |12:00 PM |LV @ WSH |FOX
+
+|Sun 09-21 |12:00 PM |LAR @ PHI |FOX
+
+|Sun 09-21 |12:00 PM |PIT @ NE |CBS
+
+|Sun 09-21 |12:00 PM |NYJ @ TB |FOX
+
+|Sun 09-21 |03:05 PM |DEN @ LAC |CBS
+
+|Sun 09-21 |03:05 PM |NO @ SEA |CBS
+
+|Sun 09-21 |03:25 PM |ARI @ SF |FOX
+
+|Sun 09-21 |03:25 PM |DAL @ CHI |FOX
+
+|Sun 09-21 |07:20 PM |KC @ NYG |NBC
+
+|Mon 09-22 |07:15 PM |DET @ BAL |ESPN, ABC
+
+|Thu 09-25 |07:15 PM |SEA @ ARI |Prime Video
+
+|Sun 09-28 |08:30 AM |MIN @ PIT |NFL Net, NFL+
+
+|Sun 09-28 |12:00 PM |TEN @ HOU |CBS
+
+|Sun 09-28 |12:00 PM |WSH @ ATL |CBS
+
+|Sun 09-28 |12:00 PM |NO @ BUF |CBS
+
+|Sun 09-28 |12:00 PM |CAR @ NE |FOX
+
+|Sun 09-28 |12:00 PM |CLE @ DET |FOX
+
+|Sun 09-28 |12:00 PM |LAC @ NYG |CBS
+
+|Sun 09-28 |12:00 PM |PHI @ TB |FOX
+
+|Sun 09-28 |03:05 PM |IND @ LAR |FOX
+
+|Sun 09-28 |03:05 PM |JAX @ SF |FOX
+
+|Sun 09-28 |03:25 PM |BAL @ KC |CBS
+
+|Sun 09-28 |03:25 PM |CHI @ LV |CBS
+
+|Sun 09-28 |07:20 PM |GB @ DAL |NBC
+
+|Mon 09-29 |06:15 PM |NYJ @ MIA |ESPN
+
+|Mon 09-29 |07:15 PM |CIN @ DEN |ABC
+
+|Thu 10-02 |07:15 PM |SF @ LAR |Prime Video
+
+|Sun 10-05 |08:30 AM |MIN @ CLE |NFL Net, NFL+
+
+|Sun 10-05 |12:00 PM |HOU @ BAL |CBS
+
+|Sun 10-05 |12:00 PM |MIA @ CAR |FOX
+
+|Sun 10-05 |12:00 PM |DAL @ NYJ |FOX
+
+|Sun 10-05 |12:00 PM |DEN @ PHI |CBS
+
+|Sun 10-05 |12:00 PM |LV @ IND |FOX
+
+|Sun 10-05 |12:00 PM |NYG @ NO |CBS
+
+|Sun 10-05 |03:05 PM |TEN @ ARI |CBS
+
+|Sun 10-05 |03:05 PM |TB @ SEA |CBS
+
+|Sun 10-05 |03:25 PM |DET @ CIN |FOX
+
+|Sun 10-05 |03:25 PM |WSH @ LAC |FOX
+
+|Sun 10-05 |07:20 PM |NE @ BUF |NBC
+
+|Mon 10-06 |07:15 PM |KC @ JAX |ESPN, ABC
+
+|Thu 10-09 |07:15 PM |PHI @ NYG |Prime Video
+
+|Sun 10-12 |08:30 AM |DEN @ NYJ |NFL Net, NFL+
+
+|Sun 10-12 |12:00 PM |LAR @ BAL |FOX
+
+|Sun 10-12 |12:00 PM |ARI @ IND |FOX
+
+|Sun 10-12 |12:00 PM |DAL @ CAR |FOX
+
+|Sun 10-12 |12:00 PM |CLE @ PIT |CBS
+
+|Sun 10-12 |12:00 PM |SEA @ JAX |FOX
+
+|Sun 10-12 |12:00 PM |LAC @ MIA |CBS
+
+|Sun 10-12 |12:00 PM |SF @ TB |CBS
+
+|Sun 10-12 |03:05 PM |TEN @ LV |FOX
+
+|Sun 10-12 |03:25 PM |CIN @ GB |CBS
+
+|Sun 10-12 |03:25 PM |NE @ NO |CBS
+
+|Sun 10-12 |07:20 PM |DET @ KC |NBC
+
+|Mon 10-13 |06:15 PM |BUF @ ATL |ESPN
+
+|Mon 10-13 |07:15 PM |CHI @ WSH |ABC
+
+|Thu 10-16 |07:15 PM |PIT @ CIN |Prime Video
+
+|Sun 10-19 |08:30 AM |LAR @ JAX |NFL Net, NFL+
+
+|Sun 10-19 |12:00 PM |CAR @ NYJ |FOX
+
+|Sun 10-19 |12:00 PM |NO @ CHI |FOX
+
+|Sun 10-19 |12:00 PM |MIA @ CLE |CBS
+
+|Sun 10-19 |12:00 PM |LV @ KC |CBS
+
+|Sun 10-19 |12:00 PM |PHI @ MIN |FOX
+
+|Sun 10-19 |12:00 PM |NE @ TEN |CBS
+
+|Sun 10-19 |03:05 PM |NYG @ DEN |CBS
+
+|Sun 10-19 |03:05 PM |IND @ LAC |CBS
+
+|Sun 10-19 |03:25 PM |GB @ ARI |FOX
+
+|Sun 10-19 |03:25 PM |WSH @ DAL |FOX
+
+|Sun 10-19 |07:20 PM |ATL @ SF |NBC
+
+|Mon 10-20 |06:00 PM |TB @ DET |ESPN, ABC
+
+|Mon 10-20 |09:00 PM |HOU @ SEA |ESPN+
+
+|Thu 10-23 |07:15 PM |MIN @ LAC |Prime Video
+
+|Sun 10-26 |12:00 PM |CHI @ BAL |CBS
+
+|Sun 10-26 |12:00 PM |SF @ HOU |FOX
+
+|Sun 10-26 |12:00 PM |MIA @ ATL |CBS
+
+|Sun 10-26 |12:00 PM |BUF @ CAR |FOX
+
+|Sun 10-26 |12:00 PM |NYJ @ CIN |CBS
+
+|Sun 10-26 |12:00 PM |CLE @ NE |FOX
+
+|Sun 10-26 |12:00 PM |NYG @ PHI |FOX
+
+|Sun 10-26 |03:05 PM |TB @ NO |FOX
+
+|Sun 10-26 |03:25 PM |DAL @ DEN |CBS
+
+|Sun 10-26 |03:25 PM |TEN @ IND |CBS
+
+|Sun 10-26 |07:20 PM |GB @ PIT |NBC
+
+|Mon 10-27 |07:15 PM |WSH @ KC |ESPN, ABC
+
+|Thu 10-30 |07:15 PM |BAL @ MIA |Prime Video
+
+|Sun 11-02 |12:00 PM |DEN @ HOU |FOX
+
+|Sun 11-02 |12:00 PM |ATL @ NE |CBS
+
+|Sun 11-02 |12:00 PM |CAR @ GB |FOX
+
+|Sun 11-02 |12:00 PM |CHI @ CIN |CBS
+
+|Sun 11-02 |12:00 PM |MIN @ DET |FOX
+
+|Sun 11-02 |12:00 PM |IND @ PIT |CBS
+
+|Sun 11-02 |12:00 PM |LAC @ TEN |CBS
+
+|Sun 11-02 |12:00 PM |SF @ NYG |CBS
+
+|Sun 11-02 |03:05 PM |JAX @ LV |FOX
+
+|Sun 11-02 |03:05 PM |NO @ LAR |FOX
+
+|Sun 11-02 |03:25 PM |KC @ BUF |CBS
+
+|Sun 11-02 |07:20 PM |SEA @ WSH |NBC
+
+|Mon 11-03 |07:15 PM |ARI @ DAL |ESPN, ABC
+
+|Thu 11-06 |07:15 PM |LV @ DEN |Prime Video
+
+|Sun 11-09 |08:30 AM |ATL @ IND |NFL Net, NFL+
+
+|Sun 11-09 |12:00 PM |BAL @ MIN |FOX
+
+|Sun 11-09 |12:00 PM |JAX @ HOU |CBS
+
+|Sun 11-09 |12:00 PM |BUF @ MIA |CBS
+
+|Sun 11-09 |12:00 PM |NO @ CAR |FOX
+
+|Sun 11-09 |12:00 PM |NYG @ CHI |FOX
+
+|Sun 11-09 |12:00 PM |CLE @ NYJ |CBS
+
+|Sun 11-09 |12:00 PM |NE @ TB |CBS
+
+|Sun 11-09 |03:05 PM |ARI @ SEA |CBS
+
+|Sun 11-09 |03:25 PM |DET @ WSH |FOX
+
+|Sun 11-09 |03:25 PM |LAR @ SF |FOX
+
+|Sun 11-09 |07:20 PM |PIT @ LAC |NBC
+
+|Mon 11-10 |07:15 PM |PHI @ GB |ESPN, ABC
+
+|Thu 11-13 |07:15 PM |NYJ @ NE |Prime Video
+
+|Sun 11-16 |08:30 AM |WSH @ MIA |NFL Net, NFL+
+
+|Sun 11-16 |12:00 PM |HOU @ TEN |FOX
+
+|Sun 11-16 |12:00 PM |CAR @ ATL |FOX
+
+|Sun 11-16 |12:00 PM |TB @ BUF |CBS
+
+|Sun 11-16 |12:00 PM |CHI @ MIN |FOX
+
+|Sun 11-16 |12:00 PM |CIN @ PIT |CBS
+
+|Sun 11-16 |12:00 PM |GB @ NYG |FOX
+
+|Sun 11-16 |12:00 PM |LAC @ JAX |CBS
+
+|Sun 11-16 |03:05 PM |SF @ ARI |FOX
+
+|Sun 11-16 |03:05 PM |SEA @ LAR |FOX
+
+|Sun 11-16 |03:25 PM |BAL @ CLE |CBS
+
+|Sun 11-16 |03:25 PM |KC @ DEN |CBS
+
+|Sun 11-16 |07:20 PM |DET @ PHI |NBC
+
+|Mon 11-17 |07:15 PM |DAL @ LV |ESPN, ABC
+
+|Thu 11-20 |07:15 PM |BUF @ HOU |Prime Video
+
+|Sun 11-23 |12:00 PM |NYJ @ BAL |CBS
+
+|Sun 11-23 |12:00 PM |PIT @ CHI |CBS
+
+|Sun 11-23 |12:00 PM |NE @ CIN |CBS
+
+|Sun 11-23 |12:00 PM |NYG @ DET |FOX
+
+|Sun 11-23 |12:00 PM |MIN @ GB |FOX
+
+|Sun 11-23 |12:00 PM |IND @ KC |CBS
+
+|Sun 11-23 |12:00 PM |SEA @ TEN |FOX
+
+|Sun 11-23 |03:05 PM |JAX @ ARI |CBS
+
+|Sun 11-23 |03:05 PM |CLE @ LV |CBS
+
+|Sun 11-23 |03:25 PM |ATL @ NO |FOX
+
+|Sun 11-23 |03:25 PM |PHI @ DAL |FOX
+
+|Sun 11-23 |07:20 PM |TB @ LAR |NBC
+
+|Mon 11-24 |07:15 PM |CAR @ SF |ESPN
+
+|Thu 11-27 |12:00 PM |GB @ DET |FOX
+
+|Thu 11-27 |03:30 PM |KC @ DAL |CBS, Paramount+
+
+|Thu 11-27 |07:20 PM |CIN @ BAL |NBC
+
+|Fri 11-28 |02:00 PM |CHI @ PHI |Prime Video
+
+|Sun 11-30 |12:00 PM |HOU @ IND |CBS
+
+|Sun 11-30 |12:00 PM |ARI @ TB |FOX
+
+|Sun 11-30 |12:00 PM |ATL @ NYJ |FOX
+
+|Sun 11-30 |12:00 PM |LAR @ CAR |FOX
+
+|Sun 11-30 |12:00 PM |SF @ CLE |CBS
+
+|Sun 11-30 |12:00 PM |JAX @ TEN |CBS
+
+|Sun 11-30 |12:00 PM |NO @ MIA |FOX
+
+|Sun 11-30 |03:05 PM |MIN @ SEA |FOX
+
+|Sun 11-30 |03:25 PM |BUF @ PIT |CBS
+
+|Sun 11-30 |03:25 PM |LV @ LAC |CBS
+
+|Sun 11-30 |07:20 PM |DEN @ WSH |NBC
+
+|Mon 12-01 |07:15 PM |NYG @ NE |ESPN
+
+|Thu 12-04 |07:15 PM |DAL @ DET |Prime Video
+
+|Sun 12-07 |12:00 PM |PIT @ BAL |CBS
+
+|Sun 12-07 |12:00 PM |SEA @ ATL |FOX
+
+|Sun 12-07 |12:00 PM |CHI @ GB |FOX
+
+|Sun 12-07 |12:00 PM |TEN @ CLE |FOX
+
+|Sun 12-07 |12:00 PM |IND @ JAX |CBS
+
+|Sun 12-07 |12:00 PM |MIA @ NYJ |CBS
+
+|Sun 12-07 |12:00 PM |WSH @ MIN |FOX
+
+|Sun 12-07 |12:00 PM |NO @ TB |CBS
+
+|Sun 12-07 |03:05 PM |DEN @ LV |CBS
+
+|Sun 12-07 |03:25 PM |LAR @ ARI |FOX
+
+|Sun 12-07 |03:25 PM |CIN @ BUF |FOX
+
+|Sun 12-07 |07:20 PM |HOU @ KC |NBC
+
+|Mon 12-08 |07:15 PM |PHI @ LAC |ESPN, ABC
+
+|Thu 12-11 |07:15 PM |ATL @ TB |Prime Video
+
+|Sun 12-14 |12:00 PM |BAL @ CIN |CBS
+
+|Sun 12-14 |12:00 PM |ARI @ HOU |FOX
+
+|Sun 12-14 |12:00 PM |BUF @ NE |CBS
+
+|Sun 12-14 |12:00 PM |CLE @ CHI |FOX
+
+|Sun 12-14 |12:00 PM |NYJ @ JAX |CBS
+
+|Sun 12-14 |12:00 PM |LAC @ KC |CBS
+
+|Sun 12-14 |12:00 PM |LV @ PHI |FOX
+
+|Sun 12-14 |12:00 PM |WSH @ NYG |FOX
+
+|Sun 12-14 |03:25 PM |CAR @ NO |FOX
+
+|Sun 12-14 |03:25 PM |GB @ DEN |CBS
+
+|Sun 12-14 |03:25 PM |DET @ LAR |FOX
+
+|Sun 12-14 |03:25 PM |IND @ SEA |CBS
+
+|Sun 12-14 |03:25 PM |TEN @ SF |FOX
+
+|Sun 12-14 |07:20 PM |MIN @ DAL |NBC
+
+|Mon 12-15 |07:15 PM |MIA @ PIT |ESPN
+
+|Thu 12-18 |07:15 PM |LAR @ SEA |Prime Video
+
+| | |GB @ CHI |FOX
+
+| | |PHI @ WSH |FOX
+
+|Sun 12-21 |12:00 PM |NE @ BAL |CBS
+
+|Sun 12-21 |12:00 PM |BUF @ CLE |CBS
+
+|Sun 12-21 |12:00 PM |TB @ CAR |FOX
+
+|Sun 12-21 |12:00 PM |LAC @ DAL |FOX
+
+|Sun 12-21 |12:00 PM |KC @ TEN |CBS
+
+|Sun 12-21 |12:00 PM |MIN @ NYG |FOX
+
+|Sun 12-21 |12:00 PM |NYJ @ NO |CBS
+
+|Sun 12-21 |03:05 PM |ATL @ ARI |FOX
+
+|Sun 12-21 |03:05 PM |JAX @ DEN |FOX
+
+|Sun 12-21 |03:25 PM |LV @ HOU |CBS
+
+|Sun 12-21 |03:25 PM |PIT @ DET |CBS
+
+|Sun 12-21 |07:20 PM |CIN @ MIA |NBC
+
+|Mon 12-22 |07:15 PM |SF @ IND |ESPN
+
+|Thu 12-25 |12:00 PM |DAL @ WSH |Netflix
+
+|Thu 12-25 |03:30 PM |DET @ MIN |Netflix
+
+|Thu 12-25 |07:15 PM |DEN @ KC |Prime Video
+
+| | |BAL @ GB |
+
+| | |HOU @ LAC |
+
+| | |ARI @ CIN |
+
+| | |SEA @ CAR |
+
+| | |NYG @ LV |
+
+|Sun 12-28 |12:00 PM |PIT @ CLE |CBS
+
+|Sun 12-28 |12:00 PM |JAX @ IND |FOX
+
+|Sun 12-28 |12:00 PM |TB @ MIA |FOX
+
+|Sun 12-28 |12:00 PM |NE @ NYJ |CBS
+
+|Sun 12-28 |12:00 PM |NO @ TEN |CBS
+
+|Sun 12-28 |03:25 PM |PHI @ BUF |FOX
+
+|Sun 12-28 |07:20 PM |CHI @ SF |NBC
+
+|Mon 12-29 |07:15 PM |LAR @ ATL |ESPN
+
+| | |BAL @ PIT |
+
+| | |IND @ HOU |
+
+| | |ARI @ LAR |
+
+| | |NO @ ATL |
+
+| | |NYJ @ BUF |
+
+| | |CAR @ TB |
+
+| | |DET @ CHI |
+
+| | |CLE @ CIN |
+
+| | |DAL @ NYG |
+
+| | |LAC @ DEN |
+
+| | |GB @ MIN |
+
+| | |TEN @ JAX |
+
+| | |KC @ LV |
+
+| | |MIA @ NE |
+
+| | |WSH @ PHI |
+
+| | |SEA @ SF |
+
+|===
+

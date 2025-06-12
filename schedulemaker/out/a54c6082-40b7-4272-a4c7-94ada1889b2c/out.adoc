@@ -1,0 +1,373 @@
+:pdf-theme: ./schedulemaker/out/a54c6082-40b7-4272-a4c7-94ada1889b2c/theme.yml
+:imgwidth: 30.000000pt
+:pdfwidth: 30.000000pt
+:!pagenums:
+:nofooter:
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Fri 06-13 |01:20 PM |PIT @ CHC |Marquee Sports Net, MLB.TV, SportsNet PIT
+
+|Fri 06-13 |07:05 PM |CHW @ TEX |MLB.TV, Victory+, CHSN, CW33
+
+|Sat 06-14 |01:20 PM |PIT @ CHC |Marquee Sports Net, MLB.TV, SportsNet PIT
+
+|Sat 06-14 |03:05 PM |CHW @ TEX |MLB.TV, Rangers Sports Network, Victory+, CHSN
+
+|Sun 06-15 |01:20 PM |PIT @ CHC |Marquee Sports Net, MLB.TV, SportsNet PIT
+
+|Sun 06-15 |01:35 PM |CHW @ TEX |MLB.TV, Rangers Sports Network, Victory+, CHSN
+
+|Tue 06-17 |06:40 PM |STL @ CHW |MLB.TV, CHSN, FanDuel SN MW
+
+|Tue 06-17 |07:05 PM |MIL @ CHC |Marquee Sports Net, MLB.TV, FanDuel SN WI, WITI FOX-6
+
+|Wed 06-18 |06:40 PM |STL @ CHW |MLB.TV, CHSN, FanDuel SN MW
+
+|Wed 06-18 |07:05 PM |MIL @ CHC |Marquee Sports Net, MLB.TV, FanDuel SN WI
+
+|Thu 06-19 |01:10 PM |STL @ CHW |MLB.TV, CHSN, FanDuel SN MW
+
+|Thu 06-19 |01:20 PM |MIL @ CHC |Marquee Sports Net, MLB.TV, FanDuel SN WI
+
+|Fri 06-20 |01:20 PM |SEA @ CHC |Marquee Sports Net, MLB.TV, Root Sports NW
+
+|Fri 06-20 |06:07 PM |CHW @ TOR |MLB.TV, Sportsnet One, CHSN
+
+|Sat 06-21 |01:20 PM |SEA @ CHC |Marquee Sports Net, MLB.TV, Root Sports NW
+
+|Sat 06-21 |02:07 PM |CHW @ TOR |MLB.TV, Sportsnet, TVA, CHSN
+
+|Sun 06-22 |12:37 PM |CHW @ TOR |MLB.TV, Sportsnet, TVA, CHSN
+
+|Sun 06-22 |01:20 PM |SEA @ CHC |Marquee Sports Net, MLB.TV, Root Sports NW
+
+|Mon 06-23 |06:40 PM |ARI @ CHW |MLB.TV, DBACKS.TV, CHSN
+
+|Mon 06-23 |06:45 PM |CHC @ STL |MLB.TV, FanDuel SN MW, Marquee Sports Net
+
+|Tue 06-24 |06:40 PM |ARI @ CHW |MLB.TV, DBACKS.TV, CHSN
+
+|Tue 06-24 |06:45 PM |CHC @ STL |MLB.TV, FanDuel SN MW, Marquee Sports Net
+
+|Wed 06-25 |01:10 PM |ARI @ CHW |MLB.TV, DBACKS.TV, CHSN
+
+|Wed 06-25 |06:45 PM |CHC @ STL |MLB.TV, FanDuel SN MW, Marquee Sports Net
+
+|Thu 06-26 |01:15 PM |CHC @ STL |MLB.TV, FanDuel SN MW, Marquee Sports Net
+
+|Fri 06-27 |06:40 PM |SF @ CHW |MLB.TV, CHSN, NBC Sports BA
+
+|Fri 06-27 |07:10 PM |CHC @ HOU |MLB.TV, Marquee Sports Net, Space City Home Network, Space City Home (Alt.)
+
+|Sat 06-28 |03:10 PM |SF @ CHW |MLB.TV, CHSN, NBC Sports BA
+
+|Sat 06-28 |06:15 PM |CHC @ HOU |
+
+|Sun 06-29 |01:10 PM |CHC @ HOU |MLB.TV, Marquee Sports Net, Space City Home Network, Space City Home (Alt.)
+
+|Sun 06-29 |01:10 PM |SF @ CHW |MLB.TV, CHSN, NBC Sports BA
+
+|Wed 07-02 |07:05 PM |CLE @ CHC |
+
+|Wed 07-02 |09:10 PM |CHW @ LAD |MLB.TV, Sportsnet LA, CHSN
+
+|Thu 07-03 |07:05 PM |CLE @ CHC |Marquee Sports Net, MLB.TV, CLEGuardians.TV
+
+|Thu 07-03 |09:10 PM |CHW @ LAD |MLB.TV, Sportsnet LA, CHSN
+
+|Fri 07-04 |01:20 PM |STL @ CHC |
+
+|Fri 07-04 |07:10 PM |CHW @ COL |MLB.TV, Rockies.TV, KTVD-TV (My20), CHSN
+
+|Sat 07-05 |01:20 PM |STL @ CHC |Marquee Sports Net, MLB.TV, FanDuel SN MW
+
+|Sat 07-05 |08:10 PM |CHW @ COL |MLB.TV, Rockies.TV, CHSN
+
+|Sun 07-06 |01:20 PM |STL @ CHC |FanDuel SN MW
+
+|Sun 07-06 |02:10 PM |CHW @ COL |Rockies.TV, CHSN
+
+|Mon 07-07 |06:40 PM |TOR @ CHW |CHSN, Sportsnet, TVA
+
+|Tue 07-08 |06:40 PM |CHC @ MIN |Marquee Sports Net, Twins.TV, KMSP-TV
+
+|Tue 07-08 |06:40 PM |TOR @ CHW |CHSN, Sportsnet
+
+|Wed 07-09 |01:10 PM |TOR @ CHW |CHSN, Sportsnet
+
+|Wed 07-09 |06:40 PM |CHC @ MIN |Marquee Sports Net, Twins.TV
+
+|Thu 07-10 |12:10 PM |CHC @ MIN |Marquee Sports Net, Twins.TV
+
+|Thu 07-10 |06:40 PM |CLE @ CHW |CHSN, CLEGuardians.TV
+
+|Fri 07-11 |06:05 PM |CHC @ NYY |YES, Marquee Sports Net
+
+|Fri 07-11 |07:10 PM |CLE @ CHW |CHSN, CLEGuardians.TV
+
+|Sat 07-12 |12:05 PM |CHC @ NYY |YES, Marquee Sports Net
+
+|Sat 07-12 |03:10 PM |CLE @ CHW |CHSN, CLEGuardians.TV
+
+|Sun 07-13 |12:35 PM |CHC @ NYY |YES, Marquee Sports Net
+
+|Sun 07-13 |01:10 PM |CLE @ CHW |CHSN, CLEGuardians.TV
+
+|Fri 07-18 |01:20 PM |BOS @ CHC |Marquee Sports Net, NESN
+
+|Fri 07-18 |05:40 PM |CHW @ PIT |SportsNet PIT, CHSN
+
+|Sat 07-19 |05:40 PM |CHW @ PIT |SportsNet PIT, CHSN
+
+|Sat 07-19 |06:15 PM |BOS @ CHC |
+
+|Sun 07-20 |12:35 PM |CHW @ PIT |SportsNet PIT, CHSN
+
+|Sun 07-20 |01:20 PM |BOS @ CHC |NESN
+
+|Mon 07-21 |06:35 PM |CHW @ TB |FanDuel SN Sun, CHSN
+
+|Mon 07-21 |07:05 PM |KC @ CHC |Marquee Sports Net, FanDuel SN KC
+
+|Tue 07-22 |06:35 PM |CHW @ TB |FanDuel SN Sun, CHSN
+
+|Tue 07-22 |07:05 PM |KC @ CHC |Marquee Sports Net, FanDuel SN KC
+
+|Wed 07-23 |01:20 PM |KC @ CHC |Marquee Sports Net, FanDuel SN KC
+
+|Wed 07-23 |06:35 PM |CHW @ TB |FanDuel SN Sun, CHSN
+
+|Fri 07-25 |06:40 PM |CHC @ CHW |CHSN, Marquee Sports Net
+
+|Sat 07-26 |06:10 PM |CHC @ CHW |CHSN, Marquee Sports Net
+
+|Sun 07-27 |01:10 PM |CHC @ CHW |CHSN, Marquee Sports Net
+
+|Mon 07-28 |06:40 PM |CHC @ MIL |Marquee Sports Net, FanDuel SN WI
+
+|Mon 07-28 |06:40 PM |PHI @ CHW |CHSN, NBC Sports Phil
+
+|Tue 07-29 |06:40 PM |CHC @ MIL |Marquee Sports Net, FanDuel SN WI, WITI FOX-6
+
+|Tue 07-29 |06:40 PM |PHI @ CHW |CHSN, NBC Sports Phil
+
+|Wed 07-30 |01:10 PM |CHC @ MIL |Marquee Sports Net, FanDuel SN WI
+
+|Wed 07-30 |01:10 PM |PHI @ CHW |CHSN, NBC Sports Phil
+
+|Fri 08-01 |01:20 PM |BAL @ CHC |Marquee Sports Net, MASN2, MAS+
+
+|Fri 08-01 |08:38 PM |CHW @ LAA |FanDuel SN West, CHSN
+
+|Sat 08-02 |01:20 PM |BAL @ CHC |MASN2, MAS+
+
+|Sat 08-02 |09:07 PM |CHW @ LAA |FanDuel SN West, CHSN
+
+|Sun 08-03 |01:20 PM |BAL @ CHC |Marquee Sports Net, MASN2, MAS+
+
+|Sun 08-03 |03:07 PM |CHW @ LAA |FanDuel SN West, CHSN, KCOP
+
+|Tue 08-05 |07:05 PM |CIN @ CHC |Marquee Sports Net, FanDuel SN OH
+
+|Tue 08-05 |08:40 PM |CHW @ SEA |CHSN, Root Sports NW
+
+|Wed 08-06 |01:20 PM |CIN @ CHC |Marquee Sports Net, FanDuel SN OH
+
+|Wed 08-06 |08:40 PM |CHW @ SEA |CHSN, Root Sports NW
+
+|Thu 08-07 |03:10 PM |CHW @ SEA |CHSN, Root Sports NW
+
+|Fri 08-08 |06:40 PM |CLE @ CHW |CHSN, CLEGuardians.TV
+
+|Fri 08-08 |07:15 PM |CHC @ STL |FanDuel SN MW, Marquee Sports Net
+
+|Sat 08-09 |06:10 PM |CLE @ CHW |CHSN, CLEGuardians.TV
+
+|Sat 08-09 |06:15 PM |CHC @ STL |
+
+|Sun 08-10 |01:10 PM |CLE @ CHW |CHSN, CLEGuardians.TV
+
+|Sun 08-10 |01:15 PM |CHC @ STL |FanDuel SN MW
+
+|Mon 08-11 |06:40 PM |DET @ CHW |CHSN, FanDuel SN DET
+
+|Tue 08-12 |06:07 PM |CHC @ TOR |Sportsnet, Marquee Sports Net
+
+|Tue 08-12 |06:40 PM |DET @ CHW |CHSN, WJBK, FanDuel SN DET
+
+|Wed 08-13 |01:10 PM |DET @ CHW |CHSN, FanDuel SN DET
+
+|Wed 08-13 |06:07 PM |CHC @ TOR |Sportsnet, TVA, Marquee Sports Net
+
+|Thu 08-14 |02:07 PM |CHC @ TOR |Sportsnet, Marquee Sports Net
+
+|Fri 08-15 |01:20 PM |PIT @ CHC |Marquee Sports Net, SportsNet PIT
+
+|Fri 08-15 |07:10 PM |CHW @ KC |CHSN, FanDuel SN KC
+
+|Sat 08-16 |01:20 PM |PIT @ CHC |SportsNet PIT
+
+|Sat 08-16 |06:10 PM |CHW @ KC |CHSN, FanDuel SN KC
+
+|Sun 08-17 |01:10 PM |CHW @ KC |CHSN, FanDuel SN KC
+
+|Sun 08-17 |01:20 PM |PIT @ CHC |Marquee Sports Net, SportsNet PIT
+
+|Mon 08-18 |06:15 PM |CHW @ ATL |FanDuel SN South, FanDuel SN SE, CHSN
+
+|Mon 08-18 |07:05 PM |MIL @ CHC |Marquee Sports Net, FanDuel SN WI
+
+|Tue 08-19 |06:15 PM |CHW @ ATL |FanDuel SN South, FanDuel SN SE, CHSN
+
+|Tue 08-19 |07:05 PM |MIL @ CHC |Marquee Sports Net, FanDuel SN WI, WITI FOX-6
+
+|Wed 08-20 |06:15 PM |CHW @ ATL |FanDuel SN South, FanDuel SN SE, CHSN
+
+|Wed 08-20 |07:05 PM |MIL @ CHC |Marquee Sports Net, FanDuel SN WI
+
+|Thu 08-21 |01:20 PM |MIL @ CHC |
+
+|Fri 08-22 |06:40 PM |MIN @ CHW |
+
+|Fri 08-22 |08:38 PM |CHC @ LAA |
+
+|Sat 08-23 |06:10 PM |MIN @ CHW |
+
+|Sat 08-23 |08:38 PM |CHC @ LAA |
+
+|Sun 08-24 |01:10 PM |MIN @ CHW |
+
+|Sun 08-24 |03:07 PM |CHC @ LAA |
+
+|Mon 08-25 |06:40 PM |KC @ CHW |
+
+|Tue 08-26 |06:40 PM |KC @ CHW |
+
+|Tue 08-26 |08:45 PM |CHC @ SF |
+
+|Wed 08-27 |06:40 PM |KC @ CHW |
+
+|Wed 08-27 |08:45 PM |CHC @ SF |
+
+|Thu 08-28 |02:45 PM |CHC @ SF |
+
+|Thu 08-28 |06:40 PM |NYY @ CHW |
+
+|Fri 08-29 |06:40 PM |NYY @ CHW |
+
+|Fri 08-29 |07:40 PM |CHC @ COL |
+
+|Sat 08-30 |06:10 PM |NYY @ CHW |
+
+|Sat 08-30 |07:10 PM |CHC @ COL |
+
+|Sun 08-31 |01:10 PM |NYY @ CHW |
+
+|Sun 08-31 |02:10 PM |CHC @ COL |
+
+|Mon 09-01 |01:10 PM |CHW @ MIN |
+
+|Mon 09-01 |03:05 PM |ATL @ CHC |
+
+|Tue 09-02 |06:40 PM |ATL @ CHC |
+
+|Tue 09-02 |06:40 PM |CHW @ MIN |
+
+|Wed 09-03 |06:40 PM |ATL @ CHC |
+
+|Wed 09-03 |06:40 PM |CHW @ MIN |
+
+|Thu 09-04 |06:40 PM |CHW @ MIN |
+
+|Fri 09-05 |01:20 PM |WSH @ CHC |
+
+|Fri 09-05 |05:40 PM |CHW @ DET |
+
+|Sat 09-06 |01:20 PM |WSH @ CHC |
+
+|Sat 09-06 |05:10 PM |CHW @ DET |
+
+|Sun 09-07 |12:40 PM |CHW @ DET |
+
+|Sun 09-07 |01:20 PM |WSH @ CHC |
+
+|Mon 09-08 |06:15 PM |CHC @ ATL |
+
+|Tue 09-09 |06:15 PM |CHC @ ATL |
+
+|Tue 09-09 |06:40 PM |TB @ CHW |
+
+|Wed 09-10 |06:15 PM |CHC @ ATL |
+
+|Wed 09-10 |06:40 PM |TB @ CHW |
+
+|Thu 09-11 |01:10 PM |TB @ CHW |
+
+|Fri 09-12 |01:20 PM |TB @ CHC |
+
+|Fri 09-12 |06:10 PM |CHW @ CLE |
+
+|Sat 09-13 |01:20 PM |TB @ CHC |
+
+|Sat 09-13 |05:10 PM |CHW @ CLE |
+
+|Sun 09-14 |12:40 PM |CHW @ CLE |
+
+|Sun 09-14 |01:20 PM |TB @ CHC |
+
+|Mon 09-15 |05:40 PM |CHC @ PIT |
+
+|Mon 09-15 |06:40 PM |BAL @ CHW |
+
+|Tue 09-16 |05:40 PM |CHC @ PIT |
+
+|Tue 09-16 |06:40 PM |BAL @ CHW |
+
+|Wed 09-17 |11:35 AM |CHC @ PIT |
+
+|Wed 09-17 |01:10 PM |BAL @ CHW |
+
+|Thu 09-18 |06:15 PM |CHC @ CIN |
+
+|Fri 09-19 |05:40 PM |CHC @ CIN |
+
+|Fri 09-19 |06:40 PM |SD @ CHW |
+
+|Sat 09-20 |05:40 PM |CHC @ CIN |
+
+|Sat 09-20 |06:10 PM |SD @ CHW |
+
+|Sun 09-21 |12:40 PM |CHC @ CIN |
+
+|Sun 09-21 |01:10 PM |SD @ CHW |
+
+|Tue 09-23 |06:05 PM |CHW @ NYY |
+
+|Tue 09-23 |06:40 PM |NYM @ CHC |
+
+|Wed 09-24 |06:05 PM |CHW @ NYY |
+
+|Wed 09-24 |06:40 PM |NYM @ CHC |
+
+|Thu 09-25 |06:05 PM |CHW @ NYY |
+
+|Thu 09-25 |06:40 PM |NYM @ CHC |
+
+|Fri 09-26 |01:20 PM |STL @ CHC |
+
+|Fri 09-26 |05:45 PM |CHW @ WSH |
+
+|Sat 09-27 |01:20 PM |STL @ CHC |
+
+|Sat 09-27 |03:05 PM |CHW @ WSH |
+
+|Sun 09-28 |02:05 PM |CHW @ WSH |
+
+|Sun 09-28 |02:20 PM |STL @ CHC |
+
+|===
+

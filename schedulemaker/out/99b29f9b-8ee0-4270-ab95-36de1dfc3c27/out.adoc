@@ -1,0 +1,13 @@
+:pdf-theme: ./schedulemaker/out/99b29f9b-8ee0-4270-ab95-36de1dfc3c27/theme.yml
+:imgwidth: 30.000000pt
+:pdfwidth: 30.000000pt
+:!pagenums:
+:nofooter:
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|===
+
