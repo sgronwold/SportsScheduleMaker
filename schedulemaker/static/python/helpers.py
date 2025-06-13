@@ -8,6 +8,7 @@ from schedulemaker.models import League, Team, Network, Game, Schedule
 import uuid
 from django.utils import timezone
 import os
+import pytz
 
 # this lets us use logic when we query the models
 from django.db.models import Q
@@ -178,13 +179,14 @@ def saveGames(league:League, schedule:dict):
     threads = []
     for game in schedule["events"]:
         t = Thread(target=saveGame, args=(league, game,))
-        t.start()
+        t.run()
+        threads.append(t)
     
     for t in threads:
         t.join()
 
 
-def saveGame(league:League, game:Game):
+def saveGame(league:League, game:dict):
     week = None
     if "week" in game.keys():
         week = game["week"]["number"]
@@ -193,7 +195,6 @@ def saveGame(league:League, game:Game):
     awayTeam = getOrCreateTeamFromESPNDict(league, game["competitions"][0]["competitors"][1]["team"])
 
     theTime = dt.fromisoformat(game["date"])
-
 
 
     timeValid:bool
@@ -290,6 +291,7 @@ def main(league:League,
         PAPERSIZE_IN=[8.5,11],
         HEADING_SIZE=16,
         FONT_SIZE=16):
+    timezone.activate(TIMEZONE)
 
     #START_DATE = START_DATE.astimezone(pytz.timezone("America/Chicago"))
     sport = league.sport
@@ -297,7 +299,6 @@ def main(league:League,
 
     FAVORITE_TEAMS = Team.objects.filter(league=league, tricode__in=FAVORITE_TRICODES)
 
-    print(dt.now(), 'Getting new data:')
     # ask the api for the teams
     loadTeams(league)
     if GET_NEW_DATA:
@@ -337,14 +338,13 @@ base:
     outfile.write("")
     outfile.close()
 
-    print(dt.now(), 'Collecting the games...')
     # first get teams of interest
     teams = Team.objects.filter(league=league).all()
     if not PRINT_ENTIRE_LEAGUE:
         teams = teams.filter(tricode__in=FAVORITE_TRICODES)
 
     # then use that to get games of interest
-    games = Game.objects.filter((Q(hometeam__in=teams) | Q(awayteam__in=teams)) & Q(utcstart__range=(START_DATE, END_DATE))).all()
+    games = Game.objects.filter((Q(hometeam__in=teams) | Q(awayteam__in=teams)) & Q(start__range=(START_DATE, END_DATE))).all()
 
     outfile = open(ADOC_PATH+"./out.adoc", "a")
 
@@ -357,7 +357,6 @@ base:
 
 """%(ADOC_PATH, IMGWIDTH, PDFWIDTH))
 
-    print(dt.now(), 'Collecting the dates...')
 
     # list of week numbers or datetime objects
     dates:list
@@ -365,26 +364,32 @@ base:
         # then "dates" are actually "weeks"
         dates = list(set([game.week for game in games]))
     else:
-        dates = list(set([game.utcstart.date() for game in games]))
+        dates = list(set([timezone.localdate(game.start) for game in games]))
+        print(sorted(dates))
 
     dates = sorted(dates)
-
-    print(dt.now(), 'Writing the file...')
 
     if not (DAILY_HEADERS or PAGE_BREAKS):
         outfile.write("[%s]\n"%TABLE_HEADER)
         outfile.write("|===\n")
         outfile.write("|Date |Time |Game |TV\n\n\n")
 
-    print(dt.now(), dates)
     for date in dates:
+        # if date isn't an int (i.e. week...) then it's an actual date...
+        if not isinstance(date, int):
+            date = dt(year=date.year, month=date.month, day=date.day, tzinfo=timezone.get_current_timezone())
         currGames = None
         if league.weekly_games:
             currGames = games.filter(week=date)
         else:
-            currGames = games.filter(utcstart__range=(date,date+td(days=1)))
+            # we either gather one days' worth of games or one week's worth of games
+            currGames = None
+            if isinstance(date, int):
+                currGames = games.filter(week_range=(date,date+1))
+            else:
+                currGames = games.filter(start__range=(date,date+td(days=1)))
         # sort by the various criteria
-        currGames = sorted(currGames, key=lambda game: (game.hometeam.tricode not in FAVORITE_TRICODES and game.awayteam.tricode not in FAVORITE_TRICODES, game.utcstart))
+        currGames = sorted(currGames, key=lambda game: (game.hometeam.tricode not in FAVORITE_TRICODES and game.awayteam.tricode not in FAVORITE_TRICODES, game.start))
         
 
         if DAILY_HEADERS:
@@ -405,9 +410,9 @@ base:
             date:str
             time:str
 
-            date = timestampToDate(timezone.localtime(game.utcstart))
+            date = timestampToDate(timezone.localtime(game.start))
             if game.timevalid:
-                time = timestampToTime(timezone.localtime(game.utcstart))
+                time = timestampToTime(timezone.localtime(game.start))
             else:
                 if league.weekly_games:
                     date = ""
@@ -494,10 +499,6 @@ base:
 
 
     outfile.close()
-
-    print(dt.now(), 'creating the style items...')
-
-    print(dt.now(), 'done.')
 
 
 # helper function

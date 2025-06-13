@@ -34,7 +34,7 @@ class Network(models.Model):
 
 class Game(models.Model):
     espnid = models.BigIntegerField()
-    utcstart = models.DateTimeField()
+    start = models.DateTimeField()
     timevalid = models.BooleanField(default=True)
     awayteam = models.ForeignKey(Team, on_delete=models.CASCADE, related_name='gamesasaway')
     hometeam = models.ForeignKey(Team, on_delete=models.CASCADE, related_name='gamesashome')

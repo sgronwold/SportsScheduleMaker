@@ -17,7 +17,7 @@ class NetworkAdmin(admin.ModelAdmin):
 
 @admin.register(models.Game)
 class GameAdmin(admin.ModelAdmin):
-    list_display = ['awayteam', 'hometeam', 'utcstart']
+    list_display = ['awayteam', 'hometeam', 'start']
 
 @admin.register(models.Schedule)
 class ScheduleAdmin(admin.ModelAdmin):

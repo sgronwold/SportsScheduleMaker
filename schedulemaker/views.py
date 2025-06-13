@@ -64,15 +64,12 @@ def makeschedule(req:HttpRequest):
 
             # generate the preset
             preset = form.createPreset()
-            if "save and quit" in req.POST:
-                response = HttpResponse(preset, content_type='file/json')
-                response['Content-Disposition'] = "attachment; filename=\"preset.json\""
-                return response
 
             # generate the schedule
             if bool(data['generateSchedule']):
                 helpers.main_from_form_response(my_uuid, data)
                 
+                # ok now we know that the pdf and html are absolutely NOT ready
                 # and make a new schedule!
                 sch, exists = Schedule.objects.get_or_create(
                     uuid = my_uuid,

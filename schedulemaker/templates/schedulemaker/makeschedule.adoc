@@ -11,7 +11,6 @@ For debug purposes: your uuid is `+{{ uuid }}+`
 <form action="" method="post">
     {% csrf_token %}
     {{ form }}
-    <input type="submit" name="save and quit" value="Save and Quit" />
     <input type="submit" value="Submit">
 </form>
 ++++
