@@ -35,7 +35,7 @@ def compile(theUUID:str, format:str, timeout=-1):
         compilationlocks[theUUID][format] = Lock()
     
     sch = Schedule.objects.get(uuid=theUUID)
-    print(sch.pdfReady, sch.htmlReady)
+    print('pdfReady', sch.pdfReady, 'htmlReady', sch.htmlReady)
     if format == 'pdf' and sch.pdfReady:
         return True
     if format == 'html' and sch.htmlReady:
@@ -44,16 +44,25 @@ def compile(theUUID:str, format:str, timeout=-1):
     if not compilationlocks[theUUID][format].acquire(timeout=timeout):
         return False
     
-    if format == "pdf":
-        os.system("asciidoctor-pdf -a allow-uri-read ./schedulemaker/out/%s/out.adoc"%theUUID)
-        sch = Schedule.objects.get(uuid=theUUID)
-        sch.pdfReady = True
-        sch.save()
-    if format == "html":
-        os.system("asciidoctor ./schedulemaker/out/%s/out.adoc"%theUUID)
-        sch = Schedule.objects.get(uuid=theUUID)
-        sch.htmlReady = True
-        sch.save()
+    print('locked the compilation thingy for ', theUUID, format)
+
+    try:
+        if format == "pdf":
+            exitcode = os.system("asciidoctor-pdf -a allow-uri-read ./schedulemaker/out/%s/out.adoc"%theUUID)
+            if exitcode == 0:
+                sch = Schedule.objects.get(uuid=theUUID)
+                sch.pdfReady = True
+                sch.save()
+        if format == "html":
+            exitcode = os.system("asciidoctor ./schedulemaker/out/%s/out.adoc"%theUUID)
+            if exitcode == 0:
+                sch = Schedule.objects.get(uuid=theUUID)
+                sch.htmlReady = True
+                sch.save()
+    except Exception as e:
+        # if it doesn't work then at least we can release the lock
+        compilationlocks[theUUID][format].release()
+        return False
 
     compilationlocks[theUUID][format].release()
     return True

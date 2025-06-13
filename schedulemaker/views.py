@@ -72,10 +72,6 @@ def makeschedule(req:HttpRequest):
             # generate the schedule
             if bool(data['generateSchedule']):
                 helpers.main_from_form_response(my_uuid, data)
-
-                # now that we have the asciidoc file we can compile it
-                for format in 'html', 'pdf':
-                    Thread(target=helpers.compile, args=(my_uuid, format)).start()
                 
                 # and make a new schedule!
                 sch, exists = Schedule.objects.get_or_create(
@@ -83,6 +79,10 @@ def makeschedule(req:HttpRequest):
                 )
                 sch.preset = preset=json.dumps(preset)
                 sch.save()
+
+                # now that we have the asciidoc file we can compile it
+                for format in 'html', 'pdf':
+                    Thread(target=helpers.compile, args=(my_uuid, format)).start()
 
                 return HttpResponseRedirect("../viewschedule?uuid=%s"%my_uuid)
 
@@ -151,7 +151,7 @@ def preset(req:HttpRequest):
 
     print(json.loads(schedule.preset))
 
-    response = HttpResponse(json.loads(schedule.preset), content_type='file/json')
+    response = HttpResponse(schedule.preset, content_type='file/json')
     response['Content-Disposition'] = "attachment; filename=\"preset.json\""
     return response
 

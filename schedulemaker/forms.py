@@ -190,6 +190,7 @@ class ScheduleMakingForm(forms.Form):
 
         else:
             print(dt.now(), "ERROR: Invalid form")
+            print(self.errors)
 
 class PresetFileUploadForm(forms.Form):
     file = forms.FileField()
