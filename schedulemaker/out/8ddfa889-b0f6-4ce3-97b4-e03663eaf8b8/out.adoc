@@ -1,0 +1,37 @@
+:pdf-theme: ./schedulemaker/out/8ddfa889-b0f6-4ce3-97b4-e03663eaf8b8/theme.yml
+:imgwidth: 30.000000pt
+:pdfwidth: 30.000000pt
+:!pagenums:
+:nofooter:
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Sun 06-15 |01:20 PM |PIT @ CUBS |
+
+|Wed 06-18 |07:05 PM |MIL @ CUBS |
+
+|Thu 06-19 |01:20 PM |MIL @ CUBS |
+
+|Fri 06-20 |01:20 PM |SEA @ CUBS |
+
+|Sat 06-21 |01:20 PM |SEA @ CUBS |
+
+|Sun 06-22 |01:20 PM |SEA @ CUBS |
+
+|Mon 06-23 |06:45 PM |CUBS @ STL |
+
+|Tue 06-24 |06:45 PM |CUBS @ STL |
+
+|Wed 06-25 |06:45 PM |CUBS @ STL |
+
+|Thu 06-26 |01:15 PM |CUBS @ STL |
+
+|Sat 06-28 |06:15 PM |CUBS @ HOU |FOX
+
+|Sun 06-29 |01:10 PM |CUBS @ HOU |
+
+|===
+

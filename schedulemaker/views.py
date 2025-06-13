@@ -78,6 +78,8 @@ def makeschedule(req:HttpRequest):
                     uuid = my_uuid,
                 )
                 sch.preset = preset=json.dumps(preset)
+                sch.pdfReady = False
+                sch.htmlReady = False
                 sch.save()
 
                 # now that we have the asciidoc file we can compile it
