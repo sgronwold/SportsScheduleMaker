@@ -165,7 +165,7 @@ class ScheduleMakingForm(forms.Form):
 
         for key in preset.keys():
             try:
-                self.fields[key].initial = preset[key]#League.objects.get(id=preset['league'])
+                self.initial[key] = preset[key]#League.objects.get(id=preset['league'])
             except KeyError as e:
                 print("ERROR APPLYING THE " + key + " PRESET")
                 pass
@@ -191,6 +191,8 @@ class ScheduleMakingForm(forms.Form):
         else:
             print(dt.now(), "ERROR: Invalid form")
             print(self.errors)
+            print(self.non_field_errors)
+            print(self.initial)
 
 class PresetFileUploadForm(forms.Form):
     file = forms.FileField()
