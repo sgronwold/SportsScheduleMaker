@@ -28,7 +28,8 @@ class ScheduleMakingForm(forms.Form):
         label='all teams\' schedule?', initial=False, required=False)
     
     teams = forms.ModelMultipleChoiceField(
-        models.Team.objects.all(), initial=[], required=False, label='preferred teams:')
+        models.Team.objects.all(), initial=[], required=False, label='preferred teams:',
+        widget=forms.CheckboxSelectMultiple)
 
     dailyHeaders = forms.BooleanField(
         label='daily/weekly headers?',
@@ -85,6 +86,7 @@ class ScheduleMakingForm(forms.Form):
         queryset = models.Network.objects.all(),
         label='Select networks to blacklist (or whitelist)',
         required=False,
+        widget=forms.CheckboxSelectMultiple
     )
 
     nameSubs = forms.JSONField(

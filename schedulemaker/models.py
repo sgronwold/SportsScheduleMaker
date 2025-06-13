@@ -48,6 +48,7 @@ class Game(models.Model):
 class Schedule(models.Model):
     uuid = models.UUIDField()
     preset = models.JSONField(default=dict)
+    adocReady = models.BooleanField(default=False)
     htmlReady = models.BooleanField(default=False)
     pdfReady = models.BooleanField(default=False)
     name = models.TextField(default="Untitled")
