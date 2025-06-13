@@ -396,7 +396,7 @@ base:
             if league.weekly_games:
                 outfile.write("== Week %s\n\n"%(date))
             else:
-                outfile.write("== %s\n\n"%(date))
+                outfile.write("== %s\n\n"%(timestampToDate(date)))
 
         if PAGE_BREAKS or DAILY_HEADERS:
             outfile.write("[%s]\n"%TABLE_HEADER)
