@@ -179,7 +179,7 @@ def saveGames(league:League, schedule:dict):
     threads = []
     for game in schedule["events"]:
         t = Thread(target=saveGame, args=(league, game,))
-        t.run()
+        t.start()
         threads.append(t)
     
     for t in threads:
@@ -219,7 +219,7 @@ def saveGame(league:League, game:dict):
     gameCreateLock.acquire()
     newGame, exists = Game.objects.get_or_create(
         espnid=espnid,
-        utcstart = theTime,
+        start = theTime,
         timevalid = timeValid,
         awayteam=awayTeam,
         hometeam=homeTeam,
