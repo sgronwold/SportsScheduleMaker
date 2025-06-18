@@ -17,11 +17,6 @@ PRESEASON = 1
 REG_SEASON = 2
 POSTSEASON = 3
 
-networkChangeSemaphore = Semaphore(20)
-
-networkCreateLock = Lock()
-gameCreateLock = Lock()
-teamCreateLock = Lock()
 
 # start with ur uuid as a key
 # then choose "html" or "pdf" as the second key
@@ -76,11 +71,11 @@ def loadTeams(league:League):
 
     for team in response['sports'][0]['leagues'][0]['teams']:
         team = team['team']
-        getOrCreateTeamFromESPNDict(league, team)
+        getOrCreateTeamFromESPNDict(league, team, canHaveBye=True)
 
 # We get or create a team from the information provided generously to us by the ESPN API.
 # The dict has several useful keys such as id, location, name, etc.
-def getOrCreateTeamFromESPNDict(league:League, team:dict):
+def getOrCreateTeamFromESPNDict(league:League, team:dict, canHaveBye=False):
     # the logo is kind of in a nebulous place
     logo:str
     try:
@@ -97,18 +92,17 @@ def getOrCreateTeamFromESPNDict(league:League, team:dict):
         t = Team.objects.get(league=league, espnid=int(team['id']))
     except Exception as e:
         try:
-            teamCreateLock.acquire()
             t, exists = Team.objects.get_or_create(
                 espnid = int(team['id']),
                 location = team['location'],
-                name = team['name'],
+                name = team['name'] if 'name' in team.keys() else team['nickname'],
                 displayName = team['displayName'],
                 shortDisplayName = team['shortDisplayName'],
                 league=league,
                 tricode = team['abbreviation'],
-                logo = logo
+                logo = logo,
+                can_have_bye=canHaveBye
             )
-            teamCreateLock.release()
         except Exception as e:
             t = getOrCreateTeamFromESPNID(league, int(team['id']))
     
@@ -138,12 +132,10 @@ def getOrCreateNetworkFromESPNDict(network:dict) -> list[Network]:
         names = [network['media']['shortName']]
 
     for name in names:
-        networkCreateLock.acquire()
         n, exists = Network.objects.get_or_create(
             market=market,
             name=name
         )
-        networkCreateLock.release()
         networks.append(n)
     
     return networks
@@ -250,10 +242,28 @@ def saveGame(league:League, game:dict):
     
     espnid = game["id"]
 
-    awayscore = int(game['competitions'][0]['competitors'][1]['score'])
-    homescore = int(game['competitions'][0]['competitors'][0]['score'])
-    gameover = game['status']['type']['completed']
-    seasontype = game['season']['type']
+    awayscore = -1
+    homescore = -1
+    try:
+        awayscore = int(game['competitions'][0]['competitors'][1]['score'])
+    except:
+        pass
+
+    try:
+        homescore = int(game['competitions'][0]['competitors'][0]['score'])
+    except:
+        pass
+
+    gameover = False
+    try:
+        gameover = game['status']['type']['completed']
+    except:
+        pass
+
+    try:
+        seasontype = game['season']['type']
+    except KeyError:
+        seasontype = game['seasonType']['type']
 
     # add the networks
     network_ids = []
@@ -265,7 +275,6 @@ def saveGame(league:League, game:dict):
     # convert to queryset
     networks = Network.objects.filter(id__in=network_ids).all()
 
-    gameCreateLock.acquire(timeout=10)
     newGame, exists = Game.objects.get_or_create(
         espnid=espnid,
         start = theTime,
@@ -278,14 +287,11 @@ def saveGame(league:League, game:dict):
         seasontype=seasontype,
         week=week
     )
-    gameCreateLock.release()
     # now we add the networks
-    networkChangeSemaphore.acquire()
     newGame.networks.clear()
     for n in networks:
         newGame.networks.add(n)
     newGame.save()
-    networkChangeSemaphore.release()
 
 # overloading main
 # takes a uuid,
@@ -459,7 +465,7 @@ base:
             outfile.write("|Date |Time |Game |TV\n\n\n")
 
         # list of all teams in the game data, we will thin the herd as we find teams that actually don't have a bye 
-        byeHavers = set(teams)
+        byeHavers = set(teams.filter(can_have_bye=True))
 
         for game in currGames:
             date:str

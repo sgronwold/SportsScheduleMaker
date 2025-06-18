@@ -1,0 +1,74 @@
+[
+    {
+        "model": "schedulemaker.league",
+        "pk": 1,
+        "fields": {
+            "sport": "baseball",
+            "league": "mlb",
+            "weekly_games": false
+        }
+    },
+    {
+        "model": "schedulemaker.league",
+        "pk": 2,
+        "fields": {
+            "sport": "football",
+            "league": "nfl",
+            "weekly_games": true
+        }
+    },
+    {
+        "model": "schedulemaker.league",
+        "pk": 3,
+        "fields": {
+            "sport": "hockey",
+            "league": "nhl",
+            "weekly_games": false
+        }
+    },
+    {
+        "model": "schedulemaker.league",
+        "pk": 4,
+        "fields": {
+            "sport": "basketball",
+            "league": "nba",
+            "weekly_games": false
+        }
+    },
+    {
+        "model": "schedulemaker.schedule",
+        "pk": 41,
+        "fields": {
+            "uuid": "8ddfa889-b0f6-4ce3-97b4-e03663eaf8b8",
+            "preset": "{\"league\": 1, \"getNewData\": true, \"season\": \"\", \"seasontype\": null, \"allTeams\": false, \"teams\": [36], \"dailyHeaders\": false, \"useImages\": false, \"useShortName\": true, \"dailyPageBreaks\": false, \"printByes\": false, \"tableHeader\": \"%autowidth.stretch\", \"startTime\": \"2025-06-15T00:00:00-05:00\", \"endTimeEnabled\": false, \"endTime\": \"2025-06-29T23:55:00-05:00\", \"whitelistMode\": true, \"blacklist\": [107, 118, 130, 132, 191, 203], \"nameSubs\": \"{'Apple TV+': 'Apple', 'CHC': 'CUBS', 'CHW': 'SOX'}\", \"timezone\": \"America/Chicago\", \"imgwidth\": 30, \"pdfwidth\": 30, \"paperwidth\": 8.5, \"paperheight\": 11.0, \"horzmargin\": 0.5, \"vertmargin\": 0.5, \"headingsize\": 16.0, \"fontsize\": 28.0, \"generateSchedule\": true}",
+            "adocReady": true,
+            "htmlReady": true,
+            "pdfReady": true,
+            "name": "cubs and white stockings"
+        }
+    },
+    {
+        "model": "schedulemaker.schedule",
+        "pk": 45,
+        "fields": {
+            "uuid": "3c07892c-a98b-489e-99af-9ec9ee2b3130",
+            "preset": "{\"league\": 2, \"getNewData\": true, \"season\": \"20242025\", \"seasontype\": null, \"allTeams\": true, \"teams\": [70], \"dailyHeaders\": true, \"useImages\": true, \"useShortName\": true, \"dailyPageBreaks\": true, \"printByes\": true, \"tableHeader\": \"%autowidth.stretch\", \"startTime\": \"2024-08-13T16:01:00-05:00\", \"endTimeEnabled\": false, \"endTime\": \"2025-03-13T16:01:00-05:00\", \"whitelistMode\": false, \"blacklist\": [251, 254], \"nameSubs\": \"{'NBC Sports Network': 'NBCSN'}\", \"timezone\": \"America/Chicago\", \"imgwidth\": 30, \"pdfwidth\": 35, \"paperwidth\": 8.5, \"paperheight\": 11.0, \"horzmargin\": 0.5, \"vertmargin\": 0.5, \"headingsize\": 16.0, \"fontsize\": 20.0, \"generateSchedule\": true}",
+            "adocReady": true,
+            "htmlReady": true,
+            "pdfReady": true,
+            "name": "NFL"
+        }
+    },
+    {
+        "model": "schedulemaker.schedule",
+        "pk": 46,
+        "fields": {
+            "uuid": "c71b904c-251f-4379-9e69-88db9096b29a",
+            "preset": "{\"league\": 3, \"getNewData\": true, \"season\": \"\", \"seasontype\": null, \"allTeams\": true, \"teams\": [101], \"dailyHeaders\": true, \"useImages\": true, \"useShortName\": true, \"dailyPageBreaks\": false, \"printByes\": false, \"tableHeader\": \"cols=\\\"2,2,2,4\\\"\", \"startTime\": \"2024-07-01T16:47:00-05:00\", \"endTimeEnabled\": false, \"endTime\": \"2025-07-01T16:47:00-05:00\", \"whitelistMode\": true, \"blacklist\": [203, 220, 249, 262, 268, 273, 281, 135, 163, 294], \"nameSubs\": \"{'NHL Net': 'NHL'}\", \"timezone\": \"America/Chicago\", \"imgwidth\": 30, \"pdfwidth\": 30, \"paperwidth\": 8.5, \"paperheight\": 11.0, \"horzmargin\": 0.5, \"vertmargin\": 0.5, \"headingsize\": 16.0, \"fontsize\": 16.0, \"generateSchedule\": true}",
+            "adocReady": false,
+            "htmlReady": true,
+            "pdfReady": true,
+            "name": "NHL"
+        }
+    }
+]
