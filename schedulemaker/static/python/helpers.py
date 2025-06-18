@@ -157,6 +157,38 @@ def loadScheduleByDate(league:League, date:dt):
 
     saveGames(league, response)
 
+def loadScheduleByDateRange(league:League, start:dt, end:dt):
+    timezone.activate(timezone.get_current_timezone())
+
+    # just to be safe...
+    end += td(days=1)
+
+    sport = league.sport
+    leaguename = league.league
+    
+    response:dict
+    LIMIT = 250
+    print(dt.now(), 'making the first request...')
+    while True:
+        # start and end must be no more than one(1) year apart
+        # so we take the given end date or a year from the start,
+        # which ever is earlier
+        endwithinayear = min(start+td(days=365), end)
+
+        url = ("http://site.api.espn.com/apis/site/v2/sports/%s/%s/scoreboard?dates=%s-%s&limit=%d"%(sport,leaguename,dt.strftime(start, "%Y%m%d"), dt.strftime(endwithinayear, "%Y%m%d"), LIMIT))
+        response = requests.get(url).json()
+        saveGames(league, response)
+
+        if len(response['events']) == LIMIT:
+            start = dt.fromisoformat(response['events'][-1]['date'])
+
+            print(dt.now(), 'got up to '+str(start)+', making a new request now...')
+
+            # just to be safe:
+            start -= td(days=1)
+        else:
+            print(dt.now(), 'we only got %d games and our limit was %d thus we are done getting the games :)'%(len(response['events']), LIMIT))
+            break
 
 
 def loadScheduleByESPNID(league:League, tricode_or_espnid:str, seasontype:str="2", season:str=""):
@@ -179,11 +211,24 @@ def saveGames(league:League, schedule:dict):
     threads = []
     for game in schedule["events"]:
         t = Thread(target=saveGame, args=(league, game,))
-        t.start()
         threads.append(t)
+
+    WINDOWSIZE = 5
+    offset = 0
+
+    # initial
+    for i in range(WINDOWSIZE):
+        threads[i].start()
+
+    while offset < len(threads):
+        threads[offset].join()
+
+        if offset+WINDOWSIZE < len(threads):
+            threads[offset+WINDOWSIZE].start()
+
+        offset += 1
     
-    for t in threads:
-        t.join()
+    threads.clear()
 
 
 def saveGame(league:League, game:dict):
@@ -196,7 +241,6 @@ def saveGame(league:League, game:dict):
 
     theTime = dt.fromisoformat(game["date"])
 
-
     timeValid:bool
 
     try:
@@ -205,6 +249,11 @@ def saveGame(league:League, game:dict):
         timeValid = game["competitions"][0]["timeValid"]
     
     espnid = game["id"]
+
+    awayscore = int(game['competitions'][0]['competitors'][1]['score'])
+    homescore = int(game['competitions'][0]['competitors'][0]['score'])
+    gameover = game['status']['type']['completed']
+    seasontype = game['season']['type']
 
     # add the networks
     network_ids = []
@@ -216,13 +265,17 @@ def saveGame(league:League, game:dict):
     # convert to queryset
     networks = Network.objects.filter(id__in=network_ids).all()
 
-    gameCreateLock.acquire()
+    gameCreateLock.acquire(timeout=10)
     newGame, exists = Game.objects.get_or_create(
         espnid=espnid,
         start = theTime,
         timevalid = timeValid,
         awayteam=awayTeam,
         hometeam=homeTeam,
+        awayscore=awayscore,
+        homescore=homescore,
+        gameover=gameover,
+        seasontype=seasontype,
         week=week
     )
     gameCreateLock.release()
@@ -253,7 +306,7 @@ def main_from_form_response(my_uuid, data:dict):
         PRINT_BYES = data['printByes'],
         TABLE_HEADER = data['tableHeader'],
         START_DATE = data['startTime'],
-        END_DATE= (data['endTime'] if data['endTimeEnabled'] else dt(2100, 1, 1)),
+        END_DATE= (data['endTime'] if data['endTimeEnabled'] else dt(2100, 1, 1, tzinfo=timezone.get_current_timezone())),
         NETWORK_WHITELIST_MODE = data['whitelistMode'],
         PREFERRED_NETWORKS = data['blacklist'],
         NAME_SUBS = json.loads(data['nameSubs'].replace("'", '"')),
@@ -270,7 +323,7 @@ def main(league:League,
         uuid4:uuid = uuid.uuid4(),
         GET_NEW_DATA = False,
         SEASON="",
-        SEASONTYPE="",
+        SEASONTYPE=2,
         PRINT_ENTIRE_LEAGUE = False,
         FAVORITE_TRICODES = ["CHI", "CHC"],
         DAILY_HEADERS = True,
@@ -280,7 +333,7 @@ def main(league:League,
         PRINT_BYES = False,
         TABLE_HEADER = r'%autowidth.stretch',
         START_DATE = dt.now(),
-        END_DATE=dt(2100,1,1),
+        END_DATE=dt(2100,1,1,tzinfo=timezone.get_current_timezone()),
         NETWORK_WHITELIST_MODE = False,
         PREFERRED_NETWORKS = [],
         NAME_SUBS = {},
@@ -305,13 +358,15 @@ def main(league:League,
 
         teams = Team.objects.filter(league=league)
 
-        if not PRINT_ENTIRE_LEAGUE:
+        if PRINT_ENTIRE_LEAGUE:
+            loadScheduleByDateRange(league, START_DATE, END_DATE)
+        else:
             teams = teams.filter(id__in=FAVORITE_TEAMS)
 
-        # ask the api for the games
-        for t in teams:
-            print(dt.now(), "Getting %s's games:"%t.location)
-            loadScheduleByESPNID(league, str(t.espnid), SEASONTYPE, SEASON)
+            # ask the api for the games
+            for t in teams:
+                print(dt.now(), "Getting %s's games:"%t.location)
+                loadScheduleByESPNID(league, str(t.espnid), SEASONTYPE, SEASON)
 
 
     ADOC_PATH = "./schedulemaker/out/%s"%uuid4
@@ -344,7 +399,7 @@ base:
         teams = teams.filter(tricode__in=FAVORITE_TRICODES)
 
     # then use that to get games of interest
-    games = Game.objects.filter((Q(hometeam__in=teams) | Q(awayteam__in=teams)) & Q(start__range=(START_DATE, END_DATE))).all()
+    games = Game.objects.filter((Q(hometeam__in=teams) | Q(awayteam__in=teams)) & Q(start__range=(START_DATE, END_DATE)) & Q(seasontype=SEASONTYPE)).all()
 
     outfile = open(ADOC_PATH+"./out.adoc", "a")
 

@@ -33,14 +33,18 @@ class Network(models.Model):
         ordering = ['-market']
 
 class Game(models.Model):
-    espnid = models.BigIntegerField()
+    espnid = models.BigIntegerField(unique=True)
     start = models.DateTimeField()
     timevalid = models.BooleanField(default=True)
     awayteam = models.ForeignKey(Team, on_delete=models.CASCADE, related_name='gamesasaway')
     hometeam = models.ForeignKey(Team, on_delete=models.CASCADE, related_name='gamesashome')
 
-    awayscore = models.SmallIntegerField(null=True)
-    homescore = models.SmallIntegerField(null=True)
+    awayscore = models.SmallIntegerField()
+    homescore = models.SmallIntegerField()
+    gameover = models.BooleanField()
+
+    # 1 preseason 2 regseason 3 postseason (and 4 offseason but this should never happen)
+    seasontype = models.SmallIntegerField()
 
     networks = models.ManyToManyField(Network, related_name='games')
     week = models.SmallIntegerField(null=True)

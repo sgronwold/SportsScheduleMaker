@@ -22,7 +22,8 @@ class ScheduleMakingForm(forms.Form):
     season = forms.CharField(label="if you're getting espn data and you don't want the current season, " \
     "specify which season you want here", required=False)
 
-    seasontype = forms.IntegerField(label="preseason, regseason, postseason, offseason", required=False)
+    seasontype = forms.IntegerField(label="preseason, regseason, postseason, offseason", required=True,
+                                    min_value=1, max_value=4, initial=2)
 
     allTeams = forms.BooleanField(
         label='all teams\' schedule?', initial=False, required=False)
