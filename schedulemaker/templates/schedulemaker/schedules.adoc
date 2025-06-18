@@ -1,0 +1,25 @@
+= The pre-existing schedules
+
+++++
+<table>
+
+<tr>
+<th>Name</th>
+<th>Link</th>
+<th>Edit</th>
+</tr>
+
+{% for s in schedules %}
+<tr>
+<td>{{ s.name }}</td>
+<td><a href="../viewschedule?uuid={{s.uuid}}">View</a></td>
+<td><a href="../makeschedule?uuid={{s.uuid}}">Edit</a></td>
+</tr>
+{% endfor %}
+
+</table>
+++++
+
+link:./nuke[Nuke the schedule cache]
+
+link:../[Go back home]

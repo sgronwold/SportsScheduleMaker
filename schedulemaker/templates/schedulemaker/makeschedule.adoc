@@ -1,0 +1,19 @@
+= Time to make the Schedule...
+
+link:../loadpreset[Load your preset here]
+
+{% if uuid %}
+For debug purposes: your uuid is `+{{ uuid }}+`
+{% endif %}
+
+{% if form %}
+++++
+<form action="" method="post">
+    {% csrf_token %}
+    {{ form }}
+    <input type="submit" value="Submit">
+</form>
+++++
+{% endif %}
+
+link:../[Go back home]
