@@ -586,7 +586,7 @@ base:
                     outfile.write("|===\n\n")
                 
                 # print byes
-                if PRINT_BYES:
+                if PRINT_BYES and len(byeHavers) != 0:
                     outfile.write("Byes:")
 
                     for byeHaver in byeHavers:
