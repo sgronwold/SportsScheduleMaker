@@ -5,6 +5,8 @@ page:
     margin: [0.500000in,0.500000in]
 heading:
     h2-font-size: 16.000000pt
+    h3-font-size: 16.000000pt
+    h4-font-size: 16.000000pt
 base:
     font-size: 20.000000pt
 

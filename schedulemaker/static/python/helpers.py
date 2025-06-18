@@ -183,15 +183,6 @@ def loadScheduleByDateRange(league:League, start:dt, end:dt):
             break
 
 
-def loadScheduleByESPNID(league:League, tricode_or_espnid:str, seasontype:str="2", season:str=""):
-    sport = league.sport
-    leaguename = league.league
-    response:dict
-    response = requests.get("http://site.api.espn.com/apis/site/v2/sports/%s/%s/teams/%s/schedule?season=%s&seasontype=%s"%(sport,leaguename,tricode_or_espnid,season,seasontype)).json()
-
-    saveGames(league, response)
-
-
 
 def saveGames(league:League, schedule:dict):
     bye:int = -1
@@ -205,7 +196,7 @@ def saveGames(league:League, schedule:dict):
         t = Thread(target=saveGame, args=(league, game,))
         threads.append(t)
 
-    WINDOWSIZE = 5
+    WINDOWSIZE = 10
     offset = 0
 
     # initial
@@ -260,6 +251,7 @@ def saveGame(league:League, game:dict):
     except:
         pass
 
+    season = game['season']['year']
     try:
         seasontype = game['season']['type']
     except KeyError:
@@ -275,18 +267,30 @@ def saveGame(league:League, game:dict):
     # convert to queryset
     networks = Network.objects.filter(id__in=network_ids).all()
 
-    newGame, exists = Game.objects.get_or_create(
-        espnid=espnid,
-        start = theTime,
-        timevalid = timeValid,
-        awayteam=awayTeam,
-        hometeam=homeTeam,
-        awayscore=awayscore,
-        homescore=homescore,
-        gameover=gameover,
-        seasontype=seasontype,
-        week=week
-    )
+    newGame:Game
+
+    # we try to get the game from the db but no biggie if not
+    try:
+        newGame = Game.objects.get(espnid=espnid)
+    except:
+        newGame = Game(espnid=espnid)
+
+    newGame.espnid=espnid
+    newGame.start = theTime
+    newGame.timevalid = timeValid
+    newGame.awayteam=awayTeam
+    newGame.hometeam=homeTeam
+    newGame.awayscore=awayscore
+    newGame.homescore=homescore
+    newGame.gameover=gameover
+    newGame.season = season
+    newGame.seasontype=seasontype
+    newGame.week=week
+
+    # we need to save before doing network stuff,
+    # since the network stuff is a many-to-many thing
+    newGame.save()
+
     # now we add the networks
     newGame.networks.clear()
     for n in networks:
@@ -301,8 +305,7 @@ def main_from_form_response(my_uuid, data:dict):
         data['league'],
         uuid4=my_uuid,
         GET_NEW_DATA=data['getNewData'],
-        SEASON=data['season'],
-        SEASONTYPE=data['seasontype'],
+        SEASONTYPES=[int(d) for d in data['seasontypes']],
         PRINT_ENTIRE_LEAGUE=data['allTeams'],
         FAVORITE_TRICODES=[t.tricode for t in data['teams']],
         DAILY_HEADERS = data['dailyHeaders'],
@@ -322,14 +325,14 @@ def main_from_form_response(my_uuid, data:dict):
         MARGINS_IN=[data['horzmargin'], data['vertmargin']],
         PAPERSIZE_IN=[data['paperwidth'], data['paperheight']],
         HEADING_SIZE=data['headingsize'],
-        FONT_SIZE=data['fontsize']
+        FONT_SIZE=data['fontsize'],
+        SHOW_RESULTS = data['showResults']
     )
 
 def main(league:League,
         uuid4:uuid = uuid.uuid4(),
         GET_NEW_DATA = False,
-        SEASON="",
-        SEASONTYPE=2,
+        SEASONTYPES=[2],
         PRINT_ENTIRE_LEAGUE = False,
         FAVORITE_TRICODES = ["CHI", "CHC"],
         DAILY_HEADERS = True,
@@ -349,7 +352,8 @@ def main(league:League,
         MARGINS_IN=[0,0],
         PAPERSIZE_IN=[8.5,11],
         HEADING_SIZE=16,
-        FONT_SIZE=16):
+        FONT_SIZE=16,
+        SHOW_RESULTS=False):
     timezone.activate(TIMEZONE)
 
     #START_DATE = START_DATE.astimezone(pytz.timezone("America/Chicago"))
@@ -364,15 +368,9 @@ def main(league:League,
 
         teams = Team.objects.filter(league=league)
 
-        if PRINT_ENTIRE_LEAGUE:
-            loadScheduleByDateRange(league, START_DATE, END_DATE)
-        else:
+        loadScheduleByDateRange(league, START_DATE, END_DATE)
+        if not PRINT_ENTIRE_LEAGUE:
             teams = teams.filter(id__in=FAVORITE_TEAMS)
-
-            # ask the api for the games
-            for t in teams:
-                print(dt.now(), "Getting %s's games:"%t.location)
-                loadScheduleByESPNID(league, str(t.espnid), SEASONTYPE, SEASON)
 
 
     ADOC_PATH = "./schedulemaker/out/%s"%uuid4
@@ -386,11 +384,13 @@ page:
     margin: [%fin,%fin]
 heading:
     h2-font-size: %fpt
+    h3-font-size: %fpt
+    h4-font-size: %fpt
 base:
     font-size: %fpt
 
 """%(PAPERSIZE_IN[0], PAPERSIZE_IN[1], MARGINS_IN[0], MARGINS_IN[1],
-     HEADING_SIZE, FONT_SIZE))
+     HEADING_SIZE, HEADING_SIZE, HEADING_SIZE, FONT_SIZE))
     themefile.close()
 
 
@@ -405,7 +405,10 @@ base:
         teams = teams.filter(tricode__in=FAVORITE_TRICODES)
 
     # then use that to get games of interest
-    games = Game.objects.filter((Q(hometeam__in=teams) | Q(awayteam__in=teams)) & Q(start__range=(START_DATE, END_DATE)) & Q(seasontype=SEASONTYPE)).all()
+    SELECTED_GAMES = Game.objects.filter((Q(hometeam__in=teams) | Q(awayteam__in=teams)) & Q(start__range=(START_DATE, END_DATE)) & Q(seasontype__in=SEASONTYPES)).all()
+
+    seasons = list(set([g.season for g in SELECTED_GAMES]))
+    seasons = sorted(seasons)
 
     outfile = open(ADOC_PATH+"./out.adoc", "a")
 
@@ -418,145 +421,188 @@ base:
 
 """%(ADOC_PATH, IMGWIDTH, PDFWIDTH))
 
-
-    # list of week numbers or datetime objects
-    dates:list
-    if league.weekly_games:
-        # then "dates" are actually "weeks"
-        dates = list(set([game.week for game in games]))
-    else:
-        dates = list(set([timezone.localdate(game.start) for game in games]))
-        print(sorted(dates))
-
-    dates = sorted(dates)
-
-    if not (DAILY_HEADERS or PAGE_BREAKS):
-        outfile.write("[%s]\n"%TABLE_HEADER)
-        outfile.write("|===\n")
-        outfile.write("|Date |Time |Game |TV\n\n\n")
-
-    for date in dates:
-        # if date isn't an int (i.e. week...) then it's an actual date...
-        if not isinstance(date, int):
-            date = dt(year=date.year, month=date.month, day=date.day, tzinfo=timezone.get_current_timezone())
-        currGames = None
-        if league.weekly_games:
-            currGames = games.filter(week=date)
-        else:
-            # we either gather one days' worth of games or one week's worth of games
-            currGames = None
-            if isinstance(date, int):
-                currGames = games.filter(week_range=(date,date+1))
-            else:
-                currGames = games.filter(start__range=(date,date+td(days=1)))
-        # sort by the various criteria
-        currGames = sorted(currGames, key=lambda game: (game.hometeam.tricode not in FAVORITE_TRICODES and game.awayteam.tricode not in FAVORITE_TRICODES, game.start))
+    for season in seasons:
+        if len(seasons) > 1:
+            outfile.write("== The %s Season")
         
+        games = SELECTED_GAMES.filter(season=season)
 
-        if DAILY_HEADERS:
+        seasontypes = sorted(list(set([g.seasontype for g in games])))
+
+        for seasontype in seasontypes:
+            games = SELECTED_GAMES.filter(season=season, seasontype=seasontype)
+
+            if len(seasontypes) > 1:
+                if seasontype==1:
+                    outfile.write("=== Preseason\n")
+                if seasontype==2:
+                    outfile.write("=== Regular season\n")
+                if seasontype==3:
+                    outfile.write("=== Postseason\n")
+
+            # list of week numbers or datetime objects
+            dates:list
             if league.weekly_games:
-                outfile.write("== Week %s\n\n"%(date))
+                # then "dates" are actually "weeks"
+                dates = list(set([game.week for game in games]))
             else:
-                outfile.write("== %s\n\n"%(timestampToDate(date)))
+                dates = list(set([timezone.localdate(game.start) for game in games]))
+                print(sorted(dates))
 
-        if PAGE_BREAKS or DAILY_HEADERS:
-            outfile.write("[%s]\n"%TABLE_HEADER)
-            outfile.write("|===\n")
-            outfile.write("|Date |Time |Game |TV\n\n\n")
+            dates = sorted(dates)
 
-        # list of all teams in the game data, we will thin the herd as we find teams that actually don't have a bye 
-        byeHavers = set(teams.filter(can_have_bye=True))
+            if not (DAILY_HEADERS or PAGE_BREAKS):
+                outfile.write("[%s]\n"%TABLE_HEADER)
+                outfile.write("|===\n")
+                outfile.write("|Date ")
+                outfile.write("|Time ")
+                outfile.write("|Game ")
+                if SHOW_RESULTS:
+                    outfile.write("|Score ")
 
-        for game in currGames:
-            date:str
-            time:str
+                outfile.write("|TV")
+                outfile.write("\n\n\n")
 
-            date = timestampToDate(timezone.localtime(game.start))
-            if game.timevalid:
-                time = timestampToTime(timezone.localtime(game.start))
-            else:
+            for date in dates:
+                # if date isn't an int (i.e. week...) then it's an actual date...
+                if not isinstance(date, int):
+                    date = dt(year=date.year, month=date.month, day=date.day, tzinfo=timezone.get_current_timezone())
+                currGames = None
                 if league.weekly_games:
-                    date = ""
-                
-                time = ""
-
-            try:
-                byeHavers.remove(game.hometeam)
-            except KeyError as e:
-                pass
-
-            try:
-                byeHavers.remove(game.awayteam)
-            except KeyError as e:
-                pass
-
-
-            gameName = ""
-
-            ## add the away team
-            if USE_TEAM_IMAGES and game.awayteam.logo != None:
-                gameName += "image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]" % (game.awayteam.logo, game.awayteam.tricode)
-            elif USE_SHORT_NAME:
-                gameName += game.awayteam.tricode
-            else:
-                gameName += game.awayteam.shortDisplayName
-
-            gameName += " @ "
-
-            ## add the home team
-            if USE_TEAM_IMAGES and game.hometeam.logo != None:
-                gameName += "image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]" % (game.hometeam.logo, game.hometeam.tricode)
-            elif USE_SHORT_NAME:
-                gameName += game.hometeam.tricode
-            else:
-                gameName += game.hometeam.shortDisplayName
-
-
-
-            # the actual network list that we'll use in our document
-            networksList = game.networks.all()
-
-            if NETWORK_WHITELIST_MODE:
-                networksList = networksList.filter(id__in=PREFERRED_NETWORKS)
-            else:
-                networksList = networksList.exclude(id__in=PREFERRED_NETWORKS)
-
-            # make necessary substitutions in networks list
-            for network in networksList:
-                if network.name in NAME_SUBS.keys():
-                    network.name = NAME_SUBS[network.name]
-
-            # finally, just stringify the networks list
-            networksList = [n.name for n in networksList]
-
-            
-            # make necessary substitutions for the game name
-            for name in NAME_SUBS.keys():
-                gameName = gameName.replace(name, NAME_SUBS[name])
-
-            outfile.write("|%s |%s |%s |%s\n\n"%(date, time, gameName, ", ".join(networksList)))
-
-        if DAILY_HEADERS or PAGE_BREAKS:
-            outfile.write("|===\n\n")
-        
-        # print byes
-        if PRINT_BYES:
-            outfile.write("Byes:")
-
-            for byeHaver in byeHavers:
-                if USE_TEAM_IMAGES:
-                    outfile.write("image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]"%(byeHaver.logo,byeHaver.tricode))
+                    currGames = games.filter(week=date)
                 else:
-                    outfile.write("%s "%byeHaver.tricode)
+                    # we either gather one days' worth of games or one week's worth of games
+                    currGames = None
+                    if isinstance(date, int):
+                        currGames = games.filter(week_range=(date,date+1))
+                    else:
+                        currGames = games.filter(start__range=(date,date+td(days=1)))
+                # sort by the various criteria
+                currGames = sorted(currGames, key=lambda game: (game.hometeam.tricode not in FAVORITE_TRICODES and game.awayteam.tricode not in FAVORITE_TRICODES, game.start))
+                
 
-            outfile.write("\n\n")
+                if DAILY_HEADERS:
+                    if league.weekly_games:
+                        outfile.write("==== Week %s\n\n"%(date))
+                    else:
+                        outfile.write("==== %s\n\n"%(timestampToDate(date)))
 
-        if PAGE_BREAKS:
-            outfile.write("\n\n<<<\n\n")  
+                if PAGE_BREAKS or DAILY_HEADERS:
+                    outfile.write("[%s]\n"%TABLE_HEADER)
+                    outfile.write("|===\n")
+                    outfile.write("|Date ")
+                    outfile.write("|Time ")
+                    outfile.write("|Game ")
+                    if SHOW_RESULTS:
+                        outfile.write("|Score ")
+
+                    outfile.write("|TV")
+                    outfile.write("\n\n\n")
+
+                # list of all teams in the game data, we will thin the herd as we find teams that actually don't have a bye 
+                byeHavers = set(teams.filter(can_have_bye=True))
+
+                for game in currGames:
+                    date:str
+                    time:str
+
+                    date = timestampToDate(timezone.localtime(game.start))
+                    if game.timevalid:
+                        time = timestampToTime(timezone.localtime(game.start))
+                    else:
+                        if league.weekly_games:
+                            date = ""
+                        
+                        time = ""
+
+                    try:
+                        byeHavers.remove(game.hometeam)
+                    except KeyError as e:
+                        pass
+
+                    try:
+                        byeHavers.remove(game.awayteam)
+                    except KeyError as e:
+                        pass
+
+
+                    gameName = ""
+
+                    ## add the away team
+                    if USE_TEAM_IMAGES and game.awayteam.logo != None:
+                        gameName += "image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]" % (game.awayteam.logo, game.awayteam.tricode)
+                    elif USE_SHORT_NAME:
+                        gameName += game.awayteam.tricode
+                    else:
+                        gameName += game.awayteam.shortDisplayName
+
+                    gameName += " @ "
+
+                    ## add the home team
+                    if USE_TEAM_IMAGES and game.hometeam.logo != None:
+                        gameName += "image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]" % (game.hometeam.logo, game.hometeam.tricode)
+                    elif USE_SHORT_NAME:
+                        gameName += game.hometeam.tricode
+                    else:
+                        gameName += game.hometeam.shortDisplayName
+
+
+
+                    # the actual network list that we'll use in our document
+                    networksList = game.networks.all()
+
+                    if NETWORK_WHITELIST_MODE:
+                        networksList = networksList.filter(id__in=PREFERRED_NETWORKS)
+                    else:
+                        networksList = networksList.exclude(id__in=PREFERRED_NETWORKS)
+
+                    # make necessary substitutions in networks list
+                    for network in networksList:
+                        if network.name in NAME_SUBS.keys():
+                            network.name = NAME_SUBS[network.name]
+
+                    # finally, just stringify the networks list
+                    networksList = [n.name for n in networksList]
+
+                    score:str
+                    if game.gameover:
+                        score = "%d-%d"%(game.awayscore, game.homescore)
+                    else:
+                        score = "TBD"
                     
+                    # make necessary substitutions for the game name
+                    for name in NAME_SUBS.keys():
+                        gameName = gameName.replace(name, NAME_SUBS[name])
 
-    if not (DAILY_HEADERS or PAGE_BREAKS):
-        outfile.write("|===\n\n")
+                    outfile.write("|%s"%date)
+                    outfile.write("|%s"%time)
+                    outfile.write("|%s"%gameName)
+                    if SHOW_RESULTS:
+                        outfile.write("|%s"%score)
+                    outfile.write("|%s"%(", ".join(networksList)))
+                    outfile.write("\n")
+
+                if DAILY_HEADERS or PAGE_BREAKS:
+                    outfile.write("|===\n\n")
+                
+                # print byes
+                if PRINT_BYES:
+                    outfile.write("Byes:")
+
+                    for byeHaver in byeHavers:
+                        if USE_TEAM_IMAGES:
+                            outfile.write("image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]"%(byeHaver.logo,byeHaver.tricode))
+                        else:
+                            outfile.write("%s "%byeHaver.tricode)
+
+                    outfile.write("\n\n")
+
+                if PAGE_BREAKS:
+                    outfile.write("\n\n<<<\n\n")  
+                            
+
+            if not (DAILY_HEADERS or PAGE_BREAKS):
+                outfile.write("|===\n\n")
 
 
     outfile.close()

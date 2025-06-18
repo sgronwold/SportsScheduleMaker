@@ -54,6 +54,10 @@ class Game(models.Model):
     homescore = models.SmallIntegerField()
     gameover = models.BooleanField()
 
+    # latest year of the season
+    # for example the 2024-2025 season would be 2025
+    season = models.SmallIntegerField()
+
     # 1 preseason 2 regseason 3 postseason (and 4 offseason but this should never happen)
     seasontype = models.SmallIntegerField()
 

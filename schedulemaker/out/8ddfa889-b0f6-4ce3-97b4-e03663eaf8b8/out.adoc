@@ -9,183 +9,13 @@
 |Date |Time |Game |TV
 
 
-|Tue 03-18 |05:10 AM |LAD @ CUBS |
-
-|Wed 03-19 |05:10 AM |LAD @ CUBS |
-
-|Thu 03-27 |09:10 PM |CUBS @ ARI |
-
-|Fri 03-28 |08:40 PM |CUBS @ ARI |
-
-|Sat 03-29 |07:10 PM |CUBS @ ARI |
-
-|Sun 03-30 |03:10 PM |CUBS @ ARI |
-
-|Mon 03-31 |09:05 PM |CUBS @ ATH |
-
-|Tue 04-01 |09:05 PM |CUBS @ ATH |
-
-|Wed 04-02 |02:35 PM |CUBS @ ATH |
-
-|Fri 04-04 |01:20 PM |SD @ CUBS |
-
-|Sat 04-05 |01:20 PM |SD @ CUBS |
-
-|Sun 04-06 |01:20 PM |SD @ CUBS |
-
-|Mon 04-07 |06:40 PM |TEX @ CUBS |
-
-|Tue 04-08 |06:40 PM |TEX @ CUBS |
-
-|Wed 04-09 |01:20 PM |TEX @ CUBS |
-
-|Fri 04-11 |09:10 PM |CUBS @ LAD |
-
-|Sat 04-12 |08:10 PM |CUBS @ LAD |
-
-|Sun 04-13 |06:00 PM |CUBS @ LAD |
-
-|Mon 04-14 |08:40 PM |CUBS @ SD |
-
-|Tue 04-15 |08:40 PM |CUBS @ SD |
-
-|Wed 04-16 |03:10 PM |CUBS @ SD |
-
-|Fri 04-18 |01:20 PM |ARI @ CUBS |
-
-|Sat 04-19 |01:20 PM |ARI @ CUBS |
-
-|Sun 04-20 |01:20 PM |ARI @ CUBS |
-
-|Tue 04-22 |06:40 PM |LAD @ CUBS |
-
-|Wed 04-23 |06:00 PM |LAD @ CUBS |
-
-|Fri 04-25 |01:20 PM |PHI @ CUBS |
-
-|Sat 04-26 |03:05 PM |PHI @ CUBS |
-
-|Sun 04-27 |06:00 PM |PHI @ CUBS |
-
-|Tue 04-29 |05:40 PM |CUBS @ PIT |
-
-|Wed 04-30 |05:40 PM |CUBS @ PIT |
-
-|Thu 05-01 |11:35 AM |CUBS @ PIT |
-
-|Fri 05-02 |07:10 PM |CUBS @ MIL |
-
-|Sat 05-03 |06:10 PM |CUBS @ MIL |
-
-|Sun 05-04 |01:10 PM |CUBS @ MIL |
-
-|Mon 05-05 |06:40 PM |SF @ CUBS |
-
-|Tue 05-06 |06:40 PM |SF @ CUBS |
-
-|Wed 05-07 |01:20 PM |SF @ CUBS |
-
-|Fri 05-09 |06:10 PM |CUBS @ NYM |
-
-|Sat 05-10 |06:15 PM |CUBS @ NYM |
-
-|Sun 05-11 |11:05 AM |CUBS @ NYM |
-
-|Mon 05-12 |06:40 PM |MIA @ CUBS |
-
-|Tue 05-13 |06:40 PM |MIA @ CUBS |
-
-|Wed 05-14 |06:40 PM |MIA @ CUBS |
-
-|Fri 05-16 |01:20 PM |SOX @ CUBS |
-
-|Sat 05-17 |01:20 PM |SOX @ CUBS |
-
-|Sun 05-18 |01:20 PM |SOX @ CUBS |
-
-|Mon 05-19 |05:40 PM |CUBS @ MIA |
-
-|Tue 05-20 |05:40 PM |CUBS @ MIA |
-
-|Wed 05-21 |12:10 PM |CUBS @ MIA |
-
-|Fri 05-23 |05:40 PM |CUBS @ CIN |
-
-|Sat 05-24 |03:10 PM |CUBS @ CIN |
-
-|Sun 05-25 |12:40 PM |CUBS @ CIN |
-
-|Mon 05-26 |01:20 PM |COL @ CUBS |
-
-|Tue 05-27 |07:05 PM |COL @ CUBS |
-
-|Wed 05-28 |07:05 PM |COL @ CUBS |
-
-|Fri 05-30 |01:20 PM |CIN @ CUBS |
-
-|Sat 05-31 |01:20 PM |CIN @ CUBS |
-
-|Sun 06-01 |01:20 PM |CIN @ CUBS |
-
-|Tue 06-03 |05:45 PM |CUBS @ WSH |
-
-|Wed 06-04 |05:45 PM |CUBS @ WSH |
-
-|Thu 06-05 |05:45 PM |CUBS @ WSH |
-
-|Fri 06-06 |06:10 PM |CUBS @ DET |
-
-|Sat 06-07 |12:10 PM |CUBS @ DET |
-
-|Sun 06-08 |12:40 PM |CUBS @ DET |
-
-|Mon 06-09 |05:45 PM |CUBS @ PHI |
-
-|Tue 06-10 |05:45 PM |CUBS @ PHI |
-
-|Wed 06-11 |12:05 PM |CUBS @ PHI |
-
-|Thu 06-12 |07:05 PM |PIT @ CUBS |
-
-|Fri 06-13 |01:20 PM |PIT @ CUBS |
-
-|Sat 06-14 |01:20 PM |PIT @ CUBS |
-
-|Sun 06-15 |01:20 PM |PIT @ CUBS |
-
-|Tue 06-17 |07:05 PM |MIL @ CUBS |
-
-|Wed 06-18 |07:05 PM |MIL @ CUBS |
-
-|Thu 06-19 |01:20 PM |MIL @ CUBS |
-
-|Fri 06-20 |01:20 PM |SEA @ CUBS |
-
-|Sat 06-21 |01:20 PM |SEA @ CUBS |
-
-|Sun 06-22 |01:20 PM |SEA @ CUBS |
-
-|Mon 06-23 |06:45 PM |CUBS @ STL |
-
-|Tue 06-24 |06:45 PM |CUBS @ STL |
-
-|Wed 06-25 |06:45 PM |CUBS @ STL |
-
-|Thu 06-26 |01:15 PM |CUBS @ STL |
-
-|Fri 06-27 |07:10 PM |CUBS @ HOU |
-
-|Sat 06-28 |06:15 PM |CUBS @ HOU |
-
-|Sun 06-29 |01:10 PM |CUBS @ HOU |
-
-|Tue 07-01 |07:05 PM |CLE @ CUBS |
+|Tue 07-01 |07:05 PM |CLE @ CUBS |TBS
 
 |Wed 07-02 |07:05 PM |CLE @ CUBS |
 
 |Thu 07-03 |07:05 PM |CLE @ CUBS |
 
-|Fri 07-04 |01:20 PM |STL @ CUBS |
+|Fri 07-04 |01:20 PM |STL @ CUBS |Apple
 
 |Sat 07-05 |01:20 PM |STL @ CUBS |
 
@@ -205,7 +35,7 @@
 
 |Fri 07-18 |01:20 PM |BOS @ CUBS |
 
-|Sat 07-19 |06:15 PM |BOS @ CUBS |
+|Sat 07-19 |06:15 PM |BOS @ CUBS |FOX
 
 |Sun 07-20 |01:20 PM |BOS @ CUBS |
 
@@ -229,7 +59,7 @@
 
 |Fri 08-01 |01:20 PM |BAL @ CUBS |
 
-|Sat 08-02 |01:20 PM |BAL @ CUBS |
+|Sat 08-02 |01:20 PM |BAL @ CUBS |FS1
 
 |Sun 08-03 |01:20 PM |BAL @ CUBS |
 
@@ -241,7 +71,7 @@
 
 |Fri 08-08 |07:15 PM |CUBS @ STL |
 
-|Sat 08-09 |06:15 PM |CUBS @ STL |
+|Sat 08-09 |06:15 PM |CUBS @ STL |FOX
 
 |Sun 08-10 |01:15 PM |CUBS @ STL |
 
@@ -253,7 +83,7 @@
 
 |Fri 08-15 |01:20 PM |PIT @ CUBS |
 
-|Sat 08-16 |01:20 PM |PIT @ CUBS |
+|Sat 08-16 |01:20 PM |PIT @ CUBS |FS1
 
 |Sun 08-17 |01:20 PM |PIT @ CUBS |
 
