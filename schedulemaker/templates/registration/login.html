@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="Asciidoctor 2.0.20">
-<title>Time to make the Schedule&#8230;&#8203;</title>
+<title>Log-in!!!</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
 <style>
 /*! Asciidoctor default stylesheet | MIT License | https://asciidoctor.org */
@@ -435,38 +435,18 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </head>
 <body class="article">
 <div id="header">
-<h1>Time to make the Schedule&#8230;&#8203;</h1>
+<h1>Log-in!!!</h1>
 </div>
 <div id="content">
-<div class="paragraph">
-<p><a href="../loadpreset">Load your preset here</a></p>
-</div>
-<div class="paragraph">
-<p>You&#8217;re logged in as {{ user.username }}. <a href="./logout">Log out</a></p>
-</div>
-<div class="paragraph">
-<p>{% if uuid %}
-For debug purposes: your uuid is <code>{{ uuid }}</code>
-{% endif %}</p>
-</div>
-<div class="paragraph">
-<p>{% if form %}</p>
-</div>
-<form action="" method="post">
+<form method="post">
     {% csrf_token %}
-    {{ form }}
-    <input type="submit" value="Submit">
+    {{ form.as_p }}
+    <button type="submit">Login</button>
 </form>
-<div class="paragraph">
-<p>{% endif %}</p>
-</div>
-<div class="paragraph">
-<p><a href="../">Go back home</a></p>
-</div>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2025-07-03 14:32:52 -0500
+Last updated 2025-07-03 14:30:00 -0500
 </div>
 </div>
 </body>

@@ -2,6 +2,9 @@ from django.shortcuts import render
 from django.http import HttpRequest, HttpResponseRedirect, JsonResponse, HttpResponse, HttpResponseBadRequest, HttpResponseNotFound, FileResponse
 from schedulemaker import forms
 
+from django.contrib.auth.decorators import login_required
+from django.contrib import auth
+
 from schedulemaker.static.python import helpers
 
 from schedulemaker.models import Team, Schedule, League, Game, Network
@@ -23,6 +26,7 @@ def index(req:HttpRequest):
     return render(req, 'index.html')
 
 # Landing page for making a schedule.
+@login_required
 def makeschedule(req:HttpRequest):
     my_uuid = uuid.uuid4()
     if req.GET.get('uuid'):
@@ -30,6 +34,7 @@ def makeschedule(req:HttpRequest):
 
     form = forms.ScheduleMakingForm()
     context = {}
+    context['user'] = req.user
     preset:dict = None
     sch:Schedule = None
     if req.method == "GET":
@@ -86,6 +91,11 @@ def makeschedule(req:HttpRequest):
                 return HttpResponseRedirect("../viewschedule?uuid=%s"%my_uuid)
 
     return render(req, 'schedulemaker/makeschedule.html', context)
+
+def logout(req:HttpRequest):
+    auth.logout(req)
+
+    return HttpResponseRedirect('/')
 
 def viewschedule(req:HttpRequest):
     uuid = req.GET.get('uuid')

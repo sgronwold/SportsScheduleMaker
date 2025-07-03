@@ -46,8 +46,6 @@ Byes:image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth
 |Sun 08-10|03:00 PM|image:https://a.espncdn.com/i/teamlogos/nfl/500/no.png[NO,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]|NFLN
 |===
 
-Byes:
-
 
 
 <<<
@@ -77,8 +75,6 @@ Byes:
 |Mon 08-18|07:00 PM|image:https://a.espncdn.com/i/teamlogos/nfl/500/cin.png[CIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png[WSH,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]|ESPN
 |===
 
-Byes:
-
 
 
 <<<
@@ -107,8 +103,6 @@ Byes:
 |Sat 08-23|07:30 PM|image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]|
 |Sat 08-23|09:00 PM|image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nfl/500/ari.png[ARI,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]|NFLN
 |===
-
-Byes:
 
 
 
@@ -140,8 +134,6 @@ Byes:
 |Sun 09-07|07:20 PM|image:https://a.espncdn.com/i/teamlogos/nfl/500/bal.png[BAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nfl/500/buf.png[BUF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]|NBC
 |===
 
-Byes:
-
 
 
 <<<
@@ -170,8 +162,6 @@ Byes:
 |Mon 09-15|06:00 PM|image:https://a.espncdn.com/i/teamlogos/nfl/500/tb.png[TB,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nfl/500/hou.png[HOU,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]|ESPN, ABC
 |Mon 09-15|09:00 PM|image:https://a.espncdn.com/i/teamlogos/nfl/500/lac.png[LAC,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nfl/500/lv.png[LV,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]|ESPN
 |===
-
-Byes:
 
 
 
@@ -202,8 +192,6 @@ Byes:
 |Mon 09-22|07:15 PM|image:https://a.espncdn.com/i/teamlogos/nfl/500/det.png[DET,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nfl/500/bal.png[BAL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]|ESPN, ABC
 |===
 
-Byes:
-
 
 
 <<<
@@ -232,8 +220,6 @@ Byes:
 |Mon 09-29|06:15 PM|image:https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png[NYJ,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nfl/500/mia.png[MIA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]|ESPN
 |Mon 09-29|07:15 PM|image:https://a.espncdn.com/i/teamlogos/nfl/500/cin.png[CIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nfl/500/den.png[DEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]|ABC
 |===
-
-Byes:
 
 
 
@@ -498,8 +484,6 @@ Byes:image:https://a.espncdn.com/i/teamlogos/nfl/500/den.png[DEN,width={imgwidth
 |Mon 12-01|07:15 PM|image:https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png[NYG,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nfl/500/ne.png[NE,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]|ESPN
 |===
 
-Byes:
-
 
 
 <<<
@@ -558,8 +542,6 @@ Byes:image:https://a.espncdn.com/i/teamlogos/nfl/500/car.png[CAR,width={imgwidth
 |Mon 12-15|07:15 PM|image:https://a.espncdn.com/i/teamlogos/nfl/500/mia.png[MIA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nfl/500/pit.png[PIT,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]|ESPN
 |===
 
-Byes:
-
 
 
 <<<
@@ -588,8 +570,6 @@ Byes:
 |Sun 12-21|07:20 PM|image:https://a.espncdn.com/i/teamlogos/nfl/500/cin.png[CIN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nfl/500/mia.png[MIA,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]|NBC
 |Mon 12-22|07:15 PM|image:https://a.espncdn.com/i/teamlogos/nfl/500/sf.png[SF,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nfl/500/ind.png[IND,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]|ESPN
 |===
-
-Byes:
 
 
 
@@ -620,8 +600,6 @@ Byes:
 |Mon 12-29|07:15 PM|image:https://a.espncdn.com/i/teamlogos/nfl/500/lar.png[LAR,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nfl/500/atl.png[ATL,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]|ESPN
 |===
 
-Byes:
-
 
 
 <<<
@@ -650,8 +628,6 @@ Byes:
 |||image:https://a.espncdn.com/i/teamlogos/nfl/500/ten.png[TEN,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nfl/500/jax.png[JAX,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]|
 |||image:https://a.espncdn.com/i/teamlogos/nfl/500/ind.png[IND,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}] @ image:https://a.espncdn.com/i/teamlogos/nfl/500/hou.png[HOU,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]|
 |===
-
-Byes:
 
 
 
