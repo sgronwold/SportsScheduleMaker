@@ -196,7 +196,7 @@ def saveGames(league:League, schedule:dict):
         t = Thread(target=saveGame, args=(league, game,))
         threads.append(t)
 
-    WINDOWSIZE = 10
+    WINDOWSIZE = min(10, len(threads))
     offset = 0
 
     # initial

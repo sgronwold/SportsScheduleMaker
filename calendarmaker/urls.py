@@ -16,10 +16,9 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+from calendarmaker import views
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
-    path('accounts/', include('django.contrib.auth.urls')),
-    path('', include('schedulemaker.urls')),
-    path('ical/', include('calendarmaker.urls')),
+    path('', views.index),
+    path('<str:sport>/<str:league>', views.ical),
 ]

@@ -5,7 +5,7 @@ from schedulemaker import forms
 from django.contrib.auth.decorators import login_required
 from django.contrib import auth
 
-from schedulemaker.static.python import helpers
+from static.python import helpers
 
 from schedulemaker.models import Team, Schedule, League, Game, Network
 
