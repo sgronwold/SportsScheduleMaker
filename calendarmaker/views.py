@@ -40,8 +40,10 @@ def ical(req:HttpRequest, sport:str, league:str):
     if league != None:
         # team abbr's
         teams = req.GET.get("teams")
+        if teams == None:
+            # then get all the teams
+            teams = ",".join([t.tricode for t in Team.objects.filter(league=league).all()])
         teams = teams.split(",")
-        print(teams)
 
         for t in teams:
             team = Team.objects.get(tricode__iexact=t, league=league)
