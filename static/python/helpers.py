@@ -1,6 +1,6 @@
 from threading import Thread, Semaphore, Lock
 import json
-import requests
+import httpx as requests
 from datetime import datetime as dt, timedelta as td
 import zulu
 from pytz import timezone as tz

@@ -37,46 +37,45 @@ def ical(req:HttpRequest, sport:str, league:str):
     l = League.objects.get(sport__iexact=sport, league=league)
     league = l
 
+    # default date radius is one year in the past, one year in the future
+    # TODO make this customizable
+    DATE_RADIUS = 365#days
+    START = dt.now(tz=pytz.utc) - td(days=DATE_RADIUS)
+    END = dt.now(tz=pytz.utc) + td(days=DATE_RADIUS)
+    # update the database
+    Thread(target=update_db, args=(league,START,END)).start()
+
     # games to add to the calendar
     gamelist = []
     if league != None:
         # team abbr's
         teams = req.GET.get("teams")
-        # default date radius is one year in the past, one year in the future
-        # TODO make this customizable
-        DATE_RADIUS = 365#days
-        START = dt.now(tz=pytz.utc) - td(days=DATE_RADIUS)
-        END = dt.now(tz=pytz.utc) + td(days=DATE_RADIUS)
         if teams != None:
             teams = teams.split(",")
         
             for t in teams:
                 team = Team.objects.get(tricode__iexact=t, league=league)
 
-                # update the database
-                if league not in nextUpdate.keys():
-                    nextUpdate[league] = Lock()
-                if nextUpdate[league].acquire(timeout=0):
-                    helpers.loadScheduleByDateRange(league, START, END)
-
-                    # release the lock after a minute i.e. 60 seconds
-                    Thread(target=release_thread_after_delay, args=(nextUpdate[league], 60))
-
                 for game in Game.objects.filter(Q(start__range=(START,END)) & (Q(hometeam=team)|Q(awayteam=team))):
                     gamelist.append(game)
         else:
             # get all teams' games, if not specified
-            for game in Game.objects.filter(Q(start__range=(START,END))).all():
+            # valid teams for these games
+            teams = Team.objects.filter(league=league).all()
+            for game in Game.objects.filter(start__range=(START,END), hometeam__in=teams).all():
                 gamelist.append(game)
 
-    threads = []
     for game in gamelist:
-        t = Thread(target=add_calendar_component, args=(c, game))
-        t.start()
-        threads.append(t)
-    
-    for t in threads:
-        t.join()
+        event = Event()
+        event.add('summary', '%s @ %s'%(game.awayteam.name, game.hometeam.name))
+        event.add('description', 'Watch on: %s'%(",".join([n.name for n in game.networks.all()])))
+        event.add('dtstart', game.start)
+        event.add('dtend', game.start + td(hours=3))
+        event.add('UID', uuid.uuid4().__str__())
+
+        event.add('DTSTAMP', dt.now())
+
+        c.add_component(event)
 
     buffer = io.BytesIO()
     buffer.write(c.to_ical())
@@ -84,19 +83,16 @@ def ical(req:HttpRequest, sport:str, league:str):
     
 
     return FileResponse(buffer, content_type='text/calendar')
+    
+def update_db(league:League, START:dt, END:dt):
+    if league not in nextUpdate.keys():
+        nextUpdate[league] = Lock()
+    if nextUpdate[league].acquire(timeout=0):
+        helpers.loadScheduleByDateRange(league, START, END)
 
-def add_calendar_component(c:Calendar, game:Game):
-    event = Event()
-    event.add('summary', '%s @ %s'%(game.awayteam.name, game.hometeam.name))
-    event.add('description', 'Watch on: %s'%(", ".join([n.name for n in game.networks.all()])))
-    event.add('dtstart', game.start)
-    event.add('dtend', game.start + td(hours=3))
-    event.add('UID', uuid.uuid4().__str__())
+        # release the lock after a minute i.e. 60 seconds
+        Thread(target=release_lock_after_delay, args=(nextUpdate[league], 60))
 
-    event.add('DTSTAMP', dt.now())
-
-    c.add_component(event)
-
-def release_thread_after_delay(lock:Lock, delay_sec:int):
+def release_lock_after_delay(lock:Lock, delay_sec:int):
     sleep(delay_sec)
     lock.release()
