@@ -1,0 +1,1726 @@
+:pdf-theme: ./schedulemaker/out/c8c4aab8-2b6e-4fe2-9715-9bf77cccce7d/theme.yml
+:imgwidth: 30.000000pt
+:pdfwidth: 30.000000pt
+:!pagenums:
+:nofooter:
+
+==== Fri 08-22
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Fri 08-22||Idaho St @ UNLV|
+|===
+
+
+
+<<<
+
+==== Sat 08-23
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Sat 08-23|11:00 AM|Iowa State @ Kansas St|ESPN
+|Sat 08-23|05:30 PM|Fresno St @ Kansas|FOX
+|Sat 08-23|06:00 PM|Sam Houston @ Western KY|CBSSN
+|Sat 08-23|06:30 PM|Stanford @ Hawaii|CBS
+|===
+
+
+
+<<<
+
+==== Wed 08-27
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Wed 08-27||Stony Brook @ San Diego St|
+|===
+
+
+
+<<<
+
+==== Thu 08-28
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Thu 08-28|04:30 PM|Boise St @ South Florida|ESPN
+|Thu 08-28|05:00 PM|Lafayette @ Bowling Green|ESPN+
+|Thu 08-28|05:00 PM|Ohio @ Rutgers|BTN
+|Thu 08-28|06:00 PM|East Carolina @ NC State|ACC Network
+|Thu 08-28|06:00 PM|Delaware St @ Delaware|ESPN+
+|Thu 08-28|06:00 PM|Jax State @ UCF|ESPN+
+|Thu 08-28|06:00 PM|St Francis PA @ UL Monroe|ESPN+
+|Thu 08-28|06:00 PM|Wyoming @ Akron|ESPN+
+|Thu 08-28|06:30 PM|UT Martin @ Oklahoma St|ESPN+
+|Thu 08-28|06:30 PM|C Arkansas @ Missouri|SEC Network
+|Thu 08-28|06:30 PM|Elon @ Duke|ESPN+, ACC Extra
+|Thu 08-28|07:00 PM|SF Austin @ Houston|ESPN+
+|Thu 08-28|07:00 PM|Buffalo @ Minnesota|FS1
+|Thu 08-28|07:30 PM|Alabama St @ UAB|ESPN+
+|Thu 08-28|08:00 PM|Nebraska @ Cincinnati|ESPN
+|Thu 08-28|08:00 PM|Miami OH @ Wisconsin|BTN
+|===
+
+
+
+<<<
+
+==== Fri 08-29
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Fri 08-29|05:00 PM|Tarleton St @ Army|CBSSN
+|Fri 08-29|06:00 PM|W Michigan @ Michigan St|FS1
+|Fri 08-29|06:00 PM|Kennesaw St @ Wake Forest|ACC Network
+|Fri 08-29|06:00 PM|App State @ Charlotte|ESPNU
+|Fri 08-29|06:00 PM|Bethune @ FIU|ESPN+
+|Fri 08-29|06:30 PM|Wagner @ Kansas|ESPN+
+|Fri 08-29|06:30 PM|W Illinois @ Illinois|Peacock
+|Fri 08-29|07:00 PM|Georgia Tech @ Colorado|ESPN
+|Fri 08-29|07:00 PM|Auburn @ Baylor|FOX
+|Fri 08-29|08:30 PM|UNLV @ Sam Houston|CBSSN
+|Fri 08-29|09:30 PM|C Michigan @ San Jos St|FS1
+|===
+
+
+
+<<<
+
+==== Sat 08-30
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Sat 08-30|11:00 AM|Syracuse @ Tennessee|ABC
+|Sat 08-30|11:00 AM|Mississippi St @ Southern Miss|ESPN
+|Sat 08-30|11:00 AM|Ball State @ Purdue|BTN
+|Sat 08-30|11:00 AM|Northwestern @ Tulane|ESPNU
+|Sat 08-30|11:00 AM|FAU @ Maryland|BTN
+|Sat 08-30|11:00 AM|VMI @ Navy|CBSSN
+|Sat 08-30|11:00 AM|Texas @ Ohio State|FOX
+|Sat 08-30|11:00 AM|Merrimack @ Kent State|ESPN+
+|Sat 08-30|11:00 AM|Duquesne @ Pitt|ACC Network
+|Sat 08-30|11:45 AM|Toledo @ Kentucky|SEC Network
+|Sat 08-30|01:00 PM|C Connecticut @ UConn|
+|Sat 08-30|01:00 PM|Fordham @ Boston College|ESPN+, ACC Extra
+|Sat 08-30|01:00 PM|Robert Morris @ West Virginia|ESPN+
+|Sat 08-30|01:30 PM|Old Dominion @ Indiana|FS1
+|Sat 08-30|02:00 PM|E Kentucky @ Louisville|ACC Network
+|Sat 08-30|02:30 PM|Alabama @ Florida St|ABC
+|Sat 08-30|02:30 PM|Marshall @ Georgia|ESPN
+|Sat 08-30|02:30 PM|South Dakota @ Iowa State|FOX
+|Sat 08-30|02:30 PM|Nevada @ Penn State|CBS, Paramount+
+|Sat 08-30|02:30 PM|Bucknell @ Air Force|CBSSN
+|Sat 08-30|02:30 PM|Temple @ UMass|ESPN+
+|Sat 08-30|02:30 PM|Holy Cross @ N Illinois|ESPN+
+|Sat 08-30|03:00 PM|Montana St @ Oregon|BTN
+|Sat 08-30|03:00 PM|Maine @ Liberty|ESPN+
+|Sat 08-30|03:15 PM|Alabama A&M @ Arkansas|SEC Network
+|Sat 08-30|03:30 PM|Chattanooga @ Memphis|ESPN+
+|Sat 08-30|05:00 PM|Illinois St @ Oklahoma|ESPN+, SECN+
+|Sat 08-30|05:00 PM|UAlbany @ Iowa|FS1
+|Sat 08-30|05:00 PM|Weber St @ James Madison|ESPN+
+|Sat 08-30|05:00 PM|Coastal Car @ Virginia|ACC Network
+|Sat 08-30|06:00 PM|Long Island @ Florida|ESPN+, SECN+
+|Sat 08-30|06:00 PM|UTSA @ Texas A&M|ESPN
+|Sat 08-30|06:00 PM|North Alabama @ Western KY|ESPN+
+|Sat 08-30|06:00 PM|North Dakota @ Kansas St|ESPN+
+|Sat 08-30|06:00 PM|Charleston So @ Vanderbilt|ESPN+, SECN+
+|Sat 08-30|06:00 PM|Austin Peay @ MTSU|ESPN+
+|Sat 08-30|06:00 PM|Morgan St @ South Alabama|ESPN+
+|Sat 08-30|06:00 PM|SE Missouri @ Arkansas St|ESPN+
+|Sat 08-30|06:00 PM|Nicholls @ Troy|ESPN+
+|Sat 08-30|06:30 PM|Missouri St @ USC|BTN
+|Sat 08-30|06:30 PM|New Mexico @ Michigan|NBC, Peacock
+|Sat 08-30|06:30 PM|LSU @ Clemson|ABC
+|Sat 08-30|06:30 PM|UTEP @ Utah State|CBSSN
+|Sat 08-30|06:30 PM|AR-Pine Bluff @ Texas Tech|ESPN+
+|Sat 08-30|06:30 PM|SE Louisiana @ Louisiana Tech|ESPN+
+|Sat 08-30|06:45 PM|Georgia St @ Ole Miss|SEC Network
+|Sat 08-30|07:00 PM|Portland St @ BYU|ESPN+
+|Sat 08-30|07:00 PM|E Michigan @ Texas St|ESPN+
+|Sat 08-30|07:00 PM|Rice @ Louisiana|ESPN+
+|Sat 08-30|07:00 PM|Lamar @ North Texas|ESPN+
+|Sat 08-30|07:00 PM|Abilene Chrstn @ Tulsa|ESPN+
+|Sat 08-30|08:00 PM|E Texas A&M @ SMU|ACC Network
+|Sat 08-30|08:00 PM|Bryant @ New Mexico St|ESPN+
+|Sat 08-30|08:30 PM|GA Southern @ Fresno St|FS1
+|Sat 08-30|09:00 PM|N Arizona @ Arizona St|ESPN+
+|Sat 08-30|09:00 PM|Idaho @ Washington St|The CW Network
+|Sat 08-30|09:30 PM|Hawaii @ Arizona|TNT, HBO Max
+|Sat 08-30|09:30 PM|California @ Oregon St|ESPN
+|Sat 08-30|10:00 PM|Utah @ UCLA|FOX
+|Sat 08-30|10:00 PM|Colorado St @ Washington|BTN
+|===
+
+
+
+<<<
+
+==== Sun 08-31
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Sun 08-31|02:00 PM|Virginia Tech @ South Carolina|ESPN
+|Sun 08-31|06:30 PM|Notre Dame @ Miami|ABC
+|===
+
+
+
+<<<
+
+==== Mon 09-01
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Mon 09-01|07:00 PM|TCU @ North Carolina|ESPN
+|===
+
+
+
+<<<
+
+==== Fri 09-05
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Fri 09-05|06:00 PM|James Madison @ Louisville|ESPN2
+|Fri 09-05|06:30 PM|W Illinois @ Northwestern|BTN
+|Fri 09-05|06:30 PM|N Illinois @ Maryland|BTN
+|Fri 09-05|08:00 PM|E Washington @ Boise St|FS1
+|Fri 09-05||Sam Houston @ Hawaii|
+|Fri 09-05||N Colorado @ Colorado St|
+|Fri 09-05||Sacramento St @ Nevada|
+|Fri 09-05||Idaho St @ New Mexico|
+|Fri 09-05||Northern Iowa @ Wyoming|
+|===
+
+
+
+<<<
+
+==== Sat 09-06
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Sat 09-06|11:00 AM|Kennesaw St @ Indiana|FS1
+|Sat 09-06|11:00 AM|San Jos St @ Texas|
+|Sat 09-06|11:00 AM|Illinois @ Duke|
+|Sat 09-06|11:00 AM|FIU @ Penn State|BTN
+|Sat 09-06|11:00 AM|Baylor @ SMU|The CW Network
+|Sat 09-06|11:00 AM|Virginia @ NC State|ESPN2
+|Sat 09-06|11:00 AM|Iowa @ Iowa State|FOX
+|Sat 09-06|11:00 AM|C Michigan @ Pitt|ESPNU
+|Sat 09-06|11:00 AM|N'Western St @ Minnesota|BTN
+|Sat 09-06|11:00 AM|UConn @ Syracuse|ESPN+, ACC Extra
+|Sat 09-06|11:00 AM|E Texas A&M @ Florida St|ACC Network
+|Sat 09-06|11:00 AM|Liberty @ Jax State|CBSSN
+|Sat 09-06|11:00 AM|Kent State @ Texas Tech|TNT, HBO Max
+|Sat 09-06|11:45 AM|Utah State @ Texas A&M|SEC Network
+|Sat 09-06|01:00 PM|Howard @ Temple|ESPN+
+|Sat 09-06|01:00 PM|W Carolina @ Wake Forest|ESPN+, ACC Extra
+|Sat 09-06|02:30 PM|Austin Peay @ Georgia|ESPN+, SECN+
+|Sat 09-06|02:30 PM|Ole Miss @ Kentucky|ABC
+|Sat 09-06|02:30 PM|Kansas @ Missouri|ESPN2
+|Sat 09-06|02:30 PM|ETSU @ Tennessee|ESPN+, SECN+
+|Sat 09-06|02:30 PM|Grambling @ Ohio State|BTN
+|Sat 09-06|02:30 PM|Miami OH @ Rutgers|Peacock
+|Sat 09-06|02:30 PM|Oklahoma St @ Oregon|CBS, Paramount+
+|Sat 09-06|02:30 PM|Fresno St @ Oregon St|The CW Network
+|Sat 09-06|02:30 PM|Troy @ Clemson|ACC Network
+|Sat 09-06|02:30 PM|Bowling Green @ Cincinnati|ESPN+
+|Sat 09-06|02:30 PM|Delaware @ Colorado|FOX
+|Sat 09-06|02:30 PM|Gardner-Webb @ Georgia Tech|ESPN+, ACC Extra
+|Sat 09-06|02:30 PM|Texas St @ UTSA|ESPN+
+|Sat 09-06|02:30 PM|UAB @ Navy|CBSSN
+|Sat 09-06|02:30 PM|Lindenwood @ App State|ESPN+
+|Sat 09-06|02:30 PM|North Texas @ W Michigan|ESPN+
+|Sat 09-06|02:30 PM|St Francis PA @ Buffalo|ESPN+
+|Sat 09-06|02:30 PM|Bryant @ UMass|ESPN+
+|Sat 09-06|03:00 PM|MTSU @ Wisconsin|FS1
+|Sat 09-06|03:00 PM|West Virginia @ Ohio|ESPNU
+|Sat 09-06|03:15 PM|South Florida @ Florida|SEC Network
+|Sat 09-06|04:00 PM|Jackson St @ Southern Miss|ESPN+
+|Sat 09-06|04:00 PM|Arkansas St @ Arkansas|ESPN+, SECN+
+|Sat 09-06|05:00 PM|Cal Poly @ Utah|ESPN+
+|Sat 09-06|05:00 PM|Missouri St @ Marshall|ESPN+
+|Sat 09-06|05:00 PM|NC Central @ Old Dominion|ESPN+
+|Sat 09-06|05:00 PM|Campbell @ East Carolina|ESPN+
+|Sat 09-06|05:00 PM|Texas Southern @ California|ESPN+, ACC Extra
+|Sat 09-06|05:00 PM|Florida A&M @ FAU|ESPN+
+|Sat 09-06|06:00 PM|North Carolina @ Charlotte|ESPN+
+|Sat 09-06|06:00 PM|SC State @ South Carolina|ESPN+, SECN+
+|Sat 09-06|06:00 PM|Bethune @ Miami|ESPN+, ACC Extra
+|Sat 09-06|06:00 PM|Army @ Kansas St|ESPN
+|Sat 09-06|06:00 PM|Houston @ Rice|ESPN+
+|Sat 09-06|06:00 PM|NC A&T @ UCF|ESPN+
+|Sat 09-06|06:00 PM|Memphis @ Georgia St|ESPN+
+|Sat 09-06|06:00 PM|Tulane @ South Alabama|ESPN+
+|Sat 09-06|06:00 PM|Western KY @ Toledo|ESPN+
+|Sat 09-06|06:00 PM|Long Island @ E Michigan|ESPN+
+|Sat 09-06|06:30 PM|Ball State @ Auburn|ESPNU
+|Sat 09-06|06:30 PM|Louisiana Tech @ LSU|ESPN+, SECN+
+|Sat 09-06|06:30 PM|Michigan @ Oklahoma|ABC
+|Sat 09-06|06:30 PM|Arizona St @ Mississippi St|ESPN2
+|Sat 09-06|06:30 PM|Vanderbilt @ Virginia Tech|ACC Network
+|Sat 09-06|06:30 PM|Akron @ Nebraska|BTN
+|Sat 09-06|06:30 PM|GA Southern @ USC|FS1
+|Sat 09-06|06:30 PM|Boston College @ Michigan St|NBC, Peacock
+|Sat 09-06|06:30 PM|Charleston So @ Coastal Car|ESPN+
+|Sat 09-06|06:30 PM|S Illinois @ Purdue|BTN
+|Sat 09-06|06:45 PM|UL Monroe @ Alabama|SEC Network
+|Sat 09-06|07:00 PM|UCLA @ UNLV|CBSSN
+|Sat 09-06|07:00 PM|McNeese @ Louisiana|ESPN+
+|Sat 09-06|08:00 PM|Tulsa @ New Mexico St|ESPN+
+|Sat 09-06|08:00 PM|UT Martin @ UTEP|ESPN+
+|Sat 09-06|09:00 PM|Weber St @ Arizona|ESPN+
+|Sat 09-06|09:15 PM|San Diego St @ Washington St|The CW Network
+|Sat 09-06|09:15 PM|Stanford @ BYU|ESPN
+|Sat 09-06|10:00 PM|UC Davis @ Washington|BTN
+|===
+
+
+
+<<<
+
+==== Thu 09-11
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Thu 09-11|06:30 PM|NC State @ Wake Forest|ESPN
+|Thu 09-11||New Mexico @ UCLA|
+|Thu 09-11||Indiana St @ Indiana|BTN
+|===
+
+
+
+<<<
+
+==== Fri 09-12
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Fri 09-12|06:00 PM|Colgate @ Syracuse|ACC Network
+|Fri 09-12|06:30 PM|Colorado @ Houston|ESPN
+|Fri 09-12|08:00 PM|Kansas St @ Arizona|FOX
+|Fri 09-12||MTSU @ Nevada|
+|Fri 09-12||Vanderbilt @ South Carolina|
+|Fri 09-12||Arkansas @ Ole Miss|
+|Fri 09-12||Portland St @ Hawaii|
+|Fri 09-12||Southern @ Fresno St|
+|===
+
+
+
+<<<
+
+==== Sat 09-13
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Sat 09-13|11:00 AM|Wisconsin @ Alabama|
+|Sat 09-13|11:00 AM|Oklahoma @ Temple|ESPN2
+|Sat 09-13|11:00 AM|Oregon @ Northwestern|FOX
+|Sat 09-13|11:00 AM|C Michigan @ Michigan|BTN
+|Sat 09-13|11:00 AM|Clemson @ Georgia Tech|
+|Sat 09-13|11:00 AM|Hou Christian @ Nebraska|FS1
+|Sat 09-13|11:00 AM|Towson @ Maryland|Peacock
+|Sat 09-13|11:00 AM|William & Mary @ Virginia|ACC Network
+|Sat 09-13|11:00 AM|Samford @ Baylor|ESPN+
+|Sat 09-13|11:00 AM|Memphis @ Troy|ESPNU
+|Sat 09-13|11:00 AM|Buffalo @ Kent State|CBSSN
+|Sat 09-13|11:45 AM|South Alabama @ Auburn|SEC Network
+|Sat 09-13|01:00 PM|New Hampshire @ Ball State|ESPN+
+|Sat 09-13|02:00 PM|UConn @ Delaware|ESPN+
+|Sat 09-13|02:30 PM|USC @ Purdue|CBS, Paramount+
+|Sat 09-13|02:30 PM|Georgia @ Tennessee|ABC
+|Sat 09-13|02:30 PM|Norfolk St @ Rutgers|BTN
+|Sat 09-13|02:30 PM|SMU @ Missouri St|CBSSN
+|Sat 09-13|02:30 PM|Oregon St @ Texas Tech|FOX
+|Sat 09-13|02:30 PM|Washington St @ North Texas|ESPNU
+|Sat 09-13|02:30 PM|Youngstown St @ Michigan St|BTN
+|Sat 09-13|02:30 PM|Villanova @ Penn State|FS1
+|Sat 09-13|02:30 PM|Pitt @ West Virginia|ESPN
+|Sat 09-13|02:30 PM|N'Western St @ Cincinnati|ESPN+
+|Sat 09-13|02:30 PM|Morgan St @ Toledo|ESPN+
+|Sat 09-13|02:30 PM|Richmond @ North Carolina|ACC Network
+|Sat 09-13|02:30 PM|Incarnate Word @ UTSA|ESPN+
+|Sat 09-13|03:00 PM|Louisiana @ Missouri|ESPN+, SECN+
+|Sat 09-13|03:00 PM|Iowa State @ Arkansas St|ESPN2
+|Sat 09-13|03:15 PM|UTEP @ Texas|SEC Network
+|Sat 09-13|03:30 PM|South Florida @ Miami|The CW Network
+|Sat 09-13|04:00 PM|Liberty @ Bowling Green|ESPN+
+|Sat 09-13|05:00 PM|Alcorn St @ Mississippi St|ESPN+, SECN+
+|Sat 09-13|05:00 PM|Merrimack @ Kennesaw St|ESPN+
+|Sat 09-13|05:00 PM|FAU @ FIU|ESPN+
+|Sat 09-13|05:00 PM|E Kentucky @ Marshall|ESPN+
+|Sat 09-13|05:00 PM|Monmouth @ Charlotte|ESPN+
+|Sat 09-13|06:00 PM|W Michigan @ Illinois|FS1
+|Sat 09-13|06:00 PM|Ohio @ Ohio State|Peacock
+|Sat 09-13|06:00 PM|Old Dominion @ Virginia Tech|ACC Network
+|Sat 09-13|06:00 PM|Jax State @ GA Southern|ESPN+
+|Sat 09-13|06:00 PM|Murray St @ Georgia St|ESPN+
+|Sat 09-13|06:00 PM|App State @ Southern Miss|ESPN+
+|Sat 09-13|06:00 PM|Prairie View @ Rice|ESPN+
+|Sat 09-13|06:30 PM|E Michigan @ Kentucky|ESPNU
+|Sat 09-13|06:30 PM|Florida @ LSU|ABC
+|Sat 09-13|06:30 PM|Texas A&M @ Notre Dame|NBC, Peacock
+|Sat 09-13|06:30 PM|New Mexico St @ Louisiana Tech|ESPN+
+|Sat 09-13|06:30 PM|East Carolina @ Coastal Car|ESPN+
+|Sat 09-13|06:30 PM|UMass @ Iowa|BTN
+|Sat 09-13|07:00 PM|Duke @ Tulane|ESPN2
+|Sat 09-13|07:00 PM|Abilene Chrstn @ TCU|ESPN+
+|Sat 09-13|07:00 PM|Utah @ Wyoming|CBSSN
+|Sat 09-13|07:00 PM|Navy @ Tulsa|ESPN+
+|Sat 09-13|07:30 PM|Akron @ UAB|ESPN+
+|Sat 09-13|08:45 PM|Air Force @ Utah State|FS1
+|Sat 09-13|09:30 PM|Minnesota @ California|ESPN
+|Sat 09-13|09:30 PM|Boston College @ Stanford|ACC Network
+|Sat 09-13|09:30 PM|Texas St @ Arizona St|TNT, HBO Max
+|===
+
+
+
+<<<
+
+==== Thu 09-18
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Thu 09-18|06:30 PM|Rice @ Charlotte|ESPN
+|===
+
+
+
+<<<
+
+==== Fri 09-19
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Fri 09-19|06:00 PM|Tulsa @ Oklahoma St|ESPN
+|Fri 09-19|07:00 PM|Iowa @ Rutgers|FOX
+|Fri 09-19||Arkansas @ Memphis|
+|Fri 09-19||Florida @ Miami|
+|Fri 09-19||Tulane @ Ole Miss|
+|Fri 09-19||South Carolina @ Missouri|
+|Fri 09-19||Oregon St @ Oregon|
+|Fri 09-19||Auburn @ Oklahoma|
+|Fri 09-19||Illinois @ Indiana|
+|Fri 09-19||Maryland @ Wisconsin|
+|Fri 09-19||Michigan St @ USC|
+|Fri 09-19||Temple @ Georgia Tech|
+|Fri 09-19||Syracuse @ Clemson|
+|Fri 09-19||Stanford @ Virginia|
+|Fri 09-19||Kent State @ Florida St|
+|Fri 09-19||NC State @ Duke|
+|Fri 09-19||North Carolina @ UCF|
+|Fri 09-19||Arizona St @ Baylor|
+|Fri 09-19||SMU @ TCU|
+|Fri 09-19||Bowling Green @ Louisville|
+|Fri 09-19||Wofford @ Virginia Tech|
+|Fri 09-19||BYU @ East Carolina|
+|Fri 09-19||Wyoming @ Colorado|
+|Fri 09-19||West Virginia @ Kansas|
+|Fri 09-19||Texas Tech @ Utah|
+|Fri 09-19||Southern Miss @ Louisiana Tech|ESPN+
+|Fri 09-19||James Madison @ Liberty|ESPN+
+|Fri 09-19||UL Monroe @ UTEP|ESPN+
+|Fri 09-19||UTSA @ Colorado St|
+|Fri 09-19||Fresno St @ Hawaii|
+|Fri 09-19||Marshall @ MTSU|ESPN+
+|Fri 09-19||McNeese @ Utah State|
+|Fri 09-19||Louisiana @ E Michigan|
+|Fri 09-19||UNLV @ Miami OH|
+|Fri 09-19||Coastal Car @ South Alabama|
+|Fri 09-19||Troy @ Buffalo|
+|Fri 09-19||Toledo @ W Michigan|
+|Fri 09-19||Duquesne @ Akron|ESPN+
+|===
+
+
+
+<<<
+
+==== Sat 09-20
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Sat 09-20|11:00 AM|North Texas @ Army|CBSSN
+|Sat 09-20|11:00 AM|SC State @ South Florida|ESPN+
+|Sat 09-20|11:45 AM|UAB @ Tennessee|SEC Network
+|Sat 09-20|12:00 PM|Wagner @ C Michigan|ESPN+
+|Sat 09-20|02:30 PM|Ball State @ UConn|CBSSN
+|Sat 09-20|02:30 PM|Michigan @ Nebraska|CBS, Paramount+
+|Sat 09-20|02:30 PM|Gardner-Webb @ Ohio|ESPN+
+|Sat 09-20|02:30 PM|Purdue @ Notre Dame|NBC, Peacock
+|Sat 09-20|03:15 PM|N Illinois @ Mississippi St|SEC Network
+|Sat 09-20|04:00 PM|Idaho @ San Jos St|
+|Sat 09-20|05:00 PM|Delaware @ FIU|ESPN+
+|Sat 09-20|05:00 PM|Arkansas St @ Kennesaw St|ESPN+
+|Sat 09-20|06:00 PM|Murray St @ Jax State|ESPN+
+|Sat 09-20|06:00 PM|Nevada @ Western KY|ESPN+
+|Sat 09-20|06:00 PM|Boise St @ Air Force|CBSSN
+|Sat 09-20|06:00 PM|Maine @ GA Southern|ESPN+
+|Sat 09-20|06:00 PM|UT Martin @ Missouri St|ESPN+
+|Sat 09-20|06:30 PM|Georgia St @ Vanderbilt|
+|Sat 09-20|06:30 PM|Washington @ Washington St|CBS
+|Sat 09-20|06:45 PM|SE Louisiana @ LSU|SEC Network
+|Sat 09-20|07:00 PM|Sam Houston @ Texas|ESPN+, SECN+
+|Sat 09-20|07:00 PM|Nicholls @ Texas St|ESPN+
+|Sat 09-20|09:30 PM|California @ San Diego St|CBSSN
+|===
+
+
+
+<<<
+
+==== Thu 09-25
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Thu 09-25|06:30 PM|Army @ East Carolina|ESPN
+|===
+
+
+
+<<<
+
+==== Fri 09-26
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Fri 09-26|06:00 PM|Florida St @ Virginia|ESPN
+|Fri 09-26|08:00 PM|TCU @ Arizona St|FOX
+|Fri 09-26|09:30 PM|Houston @ Oregon St|ESPN
+|Fri 09-26||LSU @ Ole Miss|
+|Fri 09-26||UMass @ Missouri|
+|Fri 09-26||Tennessee @ Mississippi St|
+|Fri 09-26||Kentucky @ South Carolina|
+|Fri 09-26||Rutgers @ Minnesota|
+|Fri 09-26||Auburn @ Texas A&M|
+|Fri 09-26||USC @ Illinois|
+|Fri 09-26||Ohio State @ Washington|
+|Fri 09-26||UCLA @ Northwestern|
+|Fri 09-26||Indiana @ Iowa|
+|Fri 09-26||Duke @ Syracuse|
+|Fri 09-26||California @ Boston College|
+|Fri 09-26||Virginia Tech @ NC State|
+|Fri 09-26||Georgia Tech @ Wake Forest|
+|Fri 09-26||San Jos St @ Stanford|
+|Fri 09-26||Louisville @ Pitt|
+|Fri 09-26||Cincinnati @ Kansas|
+|Fri 09-26||Arizona @ Iowa State|
+|Fri 09-26||UCF @ Kansas St|
+|Fri 09-26||Baylor @ Oklahoma St|
+|Fri 09-26||Utah @ West Virginia|
+|Fri 09-26||UConn @ Buffalo|
+|Fri 09-26||Jax State @ Southern Miss|
+|Fri 09-26||MTSU @ Kennesaw St|
+|Fri 09-26||Liberty @ Old Dominion|
+|Fri 09-26||Western KY @ Missouri St|
+|Fri 09-26||New Mexico St @ New Mexico|
+|Fri 09-26||Hawaii @ Air Force|
+|Fri 09-26||Louisiana Tech @ UTEP|
+|Fri 09-26||App State @ Boise St|
+|Fri 09-26||San Diego St @ N Illinois|
+|Fri 09-26||GA Southern @ James Madison|
+|Fri 09-26||Arkansas St @ UL Monroe|
+|Fri 09-26||Marshall @ Louisiana|
+|Fri 09-26||South Alabama @ North Texas|
+|Fri 09-26||Memphis @ FAU|
+|Fri 09-26||Tulane @ Tulsa|
+|Fri 09-26||Akron @ Toledo|
+|Fri 09-26||Bowling Green @ Ohio|
+|Fri 09-26||E Michigan @ C Michigan|
+|===
+
+
+
+<<<
+
+==== Sat 09-27
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Sat 09-27|11:00 AM|Notre Dame @ Arkansas|ABC
+|Sat 09-27|11:45 AM|Utah State @ Vanderbilt|SEC Network
+|Sat 09-27|02:30 PM|Rice @ Navy|CBSSN
+|Sat 09-27|02:30 PM|Lindenwood @ Miami OH|ESPN+
+|Sat 09-27|05:30 PM|Rhode Island @ W Michigan|ESPN+
+|Sat 09-27|06:30 PM|Alabama @ Georgia|ABC
+|Sat 09-27|06:30 PM|Washington St @ Colorado St|CBSSN
+|Sat 09-27|06:30 PM|Oregon @ Penn State|NBC, Peacock
+|Sat 09-27|09:15 PM|BYU @ Colorado|ESPN
+|===
+
+
+
+<<<
+
+==== Thu 10-02
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Thu 10-02|08:00 PM|Sam Houston @ New Mexico St|CBSSN
+|===
+
+
+
+<<<
+
+==== Fri 10-03
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Fri 10-03|06:00 PM|Charlotte @ South Florida|ESPN2
+|Fri 10-03|06:00 PM|Western KY @ Delaware|CBSSN
+|Fri 10-03|09:00 PM|New Mexico @ San Jos St|FS1
+|Fri 10-03|09:30 PM|West Virginia @ BYU|ESPN
+|Fri 10-03|09:30 PM|Colorado St @ San Diego St|CBSSN
+|Fri 10-03||Vanderbilt @ Alabama|
+|Fri 10-03||Texas @ Florida|
+|Fri 10-03||Penn State @ UCLA|
+|Fri 10-03||Mississippi St @ Texas A&M|
+|Fri 10-03||Wisconsin @ Michigan|
+|Fri 10-03||UL Monroe @ Northwestern|
+|Fri 10-03||Washington @ Maryland|
+|Fri 10-03||Minnesota @ Ohio State|
+|Fri 10-03||Illinois @ Purdue|
+|Fri 10-03||Oregon St @ App State|
+|Fri 10-03||Boston College @ Pitt|
+|Fri 10-03||Michigan St @ Nebraska|
+|Fri 10-03||Duke @ California|
+|Fri 10-03||Clemson @ North Carolina|
+|Fri 10-03||Miami @ Florida St|
+|Fri 10-03||Virginia @ Louisville|
+|Fri 10-03||Syracuse @ SMU|
+|Fri 10-03||Wake Forest @ Virginia Tech|
+|Fri 10-03||Kansas St @ Baylor|
+|Fri 10-03||Oklahoma St @ Arizona|
+|Fri 10-03||Campbell @ NC State|
+|Fri 10-03||Colorado @ TCU|
+|Fri 10-03||Iowa State @ Cincinnati|
+|Fri 10-03||Texas Tech @ Houston|
+|Fri 10-03||Kansas @ UCF|
+|Fri 10-03||James Madison @ Georgia St|
+|Fri 10-03||Coastal Car @ Old Dominion|
+|Fri 10-03||South Alabama @ Troy|
+|Fri 10-03||Army @ UAB|
+|Fri 10-03||FAU @ Rice|
+|Fri 10-03||Tulsa @ Memphis|
+|Fri 10-03||UTSA @ Temple|
+|Fri 10-03||W Michigan @ UMass|
+|Fri 10-03||E Michigan @ Buffalo|
+|Fri 10-03||Miami OH @ N Illinois|
+|Fri 10-03||C Michigan @ Akron|
+|===
+
+
+
+<<<
+
+==== Sat 10-04
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Sat 10-04|11:00 AM|Kentucky @ Georgia|
+|Sat 10-04|11:00 AM|Air Force @ Navy|CBS
+|Sat 10-04|11:00 AM|Ohio @ Ball State|CBSSN
+|Sat 10-04|02:30 PM|FIU @ UConn|CBSSN
+|Sat 10-04|02:30 PM|Boise St @ Notre Dame|NBC, Peacock
+|Sat 10-04|03:00 PM|Kent State @ Oklahoma|SEC Network
+|Sat 10-04|06:00 PM|UNLV @ Wyoming|CBSSN
+|Sat 10-04|06:00 PM|Texas St @ Arkansas St|
+|Sat 10-04|09:30 PM|Nevada @ Fresno St|CBSSN
+|===
+
+
+
+<<<
+
+==== Wed 10-08
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Wed 10-08|06:30 PM|Missouri St @ MTSU|ESPN2
+|Wed 10-08|07:00 PM|Liberty @ UTEP|CBSSN
+|Wed 10-08||Southern Miss @ GA Southern|
+|Wed 10-08||East Carolina @ Tulane|
+|===
+
+
+
+<<<
+
+==== Thu 10-09
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Thu 10-09|06:00 PM|Louisiana Tech @ Kennesaw St|ESPNU
+|Thu 10-09|07:00 PM|Jax State @ Sam Houston|CBSSN
+|===
+
+
+
+<<<
+
+==== Fri 10-10
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Fri 10-10|06:30 PM|South Florida @ North Texas|ESPN2
+|Fri 10-10|08:00 PM|Rutgers @ Washington|FS1
+|Fri 10-10|08:00 PM|Fresno St @ Colorado St|CBSSN
+|Fri 10-10||Arkansas @ Tennessee|
+|Fri 10-10||South Carolina @ LSU|
+|Fri 10-10||Purdue @ Minnesota|
+|Fri 10-10||Florida @ Texas A&M|
+|Fri 10-10||Georgia @ Auburn|
+|Fri 10-10||Ohio State @ Illinois|
+|Fri 10-10||Northwestern @ Penn State|
+|Fri 10-10||Nebraska @ Maryland|
+|Fri 10-10||Michigan @ USC|
+|Fri 10-10||Iowa @ Wisconsin|
+|Fri 10-10||Indiana @ Oregon|
+|Fri 10-10||Clemson @ Boston College|
+|Fri 10-10||Pitt @ Florida St|
+|Fri 10-10||UCF @ Cincinnati|
+|Fri 10-10||Stanford @ SMU|
+|Fri 10-10||Virginia Tech @ Georgia Tech|
+|Fri 10-10||BYU @ Arizona|
+|Fri 10-10||TCU @ Kansas St|
+|Fri 10-10||Iowa State @ Colorado|
+|Fri 10-10||Houston @ Oklahoma St|
+|Fri 10-10||Kansas @ Texas Tech|
+|Fri 10-10||Arizona St @ Utah|
+|Fri 10-10||New Mexico @ Boise St|
+|Fri 10-10||UL Monroe @ Coastal Car|
+|Fri 10-10||App State @ Georgia St|
+|Fri 10-10||Louisiana @ James Madison|
+|Fri 10-10||Utah State @ Hawaii|
+|Fri 10-10||Old Dominion @ Marshall|
+|Fri 10-10||Troy @ Texas St|
+|Fri 10-10||UAB @ FAU|
+|Fri 10-10||Navy @ Temple|
+|Fri 10-10||Rice @ UTSA|
+|Fri 10-10||Miami OH @ Akron|
+|Fri 10-10||Ball State @ W Michigan|
+|Fri 10-10||Toledo @ Bowling Green|
+|Fri 10-10||N Illinois @ E Michigan|
+|Fri 10-10||UMass @ Kent State|
+|===
+
+
+
+<<<
+
+==== Sat 10-11
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Sat 10-11|11:00 AM|UCLA @ Michigan St|
+|Sat 10-11|11:00 AM|Alabama @ Missouri|
+|Sat 10-11|11:00 AM|Charlotte @ Army|CBSSN
+|Sat 10-11|11:45 AM|Washington St @ Ole Miss|
+|Sat 10-11|02:30 PM|Oklahoma @ Texas|
+|Sat 10-11|02:30 PM|NC State @ Notre Dame|Peacock
+|Sat 10-11|02:30 PM|Wake Forest @ Oregon St|The CW Network
+|Sat 10-11|02:30 PM|Air Force @ UNLV|CBSSN
+|Sat 10-11|06:00 PM|San Jos St @ Wyoming|CBSSN
+|Sat 10-11|09:30 PM|San Diego St @ Nevada|CBSSN
+|===
+
+
+
+<<<
+
+==== Tue 10-14
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Tue 10-14|06:00 PM|New Mexico St @ Liberty|CBSSN
+|Tue 10-14|06:30 PM|Arkansas St @ South Alabama|ESPN2
+|Tue 10-14|07:00 PM|FIU @ Western KY|ESPNU
+|===
+
+
+
+<<<
+
+==== Wed 10-15
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Wed 10-15|06:00 PM|Delaware @ Jax State|ESPN2
+|Wed 10-15|06:00 PM|UTEP @ Sam Houston|CBSSN
+|===
+
+
+
+<<<
+
+==== Thu 10-16
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Thu 10-16|06:30 PM|Tulsa @ East Carolina|ESPN
+|===
+
+
+
+<<<
+
+==== Fri 10-17
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Fri 10-17|06:00 PM|Louisville @ Miami|
+|Fri 10-17|07:00 PM|Nebraska @ Minnesota|FOX
+|Fri 10-17|08:00 PM|San Jos St @ Utah State|CBSSN
+|Fri 10-17|09:30 PM|North Carolina @ California|ESPN
+|Fri 10-17||Tennessee @ Alabama|
+|Fri 10-17||Texas A&M @ Arkansas|
+|Fri 10-17||Missouri @ Auburn|
+|Fri 10-17||Mississippi St @ Florida|
+|Fri 10-17||Oklahoma @ South Carolina|
+|Fri 10-17||Ole Miss @ Georgia|
+|Fri 10-17||Texas @ Kentucky|
+|Fri 10-17||LSU @ Vanderbilt|
+|Fri 10-17||Purdue @ Northwestern|
+|Fri 10-17||Penn State @ Iowa|
+|Fri 10-17||Washington @ Michigan|
+|Fri 10-17||Oregon @ Rutgers|
+|Fri 10-17||Maryland @ UCLA|
+|Fri 10-17||Ohio State @ Wisconsin|
+|Fri 10-17||Michigan St @ Indiana|
+|Fri 10-17||SMU @ Clemson|
+|Fri 10-17||Georgia Tech @ Duke|
+|Fri 10-17||Pitt @ Syracuse|
+|Fri 10-17||Utah @ BYU|
+|Fri 10-17||UConn @ Boston College|
+|Fri 10-17||Cincinnati @ Oklahoma St|
+|Fri 10-17||Texas Tech @ Arizona St|
+|Fri 10-17||West Virginia @ UCF|
+|Fri 10-17||Baylor @ TCU|
+|Fri 10-17||UNLV @ Boise St|
+|Fri 10-17||Arizona @ Houston|
+|Fri 10-17||Hawaii @ Colorado St|
+|Fri 10-17||Nevada @ New Mexico|
+|Fri 10-17||Georgia St @ GA Southern|
+|Fri 10-17||Coastal Car @ App State|
+|Fri 10-17||Old Dominion @ James Madison|
+|Fri 10-17||Texas St @ Marshall|
+|Fri 10-17||Memphis @ UAB|
+|Fri 10-17||Troy @ UL Monroe|
+|Fri 10-17||Southern Miss @ Louisiana|
+|Fri 10-17||FAU @ South Florida|
+|Fri 10-17||Army @ Tulane|
+|Fri 10-17||Temple @ Charlotte|
+|Fri 10-17||UTSA @ North Texas|
+|Fri 10-17||Akron @ Ball State|
+|Fri 10-17||C Michigan @ Bowling Green|
+|Fri 10-17||E Michigan @ Miami OH|
+|Fri 10-17||Buffalo @ UMass|
+|Fri 10-17||Kent State @ Toledo|
+|Fri 10-17||N Illinois @ Ohio|
+|===
+
+
+
+<<<
+
+==== Sat 10-18
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Sat 10-18|02:30 PM|Wyoming @ Air Force|CBSSN
+|Sat 10-18|05:30 PM|Washington St @ Virginia|The CW Network
+|Sat 10-18|06:30 PM|USC @ Notre Dame|NBC, Peacock
+|Sat 10-18|09:00 PM|Lafayette @ Oregon St|The CW Network
+|Sat 10-18|09:30 PM|Florida St @ Stanford|ESPN
+|===
+
+
+
+<<<
+
+==== Tue 10-21
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Tue 10-21|06:00 PM|Kennesaw St @ FIU|ESPNU
+|Tue 10-21|06:30 PM|Western KY @ Louisiana Tech|CBSSN
+|===
+
+
+
+<<<
+
+==== Wed 10-22
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Wed 10-22|06:30 PM|MTSU @ Delaware|ESPN2
+|Wed 10-22|08:00 PM|Missouri St @ New Mexico St|CBSSN
+|===
+
+
+
+<<<
+
+==== Thu 10-23
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Thu 10-23|06:30 PM|South Alabama @ Georgia St|ESPN2
+|===
+
+
+
+<<<
+
+==== Fri 10-24
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Fri 10-24|06:00 PM|North Texas @ Charlotte|ESPN2
+|Fri 10-24|06:30 PM|California @ Virginia Tech|ESPN
+|Fri 10-24|09:00 PM|Boise St @ Nevada|CBSSN
+|Fri 10-24||Auburn @ Arkansas|
+|Fri 10-24||Texas @ Mississippi St|
+|Fri 10-24||Tennessee @ Kentucky|
+|Fri 10-24||Alabama @ South Carolina|
+|Fri 10-24||Texas A&M @ LSU|
+|Fri 10-24||Ole Miss @ Oklahoma|
+|Fri 10-24||Missouri @ Vanderbilt|
+|Fri 10-24||Illinois @ Washington|
+|Fri 10-24||Michigan @ Michigan St|
+|Fri 10-24||Minnesota @ Iowa|
+|Fri 10-24||Northwestern @ Nebraska|
+|Fri 10-24||Rutgers @ Purdue|
+|Fri 10-24||Wisconsin @ Oregon|
+|Fri 10-24||UCLA @ Indiana|
+|Fri 10-24||SMU @ Wake Forest|
+|Fri 10-24||Boston College @ Louisville|
+|Fri 10-24||Syracuse @ Georgia Tech|
+|Fri 10-24||Stanford @ Miami|
+|Fri 10-24||Virginia @ North Carolina|
+|Fri 10-24||NC State @ Pitt|
+|Fri 10-24||Houston @ Arizona St|
+|Fri 10-24||Baylor @ Cincinnati|
+|Fri 10-24||Oklahoma St @ Texas Tech|
+|Fri 10-24||Kansas St @ Kansas|
+|Fri 10-24||BYU @ Iowa State|
+|Fri 10-24||Colorado @ Utah|
+|Fri 10-24||TCU @ West Virginia|
+|Fri 10-24||San Diego St @ Fresno St|
+|Fri 10-24||App State @ Old Dominion|
+|Fri 10-24||UConn @ Rice|
+|Fri 10-24||GA Southern @ Arkansas St|
+|Fri 10-24||Utah State @ New Mexico|
+|Fri 10-24||Louisiana @ Troy|
+|Fri 10-24||UL Monroe @ Southern Miss|
+|Fri 10-24||South Florida @ Memphis|
+|Fri 10-24||Akron @ Buffalo|
+|Fri 10-24||Ball State @ N Illinois|
+|Fri 10-24||UMass @ C Michigan|
+|Fri 10-24||Temple @ Tulsa|
+|Fri 10-24||Bowling Green @ Kent State|
+|Fri 10-24||W Michigan @ Miami OH|
+|Fri 10-24||Ohio @ E Michigan|
+|===
+
+
+
+<<<
+
+==== Sat 10-25
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Sat 10-25|02:30 PM|Toledo @ Washington St|The CW Network
+|Sat 10-25|02:30 PM|FAU @ Navy|CBSSN
+|Sat 10-25|06:30 PM|Colorado St @ Wyoming|CBSSN
+|===
+
+
+
+<<<
+
+==== Tue 10-28
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Tue 10-28|06:00 PM|UTEP @ Kennesaw St|ESPNU
+|Tue 10-28|06:30 PM|James Madison @ Texas St|ESPN2
+|===
+
+
+
+<<<
+
+==== Wed 10-29
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Wed 10-29|06:30 PM|Jax State @ MTSU|ESPN2
+|Wed 10-29|07:00 PM|FIU @ Missouri St|CBSSN
+|===
+
+
+
+<<<
+
+==== Thu 10-30
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Thu 10-30|06:30 PM|Marshall @ Coastal Car|
+|Thu 10-30|06:30 PM|Tulane @ UTSA|
+|===
+
+
+
+<<<
+
+==== Fri 10-31
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Fri 10-31|06:00 PM|Memphis @ Rice|ESPN2
+|Fri 10-31|06:30 PM|North Carolina @ Syracuse|ESPN
+|Fri 10-31|07:00 PM|Sam Houston @ Louisiana Tech|CBSSN
+|Fri 10-31||Mississippi St @ Arkansas|
+|Fri 10-31||Kentucky @ Auburn|
+|Fri 10-31||Oklahoma @ Tennessee|
+|Fri 10-31||Penn State @ Ohio State|
+|Fri 10-31||South Carolina @ Ole Miss|
+|Fri 10-31||Indiana @ Maryland|
+|Fri 10-31||Michigan St @ Minnesota|
+|Fri 10-31||Purdue @ Michigan|
+|Fri 10-31||Rutgers @ Illinois|
+|Fri 10-31||Virginia @ California|
+|Fri 10-31||USC @ Nebraska|
+|Fri 10-31||Duke @ Clemson|
+|Fri 10-31||Wake Forest @ Florida St|
+|Fri 10-31||Miami @ SMU|
+|Fri 10-31||Georgia Tech @ NC State|
+|Fri 10-31||Louisville @ Virginia Tech|
+|Fri 10-31||Notre Dame @ Boston College|
+|Fri 10-31||Pitt @ Stanford|
+|Fri 10-31||Arizona @ Colorado|
+|Fri 10-31||Arizona St @ Iowa State|
+|Fri 10-31||West Virginia @ Houston|
+|Fri 10-31||UCF @ Baylor|
+|Fri 10-31||Texas Tech @ Kansas St|
+|Fri 10-31||Oklahoma St @ Kansas|
+|Fri 10-31||Fresno St @ Boise St|
+|Fri 10-31||Cincinnati @ Utah|
+|Fri 10-31||Louisiana @ South Alabama|
+|Fri 10-31||East Carolina @ Temple|
+|Fri 10-31||Arkansas St @ Troy|
+|Fri 10-31||Old Dominion @ UL Monroe|
+|Fri 10-31||Navy @ North Texas|
+|Fri 10-31||C Michigan @ W Michigan|
+|Fri 10-31||Buffalo @ Bowling Green|
+|===
+
+
+
+<<<
+
+==== Sat 11-01
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Sat 11-01|11:00 AM|Vanderbilt @ Texas|
+|Sat 11-01|11:00 AM|UAB @ UConn|CBSSN
+|Sat 11-01|11:00 AM|Army @ Air Force|CBS
+|Sat 11-01|02:00 PM|New Mexico @ UNLV|
+|Sat 11-01|02:30 PM|Georgia @ Florida|ABC
+|Sat 11-01|02:30 PM|New Mexico St @ Western KY|
+|Sat 11-01|02:30 PM|Delaware @ Liberty|CBSSN
+|Sat 11-01|06:00 PM|Wyoming @ San Diego St|CBSSN
+|Sat 11-01|06:30 PM|Washington St @ Oregon St|CBS
+|Sat 11-01|09:30 PM|Hawaii @ San Jos St|CBSSN
+|===
+
+
+
+<<<
+
+==== Mon 11-03
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Mon 11-03||UMass @ Akron|
+|Mon 11-03||Miami OH @ Ohio|
+|===
+
+
+
+<<<
+
+==== Tue 11-04
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Tue 11-04||Kent State @ Ball State|
+|Tue 11-04||N Illinois @ Toledo|
+|===
+
+
+
+<<<
+
+==== Wed 11-05
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Wed 11-05||UTSA @ South Florida|
+|Wed 11-05||GA Southern @ App State|
+|===
+
+
+
+<<<
+
+==== Thu 11-06
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Thu 11-06||Houston @ UCF|FS1
+|===
+
+
+
+<<<
+
+==== Fri 11-07
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Fri 11-07|08:00 PM|Northwestern @ USC|FOX
+|Fri 11-07|08:00 PM|Tulane @ Memphis|ESPN
+|Fri 11-07||LSU @ Alabama|
+|Fri 11-07||Florida @ Kentucky|
+|Fri 11-07||Texas A&M @ Missouri|
+|Fri 11-07||Auburn @ Vanderbilt|
+|Fri 11-07||Indiana @ Penn State|
+|Fri 11-07||Maryland @ Rutgers|
+|Fri 11-07||Ohio State @ Purdue|
+|Fri 11-07||Nebraska @ UCLA|
+|Fri 11-07||Oregon @ Iowa|
+|Fri 11-07||Washington @ Wisconsin|
+|Fri 11-07||SMU @ Boston College|
+|Fri 11-07||Syracuse @ Miami|
+|Fri 11-07||California @ Louisville|
+|Fri 11-07||Florida St @ Clemson|
+|Fri 11-07||Stanford @ North Carolina|
+|Fri 11-07||Wake Forest @ Virginia|
+|Fri 11-07||BYU @ Texas Tech|
+|Fri 11-07||Iowa State @ TCU|
+|Fri 11-07||Colorado @ West Virginia|
+|Fri 11-07||Kansas @ Arizona|
+|Fri 11-07||FIU @ MTSU|
+|Fri 11-07||Air Force @ San Jos St|
+|Fri 11-07||UNLV @ Colorado St|
+|Fri 11-07||Missouri St @ Liberty|
+|Fri 11-07||Georgia St @ Coastal Car|
+|Fri 11-07||San Diego St @ Hawaii|
+|Fri 11-07||James Madison @ Marshall|
+|Fri 11-07||Southern Miss @ Arkansas St|
+|Fri 11-07||Texas St @ Louisiana|
+|Fri 11-07||UAB @ Rice|
+|Fri 11-07||Charlotte @ East Carolina|
+|Fri 11-07||Tulsa @ FAU|
+|Fri 11-07||Bowling Green @ E Michigan|
+|===
+
+
+
+<<<
+
+==== Sat 11-08
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Sat 11-08|11:00 AM|Georgia @ Mississippi St|
+|Sat 11-08|11:00 AM|Temple @ Army|CBSSN
+|Sat 11-08|12:00 PM|The Citadel @ Ole Miss|ESPN+, SECN+
+|Sat 11-08|02:00 PM|Jax State @ UTEP|
+|Sat 11-08|02:00 PM|Louisiana Tech @ Delaware|
+|Sat 11-08|02:30 PM|Duke @ UConn|CBSSN
+|Sat 11-08|03:00 PM|Kennesaw St @ New Mexico St|
+|Sat 11-08|06:30 PM|Nevada @ Utah State|CBSSN
+|Sat 11-08|06:30 PM|Navy @ Notre Dame|NBC, Peacock
+|Sat 11-08|09:00 PM|Sam Houston @ Oregon St|The CW Network
+|===
+
+
+
+<<<
+
+==== Tue 11-11
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Tue 11-11|06:30 PM|Kent State @ Akron|
+|Tue 11-11|06:30 PM|Ohio @ W Michigan|
+|Tue 11-11||Buffalo @ C Michigan|
+|Tue 11-11||Toledo @ Miami OH|
+|Tue 11-11||N Illinois @ UMass|
+|===
+
+
+
+<<<
+
+==== Thu 11-13
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Thu 11-13|06:30 PM|Troy @ Old Dominion|ESPN
+|===
+
+
+
+<<<
+
+==== Fri 11-14
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Fri 11-14|07:00 PM|Clemson @ Louisville|ESPN
+|Fri 11-14|08:00 PM|Minnesota @ Oregon|FOX
+|Fri 11-14||Oklahoma @ Alabama|
+|Fri 11-14||Texas @ Georgia|
+|Fri 11-14||Arkansas @ LSU|
+|Fri 11-14||Florida @ Ole Miss|
+|Fri 11-14||Mississippi St @ Missouri|
+|Fri 11-14||South Carolina @ Texas A&M|
+|Fri 11-14||UCLA @ Ohio State|
+|Fri 11-14||Purdue @ Washington|
+|Fri 11-14||Wisconsin @ Indiana|
+|Fri 11-14||Maryland @ Illinois|
+|Fri 11-14||Penn State @ Michigan St|
+|Fri 11-14||Michigan @ Northwestern|
+|Fri 11-14||Iowa @ USC|
+|Fri 11-14||Georgia Tech @ Boston College|
+|Fri 11-14||Virginia Tech @ Florida St|
+|Fri 11-14||Virginia @ Duke|
+|Fri 11-14||North Carolina @ Wake Forest|
+|Fri 11-14||NC State @ Miami|
+|Fri 11-14||West Virginia @ Arizona St|
+|Fri 11-14||TCU @ BYU|
+|Fri 11-14||Arizona @ Cincinnati|
+|Fri 11-14||Utah @ Baylor|
+|Fri 11-14||Kansas St @ Oklahoma St|
+|Fri 11-14||Notre Dame @ Pitt|
+|Fri 11-14||Liberty @ FIU|
+|Fri 11-14||UCF @ Texas Tech|
+|Fri 11-14||UTEP @ Missouri St|
+|Fri 11-14||MTSU @ Western KY|
+|Fri 11-14||Colorado St @ New Mexico|
+|Fri 11-14||Wyoming @ Fresno St|
+|Fri 11-14||Coastal Car @ GA Southern|
+|Fri 11-14||Marshall @ Georgia St|
+|Fri 11-14||App State @ James Madison|
+|Fri 11-14||South Alabama @ UL Monroe|
+|Fri 11-14||Texas St @ Southern Miss|
+|Fri 11-14||FAU @ Tulane|
+|Fri 11-14||North Texas @ UAB|
+|Fri 11-14||UTSA @ Charlotte|
+|Fri 11-14||E Michigan @ Ball State|
+|Fri 11-14||Memphis @ East Carolina|
+|===
+
+
+
+<<<
+
+==== Sat 11-15
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Sat 11-15|11:00 AM|Air Force @ UConn|
+|Sat 11-15|11:00 AM|South Florida @ Navy|
+|Sat 11-15|12:00 PM|Delaware @ Sam Houston|
+|Sat 11-15|12:30 PM|Tennessee Tech @ Kentucky|ESPN+, SECN+
+|Sat 11-15|01:00 PM|Kennesaw St @ Jax State|
+|Sat 11-15|02:30 PM|San Jos St @ Nevada|CBSSN
+|Sat 11-15|03:15 PM|New Mexico St @ Tennessee|SEC Network
+|Sat 11-15|06:00 PM|Utah State @ UNLV|CBSSN
+|Sat 11-15|09:00 PM|Oregon St @ Tulsa|The CW Network
+|Sat 11-15|09:00 PM|Louisiana Tech @ Washington St|The CW Network
+|Sat 11-15|09:30 PM|Boise St @ San Diego St|CBSSN
+|===
+
+
+
+<<<
+
+==== Mon 11-17
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Mon 11-17||UMass @ Ohio|
+|Mon 11-17||Akron @ Bowling Green|
+|Mon 11-17||W Michigan @ N Illinois|
+|===
+
+
+
+<<<
+
+==== Wed 11-19
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Wed 11-19|06:00 PM|Miami OH @ Buffalo|
+|Wed 11-19|06:00 PM|C Michigan @ Kent State|
+|===
+
+
+
+<<<
+
+==== Thu 11-20
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Thu 11-20|06:30 PM|Louisiana @ Arkansas St|ESPN
+|===
+
+
+
+<<<
+
+==== Fri 11-21
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Fri 11-21|07:00 PM|Florida St @ NC State|ESPN
+|Fri 11-21|09:30 PM|Hawaii @ UNLV|FS1
+|Fri 11-21||Arkansas @ Texas|
+|Fri 11-21||Tennessee @ Florida|
+|Fri 11-21||Western KY @ LSU|
+|Fri 11-21||Coastal Car @ South Carolina|
+|Fri 11-21||Kentucky @ Vanderbilt|
+|Fri 11-21||Nebraska @ Penn State|
+|Fri 11-21||Minnesota @ Northwestern|
+|Fri 11-21||Washington @ UCLA|
+|Fri 11-21||USC @ Oregon|
+|Fri 11-21||Rutgers @ Ohio State|
+|Fri 11-21||Michigan St @ Iowa|
+|Fri 11-21||Michigan @ Maryland|
+|Fri 11-21||Illinois @ Wisconsin|
+|Fri 11-21||Washington St @ James Madison|
+|Fri 11-21||Duke @ North Carolina|
+|Fri 11-21||California @ Stanford|
+|Fri 11-21||Louisville @ SMU|
+|Fri 11-21||Pitt @ Georgia Tech|
+|Fri 11-21||Miami @ Virginia Tech|
+|Fri 11-21||Baylor @ Arizona|
+|Fri 11-21||Delaware @ Wake Forest|
+|Fri 11-21||Furman @ Clemson|
+|Fri 11-21||BYU @ Cincinnati|
+|Fri 11-21||Oklahoma St @ UCF|
+|Fri 11-21||Arizona St @ Colorado|
+|Fri 11-21||Kansas @ Iowa State|
+|Fri 11-21||Kansas St @ Utah|
+|Fri 11-21||TCU @ Houston|
+|Fri 11-21||UConn @ FAU|
+|Fri 11-21||Missouri St @ Kennesaw St|
+|Fri 11-21||Sam Houston @ MTSU|
+|Fri 11-21||Liberty @ Louisiana Tech|
+|Fri 11-21||Nevada @ Wyoming|
+|Fri 11-21||San Jos St @ San Diego St|
+|Fri 11-21||Colorado St @ Boise St|
+|Fri 11-21||Southern Miss @ South Alabama|
+|Fri 11-21||Old Dominion @ GA Southern|
+|Fri 11-21||Marshall @ App State|
+|Fri 11-21||UL Monroe @ Texas St|
+|Fri 11-21||Georgia St @ Troy|
+|Fri 11-21||South Florida @ UAB|
+|Fri 11-21||Ball State @ Toledo|
+|Fri 11-21||North Texas @ Rice|
+|Fri 11-21||East Carolina @ UTSA|
+|Fri 11-21||Tulane @ Temple|
+|===
+
+
+
+<<<
+
+==== Sat 11-22
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Sat 11-22|11:00 AM|Missouri @ Oklahoma|
+|Sat 11-22|11:00 AM|Tulsa @ Army|CBSSN
+|Sat 11-22|11:00 AM|Samford @ Texas A&M|ESPN+, SECN+
+|Sat 11-22|11:45 AM|Charlotte @ Georgia|SEC Network
+|Sat 11-22|01:00 PM|E Illinois @ Alabama|ESPN+, SECN+
+|Sat 11-22|01:00 PM|Mercer @ Auburn|ESPN+, SECN+
+|Sat 11-22|02:00 PM|New Mexico St @ UTEP|
+|Sat 11-22|02:30 PM|Jax State @ FIU|CBSSN
+|Sat 11-22|02:30 PM|Syracuse @ Notre Dame|NBC, Peacock
+|Sat 11-22|06:00 PM|New Mexico @ Air Force|CBSSN
+|Sat 11-22|09:30 PM|Utah State @ Fresno St|CBSSN
+|===
+
+
+
+<<<
+
+==== Mon 11-24
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Mon 11-24||Bowling Green @ UMass|
+|Mon 11-24||W Michigan @ E Michigan|
+|===
+
+
+
+<<<
+
+==== Thu 11-27
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Thu 11-27|06:30 PM|Navy @ Memphis|ESPN
+|Thu 11-27||Arizona @ Arizona St|FOX
+|Thu 11-27||Army @ UTSA|
+|Thu 11-27||Air Force @ Colorado St|FS1
+|Thu 11-27||Kent State @ N Illinois|
+|Thu 11-27||Ohio @ Buffalo|
+|===
+
+
+
+<<<
+
+==== Fri 11-28
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Fri 11-28|11:00 AM|Iowa @ Nebraska|CBS
+|Fri 11-28|11:00 AM|Utah @ Kansas|
+|Fri 11-28|11:00 AM|Ole Miss @ Mississippi St|
+|Fri 11-28|02:30 PM|Georgia @ Georgia Tech|ABC
+|Fri 11-28|02:30 PM|San Diego St @ New Mexico|CBSSN
+|Fri 11-28|03:00 PM|Boise St @ Utah State|CBS
+|Fri 11-28|06:30 PM|Texas A&M @ Texas|ABC
+|Fri 11-28|06:30 PM|Indiana @ Purdue|NBC, Peacock
+|Fri 11-28||Missouri @ Arkansas|
+|Fri 11-28||Florida St @ Florida|
+|Fri 11-28||Kentucky @ Louisville|
+|Fri 11-28||Vanderbilt @ Tennessee|
+|Fri 11-28||LSU @ Oklahoma|
+|Fri 11-28||Alabama @ Auburn|
+|Fri 11-28||Wisconsin @ Minnesota|
+|Fri 11-28||Oregon @ Washington|
+|Fri 11-28||UCLA @ USC|
+|Fri 11-28||Maryland @ Michigan St|
+|Fri 11-28||Penn State @ Rutgers|
+|Fri 11-28||SMU @ California|
+|Fri 11-28||Wake Forest @ Duke|
+|Fri 11-28||Northwestern @ Illinois|
+|Fri 11-28||Boston College @ Syracuse|
+|Fri 11-28||Miami @ Pitt|
+|Fri 11-28||North Carolina @ NC State|
+|Fri 11-28||Notre Dame @ Stanford|
+|Fri 11-28||Virginia Tech @ Virginia|
+|Fri 11-28||Houston @ Baylor|
+|Fri 11-28||UCF @ BYU|
+|Fri 11-28||Colorado @ Kansas St|
+|Fri 11-28||Iowa State @ Oklahoma St|
+|Fri 11-28||FIU @ Sam Houston|
+|Fri 11-28||Texas Tech @ West Virginia|
+|Fri 11-28||Cincinnati @ TCU|
+|Fri 11-28||Louisiana Tech @ Missouri St|
+|Fri 11-28||Wyoming @ Hawaii|
+|Fri 11-28||Arkansas St @ App State|
+|Fri 11-28||Fresno St @ San Jos St|
+|Fri 11-28||James Madison @ Coastal Car|
+|Fri 11-28||GA Southern @ Marshall|
+|Fri 11-28||Georgia St @ Old Dominion|
+|Fri 11-28||UL Monroe @ Louisiana|
+|Fri 11-28||Troy @ Southern Miss|
+|Fri 11-28||Temple @ North Texas|
+|Fri 11-28||South Alabama @ Texas St|
+|Fri 11-28||UAB @ Tulsa|
+|Fri 11-28||Charlotte @ Tulane|
+|Fri 11-28||Rice @ South Florida|
+|Fri 11-28||East Carolina @ FAU|
+|Fri 11-28||Toledo @ C Michigan|
+|Fri 11-28||Ball State @ Miami OH|
+|===
+
+
+
+<<<
+
+==== Sat 11-29
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Sat 11-29|11:00 AM|Clemson @ South Carolina|
+|Sat 11-29|11:00 AM|Ohio State @ Michigan|FOX
+|Sat 11-29|12:00 PM|UTEP @ Delaware|
+|Sat 11-29|01:00 PM|Western KY @ Jax State|
+|Sat 11-29|02:00 PM|MTSU @ New Mexico St|
+|Sat 11-29|02:30 PM|Kennesaw St @ Liberty|CBSSN
+|Sat 11-29|05:30 PM|Oregon St @ Washington St|The CW Network
+|Sat 11-29|08:00 PM|UNLV @ Nevada|CBSSN
+|===
+
+
+
+<<<
+
+==== Thu 12-04
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Thu 12-04||TBD @ TBD|FOX
+|===
+
+
+
+<<<
+
+==== Fri 12-05
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Fri 12-05|06:00 PM|TBD @ TBD|CBSSN
+|Fri 12-05|06:00 PM|TBD @ TBD|ESPN
+|Fri 12-05|07:00 PM|TBD @ TBD|ABC
+|===
+
+
+
+<<<
+
+==== Sat 12-06
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Sat 12-06|11:00 AM|TBD @ TBD|ESPN
+|Sat 12-06|11:00 AM|TBD @ TBD|ABC
+|Sat 12-06|03:00 PM|TBD @ TBD|ABC
+|Sat 12-06|07:00 PM|TBD @ TBD|FOX
+|Sat 12-06|07:00 PM|TBD @ TBD|ABC
+|===
+
+
+
+<<<
+
+==== Sat 12-13
+
+[%autowidth.stretch]
+|===
+|Date |Time |Game |TV
+
+
+|Sat 12-13|02:00 PM|Army @ Navy|CBS
+|===
+
+
+
+<<<
+

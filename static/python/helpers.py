@@ -410,9 +410,9 @@ base:
     seasons = list(set([g.season for g in SELECTED_GAMES]))
     seasons = sorted(seasons)
 
-    outfile = open(ADOC_PATH+"./out.adoc", "a")
+    buffer = ""
 
-    outfile.write(
+    buffer += (
 """:pdf-theme: %s/theme.yml
 :imgwidth: %fpt
 :pdfwidth: %fpt
@@ -423,7 +423,7 @@ base:
 
     for season in seasons:
         if len(seasons) > 1:
-            outfile.write("== The %s Season")
+            buffer += ("== The %s Season")
         
         games = SELECTED_GAMES.filter(season=season)
 
@@ -434,11 +434,11 @@ base:
 
             if len(seasontypes) > 1:
                 if seasontype==1:
-                    outfile.write("=== Preseason\n")
+                    buffer += ("=== Preseason\n")
                 if seasontype==2:
-                    outfile.write("=== Regular season\n")
+                    buffer += ("=== Regular season\n")
                 if seasontype==3:
-                    outfile.write("=== Postseason\n")
+                    buffer += ("=== Postseason\n")
 
             # list of week numbers or datetime objects
             dates:list
@@ -452,16 +452,16 @@ base:
             dates = sorted(dates)
 
             if not (DAILY_HEADERS or PAGE_BREAKS):
-                outfile.write("[%s]\n"%TABLE_HEADER)
-                outfile.write("|===\n")
-                outfile.write("|Date ")
-                outfile.write("|Time ")
-                outfile.write("|Game ")
+                buffer += ("[%s]\n"%TABLE_HEADER)
+                buffer += ("|===\n")
+                buffer += ("|Date ")
+                buffer += ("|Time ")
+                buffer += ("|Game ")
                 if SHOW_RESULTS:
-                    outfile.write("|Score ")
+                    buffer += ("|Score ")
 
-                outfile.write("|TV")
-                outfile.write("\n\n\n")
+                buffer += ("|TV")
+                buffer += ("\n\n\n")
 
             for date in dates:
                 # if date isn't an int (i.e. week...) then it's an actual date...
@@ -483,21 +483,21 @@ base:
 
                 if DAILY_HEADERS:
                     if league.weekly_games:
-                        outfile.write("==== Week %s\n\n"%(date))
+                        buffer += ("==== Week %s\n\n"%(date))
                     else:
-                        outfile.write("==== %s\n\n"%(timestampToDate(date)))
+                        buffer += ("==== %s\n\n"%(timestampToDate(date)))
 
                 if PAGE_BREAKS or DAILY_HEADERS:
-                    outfile.write("[%s]\n"%TABLE_HEADER)
-                    outfile.write("|===\n")
-                    outfile.write("|Date ")
-                    outfile.write("|Time ")
-                    outfile.write("|Game ")
+                    buffer += ("[%s]\n"%TABLE_HEADER)
+                    buffer += ("|===\n")
+                    buffer += ("|Date ")
+                    buffer += ("|Time ")
+                    buffer += ("|Game ")
                     if SHOW_RESULTS:
-                        outfile.write("|Score ")
+                        buffer += ("|Score ")
 
-                    outfile.write("|TV")
-                    outfile.write("\n\n\n")
+                    buffer += ("|TV")
+                    buffer += ("\n\n\n")
 
                 # list of all teams in the game data, we will thin the herd as we find teams that actually don't have a bye 
                 byeHavers = set(teams.filter(can_have_bye=True))
@@ -574,37 +574,38 @@ base:
                     for name in NAME_SUBS.keys():
                         gameName = gameName.replace(name, NAME_SUBS[name])
 
-                    outfile.write("|%s"%date)
-                    outfile.write("|%s"%time)
-                    outfile.write("|%s"%gameName)
+                    buffer += ("|%s"%date)
+                    buffer += ("|%s"%time)
+                    buffer += ("|%s"%gameName)
                     if SHOW_RESULTS:
-                        outfile.write("|%s"%score)
-                    outfile.write("|%s"%(", ".join(networksList)))
-                    outfile.write("\n")
+                        buffer += ("|%s"%score)
+                    buffer += ("|%s"%(", ".join(networksList)))
+                    buffer += ("\n")
 
                 if DAILY_HEADERS or PAGE_BREAKS:
-                    outfile.write("|===\n\n")
+                    buffer += ("|===\n\n")
                 
                 # print byes
                 if PRINT_BYES and len(byeHavers) != 0:
-                    outfile.write("Byes:")
+                    buffer += ("Byes:")
 
                     for byeHaver in byeHavers:
                         if USE_TEAM_IMAGES:
-                            outfile.write("image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]"%(byeHaver.logo,byeHaver.tricode))
+                            buffer += ("image:%s[%s,width={imgwidth},height={imgwidth}, pdfwidth={pdfwidth}, height={pdfheight}]"%(byeHaver.logo,byeHaver.tricode))
                         else:
-                            outfile.write("%s "%byeHaver.tricode)
+                            buffer += ("%s "%byeHaver.tricode)
 
-                    outfile.write("\n\n")
+                    buffer += ("\n\n")
 
                 if PAGE_BREAKS:
-                    outfile.write("\n\n<<<\n\n")  
+                    buffer += ("\n\n<<<\n\n")  
                             
 
             if not (DAILY_HEADERS or PAGE_BREAKS):
-                outfile.write("|===\n\n")
+                buffer += ("|===\n\n")
 
-
+    outfile = open(ADOC_PATH+"./out.adoc", "a")
+    outfile.write(buffer.encode("ascii", "ignore").decode())
     outfile.close()
 
 
