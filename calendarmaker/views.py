@@ -26,6 +26,10 @@ def index(req:HttpRequest):
     return render(req, 'calendarmaker/index.html')
 
 def ical(req:HttpRequest, sport:str, league:str):
+    teamnames = req.GET.get("names") # options are tricode, location, name, full. default is name
+    if teamnames not in ['tricode', 'location', 'name', 'full']:
+        teamnames = 'name'
+
     print('sport is', sport, 'league is', league)
 
     c = Calendar()
@@ -62,12 +66,20 @@ def ical(req:HttpRequest, sport:str, league:str):
             # get all teams' games, if not specified
             # valid teams for these games
             teams = Team.objects.filter(league=league).all()
-            for game in Game.objects.filter(start__range=(START,END), hometeam__in=teams).all():
+            for game in Game.objects.filter(start__range=(START,END), hometeam__in=teams, timevalid=True).all():
                 gamelist.append(game)
 
     for game in gamelist:
         event = Event()
-        event.add('summary', '%s @ %s'%(game.awayteam.name, game.hometeam.name))
+        if teamnames == "tricode":
+            event.add('summary', '%s @ %s'%(game.awayteam.tricode, game.hometeam.tricode))
+        if teamnames == "location":
+            event.add('summary', '%s @ %s'%(game.awayteam.location, game.hometeam.location))
+        if teamnames == "name":
+            event.add('summary', '%s @ %s'%(game.awayteam.name, game.hometeam.name))
+        if teamnames == "full":
+            event.add('summary', '%s %s @ %s %s'%(game.awayteam.location, game.awayteam.name, game.hometeam.location, game.hometeam.name))
+
         event.add('description', 'Watch on: %s'%(",".join([n.name for n in game.networks.all()])))
         event.add('dtstart', game.start)
         event.add('dtend', game.start + td(hours=3))

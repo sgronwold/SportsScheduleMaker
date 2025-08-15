@@ -4,20 +4,6 @@
 :!pagenums:
 :nofooter:
 
-==== Fri 08-22
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-|Fri 08-22||Idaho St @ UNLV|
-|===
-
-
-
-<<<
-
 ==== Sat 08-23
 
 [%autowidth.stretch]
@@ -26,23 +12,10 @@
 
 
 |Sat 08-23|11:00 AM|Iowa State @ Kansas St|ESPN
+|Sat 08-23|03:00 PM|Idaho St @ UNLV|
 |Sat 08-23|05:30 PM|Fresno St @ Kansas|FOX
 |Sat 08-23|06:00 PM|Sam Houston @ Western KY|CBSSN
 |Sat 08-23|06:30 PM|Stanford @ Hawaii|CBS
-|===
-
-
-
-<<<
-
-==== Wed 08-27
-
-[%autowidth.stretch]
-|===
-|Date |Time |Game |TV
-
-
-|Wed 08-27||Stony Brook @ San Diego St|
 |===
 
 
@@ -72,6 +45,7 @@
 |Thu 08-28|07:30 PM|Alabama St @ UAB|ESPN+
 |Thu 08-28|08:00 PM|Nebraska @ Cincinnati|ESPN
 |Thu 08-28|08:00 PM|Miami OH @ Wisconsin|BTN
+|Thu 08-28|09:00 PM|Stony Brook @ San Diego St|
 |===
 
 
@@ -215,11 +189,9 @@
 |Fri 09-05|06:30 PM|W Illinois @ Northwestern|BTN
 |Fri 09-05|06:30 PM|N Illinois @ Maryland|BTN
 |Fri 09-05|08:00 PM|E Washington @ Boise St|FS1
-|Fri 09-05||Sam Houston @ Hawaii|
 |Fri 09-05||N Colorado @ Colorado St|
 |Fri 09-05||Sacramento St @ Nevada|
 |Fri 09-05||Idaho St @ New Mexico|
-|Fri 09-05||Northern Iowa @ Wyoming|
 |===
 
 
@@ -233,6 +205,8 @@
 |Date |Time |Game |TV
 
 
+|Sat 09-06|11:00 AM|C Michigan @ Pitt|ESPNU
+|Sat 09-06|11:00 AM|Kent State @ Texas Tech|TNT, HBO Max
 |Sat 09-06|11:00 AM|Kennesaw St @ Indiana|FS1
 |Sat 09-06|11:00 AM|San Jos St @ Texas|
 |Sat 09-06|11:00 AM|Illinois @ Duke|
@@ -240,17 +214,15 @@
 |Sat 09-06|11:00 AM|Baylor @ SMU|The CW Network
 |Sat 09-06|11:00 AM|Virginia @ NC State|ESPN2
 |Sat 09-06|11:00 AM|Iowa @ Iowa State|FOX
-|Sat 09-06|11:00 AM|C Michigan @ Pitt|ESPNU
 |Sat 09-06|11:00 AM|N'Western St @ Minnesota|BTN
 |Sat 09-06|11:00 AM|UConn @ Syracuse|ESPN+, ACC Extra
 |Sat 09-06|11:00 AM|E Texas A&M @ Florida St|ACC Network
 |Sat 09-06|11:00 AM|Liberty @ Jax State|CBSSN
-|Sat 09-06|11:00 AM|Kent State @ Texas Tech|TNT, HBO Max
 |Sat 09-06|11:45 AM|Utah State @ Texas A&M|SEC Network
 |Sat 09-06|01:00 PM|Howard @ Temple|ESPN+
 |Sat 09-06|01:00 PM|W Carolina @ Wake Forest|ESPN+, ACC Extra
-|Sat 09-06|02:30 PM|Austin Peay @ Georgia|ESPN+, SECN+
 |Sat 09-06|02:30 PM|Ole Miss @ Kentucky|ABC
+|Sat 09-06|02:30 PM|Austin Peay @ Georgia|ESPN+, SECN+
 |Sat 09-06|02:30 PM|Kansas @ Missouri|ESPN2
 |Sat 09-06|02:30 PM|ETSU @ Tennessee|ESPN+, SECN+
 |Sat 09-06|02:30 PM|Grambling @ Ohio State|BTN
@@ -267,6 +239,7 @@
 |Sat 09-06|02:30 PM|North Texas @ W Michigan|ESPN+
 |Sat 09-06|02:30 PM|St Francis PA @ Buffalo|ESPN+
 |Sat 09-06|02:30 PM|Bryant @ UMass|ESPN+
+|Sat 09-06|03:00 PM|Northern Iowa @ Wyoming|
 |Sat 09-06|03:00 PM|MTSU @ Wisconsin|FS1
 |Sat 09-06|03:00 PM|West Virginia @ Ohio|ESPNU
 |Sat 09-06|03:15 PM|South Florida @ Florida|SEC Network
@@ -307,6 +280,7 @@
 |Sat 09-06|09:15 PM|San Diego St @ Washington St|The CW Network
 |Sat 09-06|09:15 PM|Stanford @ BYU|ESPN
 |Sat 09-06|10:00 PM|UC Davis @ Washington|BTN
+|Sat 09-06|10:59 PM|Sam Houston @ Hawaii|
 |===
 
 
@@ -480,7 +454,6 @@
 |Fri 09-19||Coastal Car @ South Alabama|
 |Fri 09-19||Troy @ Buffalo|
 |Fri 09-19||Toledo @ W Michigan|
-|Fri 09-19||Duquesne @ Akron|ESPN+
 |===
 
 
@@ -504,6 +477,7 @@
 |Sat 09-20|02:30 PM|Purdue @ Notre Dame|NBC, Peacock
 |Sat 09-20|03:15 PM|N Illinois @ Mississippi St|SEC Network
 |Sat 09-20|04:00 PM|Idaho @ San Jos St|
+|Sat 09-20|05:00 PM|Duquesne @ Akron|ESPN+
 |Sat 09-20|05:00 PM|Delaware @ FIU|ESPN+
 |Sat 09-20|05:00 PM|Arkansas St @ Kennesaw St|ESPN+
 |Sat 09-20|06:00 PM|Murray St @ Jax State|ESPN+
@@ -570,7 +544,6 @@
 |Fri 09-26||Utah @ West Virginia|
 |Fri 09-26||UConn @ Buffalo|
 |Fri 09-26||Jax State @ Southern Miss|
-|Fri 09-26||MTSU @ Kennesaw St|
 |Fri 09-26||Liberty @ Old Dominion|
 |Fri 09-26||Western KY @ Missouri St|
 |Fri 09-26||New Mexico St @ New Mexico|
@@ -604,6 +577,7 @@
 |Sat 09-27|11:45 AM|Utah State @ Vanderbilt|SEC Network
 |Sat 09-27|02:30 PM|Rice @ Navy|CBSSN
 |Sat 09-27|02:30 PM|Lindenwood @ Miami OH|ESPN+
+|Sat 09-27|05:00 PM|MTSU @ Kennesaw St|
 |Sat 09-27|05:30 PM|Rhode Island @ W Michigan|ESPN+
 |Sat 09-27|06:30 PM|Alabama @ Georgia|ABC
 |Sat 09-27|06:30 PM|Washington St @ Colorado St|CBSSN
@@ -800,7 +774,7 @@
 |Sat 10-11|11:00 AM|UCLA @ Michigan St|
 |Sat 10-11|11:00 AM|Alabama @ Missouri|
 |Sat 10-11|11:00 AM|Charlotte @ Army|CBSSN
-|Sat 10-11|11:45 AM|Washington St @ Ole Miss|
+|Sat 10-11|11:45 AM|Washington St @ Ole Miss|SEC Network
 |Sat 10-11|02:30 PM|Oklahoma @ Texas|
 |Sat 10-11|02:30 PM|NC State @ Notre Dame|Peacock
 |Sat 10-11|02:30 PM|Wake Forest @ Oregon St|The CW Network
@@ -1063,8 +1037,8 @@
 |Date |Time |Game |TV
 
 
-|Tue 10-28|06:00 PM|UTEP @ Kennesaw St|ESPNU
-|Tue 10-28|06:30 PM|James Madison @ Texas St|ESPN2
+|Tue 10-28|07:00 PM|UTEP @ Kennesaw St|ESPNU
+|Tue 10-28|07:00 PM|James Madison @ Texas St|ESPN2
 |===
 
 
@@ -1497,10 +1471,7 @@
 |Fri 11-21||Kansas St @ Utah|
 |Fri 11-21||TCU @ Houston|
 |Fri 11-21||UConn @ FAU|
-|Fri 11-21||Missouri St @ Kennesaw St|
-|Fri 11-21||Sam Houston @ MTSU|
 |Fri 11-21||Liberty @ Louisiana Tech|
-|Fri 11-21||Nevada @ Wyoming|
 |Fri 11-21||San Jos St @ San Diego St|
 |Fri 11-21||Colorado St @ Boise St|
 |Fri 11-21||Southern Miss @ South Alabama|
@@ -1530,8 +1501,11 @@
 |Sat 11-22|11:00 AM|Tulsa @ Army|CBSSN
 |Sat 11-22|11:00 AM|Samford @ Texas A&M|ESPN+, SECN+
 |Sat 11-22|11:45 AM|Charlotte @ Georgia|SEC Network
+|Sat 11-22|01:00 PM|Missouri St @ Kennesaw St|
+|Sat 11-22|01:00 PM|Nevada @ Wyoming|
 |Sat 11-22|01:00 PM|E Illinois @ Alabama|ESPN+, SECN+
 |Sat 11-22|01:00 PM|Mercer @ Auburn|ESPN+, SECN+
+|Sat 11-22|02:00 PM|Sam Houston @ MTSU|
 |Sat 11-22|02:00 PM|New Mexico St @ UTEP|
 |Sat 11-22|02:30 PM|Jax State @ FIU|CBSSN
 |Sat 11-22|02:30 PM|Syracuse @ Notre Dame|NBC, Peacock
@@ -1615,7 +1589,6 @@
 |Fri 11-28||UCF @ BYU|
 |Fri 11-28||Colorado @ Kansas St|
 |Fri 11-28||Iowa State @ Oklahoma St|
-|Fri 11-28||FIU @ Sam Houston|
 |Fri 11-28||Texas Tech @ West Virginia|
 |Fri 11-28||Cincinnati @ TCU|
 |Fri 11-28||Louisiana Tech @ Missouri St|
@@ -1650,6 +1623,7 @@
 
 |Sat 11-29|11:00 AM|Clemson @ South Carolina|
 |Sat 11-29|11:00 AM|Ohio State @ Michigan|FOX
+|Sat 11-29|12:00 PM|FIU @ Sam Houston|
 |Sat 11-29|12:00 PM|UTEP @ Delaware|
 |Sat 11-29|01:00 PM|Western KY @ Jax State|
 |Sat 11-29|02:00 PM|MTSU @ New Mexico St|
