@@ -1,0 +1,9 @@
+= A crash course on making a calendar.
+There are several things you can append to this url:
+
+example url:
+link:./baseball/mlb?teams=chc,chw[Cubs' and white sox' icals]
+
+
+the sport is: {{ sport }}
+the league is: {{ league }}

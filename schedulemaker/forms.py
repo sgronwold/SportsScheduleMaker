@@ -19,10 +19,13 @@ class ScheduleMakingForm(forms.Form):
         label='get data from espn instead of cache?',
         required=False
     )
-    season = forms.CharField(label="if you're getting espn data and you don't want the current season, " \
-    "specify which season you want here", required=False)
 
-    seasontype = forms.IntegerField(label="preseason, regseason, postseason, offseason", required=False)
+    seasontypes = forms.MultipleChoiceField(label="preseason, regseason, postseason", required=True,
+                                    choices=(
+                                        (1, 'Preseason'),
+                                        (2, 'Regular season'),
+                                        (3, 'Playoffs')
+                                    ), initial=[2], widget=forms.CheckboxSelectMultiple)
 
     allTeams = forms.BooleanField(
         label='all teams\' schedule?', initial=False, required=False)
@@ -138,6 +141,11 @@ class ScheduleMakingForm(forms.Form):
     fontsize = forms.FloatField(
         label="Size of the reg. text (pt)",
         initial=16 
+    )
+
+    showResults = forms.BooleanField(
+        label="Do you want to show the scores",
+        required=False,
     )
 
     generateSchedule = forms.BooleanField(
