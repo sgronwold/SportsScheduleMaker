@@ -66,7 +66,7 @@ def ical(req:HttpRequest, sport:str, league:str):
             # get all teams' games, if not specified
             # valid teams for these games
             teams = Team.objects.filter(league=league).all()
-            for game in Game.objects.filter(start__range=(START,END), hometeam__in=teams, timevalid=True).all():
+            for game in Game.objects.filter(start__range=(START,END), hometeam__in=teams).all():
                 gamelist.append(game)
 
     for game in gamelist:
