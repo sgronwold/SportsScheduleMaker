@@ -1,6 +1,6 @@
 from threading import Thread, Semaphore, Lock
 import json
-import httpx as requests
+import requests
 from datetime import datetime as dt, timedelta as td
 import zulu
 from pytz import timezone as tz
@@ -9,6 +9,7 @@ import uuid
 from django.utils import timezone
 import os
 import pytz
+from time import sleep
 
 # this lets us use logic when we query the models
 from django.db.models import Q
@@ -168,7 +169,13 @@ def loadScheduleByDateRange(league:League, start:dt, end:dt):
         endwithinayear = min(start+td(days=365), end)
 
         url = ("http://site.api.espn.com/apis/site/v2/sports/%s/%s/scoreboard?dates=%s-%s&limit=%d"%(sport,leaguename,dt.strftime(start, "%Y%m%d"), dt.strftime(endwithinayear, "%Y%m%d"), LIMIT))
-        response = requests.get(url).json()
+        
+        while True:
+            try:
+                response = requests.get(url).json()
+                break
+            except:
+                sleep(10)
         saveGames(league, response)
 
         if len(response['events']) == LIMIT:
@@ -219,8 +226,12 @@ def saveGame(league:League, game:dict):
     if "week" in game.keys():
         week = game["week"]["number"]
 
-    homeTeam = getOrCreateTeamFromESPNDict(league, game["competitions"][0]["competitors"][0]["team"])
-    awayTeam = getOrCreateTeamFromESPNDict(league, game["competitions"][0]["competitors"][1]["team"])
+    # something is going wrong here better to just call a mulligan and try again
+    try:
+        homeTeam = getOrCreateTeamFromESPNDict(league, game["competitions"][0]["competitors"][0]["team"])
+        awayTeam = getOrCreateTeamFromESPNDict(league, game["competitions"][0]["competitors"][1]["team"])
+    except Exception as e:
+        return
 
     theTime = dt.fromisoformat(game["date"])
 

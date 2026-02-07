@@ -100,11 +100,14 @@ def update_db(league:League, START:dt, END:dt):
     if league not in nextUpdate.keys():
         nextUpdate[league] = Lock()
     if nextUpdate[league].acquire(timeout=0):
+        print(dt.now(), 'Acquiring lock for',league.league)
         helpers.loadScheduleByDateRange(league, START, END)
 
         # release the lock after a minute i.e. 60 seconds
-        Thread(target=release_lock_after_delay, args=(nextUpdate[league], 60))
+        print(dt.now(), 'Releasing lock for',league.league)
+        Thread(target=release_lock_after_delay, args=(nextUpdate[league], 600)).start()
 
 def release_lock_after_delay(lock:Lock, delay_sec:int):
     sleep(delay_sec)
     lock.release()
+    print(dt.now(), 'Lock', lock, 'released.')
