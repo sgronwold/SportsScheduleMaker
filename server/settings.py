@@ -31,9 +31,9 @@ for i in range(128):
     SECRET_KEY += uuid.uuid4().__str__()
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ["schedule.sgronwold.xyz", "127.0.0.1"]
+ALLOWED_HOSTS = ["schedule.sgronwold.xyz", "127.0.0.1", "local.sgronwold.xyz"]
 
 
 # Application definition
