@@ -1,5 +1,7 @@
 = Time to make the Schedule...
 
++++{% csrf_token %}+++
+
 link:../loadpreset[Load your preset here]
 
 You're logged in as {{ user.username }}. link:./logout[Log out]
