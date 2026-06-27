@@ -4,9 +4,9 @@ page:
     size: [8.500000in,11.000000in]
     margin: [0.500000in,0.500000in]
 heading:
-    h2-font-size: 0.000000pt
-    h3-font-size: 0.000000pt
-    h4-font-size: 0.000000pt
+    h2-font-size: 16.000000pt
+    h3-font-size: 16.000000pt
+    h4-font-size: 16.000000pt
 base:
-    font-size: 22.000000pt
+    font-size: 20.000000pt
 
